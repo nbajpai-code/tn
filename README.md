@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2025-12-03 00:50:00 UTC
+Automated tech news updates. Last updated: 2025-12-03 01:21:23 UTC
 
 ## Software Architecture
 
@@ -43,6 +43,16 @@ Automated tech news updates. Last updated: 2025-12-03 00:50:00 UTC
 
 ## Databases/Storage
 
+- [Robins Tharakan: Speed up JOIN Planning - upto 16x Faster!](https://postgr.es/p/7mU) - *Planet PostgreSQL* (2025-12-02)
+- [Tata Neu delivers personalized shopping experiences for millions of users with Azure DocumentDB](https://devblogs.microsoft.com/cosmosdb/tata-neu-delivers-personalized-shopping-experiences-for-millions-of-users-with-azure-documentdb/) - *Azure Cosmos DB Blog* (2025-12-02)
+- [Boriss Mejias: Contributions for week 49, 2025](https://postgr.es/p/7mT) - *Planet PostgreSQL* (2025-12-02)
+- [Laurenz Albe: What is better: a lookup table or an enum type?](https://postgr.es/p/7mS) - *Planet PostgreSQL* (2025-12-02)
+- [Gabriele Bartolini: CNPG Recipe 23 - Managing extensions with ImageVolume in CloudNativePG](https://postgr.es/p/7mQ) - *Planet PostgreSQL* (2025-12-01)
+- [Tom Kincaid: Part 3: Postgres Journey to the top with developers](https://postgr.es/p/7mR) - *Planet PostgreSQL* (2025-12-01)
+- [Netflix consolidates relational database infrastructure on Amazon Aurora, achieving up to 75% improved performance](https://aws.amazon.com/blogs/database/netflix-consolidates-relational-database-infrastructure-on-amazon-aurora-achieving-up-to-75-improved-performance/) - *AWS Database Blog* (2025-11-27)
+- [How Letta builds production-ready AI agents with Amazon Aurora PostgreSQL](https://aws.amazon.com/blogs/database/how-letta-builds-production-ready-ai-agents-with-amazon-aurora-postgresql/) - *AWS Database Blog* (2025-11-26)
+- [Lower cost and latency for AI using Amazon ElastiCache as a semantic cache with Amazon Bedrock](https://aws.amazon.com/blogs/database/lower-cost-and-latency-for-ai-using-amazon-elasticache-as-a-semantic-cache-with-amazon-bedrock/) - *AWS Database Blog* (2025-11-26)
+- [Build persistent memory for agentic AI applications with Mem0 Open Source, Amazon ElastiCache for Valkey, and Amazon Neptune Analytics](https://aws.amazon.com/blogs/database/build-persistent-memory-for-agentic-ai-applications-with-mem0-open-source-amazon-elasticache-for-valkey-and-amazon-neptune-analytics/) - *AWS Database Blog* (2025-11-26)
 
 ## Networking
 

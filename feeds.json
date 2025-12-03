@@ -20,7 +20,11 @@
     ],
     "Databases/Storage": [
         "https://db-engines.com/en/blog_rss.xml",
-        "http://highscalability.com/rss.xml"
+        "http://highscalability.com/rss.xml",
+        "https://planet.postgresql.org/rss20.xml",
+        "https://www.mongodb.com/blog/rss",
+        "https://devblogs.microsoft.com/cosmosdb/feed/",
+        "https://aws.amazon.com/blogs/database/feed/"
     ],
     "Networking": [
         "https://www.networkworld.com/feed/"
