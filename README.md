@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2025-12-03 01:23:02 UTC
+Automated tech news updates. Last updated: 2025-12-03 08:30:45 UTC
 
 ## Software Architecture
 
@@ -34,7 +34,7 @@ Automated tech news updates. Last updated: 2025-12-03 01:23:02 UTC
 - [Researchers Capture Lazarus APT's Remote-Worker Scheme Live on Camera](https://thehackernews.com/2025/12/researchers-capture-lazarus-apts-remote.html) - *The Hacker News* (2025-12-02)
 - [GlassWorm Returns with 24 Malicious Extensions Impersonating Popular Developer Tools](https://thehackernews.com/2025/12/glassworm-returns-with-24-malicious.html) - *The Hacker News* (2025-12-02)
 - [Malicious npm Package Uses Hidden Prompt and Script to Evade AI Security Tools](https://thehackernews.com/2025/12/malicious-npm-package-uses-hidden.html) - *The Hacker News* (2025-12-02)
-- [Iran-Linked Hackers Hits Israeli Sectors with New MuddyViper Backdoor in Targeted Attacks](https://thehackernews.com/2025/12/iran-linked-hackers-hits-israeli_2.html) - *The Hacker News* (2025-12-02)
+- [Iran-Linked Hackers Hit Israeli Sectors with New MuddyViper Backdoor in Targeted Attacks](https://thehackernews.com/2025/12/iran-linked-hackers-hits-israeli_2.html) - *The Hacker News* (2025-12-02)
 - [Like Social Media, AI Requires Difficult Choices](https://www.schneier.com/blog/archives/2025/12/like-social-media-ai-requires-difficult-choices.html) - *Schneier on Security* (2025-12-02)
 - [Banning VPNs](https://www.schneier.com/blog/archives/2025/12/banning-vpns.html) - *Schneier on Security* (2025-12-01)
 - [Friday Squid Blogging: Flying Neon Squid Found on Israeli Beach](https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-flying-neon-squid-found-on-israeli-beach.html) - *Schneier on Security* (2025-11-28)
