@@ -28,5 +28,19 @@
     "Computing": [
         "https://feeds.arstechnica.com/arstechnica/index",
         "https://www.wired.com/feed/category/tech/latest/rss"
+    ],
+    "AI/Models/RL": [
+        "https://openai.com/blog/rss.xml",
+        "https://research.google/blog/rss",
+        "https://deepmind.google/blog/rss.xml",
+        "https://huggingface.co/blog/feed.xml",
+        "https://thegradient.pub/rss/"
+    ],
+    "AI Infra": [
+        "https://www.anyscale.com/blog/rss.xml",
+        "https://pytorch.org/feed.xml",
+        "https://ai.meta.com/blog/rss.xml",
+        "https://aws.amazon.com/blogs/machine-learning/feed/",
+        "https://cloud.google.com/blog/products/ai-machine-learning/rss"
     ]
 }
