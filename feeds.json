@@ -1,0 +1,32 @@
+{
+    "Software Architecture": [
+        "https://feed.infoq.com/architecture/",
+        "https://dzone.com/services/widget/article-list/list/rss?portal=architecture"
+    ],
+    "Cloud Computing": [
+        "https://aws.amazon.com/blogs/architecture/feed/",
+        "https://azurecomcdn.azureedge.net/en-us/blog/feed/",
+        "https://cloud.google.com/blog/rss",
+        "https://techcrunch.com/category/cloud/feed/"
+    ],
+    "Kubernetes": [
+        "https://kubernetes.io/feed.xml",
+        "https://www.cncf.io/blog/feed/"
+    ],
+    "Security": [
+        "https://feeds.feedburner.com/TheHackersNews",
+        "https://krebsonsecurity.com/feed/",
+        "https://www.schneier.com/blog/atom.xml"
+    ],
+    "Databases/Storage": [
+        "https://db-engines.com/en/blog_rss.xml",
+        "http://highscalability.com/rss.xml"
+    ],
+    "Networking": [
+        "https://www.networkworld.com/feed/"
+    ],
+    "Computing": [
+        "https://feeds.arstechnica.com/arstechnica/index",
+        "https://www.wired.com/feed/category/tech/latest/rss"
+    ]
+}
