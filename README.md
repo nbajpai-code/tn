@@ -1,9 +1,10 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2025-12-03 08:30:45 UTC
+Automated tech news updates. Last updated: 2025-12-04 08:31:02 UTC
 
 ## Software Architecture
 
+- [Podcast: GenAI Security: Defending Against Deepfakes and Automated Social Engineering](https://www.infoq.com/podcasts/defending-against-deepfakes-automated-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2025-12-03)
 - [Podcast: Looking for Root Causes is a False Path: A Conversation with David Blank-Edelman](https://www.infoq.com/podcasts/looking-root-causes-false-path/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2025-12-01)
 - [Article: Micro-Frontends: a Sociotechnical Journey toward a Modern Frontend Architecture](https://www.infoq.com/articles/adopt-micro-frontends/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2025-11-24)
 
@@ -17,24 +18,24 @@ Automated tech news updates. Last updated: 2025-12-03 08:30:45 UTC
 
 ## Kubernetes
 
+- [Celebrating 100 Jobs on GitJobs!](https://www.cncf.io/blog/2025/12/03/celebrating-100-jobs-on-gitjobs/) - *Blog – Cloud Native Computing Foundation* (2025-12-03)
 - [A guide to restarting pods in Kubernetes using kubectl](https://www.cncf.io/blog/2025/12/01/a-guide-to-restarting-pods-in-kubernetes-using-kubectl/) - *Blog – Cloud Native Computing Foundation* (2025-12-01)
 - [runc container breakout  vulnerabilities: A technical overview](https://www.cncf.io/blog/2025/11/28/runc-container-breakout-vulnerabilities-a-technical-overview/) - *Blog – Cloud Native Computing Foundation* (2025-11-28)
 - [From chaos to clarity: How OpenTelemetry unified observability across clouds](https://www.cncf.io/blog/2025/11/27/from-chaos-to-clarity-how-opentelemetry-unified-observability-across-clouds/) - *Blog – Cloud Native Computing Foundation* (2025-11-27)
 - [Announcing Kyverno release 1.16](https://www.cncf.io/blog/2025/11/26/announcing-kyverno-release-1-16/) - *Blog – Cloud Native Computing Foundation* (2025-11-26)
 - [Kubernetes v1.35 Sneak Peek](https://kubernetes.io/blog/2025/11/26/kubernetes-v1-35-sneak-peek/) - *Kubernetes Blog* (2025-11-26)
 - [Kubernetes Configuration Good Practices](https://kubernetes.io/blog/2025/11/25/configuration-good-practices/) - *Kubernetes Blog* (2025-11-25)
-- [An architectural decision: Containers on bare metal or on virtual machines](https://www.cncf.io/blog/2025/11/20/an-architectural-decision-containers-on-bare-metal-or-on-virtual-machines/) - *Blog – Cloud Native Computing Foundation* (2025-11-20)
 - [Ingress NGINX Retirement: What You Need to Know](https://kubernetes.io/blog/2025/11/11/ingress-nginx-retirement/) - *Kubernetes Blog* (2025-11-11)
 - [Announcing the 2025 Steering Committee Election Results](https://kubernetes.io/blog/2025/11/09/steering-committee-results-2025/) - *Kubernetes Blog* (2025-11-09)
 - [Gateway API 1.4: New Features](https://kubernetes.io/blog/2025/11/06/gateway-api-v1-4/) - *Kubernetes Blog* (2025-11-06)
 
 ## Security
 
-- [India Orders Messaging Apps to Work Only With Active SIM Cards to Prevent Fraud and Misuse](https://thehackernews.com/2025/12/india-orders-messaging-apps-to-work.html) - *The Hacker News* (2025-12-02)
-- [Researchers Capture Lazarus APT's Remote-Worker Scheme Live on Camera](https://thehackernews.com/2025/12/researchers-capture-lazarus-apts-remote.html) - *The Hacker News* (2025-12-02)
-- [GlassWorm Returns with 24 Malicious Extensions Impersonating Popular Developer Tools](https://thehackernews.com/2025/12/glassworm-returns-with-24-malicious.html) - *The Hacker News* (2025-12-02)
-- [Malicious npm Package Uses Hidden Prompt and Script to Evade AI Security Tools](https://thehackernews.com/2025/12/malicious-npm-package-uses-hidden.html) - *The Hacker News* (2025-12-02)
-- [Iran-Linked Hackers Hit Israeli Sectors with New MuddyViper Backdoor in Targeted Attacks](https://thehackernews.com/2025/12/iran-linked-hackers-hits-israeli_2.html) - *The Hacker News* (2025-12-02)
+- [Record 29.7 Tbps DDoS Attack Linked to AISURU Botnet with up to 4 Million Infected Hosts](https://thehackernews.com/2025/12/record-297-tbps-ddos-attack-linked-to.html) - *The Hacker News* (2025-12-04)
+- [Critical RSC Bugs in React and Next.js Allow Unauthenticated Remote Code Execution](https://thehackernews.com/2025/12/critical-rsc-bugs-in-react-and-nextjs.html) - *The Hacker News* (2025-12-03)
+- [Discover the AI Tools Fueling the Next Cybercrime Wave — Watch the Webinar](https://thehackernews.com/2025/12/discover-ai-tools-fueling-next.html) - *The Hacker News* (2025-12-03)
+- [Microsoft Silently Patches Windows LNK Flaw After Years of Active Exploitation](https://thehackernews.com/2025/12/microsoft-silently-patches-windows-lnk.html) - *The Hacker News* (2025-12-03)
+- [WordPress King Addons Flaw Under Active Attack Lets Hackers Make Admin Accounts](https://thehackernews.com/2025/12/wordpress-king-addons-flaw-under-active.html) - *The Hacker News* (2025-12-03)
 - [Like Social Media, AI Requires Difficult Choices](https://www.schneier.com/blog/archives/2025/12/like-social-media-ai-requires-difficult-choices.html) - *Schneier on Security* (2025-12-02)
 - [Banning VPNs](https://www.schneier.com/blog/archives/2025/12/banning-vpns.html) - *Schneier on Security* (2025-12-01)
 - [Friday Squid Blogging: Flying Neon Squid Found on Israeli Beach](https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-flying-neon-squid-found-on-israeli-beach.html) - *Schneier on Security* (2025-11-28)
@@ -43,12 +44,12 @@ Automated tech news updates. Last updated: 2025-12-03 08:30:45 UTC
 
 ## Databases/Storage
 
+- [Ahsan Hadi: Introducing Snowflake Sequences in a Postgres Extension-2](https://postgr.es/p/7n6) - *Planet PostgreSQL* (2025-12-03)
 - [Robins Tharakan: Speed up JOIN Planning - upto 16x Faster!](https://postgr.es/p/7mU) - *Planet PostgreSQL* (2025-12-02)
 - [Tata Neu delivers personalized shopping experiences for millions of users with Azure DocumentDB](https://devblogs.microsoft.com/cosmosdb/tata-neu-delivers-personalized-shopping-experiences-for-millions-of-users-with-azure-documentdb/) - *Azure Cosmos DB Blog* (2025-12-02)
 - [Boriss Mejias: Contributions for week 49, 2025](https://postgr.es/p/7mT) - *Planet PostgreSQL* (2025-12-02)
 - [Laurenz Albe: What is better: a lookup table or an enum type?](https://postgr.es/p/7mS) - *Planet PostgreSQL* (2025-12-02)
 - [Gabriele Bartolini: CNPG Recipe 23 - Managing extensions with ImageVolume in CloudNativePG](https://postgr.es/p/7mQ) - *Planet PostgreSQL* (2025-12-01)
-- [Tom Kincaid: Part 3: Postgres Journey to the top with developers](https://postgr.es/p/7mR) - *Planet PostgreSQL* (2025-12-01)
 - [Netflix consolidates relational database infrastructure on Amazon Aurora, achieving up to 75% improved performance](https://aws.amazon.com/blogs/database/netflix-consolidates-relational-database-infrastructure-on-amazon-aurora-achieving-up-to-75-improved-performance/) - *AWS Database Blog* (2025-11-27)
 - [How Letta builds production-ready AI agents with Amazon Aurora PostgreSQL](https://aws.amazon.com/blogs/database/how-letta-builds-production-ready-ai-agents-with-amazon-aurora-postgresql/) - *AWS Database Blog* (2025-11-26)
 - [Lower cost and latency for AI using Amazon ElastiCache as a semantic cache with Amazon Bedrock](https://aws.amazon.com/blogs/database/lower-cost-and-latency-for-ai-using-amazon-elasticache-as-a-semantic-cache-with-amazon-bedrock/) - *AWS Database Blog* (2025-11-26)
@@ -56,32 +57,32 @@ Automated tech news updates. Last updated: 2025-12-03 08:30:45 UTC
 
 ## Networking
 
-- [LogicMonitor closes Catchpoint buy, targets AI observability](https://www.networkworld.com/article/4099648/logicmonitor-closes-catchpoint-buy-targets-ai-observability.html) - *LogicMonitor closes Catchpoint buy, targets AI observability | Network World* (2025-12-02)
-- [What is co-packaged optics? A solution for surging capacity in AI data center networks](https://www.networkworld.com/article/4098942/what-is-co-packaged-optics-a-solution-for-surging-capacity-in-ai-data-center-networks.html) - *LogicMonitor closes Catchpoint buy, targets AI observability | Network World* (2025-12-02)
-- [Winners and losers in the latest Top500 supercomputer list](https://www.networkworld.com/article/4099530/winners-and-losers-in-the-latest-top500-supercomputer-list.html) - *LogicMonitor closes Catchpoint buy, targets AI observability | Network World* (2025-12-02)
-- [Nvidia’s $2B Synopsys stake tests independence of open AI interconnect standard](https://www.networkworld.com/article/4099517/nvidias-2b-synopsys-stake-tests-independence-of-open-ai-interconnect-standard.html) - *LogicMonitor closes Catchpoint buy, targets AI observability | Network World* (2025-12-02)
-- [Akamai acquires Fermyon for edge computing as WebAssembly comes of age](https://www.networkworld.com/article/4099424/akamai-acquires-fermyon-for-edge-computing-as-webassembly-comes-of-age.html) - *LogicMonitor closes Catchpoint buy, targets AI observability | Network World* (2025-12-02)
+- [HPE loads up AI networking portfolio, strengthens Nvidia, AMD partnerships](https://www.networkworld.com/article/4099698/hpe-loads-up-ai-networking-portfolio-strengthens-nvidia-amd-partnerships.html) - *HPE loads up AI networking portfolio, strengthens Nvidia, AMD partnerships | Network World* (2025-12-03)
+- [Nvidia: Latest news and insights](https://www.networkworld.com/article/3562856/nvidia-latest-news-and-insights.html) - *HPE loads up AI networking portfolio, strengthens Nvidia, AMD partnerships | Network World* (2025-12-03)
+- [LogicMonitor closes Catchpoint buy, targets AI observability](https://www.networkworld.com/article/4099648/logicmonitor-closes-catchpoint-buy-targets-ai-observability.html) - *HPE loads up AI networking portfolio, strengthens Nvidia, AMD partnerships | Network World* (2025-12-02)
+- [What is co-packaged optics? A solution for surging capacity in AI data center networks](https://www.networkworld.com/article/4098942/what-is-co-packaged-optics-a-solution-for-surging-capacity-in-ai-data-center-networks.html) - *HPE loads up AI networking portfolio, strengthens Nvidia, AMD partnerships | Network World* (2025-12-02)
+- [Winners and losers in the latest Top500 supercomputer list](https://www.networkworld.com/article/4099530/winners-and-losers-in-the-latest-top500-supercomputer-list.html) - *HPE loads up AI networking portfolio, strengthens Nvidia, AMD partnerships | Network World* (2025-12-02)
 
 ## Computing
 
-- [More FDA drama: Top drug regulator calls it quits after 3 weeks](https://arstechnica.com/health/2025/12/more-fda-drama-top-drug-regulator-calls-it-quits-after-3-weeks/) - *Ars Technica - All content* (2025-12-02)
-- [This Chinese company could become the country’s first to land a reusable rocket](https://arstechnica.com/space/2025/12/this-chinese-company-could-become-the-countrys-first-to-land-a-reusable-rocket/) - *Ars Technica - All content* (2025-12-02)
-- [OpenAI CEO declares “code red” as Gemini gains 200 million users in 3 months](https://arstechnica.com/ai/2025/12/openai-ceo-declares-code-red-as-gemini-gains-200-million-users-in-3-months/) - *Ars Technica - All content* (2025-12-02)
-- [Mad Men’s 4K debut botched by HBO Max streaming episode with visible crewmembers](https://arstechnica.com/gadgets/2025/12/mad-mens-4k-debut-botched-by-hbo-max-streaming-episode-with-visible-crewmembers/) - *Ars Technica - All content* (2025-12-02)
-- [India orders device makers to put government-run security app on all phones](https://arstechnica.com/tech-policy/2025/12/apple-will-refuse-to-preload-state-run-snooping-app-on-iphones-report-says/) - *Ars Technica - All content* (2025-12-02)
+- [12 former FDA chiefs unite to say agency memo on vaccines is deeply stupid](https://arstechnica.com/health/2025/12/12-former-fda-chiefs-unite-to-say-agency-memo-on-vaccines-is-deeply-stupid/) - *Ars Technica - All content* (2025-12-04)
+- [Admins and defenders gird themselves against maximum-severity server vuln](https://arstechnica.com/security/2025/12/admins-and-defenders-gird-themselves-against-maximum-severity-server-vulnerability/) - *Ars Technica - All content* (2025-12-03)
+- [Great handling, advanced EV tech: We drive the 2027 BMW iX3](https://arstechnica.com/cars/2025/12/great-handling-advanced-ev-tech-we-drive-the-2026-bmw-ix3/) - *Ars Technica - All content* (2025-12-03)
+- [Republicans drop Trump-ordered block on state AI laws from defense bill](https://arstechnica.com/tech-policy/2025/12/republicans-once-again-thwart-trumps-push-to-block-state-ai-laws/) - *Ars Technica - All content* (2025-12-03)
+- [Humans in southern Africa were an isolated population until recently](https://arstechnica.com/science/2025/12/ancient-genomes-from-southern-africa-reveal-distinct-human-lineage/) - *Ars Technica - All content* (2025-12-03)
 
 ## AI/Models/RL
 
+- [From Waveforms to Wisdom: The New Benchmark for Auditory Intelligence](https://research.google/blog/from-waveforms-to-wisdom-the-new-benchmark-for-auditory-intelligence/) - *The latest research from Google* (2025-12-03)
+- [How confessions can keep language models honest](https://openai.com/index/how-confessions-can-keep-language-models-honest) - *OpenAI News* (2025-12-03)
+- [OpenAI to acquire Neptune](https://openai.com/index/openai-to-acquire-neptune) - *OpenAI News* (2025-12-03)
+- [Announcing the initial People-First AI Fund grantees](https://openai.com/index/people-first-ai-fund-grantees) - *OpenAI News* (2025-12-03)
+- [Custom Policy Enforcement with Reasoning: Faster, Safer AI Applications](https://huggingface.co/blog/nvidia/custom-policy-reasoning-nemotron-content-safety) - *Hugging Face - Blog* (2025-12-02)
 - [Inside Mirakl's agentic commerce vision](https://openai.com/index/mirakl) - *OpenAI News* (2025-12-01)
 - [Funding grants for new research into AI and mental health](https://openai.com/index/ai-mental-health-research-grants) - *OpenAI News* (2025-12-01)
-- [OpenAI and NORAD team up to bring new magic to “NORAD Tracks Santa”](https://openai.com/index/norad-holiday-collaboration) - *OpenAI News* (2025-12-01)
-- [OpenAI takes an ownership stake in Thrive Holdings to accelerate enterprise AI adoption](https://openai.com/index/thrive-holdings) - *OpenAI News* (2025-12-01)
-- [Accenture and OpenAI accelerate enterprise AI success](https://openai.com/index/accenture-partnership) - *OpenAI News* (2025-12-01)
+- [SARLO-80: Worldwide Slant SAR Language Optic Dataset at 80 cm Resolution](https://huggingface.co/blog/hugging-science/sarlo-80-sar-optic-language-dataset) - *Hugging Face - Blog* (2025-12-01)
 - [Transformers v5: Simple model definitions powering the AI ecosystem](https://huggingface.co/blog/transformers-v5) - *Hugging Face - Blog* (2025-12-01)
 - [AlphaFold: Five years of impact](https://deepmind.google/blog/alphafold-five-years-of-impact/) - *Google DeepMind News* (2025-11-25)
-- [Revealing a key protein behind heart disease](https://deepmind.google/blog/revealing-a-key-protein-behind-heart-disease/) - *Google DeepMind News* (2025-11-25)
-- [Diffusers welcomes FLUX-2](https://huggingface.co/blog/flux-2) - *Hugging Face - Blog* (2025-11-25)
-- [Continuous batching from first principles](https://huggingface.co/blog/continuous_batching) - *Hugging Face - Blog* (2025-11-25)
 
 ## AI Infra
 
