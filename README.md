@@ -1,14 +1,14 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2025-12-05 08:29:41 UTC
+Automated tech news updates. Last updated: 2025-12-06 08:26:46 UTC
 
 ## Software Architecture
 
+- [From On-Demand to Live : Netflix Streaming to 100 Million Devices in Under 1 Minute](https://www.infoq.com/news/2025/12/netflix-live-streaming-pipeline/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2025-12-05)
 - [Article: Scaling Cloud and Distributed Applications: Lessons and Strategies](https://www.infoq.com/articles/scaling-cloud-distributed-applications/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2025-12-04)
 - [Presentation: WASM in the Enterprise: Secure, Portable, and Ready for Business](https://www.infoq.com/presentations/wasm-enterprise/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2025-12-03)
 - [Podcast: GenAI Security: Defending Against Deepfakes and Automated Social Engineering](https://www.infoq.com/podcasts/defending-against-deepfakes-automated-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2025-12-03)
 - [Podcast: Looking for Root Causes is a False Path: A Conversation with David Blank-Edelman](https://www.infoq.com/podcasts/looking-root-causes-false-path/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2025-12-01)
-- [Article: Micro-Frontends: a Sociotechnical Journey toward a Modern Frontend Architecture](https://www.infoq.com/articles/adopt-micro-frontends/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2025-11-24)
 
 ## Cloud Computing
 
@@ -33,24 +33,24 @@ Automated tech news updates. Last updated: 2025-12-05 08:29:41 UTC
 
 ## Security
 
+- [Friday Squid Blogging: Vampire Squid Genome](https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-vampire-squid-genome.html) - *Schneier on Security* (2025-12-05)
+- [Zero-Click Agentic Browser Attack Can Delete Entire Google Drive Using Crafted Emails](https://thehackernews.com/2025/12/zero-click-agentic-browser-attack-can.html) - *The Hacker News* (2025-12-05)
+- [Critical XXE Bug CVE-2025-66516 (CVSS 10.0) Hits Apache Tika, Requires Urgent Patch](https://thehackernews.com/2025/12/critical-xxe-bug-cve-2025-66516-cvss.html) - *The Hacker News* (2025-12-05)
+- [Chinese Hackers Have Started Exploiting the Newly Disclosed React2Shell Vulnerability](https://thehackernews.com/2025/12/chinese-hackers-have-started-exploiting.html) - *The Hacker News* (2025-12-05)
+- [Intellexa Leaks Reveal Zero-Days and Ads-Based Vector for Predator Spyware Delivery](https://thehackernews.com/2025/12/intellexa-leaks-reveal-zero-days-and.html) - *The Hacker News* (2025-12-05)
+- ["Getting to Yes": An Anti-Sales Guide for MSPs](https://thehackernews.com/2025/12/getting-to-yes-anti-sales-guide-for-msps.html) - *The Hacker News* (2025-12-05)
 - [New Anonymous Phone Service](https://www.schneier.com/blog/archives/2025/12/new-anonymous-phone-service.html) - *Schneier on Security* (2025-12-05)
-- [JPCERT Confirms Active Command Injection Attacks on Array AG Gateways](https://thehackernews.com/2025/12/jpcert-confirms-active-command.html) - *The Hacker News* (2025-12-05)
 - [SMS Phishers Pivot to Points, Taxes, Fake Retailers](https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/) - *Krebs on Security* (2025-12-04)
-- [Silver Fox Uses Fake Microsoft Teams Installer to Spread ValleyRAT Malware in China](https://thehackernews.com/2025/12/silver-fox-uses-fake-microsoft-teams.html) - *The Hacker News* (2025-12-04)
-- [ThreatsDay Bulletin: Wi-Fi Hack, npm Worm, DeFi Theft, Phishing Blasts— and 15 More Stories](https://thehackernews.com/2025/12/threatsday-bulletin-wi-fi-hack-npm-worm.html) - *The Hacker News* (2025-12-04)
-- [5 Threats That Reshaped Web Security This Year [2025]](https://thehackernews.com/2025/12/5-threats-that-reshaped-web-security.html) - *The Hacker News* (2025-12-04)
-- [GoldFactory Hits Southeast Asia with Modified Banking Apps Driving 11,000+ Infections](https://thehackernews.com/2025/12/goldfactory-hits-southeast-asia-with.html) - *The Hacker News* (2025-12-04)
 - [Like Social Media, AI Requires Difficult Choices](https://www.schneier.com/blog/archives/2025/12/like-social-media-ai-requires-difficult-choices.html) - *Schneier on Security* (2025-12-02)
 - [Banning VPNs](https://www.schneier.com/blog/archives/2025/12/banning-vpns.html) - *Schneier on Security* (2025-12-01)
-- [Friday Squid Blogging: Flying Neon Squid Found on Israeli Beach](https://www.schneier.com/blog/archives/2025/11/friday-squid-blogging-flying-neon-squid-found-on-israeli-beach.html) - *Schneier on Security* (2025-11-28)
 
 ## Databases/Storage
 
+- [Bruce Momjian: A Meetup Quiz?](https://postgr.es/p/7nf) - *Planet PostgreSQL* (2025-12-05)
+- [Josef Machytka: A deeper look at old UUIDv4 vs new UUIDv7 in PostgreSQL 18](https://postgr.es/p/7ne) - *Planet PostgreSQL* (2025-12-05)
 - [Robert Haas: The Future of the PostgreSQL Hacking Workshop](https://postgr.es/p/7nc) - *Planet PostgreSQL* (2025-12-04)
 - [Floor Drees: PostgreSQL Contributor Story: Bryan Green](https://postgr.es/p/7nd) - *Planet PostgreSQL* (2025-12-04)
 - [Pierre Ducroquet: JIT, episode III: warp speed ahead](https://postgr.es/p/7n8) - *Planet PostgreSQL* (2025-12-04)
-- [Elizabeth Garrett Christensen: Postgres Scan Types in EXPLAIN Plans](https://postgr.es/p/7nb) - *Planet PostgreSQL* (2025-12-04)
-- [Dave Page: Building a RAG Server with PostgreSQL - Part 1: Loading Your Content](https://postgr.es/p/7n9) - *Planet PostgreSQL* (2025-12-04)
 - [Tata Neu delivers personalized shopping experiences for millions of users with Azure DocumentDB](https://devblogs.microsoft.com/cosmosdb/tata-neu-delivers-personalized-shopping-experiences-for-millions-of-users-with-azure-documentdb/) - *Azure Cosmos DB Blog* (2025-12-02)
 - [Netflix consolidates relational database infrastructure on Amazon Aurora, achieving up to 75% improved performance](https://aws.amazon.com/blogs/database/netflix-consolidates-relational-database-infrastructure-on-amazon-aurora-achieving-up-to-75-improved-performance/) - *AWS Database Blog* (2025-11-27)
 - [How Letta builds production-ready AI agents with Amazon Aurora PostgreSQL](https://aws.amazon.com/blogs/database/how-letta-builds-production-ready-ai-agents-with-amazon-aurora-postgresql/) - *AWS Database Blog* (2025-11-26)
@@ -59,22 +59,23 @@ Automated tech news updates. Last updated: 2025-12-05 08:29:41 UTC
 
 ## Networking
 
-- [Network jobs watch: Hiring, skills and certification trends](https://www.networkworld.com/article/2093749/network-jobs-watch-hiring-skills-and-certification-trends.html) - *Network jobs watch: Hiring, skills and certification trends | Network World* (2025-12-04)
-- [CompTIA training targets workplace AI use](https://www.networkworld.com/article/4101219/comptia-training-targets-workplace-ai-use.html) - *Network jobs watch: Hiring, skills and certification trends | Network World* (2025-12-04)
-- [Timeline of HPE’s $14 billion Juniper acquisition](https://www.networkworld.com/article/3813597/timeline-of-hpes-14-billion-bid-for-juniper.html) - *Network jobs watch: Hiring, skills and certification trends | Network World* (2025-12-04)
-- [HPE CEO Neri highlights first fruits of Juniper takeover](https://www.networkworld.com/article/4101088/hpe-shows-in-barcelona-the-first-fruits-of-the-takeover-of-rival-juniper-networks.html) - *Network jobs watch: Hiring, skills and certification trends | Network World* (2025-12-04)
-- [With AI Factories, AWS aims to help enterprises scale AI while respecting data sovereignty](https://www.networkworld.com/article/4100949/with-ai-factories-aws-aims-to-help-enterprises-scale-ai-while-respecting-data-sovereignty.html) - *Network jobs watch: Hiring, skills and certification trends | Network World* (2025-12-04)
+- [Chinese cyberspies target VMware vSphere for long-term persistence](https://www.networkworld.com/article/4101877/chinese-cyberspies-target-vmware-vsphere-for-long-term-persistence-2.html) - *Chinese cyberspies target VMware vSphere for long-term persistence | Network World* (2025-12-05)
+- [IBM boosts DNS protection for multicloud operations](https://www.networkworld.com/article/4101847/ibm-boosts-dns-protection-for-multicloud-operations.html) - *Chinese cyberspies target VMware vSphere for long-term persistence | Network World* (2025-12-05)
+- [Andrew Wheeler of HPE Labs: Being a constant learner is key to being a good technologist](https://www.networkworld.com/article/4101833/andrew-wheeler-director-of-hpe-labs-being-a-constant-learner-is-the-key-to-being-a-good-technologist.html) - *Chinese cyberspies target VMware vSphere for long-term persistence | Network World* (2025-12-05)
+- [Cloudflare firewall reacts badly to React exploit mitigation](https://www.networkworld.com/article/4101647/cloudflare-firewall-reacts-badly-to-react-exploit-mitigation.html) - *Chinese cyberspies target VMware vSphere for long-term persistence | Network World* (2025-12-05)
+- [Network jobs watch: Hiring, skills and certification trends](https://www.networkworld.com/article/2093749/network-jobs-watch-hiring-skills-and-certification-trends.html) - *Chinese cyberspies target VMware vSphere for long-term persistence | Network World* (2025-12-04)
 
 ## Computing
 
-- [Congress warned that NASA’s current plan for Artemis “cannot work”](https://arstechnica.com/space/2025/12/congress-told-there-needs-to-be-consequences-for-nasa-delays-amid-chinas-rise/) - *Ars Technica - All content* (2025-12-04)
-- [In comedy of errors, men accused of wiping gov databases turned to an AI tool](https://arstechnica.com/information-technology/2025/12/previously-convicted-contractors-wiped-gov-databases-after-being-fired-feds-say/) - *Ars Technica - All content* (2025-12-04)
-- [Engineer proves that Kohler’s smart toilet cameras aren’t very private](https://arstechnica.com/gadgets/2025/12/despite-accessing-user-data-kohler-still-says-its-smart-toilet-cameras-use-e2ee/) - *Ars Technica - All content* (2025-12-04)
-- [CDC vaccine panel realizes again it has no idea what it’s doing, delays big vote](https://arstechnica.com/health/2025/12/cdc-vaccine-panel-realizes-again-it-has-no-idea-what-its-doing-delays-big-vote/) - *Ars Technica - All content* (2025-12-04)
-- [Researchers find what makes AI chatbots politically persuasive](https://arstechnica.com/science/2025/12/researchers-find-what-makes-ai-chatbots-politically-persuasive/) - *Ars Technica - All content* (2025-12-04)
+- [Streaming service makes rare decision to lower its monthly fees](https://arstechnica.com/gadgets/2025/12/fubo-lowers-its-prices-by-up-to-15-after-losing-nbcuniversal-channels/) - *Ars Technica - All content* (2025-12-05)
+- [Netflix’s $72B WB acquisition confounds the future of movie theaters, streaming](https://arstechnica.com/gadgets/2025/12/netflixs-72b-wb-acquisition-confounds-the-future-of-movie-theaters-streaming/) - *Ars Technica - All content* (2025-12-05)
+- [Rare set of varied factors triggered Black Death](https://arstechnica.com/science/2025/12/how-volcanoes-helped-spark-the-black-death/) - *Ars Technica - All content* (2025-12-05)
+- [SteamOS vs. Windows on dedicated GPUs: It’s complicated, but Windows has an edge](https://arstechnica.com/gadgets/2025/12/steamos-vs-windows-on-dedicated-gpus-its-complicated-but-windows-has-an-edge/) - *Ars Technica - All content* (2025-12-05)
+- [Without evidence, RFK Jr.’s vaccine panel tosses hep B vaccine recommendation](https://arstechnica.com/health/2025/12/without-evidence-rfk-jr-s-vaccine-panel-tosses-heb-b-vaccine-recommendation/) - *Ars Technica - All content* (2025-12-05)
 
 ## AI/Models/RL
 
+- [Introducing swift-huggingface: The Complete Swift Client for Hugging Face](https://huggingface.co/blog/swift-huggingface) - *Hugging Face - Blog* (2025-12-05)
 - [Titans + MIRAS: Helping AI have long-term memory](https://research.google/blog/titans-miras-helping-ai-have-long-term-memory/) - *The latest research from Google* (2025-12-04)
 - [Introducing OpenAI for Australia](https://openai.com/global-affairs/openai-for-australia) - *OpenAI News* (2025-12-04)
 - [Engineering more resilient crops for a warming climate](https://deepmind.google/blog/engineering-more-resilient-crops-for-a-warming-climate/) - *Google DeepMind News* (2025-12-04)
@@ -84,7 +85,6 @@ Automated tech news updates. Last updated: 2025-12-05 08:29:41 UTC
 - [How confessions can keep language models honest](https://openai.com/index/how-confessions-can-keep-language-models-honest) - *OpenAI News* (2025-12-03)
 - [Announcing the initial People-First AI Fund grantees](https://openai.com/index/people-first-ai-fund-grantees) - *OpenAI News* (2025-12-03)
 - [Custom Policy Enforcement with Reasoning: Faster, Safer AI Applications](https://huggingface.co/blog/nvidia/custom-policy-reasoning-nemotron-content-safety) - *Hugging Face - Blog* (2025-12-02)
-- [Inside Mirakl's agentic commerce vision](https://openai.com/index/mirakl) - *OpenAI News* (2025-12-01)
 
 ## AI Infra
 
