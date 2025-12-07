@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2025-12-06 08:26:46 UTC
+Automated tech news updates. Last updated: 2025-12-07 08:26:09 UTC
 
 ## Software Architecture
 
@@ -33,16 +33,16 @@ Automated tech news updates. Last updated: 2025-12-06 08:26:46 UTC
 
 ## Security
 
+- [Researchers Uncover 30+ Flaws in AI Coding Tools Enabling Data Theft and RCE Attacks](https://thehackernews.com/2025/12/researchers-uncover-30-flaws-in-ai.html) - *The Hacker News* (2025-12-06)
+- [Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill](https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/) - *Krebs on Security* (2025-12-06)
+- [Critical React2Shell Flaw Added to CISA KEV After Confirmed Active Exploitation](https://thehackernews.com/2025/12/critical-react2shell-flaw-added-to-cisa.html) - *The Hacker News* (2025-12-06)
 - [Friday Squid Blogging: Vampire Squid Genome](https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-vampire-squid-genome.html) - *Schneier on Security* (2025-12-05)
 - [Zero-Click Agentic Browser Attack Can Delete Entire Google Drive Using Crafted Emails](https://thehackernews.com/2025/12/zero-click-agentic-browser-attack-can.html) - *The Hacker News* (2025-12-05)
 - [Critical XXE Bug CVE-2025-66516 (CVSS 10.0) Hits Apache Tika, Requires Urgent Patch](https://thehackernews.com/2025/12/critical-xxe-bug-cve-2025-66516-cvss.html) - *The Hacker News* (2025-12-05)
 - [Chinese Hackers Have Started Exploiting the Newly Disclosed React2Shell Vulnerability](https://thehackernews.com/2025/12/chinese-hackers-have-started-exploiting.html) - *The Hacker News* (2025-12-05)
-- [Intellexa Leaks Reveal Zero-Days and Ads-Based Vector for Predator Spyware Delivery](https://thehackernews.com/2025/12/intellexa-leaks-reveal-zero-days-and.html) - *The Hacker News* (2025-12-05)
-- ["Getting to Yes": An Anti-Sales Guide for MSPs](https://thehackernews.com/2025/12/getting-to-yes-anti-sales-guide-for-msps.html) - *The Hacker News* (2025-12-05)
 - [New Anonymous Phone Service](https://www.schneier.com/blog/archives/2025/12/new-anonymous-phone-service.html) - *Schneier on Security* (2025-12-05)
 - [SMS Phishers Pivot to Points, Taxes, Fake Retailers](https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/) - *Krebs on Security* (2025-12-04)
 - [Like Social Media, AI Requires Difficult Choices](https://www.schneier.com/blog/archives/2025/12/like-social-media-ai-requires-difficult-choices.html) - *Schneier on Security* (2025-12-02)
-- [Banning VPNs](https://www.schneier.com/blog/archives/2025/12/banning-vpns.html) - *Schneier on Security* (2025-12-01)
 
 ## Databases/Storage
 
@@ -67,11 +67,11 @@ Automated tech news updates. Last updated: 2025-12-06 08:26:46 UTC
 
 ## Computing
 
+- [A massive, Chinese-backed port could push the Amazon Rainforest over the edge](https://arstechnica.com/science/2025/12/a-massive-chinese-backed-port-could-push-the-amazon-rainforest-over-the-edge/) - *Ars Technica - All content* (2025-12-06)
 - [Streaming service makes rare decision to lower its monthly fees](https://arstechnica.com/gadgets/2025/12/fubo-lowers-its-prices-by-up-to-15-after-losing-nbcuniversal-channels/) - *Ars Technica - All content* (2025-12-05)
 - [Netflix’s $72B WB acquisition confounds the future of movie theaters, streaming](https://arstechnica.com/gadgets/2025/12/netflixs-72b-wb-acquisition-confounds-the-future-of-movie-theaters-streaming/) - *Ars Technica - All content* (2025-12-05)
 - [Rare set of varied factors triggered Black Death](https://arstechnica.com/science/2025/12/how-volcanoes-helped-spark-the-black-death/) - *Ars Technica - All content* (2025-12-05)
-- [SteamOS vs. Windows on dedicated GPUs: It’s complicated, but Windows has an edge](https://arstechnica.com/gadgets/2025/12/steamos-vs-windows-on-dedicated-gpus-its-complicated-but-windows-has-an-edge/) - *Ars Technica - All content* (2025-12-05)
-- [Without evidence, RFK Jr.’s vaccine panel tosses hep B vaccine recommendation](https://arstechnica.com/health/2025/12/without-evidence-rfk-jr-s-vaccine-panel-tosses-heb-b-vaccine-recommendation/) - *Ars Technica - All content* (2025-12-05)
+- [SteamOS tested on dedicated GPUs: No, it’s not always faster than Windows](https://arstechnica.com/gadgets/2025/12/steamos-vs-windows-on-dedicated-gpus-its-complicated-but-windows-has-an-edge/) - *Ars Technica - All content* (2025-12-05)
 
 ## AI/Models/RL
 
