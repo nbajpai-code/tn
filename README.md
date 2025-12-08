@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2025-12-07 08:26:09 UTC
+Automated tech news updates. Last updated: 2025-12-08 08:33:00 UTC
 
 ## Software Architecture
 
@@ -33,24 +33,24 @@ Automated tech news updates. Last updated: 2025-12-07 08:26:09 UTC
 
 ## Security
 
+- [MuddyWater Deploys UDPGangster Backdoor in Targeted Turkey-Israel-Azerbaijan Campaign](https://thehackernews.com/2025/12/muddywater-deploys-udpgangster-backdoor.html) - *The Hacker News* (2025-12-08)
 - [Researchers Uncover 30+ Flaws in AI Coding Tools Enabling Data Theft and RCE Attacks](https://thehackernews.com/2025/12/researchers-uncover-30-flaws-in-ai.html) - *The Hacker News* (2025-12-06)
 - [Drones to Diplomas: How Russia’s Largest Private University is Linked to a $25M Essay Mill](https://krebsonsecurity.com/2025/12/drones-to-diplomas-how-russias-largest-private-university-is-linked-to-a-25m-essay-mill/) - *Krebs on Security* (2025-12-06)
 - [Critical React2Shell Flaw Added to CISA KEV After Confirmed Active Exploitation](https://thehackernews.com/2025/12/critical-react2shell-flaw-added-to-cisa.html) - *The Hacker News* (2025-12-06)
 - [Friday Squid Blogging: Vampire Squid Genome](https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-vampire-squid-genome.html) - *Schneier on Security* (2025-12-05)
 - [Zero-Click Agentic Browser Attack Can Delete Entire Google Drive Using Crafted Emails](https://thehackernews.com/2025/12/zero-click-agentic-browser-attack-can.html) - *The Hacker News* (2025-12-05)
 - [Critical XXE Bug CVE-2025-66516 (CVSS 10.0) Hits Apache Tika, Requires Urgent Patch](https://thehackernews.com/2025/12/critical-xxe-bug-cve-2025-66516-cvss.html) - *The Hacker News* (2025-12-05)
-- [Chinese Hackers Have Started Exploiting the Newly Disclosed React2Shell Vulnerability](https://thehackernews.com/2025/12/chinese-hackers-have-started-exploiting.html) - *The Hacker News* (2025-12-05)
 - [New Anonymous Phone Service](https://www.schneier.com/blog/archives/2025/12/new-anonymous-phone-service.html) - *Schneier on Security* (2025-12-05)
 - [SMS Phishers Pivot to Points, Taxes, Fake Retailers](https://krebsonsecurity.com/2025/12/sms-phishers-pivot-to-points-taxes-fake-retailers/) - *Krebs on Security* (2025-12-04)
 - [Like Social Media, AI Requires Difficult Choices](https://www.schneier.com/blog/archives/2025/12/like-social-media-ai-requires-difficult-choices.html) - *Schneier on Security* (2025-12-02)
 
 ## Databases/Storage
 
+- [Cornelia Biacsics: Contributions for week 50, 2025](https://postgr.es/p/7ng) - *Planet PostgreSQL* (2025-12-07)
 - [Bruce Momjian: A Meetup Quiz?](https://postgr.es/p/7nf) - *Planet PostgreSQL* (2025-12-05)
 - [Josef Machytka: A deeper look at old UUIDv4 vs new UUIDv7 in PostgreSQL 18](https://postgr.es/p/7ne) - *Planet PostgreSQL* (2025-12-05)
 - [Robert Haas: The Future of the PostgreSQL Hacking Workshop](https://postgr.es/p/7nc) - *Planet PostgreSQL* (2025-12-04)
 - [Floor Drees: PostgreSQL Contributor Story: Bryan Green](https://postgr.es/p/7nd) - *Planet PostgreSQL* (2025-12-04)
-- [Pierre Ducroquet: JIT, episode III: warp speed ahead](https://postgr.es/p/7n8) - *Planet PostgreSQL* (2025-12-04)
 - [Tata Neu delivers personalized shopping experiences for millions of users with Azure DocumentDB](https://devblogs.microsoft.com/cosmosdb/tata-neu-delivers-personalized-shopping-experiences-for-millions-of-users-with-azure-documentdb/) - *Azure Cosmos DB Blog* (2025-12-02)
 - [Netflix consolidates relational database infrastructure on Amazon Aurora, achieving up to 75% improved performance](https://aws.amazon.com/blogs/database/netflix-consolidates-relational-database-infrastructure-on-amazon-aurora-achieving-up-to-75-improved-performance/) - *AWS Database Blog* (2025-11-27)
 - [How Letta builds production-ready AI agents with Amazon Aurora PostgreSQL](https://aws.amazon.com/blogs/database/how-letta-builds-production-ready-ai-agents-with-amazon-aurora-postgresql/) - *AWS Database Blog* (2025-11-26)
@@ -67,11 +67,11 @@ Automated tech news updates. Last updated: 2025-12-07 08:26:09 UTC
 
 ## Computing
 
+- [Why is my dog like this? Current DNA tests won’t explain it to you.](https://arstechnica.com/science/2025/12/why-is-my-dog-like-this-current-dna-tests-wont-explain-it-to-you/) - *Ars Technica - All content* (2025-12-07)
 - [A massive, Chinese-backed port could push the Amazon Rainforest over the edge](https://arstechnica.com/science/2025/12/a-massive-chinese-backed-port-could-push-the-amazon-rainforest-over-the-edge/) - *Ars Technica - All content* (2025-12-06)
 - [Streaming service makes rare decision to lower its monthly fees](https://arstechnica.com/gadgets/2025/12/fubo-lowers-its-prices-by-up-to-15-after-losing-nbcuniversal-channels/) - *Ars Technica - All content* (2025-12-05)
 - [Netflix’s $72B WB acquisition confounds the future of movie theaters, streaming](https://arstechnica.com/gadgets/2025/12/netflixs-72b-wb-acquisition-confounds-the-future-of-movie-theaters-streaming/) - *Ars Technica - All content* (2025-12-05)
 - [Rare set of varied factors triggered Black Death](https://arstechnica.com/science/2025/12/how-volcanoes-helped-spark-the-black-death/) - *Ars Technica - All content* (2025-12-05)
-- [SteamOS tested on dedicated GPUs: No, it’s not always faster than Windows](https://arstechnica.com/gadgets/2025/12/steamos-vs-windows-on-dedicated-gpus-its-complicated-but-windows-has-an-edge/) - *Ars Technica - All content* (2025-12-05)
 
 ## AI/Models/RL
 
