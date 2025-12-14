@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2025-12-13 08:26:56 UTC
+Automated tech news updates. Last updated: 2025-12-14 08:27:28 UTC
 
 ## Software Architecture
 
@@ -33,13 +33,13 @@ Automated tech news updates. Last updated: 2025-12-13 08:26:56 UTC
 
 ## Security
 
+- [CISA Adds Actively Exploited Sierra Wireless Router Flaw Enabling RCE Attacks](https://thehackernews.com/2025/12/cisa-adds-actively-exploited-sierra.html) - *The Hacker News* (2025-12-13)
 - [Apple Issues Security Updates After Two WebKit Flaws Found Exploited in the Wild](https://thehackernews.com/2025/12/apple-issues-security-updates-after-two.html) - *The Hacker News* (2025-12-13)
 - [Friday Squid Blogging: Giant Squid Eating a Diamondback Squid](https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-giant-squid-eating-a-diamondback-squid.html) - *Schneier on Security* (2025-12-12)
 - [Fake OSINT and GPT Utility GitHub Repos Spread PyStoreRAT Malware Payloads](https://thehackernews.com/2025/12/fake-osint-and-gpt-utility-github-repos.html) - *The Hacker News* (2025-12-13)
 - [New Advanced Phishing Kits Use AI and MFA Bypass Tactics to Steal Credentials at Scale](https://thehackernews.com/2025/12/new-advanced-phishing-kits-use-ai-and.html) - *The Hacker News* (2025-12-12)
 - [Building Trustworthy AI Agents](https://www.schneier.com/blog/archives/2025/12/building-trustworthy-ai-agents.html) - *Schneier on Security* (2025-12-12)
 - [Securing GenAI in the Browser: Policy, Isolation, and Data Controls That Actually Work](https://thehackernews.com/2025/12/securing-genai-in-browser-policy.html) - *The Hacker News* (2025-12-12)
-- [New React RSC Vulnerabilities Enable DoS and Source Code Exposure](https://thehackernews.com/2025/12/new-react-rsc-vulnerabilities-enable.html) - *The Hacker News* (2025-12-12)
 - [AIs Exploiting Smart Contracts](https://www.schneier.com/blog/archives/2025/12/ais-exploiting-smart-contracts.html) - *Schneier on Security* (2025-12-11)
 - [FBI Warns of Fake Video Scams](https://www.schneier.com/blog/archives/2025/12/fbi-warns-of-fake-video-scams.html) - *Schneier on Security* (2025-12-10)
 - [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/) - *Krebs on Security* (2025-12-09)
@@ -67,11 +67,11 @@ Automated tech news updates. Last updated: 2025-12-13 08:26:56 UTC
 
 ## Computing
 
+- [Sharks and rays gain landmark protections as nations move to curb international trade](https://arstechnica.com/science/2025/12/sharks-and-rays-gain-landmark-protections-as-nations-move-to-curb-international-trade/) - *Ars Technica - All content* (2025-12-13)
 - [OpenAI built an AI coding agent and uses it to improve the agent itself](https://arstechnica.com/ai/2025/12/how-openai-is-using-gpt-5-codex-to-improve-the-ai-tool-itself/) - *Ars Technica - All content* (2025-12-12)
 - [Reminder: Donate to win swag in our annual Charity Drive sweepstakes](https://arstechnica.com/gaming/2025/12/reminder-donate-to-win-swag-in-our-annual-charity-drive-sweepstakes-17/) - *Ars Technica - All content* (2025-12-12)
 - [Google Translate expands live translation to all earbuds on Android](https://arstechnica.com/google/2025/12/google-translate-learns-slang-and-idioms-expands-live-translation-beyond-pixel-buds/) - *Ars Technica - All content* (2025-12-12)
 - [Ukrainians sue US chip firms for powering Russian drones, missiles](https://arstechnica.com/tech-policy/2025/12/ukrainians-sue-us-chip-firms-for-powering-russian-drones-missiles/) - *Ars Technica - All content* (2025-12-12)
-- [Scientists built an AI co-pilot for prosthetic bionic hands](https://arstechnica.com/ai/2025/12/scientists-built-an-ai-co-pilot-for-prosthetic-bionic-hands/) - *Ars Technica - All content* (2025-12-12)
 
 ## AI/Models/RL
 
