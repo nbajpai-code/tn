@@ -1,11 +1,10 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2025-12-14 08:27:28 UTC
+Automated tech news updates. Last updated: 2025-12-15 08:34:26 UTC
 
 ## Software Architecture
 
-- [Breaking Silos: Netflix Introduces Upper Metamodel to Bring Consistency Across Content Engineering](https://www.infoq.com/news/2025/12/netflix-upper-uda-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2025-12-12)
-- [Article: Overload Protection: The Missing Pillar of Platform Engineering](https://www.infoq.com/articles/overload-protection-platform-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2025-12-09)
+- [Breaking Silos: Netflix Introduces Upper Metamodel to Bring Consistency across Content Engineering](https://www.infoq.com/news/2025/12/netflix-upper-uda-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2025-12-12)
 - [Mini book: Architecture Through Different Lenses 2025](https://www.infoq.com/minibooks/architecture-lenses-2025/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2025-12-08)
 - [Podcast: Bridging the Open Source Gap: from Funding Paradoxes to Digital Sovereignty](https://www.infoq.com/podcasts/bridging-open-source-gap/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2025-12-08)
 - [From On-Demand to Live : Netflix Streaming to 100 Million Devices in under 1 Minute](https://www.infoq.com/news/2025/12/netflix-live-streaming-pipeline/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2025-12-05)
@@ -33,19 +32,20 @@ Automated tech news updates. Last updated: 2025-12-14 08:27:28 UTC
 
 ## Security
 
+- [VolkLocker Ransomware Exposed by Hard-Coded Master Key Allowing Free Decryption](https://thehackernews.com/2025/12/volklocker-ransomware-exposed-by-hard.html) - *The Hacker News* (2025-12-15)
+- [Upcoming Speaking Engagements](https://www.schneier.com/blog/archives/2025/12/upcoming-speaking-engagements-51.html) - *Schneier on Security* (2025-12-14)
 - [CISA Adds Actively Exploited Sierra Wireless Router Flaw Enabling RCE Attacks](https://thehackernews.com/2025/12/cisa-adds-actively-exploited-sierra.html) - *The Hacker News* (2025-12-13)
 - [Apple Issues Security Updates After Two WebKit Flaws Found Exploited in the Wild](https://thehackernews.com/2025/12/apple-issues-security-updates-after-two.html) - *The Hacker News* (2025-12-13)
 - [Friday Squid Blogging: Giant Squid Eating a Diamondback Squid](https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-giant-squid-eating-a-diamondback-squid.html) - *Schneier on Security* (2025-12-12)
 - [Fake OSINT and GPT Utility GitHub Repos Spread PyStoreRAT Malware Payloads](https://thehackernews.com/2025/12/fake-osint-and-gpt-utility-github-repos.html) - *The Hacker News* (2025-12-13)
 - [New Advanced Phishing Kits Use AI and MFA Bypass Tactics to Steal Credentials at Scale](https://thehackernews.com/2025/12/new-advanced-phishing-kits-use-ai-and.html) - *The Hacker News* (2025-12-12)
 - [Building Trustworthy AI Agents](https://www.schneier.com/blog/archives/2025/12/building-trustworthy-ai-agents.html) - *Schneier on Security* (2025-12-12)
-- [Securing GenAI in the Browser: Policy, Isolation, and Data Controls That Actually Work](https://thehackernews.com/2025/12/securing-genai-in-browser-policy.html) - *The Hacker News* (2025-12-12)
 - [AIs Exploiting Smart Contracts](https://www.schneier.com/blog/archives/2025/12/ais-exploiting-smart-contracts.html) - *Schneier on Security* (2025-12-11)
 - [FBI Warns of Fake Video Scams](https://www.schneier.com/blog/archives/2025/12/fbi-warns-of-fake-video-scams.html) - *Schneier on Security* (2025-12-10)
-- [Microsoft Patch Tuesday, December 2025 Edition](https://krebsonsecurity.com/2025/12/microsoft-patch-tuesday-december-2025-edition/) - *Krebs on Security* (2025-12-09)
 
 ## Databases/Storage
 
+- [Cornelia Biacsics: Contributions for week 51, 2025](https://postgr.es/p/7nA) - *Planet PostgreSQL* (2025-12-14)
 - [Configure additional storage volumes with Amazon RDS for SQL Server](https://aws.amazon.com/blogs/database/configure-additional-storage-volumes-with-amazon-rds-for-sql-server/) - *AWS Database Blog* (2025-12-12)
 - [Andrew Dunstan: How does the PostgreSQL Buildfarm check upgrades across versions?](https://postgr.es/p/7nz) - *Planet PostgreSQL* (2025-12-12)
 - [Build and explore Knowledge Graphs faster with Amazon Neptune using Graph.Build and G.V() – Part 2](https://aws.amazon.com/blogs/database/build-and-explore-knowledge-graphs-faster-with-amazon-neptune-using-graph-build-and-g-v-part-2/) - *AWS Database Blog* (2025-12-12)
@@ -55,7 +55,6 @@ Automated tech news updates. Last updated: 2025-12-14 08:27:28 UTC
 - [Introducing Amazon Aurora powers for Kiro](https://aws.amazon.com/blogs/database/introducing-amazon-aurora-powers-for-kiro/) - *AWS Database Blog* (2025-12-11)
 - [Build a fitness center management application with Kiro using Amazon DocumentDB (with MongoDB compatibility)](https://aws.amazon.com/blogs/database/build-a-fitness-center-management-application-with-kiro-using-amazon-documentdb-with-mongodb-compatibility/) - *AWS Database Blog* (2025-12-11)
 - [Stefan Fercot: pgBackRest PITR in Docker: a simple demo](https://postgr.es/p/7ns) - *Planet PostgreSQL* (2025-12-11)
-- [Azure Cosmos DB vNext Emulator: Query and Observability Enhancements](https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-vnext-emulator-query-and-observability-enhancements/) - *Azure Cosmos DB Blog* (2025-12-11)
 
 ## Networking
 
