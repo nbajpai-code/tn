@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2025-12-20 08:27:08 UTC
+Automated tech news updates. Last updated: 2025-12-21 08:27:40 UTC
 
 ## Software Architecture
 
@@ -33,14 +33,14 @@ Automated tech news updates. Last updated: 2025-12-20 08:27:08 UTC
 
 ## Security
 
+- [Iranian Infy APT Resurfaces with New Malware Activity After Years of Silence](https://thehackernews.com/2025/12/iranian-infy-apt-resurfaces-with-new.html) - *The Hacker News* (2025-12-21)
+- [U.S. DOJ Charges 54 in ATM Jackpotting Scheme Using Ploutus Malware](https://thehackernews.com/2025/12/us-doj-charges-54-in-atm-jackpotting.html) - *The Hacker News* (2025-12-20)
 - [Friday Squid Blogging: Petting a Squid](https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-petting-a-squid.html) - *Schneier on Security* (2025-12-19)
 - [Russia-Linked Hackers Use Microsoft 365 Device Code Phishing for Account Takeovers](https://thehackernews.com/2025/12/russia-linked-hackers-use-microsoft-365.html) - *The Hacker News* (2025-12-19)
 - [Cracked Software and YouTube Videos Spread CountLoader and GachiLoader Malware](https://thehackernews.com/2025/12/cracked-software-and-youtube-videos.html) - *The Hacker News* (2025-12-19)
 - [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/) - *Krebs on Security* (2025-12-19)
 - [AI Advertising Company Hacked](https://www.schneier.com/blog/archives/2025/12/ai-advertising-company-hacked.html) - *Schneier on Security* (2025-12-19)
 - [WatchGuard Warns of Active Exploitation of Critical Fireware OS VPN Vulnerability](https://thehackernews.com/2025/12/watchguard-warns-of-active-exploitation.html) - *The Hacker News* (2025-12-19)
-- [Nigeria Arrests RaccoonO365 Phishing Developer Linked to Microsoft 365 Attacks](https://thehackernews.com/2025/12/nigeria-arrests-raccoono365-phishing.html) - *The Hacker News* (2025-12-19)
-- [New UEFI Flaw Enables Early-Boot DMA Attacks on ASRock, ASUS, GIGABYTE, MSI Motherboards](https://thehackernews.com/2025/12/new-uefi-flaw-enables-early-boot-dma.html) - *The Hacker News* (2025-12-19)
 - [Someone Boarded a Plane at Heathrow Without a Ticket or Passport](https://www.schneier.com/blog/archives/2025/12/someone-boarded-a-plane-at-heathrow-without-a-ticket-or-passport.html) - *Schneier on Security* (2025-12-18)
 - [Deliberate Internet Shutdowns](https://www.schneier.com/blog/archives/2025/12/deliberate-internet-shutdowns.html) - *Schneier on Security* (2025-12-17)
 
@@ -67,11 +67,11 @@ Automated tech news updates. Last updated: 2025-12-20 08:27:08 UTC
 
 ## Computing
 
+- [How Europe’s new carbon tax on imported goods will change global trade](https://arstechnica.com/tech-policy/2025/12/how-europes-new-carbon-tax-on-imported-goods-will-change-global-trade/) - *Ars Technica - All content* (2025-12-20)
 - [Google lobs lawsuit at search result scraping firm SerpApi](https://arstechnica.com/google/2025/12/google-lobs-lawsuit-at-search-result-scraping-firm-serpapi/) - *Ars Technica - All content* (2025-12-19)
 - [The evolution of expendability: Why some ants traded armor for numbers](https://arstechnica.com/science/2025/12/the-evolution-of-expendability-why-some-ants-traded-armor-for-numbers/) - *Ars Technica - All content* (2025-12-19)
 - [Switch 2 pub backs off Game Key Cards after leaking lower-cost cartridge options](https://arstechnica.com/gaming/2025/12/cheaper-lower-capacity-switch-2-cartridges-could-mean-fewer-game-key-cards/) - *Ars Technica - All content* (2025-12-19)
 - [LG TVs’ unremovable Copilot shortcut is the least of smart TVs’ AI problems](https://arstechnica.com/gadgets/2025/12/lg-tvs-unremovable-copilot-shortcut-is-the-least-of-smart-tvs-ai-problems/) - *Ars Technica - All content* (2025-12-19)
-- [Riot Games is making an anti-cheat change that could be rough on older PCs](https://arstechnica.com/gadgets/2025/12/some-valorant-players-need-to-update-their-pc-bios-to-keep-anti-cheat-software-happy/) - *Ars Technica - All content* (2025-12-19)
 
 ## AI/Models/RL
 
