@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2025-12-21 08:27:40 UTC
+Automated tech news updates. Last updated: 2025-12-22 08:32:36 UTC
 
 ## Software Architecture
 
@@ -8,7 +8,7 @@ Automated tech news updates. Last updated: 2025-12-21 08:27:40 UTC
 - [Article: Where Architects Sit in the Era of AI](https://www.infoq.com/articles/architects-ai-era/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2025-12-19)
 - [InfoQ Announces January Online Architect Cohort Focused on Socio-Technical Leadership](https://www.infoq.com/news/2025/12/infoq-architect-jan-26/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2025-12-18)
 - [Article: Architecture in a Flow of AI-Augmented Change](https://www.infoq.com/articles/architecture-ai-augmented-change/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2025-12-18)
-- [Presentation: Scaling Cloud and Distributed Applications: Lessons and Strategies From chase.com, #1 Banking Portal in the US](https://www.infoq.com/presentations/chase-scale-cloud-distributed/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2025-12-17)
+- [Lyft Rearchitects ML Platform with Hybrid AWS SageMaker-Kubernetes Approach](https://www.infoq.com/news/2025/12/lyft-ml-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2025-12-16)
 
 ## Cloud Computing
 
@@ -20,6 +20,7 @@ Automated tech news updates. Last updated: 2025-12-21 08:27:40 UTC
 
 ## Kubernetes
 
+- [Avoiding Zombie Cluster Members When Upgrading to etcd v3.6](https://kubernetes.io/blog/2025/12/21/preventing-etcd-zombies/) - *Kubernetes Blog* (2025-12-21)
 - [Kubernetes 1.35: In-Place Pod Resize Graduates to Stable](https://kubernetes.io/blog/2025/12/19/kubernetes-v1-35-in-place-pod-resize-ga/) - *Kubernetes Blog* (2025-12-19)
 - [The mentorship flywheel: How CNCF is growing the next generation of cloud native leaders](https://www.cncf.io/blog/2025/12/18/the-mentorship-flywheel-how-cncf-is-growing-the-next-generation-of-cloud-native-leaders/) - *Blog – Cloud Native Computing Foundation* (2025-12-18)
 - [Kubernetes v1.35: Job Managed By Goes GA](https://kubernetes.io/blog/2025/12/18/kubernetes-v1-35-job-managedby-for-jobs-goes-ga/) - *Kubernetes Blog* (2025-12-18)
@@ -29,10 +30,10 @@ Automated tech news updates. Last updated: 2025-12-21 08:27:40 UTC
 - [How to build a cost-effective observability platform with OpenTelemetry](https://www.cncf.io/blog/2025/12/16/how-to-build-a-cost-effective-observability-platform-with-opentelemetry/) - *Blog – Cloud Native Computing Foundation* (2025-12-16)
 - [Kubernetes Security: 2025 Stable Features and 2026 preview](https://www.cncf.io/blog/2025/12/15/kubernetes-security-2025-stable-features-and-2026-preview/) - *Blog – Cloud Native Computing Foundation* (2025-12-15)
 - [Kubernetes v1.35 Sneak Peek](https://kubernetes.io/blog/2025/11/26/kubernetes-v1-35-sneak-peek/) - *Kubernetes Blog* (2025-11-26)
-- [Kubernetes Configuration Good Practices](https://kubernetes.io/blog/2025/11/25/configuration-good-practices/) - *Kubernetes Blog* (2025-11-25)
 
 ## Security
 
+- [Android Malware Operations Merge Droppers, SMS Theft, and RAT Capabilities at Scale](https://thehackernews.com/2025/12/android-malware-operations-merge.html) - *The Hacker News* (2025-12-22)
 - [Iranian Infy APT Resurfaces with New Malware Activity After Years of Silence](https://thehackernews.com/2025/12/iranian-infy-apt-resurfaces-with-new.html) - *The Hacker News* (2025-12-21)
 - [U.S. DOJ Charges 54 in ATM Jackpotting Scheme Using Ploutus Malware](https://thehackernews.com/2025/12/us-doj-charges-54-in-atm-jackpotting.html) - *The Hacker News* (2025-12-20)
 - [Friday Squid Blogging: Petting a Squid](https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-petting-a-squid.html) - *Schneier on Security* (2025-12-19)
@@ -40,7 +41,6 @@ Automated tech news updates. Last updated: 2025-12-21 08:27:40 UTC
 - [Cracked Software and YouTube Videos Spread CountLoader and GachiLoader Malware](https://thehackernews.com/2025/12/cracked-software-and-youtube-videos.html) - *The Hacker News* (2025-12-19)
 - [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/) - *Krebs on Security* (2025-12-19)
 - [AI Advertising Company Hacked](https://www.schneier.com/blog/archives/2025/12/ai-advertising-company-hacked.html) - *Schneier on Security* (2025-12-19)
-- [WatchGuard Warns of Active Exploitation of Critical Fireware OS VPN Vulnerability](https://thehackernews.com/2025/12/watchguard-warns-of-active-exploitation.html) - *The Hacker News* (2025-12-19)
 - [Someone Boarded a Plane at Heathrow Without a Ticket or Passport](https://www.schneier.com/blog/archives/2025/12/someone-boarded-a-plane-at-heathrow-without-a-ticket-or-passport.html) - *Schneier on Security* (2025-12-18)
 - [Deliberate Internet Shutdowns](https://www.schneier.com/blog/archives/2025/12/deliberate-internet-shutdowns.html) - *Schneier on Security* (2025-12-17)
 
