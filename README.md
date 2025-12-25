@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2025-12-24 08:31:34 UTC
+Automated tech news updates. Last updated: 2025-12-25 08:30:30 UTC
 
 ## Software Architecture
 
@@ -20,6 +20,7 @@ Automated tech news updates. Last updated: 2025-12-24 08:31:34 UTC
 
 ## Kubernetes
 
+- [Bringing sustainability back into the conversation: CNCF Cloud Native Sustainability Month Tokyo](https://www.cncf.io/blog/2025/12/24/bringing-sustainability-back-into-the-conversation-cncf-cloud-native-sustainability-month-tokyo/) - *Blog – Cloud Native Computing Foundation* (2025-12-24)
 - [Kubernetes v1.35: Fine-grained Supplemental Groups Control Graduates to GA](https://kubernetes.io/blog/2025/12/23/kubernetes-v1-35-fine-grained-supplementalgroups-control-ga/) - *Kubernetes Blog* (2025-12-23)
 - [Kyverno at ContribFest: Community, collaboration, and the power of open source in action](https://www.cncf.io/blog/2025/12/23/kyverno-at-contribfest-community-collaboration-and-the-power-of-open-source-in-action/) - *Blog – Cloud Native Computing Foundation* (2025-12-23)
 - [Kubernetes v1.35: Kubelet Configuration Drop-in Directory Graduates to GA](https://kubernetes.io/blog/2025/12/22/kubernetes-v1-35-kubelet-config-drop-in-directory-ga/) - *Kubernetes Blog* (2025-12-22)
@@ -29,20 +30,19 @@ Automated tech news updates. Last updated: 2025-12-24 08:31:34 UTC
 - [Kubernetes v1.35: Job Managed By Goes GA](https://kubernetes.io/blog/2025/12/18/kubernetes-v1-35-job-managedby-for-jobs-goes-ga/) - *Kubernetes Blog* (2025-12-18)
 - [Cilium releases 2025 annual report: A decade of cloud native networking](https://www.cncf.io/blog/2025/12/18/cilium-releases-2025-annual-report-a-decade-of-cloud-native-networking/) - *Blog – Cloud Native Computing Foundation* (2025-12-18)
 - [KubeVirt undergoes OSTIF security audit](https://www.cncf.io/blog/2025/12/17/kubevirt-undergoes-ostif-security-audit/) - *Blog – Cloud Native Computing Foundation* (2025-12-17)
-- [How to build a cost-effective observability platform with OpenTelemetry](https://www.cncf.io/blog/2025/12/16/how-to-build-a-cost-effective-observability-platform-with-opentelemetry/) - *Blog – Cloud Native Computing Foundation* (2025-12-16)
 
 ## Security
 
+- [New MacSync macOS Stealer Uses Signed App to Bypass Apple Gatekeeper](https://thehackernews.com/2025/12/new-macsync-macos-stealer-uses-signed.html) - *The Hacker News* (2025-12-24)
+- [Nomani Investment Scam Surges 62% Using AI Deepfake Ads on Social Media](https://thehackernews.com/2025/12/nomani-investment-scam-surges-62-using.html) - *The Hacker News* (2025-12-24)
+- [Urban VPN Proxy Surreptitiously Intercepts AI Chats](https://www.schneier.com/blog/archives/2025/12/urban-vpn-proxy-surreptitiously-intercepts-ai-chats.html) - *Schneier on Security* (2025-12-24)
+- [Attacks are Evolving: 3 Ways to Protect Your Business in 2026](https://thehackernews.com/2025/12/attacks-are-evolving-3-ways-to-protect.html) - *The Hacker News* (2025-12-24)
+- [SEC Files Charges Over $14 Million Crypto Scam Using Fake AI-Themed Investment Tips](https://thehackernews.com/2025/12/sec-files-charges-over-14-million.html) - *The Hacker News* (2025-12-24)
 - [Italy Fines Apple €98.6 Million Over ATT Rules Limiting App Store Competition](https://thehackernews.com/2025/12/italy-fines-apple-986-million-over-att.html) - *The Hacker News* (2025-12-24)
-- [Two Chrome Extensions Caught Secretly Stealing Credentials from Over 170 Sites](https://thehackernews.com/2025/12/two-chrome-extensions-caught-secretly.html) - *The Hacker News* (2025-12-23)
 - [Denmark Accuses Russia of Conducting Two Cyberattacks](https://www.schneier.com/blog/archives/2025/12/denmark-accuses-russia-of-conducting-two-cyberattacks.html) - *Schneier on Security* (2025-12-23)
-- [INTERPOL Arrests 574 in Africa; Ukrainian Ransomware Affiliate Pleads Guilty](https://thehackernews.com/2025/12/interpol-arrests-574-in-africa.html) - *The Hacker News* (2025-12-23)
-- [Passwd: A walkthrough of the Google Workspace Password Manager](https://thehackernews.com/2025/12/passwd-walkthrough-of-google-workspace.html) - *The Hacker News* (2025-12-23)
-- [U.S. DoJ Seizes Fraud Domain Behind $14.6 Million Bank Account Takeover Scheme](https://thehackernews.com/2025/12/us-doj-seizes-fraud-domain-behind-146.html) - *The Hacker News* (2025-12-23)
 - [Microsoft Is Finally Killing RC4](https://www.schneier.com/blog/archives/2025/12/microsoft-is-finally-killing-rc4.html) - *Schneier on Security* (2025-12-22)
 - [Friday Squid Blogging: Petting a Squid](https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-petting-a-squid.html) - *Schneier on Security* (2025-12-19)
 - [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/) - *Krebs on Security* (2025-12-19)
-- [AI Advertising Company Hacked](https://www.schneier.com/blog/archives/2025/12/ai-advertising-company-hacked.html) - *Schneier on Security* (2025-12-19)
 
 ## Databases/Storage
 
@@ -67,11 +67,11 @@ Automated tech news updates. Last updated: 2025-12-24 08:31:34 UTC
 
 ## Computing
 
+- [Being Santa Claus is a year-round calling](https://arstechnica.com/science/2025/12/being-santa-claus-is-a-year-round-calling/) - *Ars Technica - All content* (2025-12-24)
+- [SPEED Act passes in House despite changes that threaten clean power projects](https://arstechnica.com/tech-policy/2025/12/speed-act-passes-in-house-despite-changes-that-threaten-clean-power-projects/) - *Ars Technica - All content* (2025-12-24)
+- [TV Technica: Our favorite shows of 2025](https://arstechnica.com/culture/2025/12/tv-technica-our-favorite-shows-of-2025/) - *Ars Technica - All content* (2025-12-24)
+- [How AI coding agents work—and what to remember if you use them](https://arstechnica.com/information-technology/2025/12/how-do-ai-coding-agents-work-we-look-under-the-hood/) - *Ars Technica - All content* (2025-12-24)
 - [China just carried out its second reusable launch attempt in three weeks](https://arstechnica.com/space/2025/12/china-just-carried-out-its-second-reusable-launch-attempt-in-three-weeks/) - *Ars Technica - All content* (2025-12-23)
-- [Leaked Avengers: Doomsday teaser is now public](https://arstechnica.com/culture/2025/12/steve-rogers-returns-in-avengers-doomsday-teaser/) - *Ars Technica - All content* (2025-12-23)
-- [FCC’s import ban on the best new drones starts today](https://arstechnica.com/gadgets/2025/12/djis-new-drones-will-not-be-available-in-the-us-as-fcc-ban-takes-effect/) - *Ars Technica - All content* (2025-12-23)
-- [OpenAI’s child exploitation reports increased sharply this year](https://arstechnica.com/tech-policy/2025/12/openais-child-exploitation-reports-increased-sharply-this-year/) - *Ars Technica - All content* (2025-12-23)
-- [“Yo what?” LimeWire re-emerges in online rush to share pulled “60 Minutes” segment](https://arstechnica.com/tech-policy/2025/12/yo-what-limewire-re-emerges-in-online-rush-to-share-pulled-60-minutes-segment/) - *Ars Technica - All content* (2025-12-23)
 
 ## AI/Models/RL
 
@@ -81,16 +81,16 @@ Automated tech news updates. Last updated: 2025-12-24 08:31:34 UTC
 - [Continuously hardening ChatGPT Atlas against prompt injection](https://openai.com/index/hardening-atlas-against-prompt-injection) - *OpenAI News* (2025-12-22)
 - [Google Research 2025: Bolder breakthroughs, bigger impact](https://research.google/blog/google-research-2025-bolder-breakthroughs-bigger-impact/) - *The latest research from Google* (2025-12-18)
 - [Evaluating chain-of-thought monitorability](https://openai.com/index/evaluating-chain-of-thought-monitorability) - *OpenAI News* (2025-12-18)
-- [AI literacy resources for teens and parents](https://openai.com/index/ai-literacy-resources-for-teens-and-parents) - *OpenAI News* (2025-12-18)
 - [Deepening our collaboration with the U.S. Department of Energy](https://openai.com/index/us-department-of-energy-collaboration) - *OpenAI News* (2025-12-18)
+- [AI literacy resources for teens and parents](https://openai.com/index/ai-literacy-resources-for-teens-and-parents) - *OpenAI News* (2025-12-18)
 - [Tokenization in Transformers v5: Simpler, Clearer, and More Modular](https://huggingface.co/blog/tokenizers) - *Hugging Face - Blog* (2025-12-18)
 - [The Open Evaluation Standard: Benchmarking NVIDIA Nemotron 3 Nano with NeMo Evaluator](https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe) - *Hugging Face - Blog* (2025-12-17)
 
 ## AI Infra
 
+- [Programmatically creating an IDP solution with Amazon Bedrock Data Automation](https://aws.amazon.com/blogs/machine-learning/programmatically-creating-an-idp-solution-with-amazon-bedrock-data-automation/) - *Artificial Intelligence* (2025-12-24)
+- [AI agent-driven browser automation for enterprise workflow management](https://aws.amazon.com/blogs/machine-learning/ai-agent-driven-browser-automation-for-enterprise-workflow-management/) - *Artificial Intelligence* (2025-12-24)
+- [Agentic QA automation using Amazon Bedrock AgentCore Browser and Amazon Nova Act](https://aws.amazon.com/blogs/machine-learning/agentic-qa-automation-using-amazon-bedrock-agentcore-browser-and-amazon-nova-act/) - *Artificial Intelligence* (2025-12-24)
+- [Optimizing LLM inference on Amazon SageMaker AI with BentoML’s LLM- Optimizer](https://aws.amazon.com/blogs/machine-learning/optimizing-llm-inference-on-amazon-sagemaker-ai-with-bentomls-llm-optimizer/) - *Artificial Intelligence* (2025-12-24)
 - [Exploring the zero operator access design of Mantle](https://aws.amazon.com/blogs/machine-learning/exploring-the-zero-operator-access-design-of-mantle/) - *Artificial Intelligence* (2025-12-23)
-- [AWS AI League: Model customization and agentic showdown](https://aws.amazon.com/blogs/machine-learning/aws-ai-league-model-customization-and-agentic-showdown/) - *Artificial Intelligence* (2025-12-23)
-- [Accelerate Enterprise AI Development using Weights & Biases and Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/accelerate-enterprise-ai-development-using-weights-biases-weave-and-amazon-bedrock-agentcore/) - *Artificial Intelligence* (2025-12-23)
-- [How dLocal automated compliance reviews using Amazon Quick Automate](https://aws.amazon.com/blogs/machine-learning/how-dlocal-automated-compliance-reviews-using-amazon-quick-automate/) - *Artificial Intelligence* (2025-12-23)
-- [Advancing ADHD diagnosis: How Qbtech built a mobile AI assessment Model Using Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/advancing-adhd-diagnosis-how-qbtech-built-a-mobile-ai-assessment-model-using-amazon-sagemaker-ai/) - *Artificial Intelligence* (2025-12-23)
 
