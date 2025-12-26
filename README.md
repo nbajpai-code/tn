@@ -1,14 +1,14 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2025-12-25 08:30:30 UTC
+Automated tech news updates. Last updated: 2025-12-26 08:30:03 UTC
 
 ## Software Architecture
 
+- [QCon AI NY 2025 - Becoming AI-Native Without Losing Our Minds To Architectural Amnesia](https://www.infoq.com/news/2025/12/qconai-architecural-amnesia/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2025-12-25)
 - [Article: Building Streaming Infrastructure That Scales: Because Viewers Won't Wait Until Tomorrow](https://www.infoq.com/articles/evolution-backend-streaming-application/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2025-12-23)
 - [AWS Expands Well-Architected Framework with Responsible AI and Updated ML and Generative AI Lenses](https://www.infoq.com/news/2025/12/aws-expands-well-architected/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2025-12-19)
 - [Article: Where Architects Sit in the Era of AI](https://www.infoq.com/articles/architects-ai-era/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2025-12-19)
 - [InfoQ Announces January Online Architect Cohort Focused on Socio-Technical Leadership](https://www.infoq.com/news/2025/12/infoq-architect-jan-26/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2025-12-18)
-- [Article: Architecture in a Flow of AI-Augmented Change](https://www.infoq.com/articles/architecture-ai-augmented-change/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2025-12-18)
 
 ## Cloud Computing
 
@@ -33,12 +33,12 @@ Automated tech news updates. Last updated: 2025-12-25 08:30:30 UTC
 
 ## Security
 
+- [ThreatsDay Bulletin: Stealth Loaders, AI Chatbot Flaws AI Exploits, Docker Hack, and 15 More Stories](https://thehackernews.com/2025/12/threatsday-bulletin-stealth-loaders-ai.html) - *The Hacker News* (2025-12-25)
+- [LastPass 2022 Breach Led to Years-Long Cryptocurrency Thefts, TRM Labs Finds](https://thehackernews.com/2025/12/lastpass-2022-breach-led-to-years-long.html) - *The Hacker News* (2025-12-25)
+- [Fortinet Warns of Active Exploitation of FortiOS SSL VPN 2FA Bypass Vulnerability](https://thehackernews.com/2025/12/fortinet-warns-of-active-exploitation.html) - *The Hacker News* (2025-12-25)
+- [CISA Flags Actively Exploited Digiever NVR Vulnerability Allowing Remote Code Execution](https://thehackernews.com/2025/12/cisa-flags-actively-exploited-digiever.html) - *The Hacker News* (2025-12-25)
 - [New MacSync macOS Stealer Uses Signed App to Bypass Apple Gatekeeper](https://thehackernews.com/2025/12/new-macsync-macos-stealer-uses-signed.html) - *The Hacker News* (2025-12-24)
-- [Nomani Investment Scam Surges 62% Using AI Deepfake Ads on Social Media](https://thehackernews.com/2025/12/nomani-investment-scam-surges-62-using.html) - *The Hacker News* (2025-12-24)
 - [Urban VPN Proxy Surreptitiously Intercepts AI Chats](https://www.schneier.com/blog/archives/2025/12/urban-vpn-proxy-surreptitiously-intercepts-ai-chats.html) - *Schneier on Security* (2025-12-24)
-- [Attacks are Evolving: 3 Ways to Protect Your Business in 2026](https://thehackernews.com/2025/12/attacks-are-evolving-3-ways-to-protect.html) - *The Hacker News* (2025-12-24)
-- [SEC Files Charges Over $14 Million Crypto Scam Using Fake AI-Themed Investment Tips](https://thehackernews.com/2025/12/sec-files-charges-over-14-million.html) - *The Hacker News* (2025-12-24)
-- [Italy Fines Apple €98.6 Million Over ATT Rules Limiting App Store Competition](https://thehackernews.com/2025/12/italy-fines-apple-986-million-over-att.html) - *The Hacker News* (2025-12-24)
 - [Denmark Accuses Russia of Conducting Two Cyberattacks](https://www.schneier.com/blog/archives/2025/12/denmark-accuses-russia-of-conducting-two-cyberattacks.html) - *Schneier on Security* (2025-12-23)
 - [Microsoft Is Finally Killing RC4](https://www.schneier.com/blog/archives/2025/12/microsoft-is-finally-killing-rc4.html) - *Schneier on Security* (2025-12-22)
 - [Friday Squid Blogging: Petting a Squid](https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-petting-a-squid.html) - *Schneier on Security* (2025-12-19)
@@ -46,11 +46,11 @@ Automated tech news updates. Last updated: 2025-12-25 08:30:30 UTC
 
 ## Databases/Storage
 
+- [Shinya Kato: New PostgreSQL Features I Developed in 2025](https://postgr.es/p/7oF) - *Planet PostgreSQL* (2025-12-25)
 - [Oleg Bartunov: Unpublished interview](https://postgr.es/p/7oE) - *Planet PostgreSQL* (2025-12-23)
 - [Tomas Vondra: Don't give Postgres too much memory (even on busy systems)](https://postgr.es/p/7oD) - *Planet PostgreSQL* (2025-12-23)
 - [Umair Shahid: PostgreSQL Column Limits](https://postgr.es/p/7oC) - *Planet PostgreSQL* (2025-12-23)
 - [Mayur B.: PostgreSQL Santa’s Naughty Query List: How to Earn a Spot on the Nice Query List?](https://postgr.es/p/7oB) - *Planet PostgreSQL* (2025-12-23)
-- [Hans-Juergen Schoenig: PostgreSQL Performance: Latency in the Cloud and On Premise](https://postgr.es/p/7oA) - *Planet PostgreSQL* (2025-12-23)
 - [Amazon ElastiCache re:Invent 2025 recap](https://aws.amazon.com/blogs/database/amazon-elasticache-reinvent-2025-recap/) - *AWS Database Blog* (2025-12-22)
 - [That’s a Wrap: MongoDB’s 2025 in Review & 2026 Predictions](https://www.mongodb.com/company/blog/mongodb-2025-in-review-2026-predictions) - *MongoDB | Blog* (2025-12-22)
 - [Optimizing correlated subqueries in Amazon Aurora PostgreSQL](https://aws.amazon.com/blogs/database/optimizing-correlated-subqueries-in-amazon-aurora-postgresql/) - *AWS Database Blog* (2025-12-18)
