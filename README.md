@@ -1,14 +1,14 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2025-12-26 08:30:03 UTC
+Automated tech news updates. Last updated: 2025-12-27 08:28:18 UTC
 
 ## Software Architecture
 
+- [Benchmarking Beyond the Application Layer: How Uber Evaluates Infrastructure Changes and Cloud Skus](https://www.infoq.com/news/2025/12/uber-infrastructure-benchmarking/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2025-12-26)
 - [QCon AI NY 2025 - Becoming AI-Native Without Losing Our Minds To Architectural Amnesia](https://www.infoq.com/news/2025/12/qconai-architecural-amnesia/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2025-12-25)
 - [Article: Building Streaming Infrastructure That Scales: Because Viewers Won't Wait Until Tomorrow](https://www.infoq.com/articles/evolution-backend-streaming-application/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2025-12-23)
 - [AWS Expands Well-Architected Framework with Responsible AI and Updated ML and Generative AI Lenses](https://www.infoq.com/news/2025/12/aws-expands-well-architected/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2025-12-19)
 - [Article: Where Architects Sit in the Era of AI](https://www.infoq.com/articles/architects-ai-era/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2025-12-19)
-- [InfoQ Announces January Online Architect Cohort Focused on Socio-Technical Leadership](https://www.infoq.com/news/2025/12/infoq-architect-jan-26/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2025-12-18)
 
 ## Cloud Computing
 
@@ -33,16 +33,16 @@ Automated tech news updates. Last updated: 2025-12-26 08:30:03 UTC
 
 ## Security
 
+- [New MongoDB Flaw Lets Unauthenticated Attackers Read Uninitialized Memory](https://thehackernews.com/2025/12/new-mongodb-flaw-lets-unauthenticated.html) - *The Hacker News* (2025-12-27)
+- [Friday Squid Blogging: Squid Camouflage](https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-squid-camouflage.html) - *Schneier on Security* (2025-12-26)
+- [Trust Wallet Chrome Extension Breach Caused $7 Million Crypto Loss via Malicious Code](https://thehackernews.com/2025/12/trust-wallet-chrome-extension-bug.html) - *The Hacker News* (2025-12-26)
+- [China-Linked Evasive Panda Ran DNS Poisoning Campaign to Deliver MgBot Malware](https://thehackernews.com/2025/12/china-linked-evasive-panda-ran-dns.html) - *The Hacker News* (2025-12-26)
+- [IoT Hack](https://www.schneier.com/blog/archives/2025/12/iot-hack.html) - *Schneier on Security* (2025-12-26)
+- [Critical LangChain Core Vulnerability Exposes Secrets via Serialization Injection](https://thehackernews.com/2025/12/critical-langchain-core-vulnerability.html) - *The Hacker News* (2025-12-26)
 - [ThreatsDay Bulletin: Stealth Loaders, AI Chatbot Flaws AI Exploits, Docker Hack, and 15 More Stories](https://thehackernews.com/2025/12/threatsday-bulletin-stealth-loaders-ai.html) - *The Hacker News* (2025-12-25)
-- [LastPass 2022 Breach Led to Years-Long Cryptocurrency Thefts, TRM Labs Finds](https://thehackernews.com/2025/12/lastpass-2022-breach-led-to-years-long.html) - *The Hacker News* (2025-12-25)
-- [Fortinet Warns of Active Exploitation of FortiOS SSL VPN 2FA Bypass Vulnerability](https://thehackernews.com/2025/12/fortinet-warns-of-active-exploitation.html) - *The Hacker News* (2025-12-25)
-- [CISA Flags Actively Exploited Digiever NVR Vulnerability Allowing Remote Code Execution](https://thehackernews.com/2025/12/cisa-flags-actively-exploited-digiever.html) - *The Hacker News* (2025-12-25)
-- [New MacSync macOS Stealer Uses Signed App to Bypass Apple Gatekeeper](https://thehackernews.com/2025/12/new-macsync-macos-stealer-uses-signed.html) - *The Hacker News* (2025-12-24)
 - [Urban VPN Proxy Surreptitiously Intercepts AI Chats](https://www.schneier.com/blog/archives/2025/12/urban-vpn-proxy-surreptitiously-intercepts-ai-chats.html) - *Schneier on Security* (2025-12-24)
 - [Denmark Accuses Russia of Conducting Two Cyberattacks](https://www.schneier.com/blog/archives/2025/12/denmark-accuses-russia-of-conducting-two-cyberattacks.html) - *Schneier on Security* (2025-12-23)
 - [Microsoft Is Finally Killing RC4](https://www.schneier.com/blog/archives/2025/12/microsoft-is-finally-killing-rc4.html) - *Schneier on Security* (2025-12-22)
-- [Friday Squid Blogging: Petting a Squid](https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-petting-a-squid.html) - *Schneier on Security* (2025-12-19)
-- [Dismantling Defenses: Trump 2.0 Cyber Year in Review](https://krebsonsecurity.com/2025/12/dismantling-defenses-trump-2-0-cyber-year-in-review/) - *Krebs on Security* (2025-12-19)
 
 ## Databases/Storage
 
@@ -67,11 +67,11 @@ Automated tech news updates. Last updated: 2025-12-26 08:30:03 UTC
 
 ## Computing
 
+- [Embark on a visual voyage of art inspired by black holes](https://arstechnica.com/science/2025/12/embark-on-a-visual-voyage-of-art-inspired-by-black-holes/) - *Ars Technica - All content* (2025-12-26)
+- [In the ’90s, Wing Commander: Privateer made me realize what kind of games I love](https://arstechnica.com/gaming/2025/12/in-the-90s-wing-commander-privateer-made-me-realize-what-kind-of-games-i-love/) - *Ars Technica - All content* (2025-12-26)
+- [Ars Technica’s Top 20 video games of 2025](https://arstechnica.com/gaming/2025/12/ars-technicas-top-20-video-games-of-2025/) - *Ars Technica - All content* (2025-12-26)
 - [Being Santa Claus is a year-round calling](https://arstechnica.com/science/2025/12/being-santa-claus-is-a-year-round-calling/) - *Ars Technica - All content* (2025-12-24)
 - [SPEED Act passes in House despite changes that threaten clean power projects](https://arstechnica.com/tech-policy/2025/12/speed-act-passes-in-house-despite-changes-that-threaten-clean-power-projects/) - *Ars Technica - All content* (2025-12-24)
-- [TV Technica: Our favorite shows of 2025](https://arstechnica.com/culture/2025/12/tv-technica-our-favorite-shows-of-2025/) - *Ars Technica - All content* (2025-12-24)
-- [How AI coding agents work—and what to remember if you use them](https://arstechnica.com/information-technology/2025/12/how-do-ai-coding-agents-work-we-look-under-the-hood/) - *Ars Technica - All content* (2025-12-24)
-- [China just carried out its second reusable launch attempt in three weeks](https://arstechnica.com/space/2025/12/china-just-carried-out-its-second-reusable-launch-attempt-in-three-weeks/) - *Ars Technica - All content* (2025-12-23)
 
 ## AI/Models/RL
 
