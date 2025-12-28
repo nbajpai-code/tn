@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2025-12-27 08:28:18 UTC
+Automated tech news updates. Last updated: 2025-12-28 08:28:38 UTC
 
 ## Software Architecture
 
@@ -59,11 +59,11 @@ Automated tech news updates. Last updated: 2025-12-27 08:28:18 UTC
 
 ## Networking
 
-- [Google Cloud signs $10 billion deal with Palo Alto Networks](https://www.networkworld.com/article/4111130/google-cloud-signs-billion-dollar-deal-with-palo-alto-networks.html) - *Google Cloud signs $10 billion deal with Palo Alto Networks | Network World* (2025-12-23)
-- [Google agrees to acquire infrastructure builder Intersect to accelerate capacity development](https://www.networkworld.com/article/4110832/google-agrees-to-acquire-infrastructure-builder-intersect-to-accelerate-capacity-development.html) - *Google Cloud signs $10 billion deal with Palo Alto Networks | Network World* (2025-12-23)
-- [Data center investments break all records](https://www.networkworld.com/article/4110602/data-center-investments-break-all-records.html) - *Google Cloud signs $10 billion deal with Palo Alto Networks | Network World* (2025-12-22)
-- [Top 5 enterprise tech priorities for 2026](https://www.networkworld.com/article/4108954/top-5-enterprise-tech-priorities-for-2026.html) - *Google Cloud signs $10 billion deal with Palo Alto Networks | Network World* (2025-12-22)
-- [WatchGuard fixes ‘critical’ zero-day allowing firewall takeover](https://www.networkworld.com/article/4109921/watchguard-fixes-critical-zero-day-allowing-firewall-takeover-2.html) - *Google Cloud signs $10 billion deal with Palo Alto Networks | Network World* (2025-12-19)
+- [Top 10 Nvidia stories of 2025 –  From data center to AI factory](https://www.networkworld.com/article/4111630/top-10-nvidia-stories-of-2025-from-data-center-to-ai-factory.html) - *Top 10 Nvidia stories of 2025 –  From data center to AI factory | Network World* (2025-12-26)
+- [Google Cloud signs $10 billion deal with Palo Alto Networks](https://www.networkworld.com/article/4111130/google-cloud-signs-billion-dollar-deal-with-palo-alto-networks.html) - *Top 10 Nvidia stories of 2025 –  From data center to AI factory | Network World* (2025-12-23)
+- [Google agrees to acquire infrastructure builder Intersect to accelerate capacity development](https://www.networkworld.com/article/4110832/google-agrees-to-acquire-infrastructure-builder-intersect-to-accelerate-capacity-development.html) - *Top 10 Nvidia stories of 2025 –  From data center to AI factory | Network World* (2025-12-23)
+- [Data center investments break all records](https://www.networkworld.com/article/4110602/data-center-investments-break-all-records.html) - *Top 10 Nvidia stories of 2025 –  From data center to AI factory | Network World* (2025-12-22)
+- [Top 5 enterprise tech priorities for 2026](https://www.networkworld.com/article/4108954/top-5-enterprise-tech-priorities-for-2026.html) - *Top 10 Nvidia stories of 2025 –  From data center to AI factory | Network World* (2025-12-22)
 
 ## Computing
 
