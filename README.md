@@ -1,11 +1,11 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2025-12-28 08:28:38 UTC
+Automated tech news updates. Last updated: 2025-12-29 08:33:49 UTC
 
 ## Software Architecture
 
-- [Benchmarking Beyond the Application Layer: How Uber Evaluates Infrastructure Changes and Cloud Skus](https://www.infoq.com/news/2025/12/uber-infrastructure-benchmarking/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2025-12-26)
-- [QCon AI NY 2025 - Becoming AI-Native Without Losing Our Minds To Architectural Amnesia](https://www.infoq.com/news/2025/12/qconai-architecural-amnesia/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2025-12-25)
+- [Benchmarking beyond the Application Layer: How Uber Evaluates Infrastructure Changes and Cloud Skus](https://www.infoq.com/news/2025/12/uber-infrastructure-benchmarking/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2025-12-26)
+- [QCon AI NY 2025 - Becoming AI-Native without Losing our Minds to Architectural Amnesia](https://www.infoq.com/news/2025/12/qconai-architecural-amnesia/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2025-12-25)
 - [Article: Building Streaming Infrastructure That Scales: Because Viewers Won't Wait Until Tomorrow](https://www.infoq.com/articles/evolution-backend-streaming-application/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2025-12-23)
 - [AWS Expands Well-Architected Framework with Responsible AI and Updated ML and Generative AI Lenses](https://www.infoq.com/news/2025/12/aws-expands-well-architected/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2025-12-19)
 - [Article: Where Architects Sit in the Era of AI](https://www.infoq.com/articles/architects-ai-era/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2025-12-19)
@@ -33,24 +33,24 @@ Automated tech news updates. Last updated: 2025-12-28 08:28:38 UTC
 
 ## Security
 
+- [MongoDB Vulnerability CVE-2025-14847 Under Active Exploitation Worldwide](https://thehackernews.com/2025/12/mongodb-vulnerability-cve-2025-14847.html) - *The Hacker News* (2025-12-29)
+- [Traditional Security Frameworks Leave Organizations Exposed to AI-Specific Attack Vectors](https://thehackernews.com/2025/12/traditional-security-frameworks-leave.html) - *The Hacker News* (2025-12-29)
 - [New MongoDB Flaw Lets Unauthenticated Attackers Read Uninitialized Memory](https://thehackernews.com/2025/12/new-mongodb-flaw-lets-unauthenticated.html) - *The Hacker News* (2025-12-27)
 - [Friday Squid Blogging: Squid Camouflage](https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-squid-camouflage.html) - *Schneier on Security* (2025-12-26)
 - [Trust Wallet Chrome Extension Breach Caused $7 Million Crypto Loss via Malicious Code](https://thehackernews.com/2025/12/trust-wallet-chrome-extension-bug.html) - *The Hacker News* (2025-12-26)
 - [China-Linked Evasive Panda Ran DNS Poisoning Campaign to Deliver MgBot Malware](https://thehackernews.com/2025/12/china-linked-evasive-panda-ran-dns.html) - *The Hacker News* (2025-12-26)
 - [IoT Hack](https://www.schneier.com/blog/archives/2025/12/iot-hack.html) - *Schneier on Security* (2025-12-26)
-- [Critical LangChain Core Vulnerability Exposes Secrets via Serialization Injection](https://thehackernews.com/2025/12/critical-langchain-core-vulnerability.html) - *The Hacker News* (2025-12-26)
-- [ThreatsDay Bulletin: Stealth Loaders, AI Chatbot Flaws AI Exploits, Docker Hack, and 15 More Stories](https://thehackernews.com/2025/12/threatsday-bulletin-stealth-loaders-ai.html) - *The Hacker News* (2025-12-25)
 - [Urban VPN Proxy Surreptitiously Intercepts AI Chats](https://www.schneier.com/blog/archives/2025/12/urban-vpn-proxy-surreptitiously-intercepts-ai-chats.html) - *Schneier on Security* (2025-12-24)
 - [Denmark Accuses Russia of Conducting Two Cyberattacks](https://www.schneier.com/blog/archives/2025/12/denmark-accuses-russia-of-conducting-two-cyberattacks.html) - *Schneier on Security* (2025-12-23)
 - [Microsoft Is Finally Killing RC4](https://www.schneier.com/blog/archives/2025/12/microsoft-is-finally-killing-rc4.html) - *Schneier on Security* (2025-12-22)
 
 ## Databases/Storage
 
+- [REGINA OBE: FOSS4GNA 2025: Summary](https://postgr.es/p/7oK) - *Planet PostgreSQL* (2025-12-28)
+- [Cornelia Biacsics: Contributions for week 53, 2025](https://postgr.es/p/7oJ) - *Planet PostgreSQL* (2025-12-28)
+- [Ryan Lambert: Improved Quality in OpenStreetMap Road Network for pgRouting](https://postgr.es/p/7oI) - *Planet PostgreSQL* (2025-12-28)
 - [Shinya Kato: New PostgreSQL Features I Developed in 2025](https://postgr.es/p/7oF) - *Planet PostgreSQL* (2025-12-25)
 - [Oleg Bartunov: Unpublished interview](https://postgr.es/p/7oE) - *Planet PostgreSQL* (2025-12-23)
-- [Tomas Vondra: Don't give Postgres too much memory (even on busy systems)](https://postgr.es/p/7oD) - *Planet PostgreSQL* (2025-12-23)
-- [Umair Shahid: PostgreSQL Column Limits](https://postgr.es/p/7oC) - *Planet PostgreSQL* (2025-12-23)
-- [Mayur B.: PostgreSQL Santa’s Naughty Query List: How to Earn a Spot on the Nice Query List?](https://postgr.es/p/7oB) - *Planet PostgreSQL* (2025-12-23)
 - [Amazon ElastiCache re:Invent 2025 recap](https://aws.amazon.com/blogs/database/amazon-elasticache-reinvent-2025-recap/) - *AWS Database Blog* (2025-12-22)
 - [That’s a Wrap: MongoDB’s 2025 in Review & 2026 Predictions](https://www.mongodb.com/company/blog/mongodb-2025-in-review-2026-predictions) - *MongoDB | Blog* (2025-12-22)
 - [Optimizing correlated subqueries in Amazon Aurora PostgreSQL](https://aws.amazon.com/blogs/database/optimizing-correlated-subqueries-in-amazon-aurora-postgresql/) - *AWS Database Blog* (2025-12-18)
