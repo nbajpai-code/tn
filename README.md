@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2025-12-30 08:31:25 UTC
+Automated tech news updates. Last updated: 2025-12-31 08:31:32 UTC
 
 ## Software Architecture
 
@@ -20,6 +20,7 @@ Automated tech news updates. Last updated: 2025-12-30 08:31:25 UTC
 
 ## Kubernetes
 
+- [Kubernetes v1.35: Watch Based Route Reconciliation in the Cloud Controller Manager](https://kubernetes.io/blog/2025/12/30/kubernetes-v1-35-watch-based-route-reconciliation-in-ccm/) - *Kubernetes Blog* (2025-12-30)
 - [Kubernetes v1.35: Introducing Workload Aware Scheduling](https://kubernetes.io/blog/2025/12/29/kubernetes-v1-35-introducing-workload-aware-scheduling/) - *Kubernetes Blog* (2025-12-29)
 - [How to integrate Kairos architecturally into an edge AI platform](https://www.cncf.io/blog/2025/12/29/how-to-integrate-kairos-architecturally-into-an-edge-ai-platform/) - *Blog – Cloud Native Computing Foundation* (2025-12-29)
 - [Bringing sustainability back into the conversation: CNCF Cloud Native Sustainability Month Tokyo](https://www.cncf.io/blog/2025/12/24/bringing-sustainability-back-into-the-conversation-cncf-cloud-native-sustainability-month-tokyo/) - *Blog – Cloud Native Computing Foundation* (2025-12-24)
@@ -27,22 +28,21 @@ Automated tech news updates. Last updated: 2025-12-30 08:31:25 UTC
 - [Kyverno at ContribFest: Community, collaboration, and the power of open source in action](https://www.cncf.io/blog/2025/12/23/kyverno-at-contribfest-community-collaboration-and-the-power-of-open-source-in-action/) - *Blog – Cloud Native Computing Foundation* (2025-12-23)
 - [Kubernetes v1.35: Kubelet Configuration Drop-in Directory Graduates to GA](https://kubernetes.io/blog/2025/12/22/kubernetes-v1-35-kubelet-config-drop-in-directory-ga/) - *Kubernetes Blog* (2025-12-22)
 - [Avoiding Zombie Cluster Members When Upgrading to etcd v3.6](https://kubernetes.io/blog/2025/12/21/preventing-etcd-zombies/) - *Kubernetes Blog* (2025-12-21)
-- [Kubernetes 1.35: In-Place Pod Resize Graduates to Stable](https://kubernetes.io/blog/2025/12/19/kubernetes-v1-35-in-place-pod-resize-ga/) - *Kubernetes Blog* (2025-12-19)
 - [The mentorship flywheel: How CNCF is growing the next generation of cloud native leaders](https://www.cncf.io/blog/2025/12/18/the-mentorship-flywheel-how-cncf-is-growing-the-next-generation-of-cloud-native-leaders/) - *Blog – Cloud Native Computing Foundation* (2025-12-18)
 - [Cilium releases 2025 annual report: A decade of cloud native networking](https://www.cncf.io/blog/2025/12/18/cilium-releases-2025-annual-report-a-decade-of-cloud-native-networking/) - *Blog – Cloud Native Computing Foundation* (2025-12-18)
 
 ## Security
 
+- [U.S. Treasury Lifts Sanctions on Three Individuals Linked to Intellexa and Predator Spyware](https://thehackernews.com/2025/12/us-treasury-lifts-sanctions-on-three.html) - *The Hacker News* (2025-12-31)
+- [CSA Issues Alert on Critical SmarterMail Bug Allowing Remote Code Execution](https://thehackernews.com/2025/12/csa-issues-alert-on-critical.html) - *The Hacker News* (2025-12-30)
+- [Using AI-Generated Images to Get Refunds](https://www.schneier.com/blog/archives/2025/12/using-ai-generated-images-to-get-refunds.html) - *Schneier on Security* (2025-12-30)
+- [Silver Fox Targets Indian Users With Tax-Themed Emails Delivering ValleyRAT Malware](https://thehackernews.com/2025/12/silver-fox-targets-indian-users-with.html) - *The Hacker News* (2025-12-30)
+- [How to Integrate AI into Modern SOC Workflows](https://thehackernews.com/2025/12/how-to-integrate-ai-into-modern-soc.html) - *The Hacker News* (2025-12-30)
+- [Mustang Panda Uses Signed Kernel-Mode Rootkit to Load TONESHELL Backdoor](https://thehackernews.com/2025/12/mustang-panda-uses-signed-kernel-driver.html) - *The Hacker News* (2025-12-30)
 - [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/) - *Krebs on Security* (2025-12-29)
-- [⚡ Weekly Recap: MongoDB Attacks, Wallet Breaches, Android Spyware, Insider Crime & More](https://thehackernews.com/2025/12/weekly-recap-mongodb-attacks-wallet.html) - *The Hacker News* (2025-12-29)
 - [Are We Ready to Be Governed by Artificial Intelligence?](https://www.schneier.com/blog/archives/2025/12/are-we-ready-to-be-governed-by-artificial-intelligence.html) - *Schneier on Security* (2025-12-29)
-- [MongoDB Vulnerability CVE-2025-14847 Under Active Exploitation Worldwide](https://thehackernews.com/2025/12/mongodb-vulnerability-cve-2025-14847.html) - *The Hacker News* (2025-12-29)
-- [27 Malicious npm Packages Used as Phishing Infrastructure to Steal Login Credentials](https://thehackernews.com/2025/12/27-malicious-npm-packages-used-as.html) - *The Hacker News* (2025-12-29)
-- [Traditional Security Frameworks Leave Organizations Exposed to AI-Specific Attack Vectors](https://thehackernews.com/2025/12/traditional-security-frameworks-leave.html) - *The Hacker News* (2025-12-29)
-- [New MongoDB Flaw Lets Unauthenticated Attackers Read Uninitialized Memory](https://thehackernews.com/2025/12/new-mongodb-flaw-lets-unauthenticated.html) - *The Hacker News* (2025-12-27)
 - [Friday Squid Blogging: Squid Camouflage](https://www.schneier.com/blog/archives/2025/12/friday-squid-blogging-squid-camouflage.html) - *Schneier on Security* (2025-12-26)
 - [IoT Hack](https://www.schneier.com/blog/archives/2025/12/iot-hack.html) - *Schneier on Security* (2025-12-26)
-- [Urban VPN Proxy Surreptitiously Intercepts AI Chats](https://www.schneier.com/blog/archives/2025/12/urban-vpn-proxy-surreptitiously-intercepts-ai-chats.html) - *Schneier on Security* (2025-12-24)
 
 ## Databases/Storage
 
@@ -59,19 +59,19 @@ Automated tech news updates. Last updated: 2025-12-30 08:31:25 UTC
 
 ## Networking
 
-- [SoftBank expands AI infrastructure ambitions with $4B DigitalBridge acquisition](https://www.networkworld.com/article/4111965/softbank-expands-ai-infrastructure-ambitions-with-4b-digitalbridge-acquisition.html) - *SoftBank expands AI infrastructure ambitions with $4B DigitalBridge acquisition | Network World* (2025-12-29)
-- [Top Intel stories of 2025](https://www.networkworld.com/article/4111310/top-intel-stories-of-2025.html) - *SoftBank expands AI infrastructure ambitions with $4B DigitalBridge acquisition | Network World* (2025-12-29)
-- [Top 10 Nvidia stories of 2025 –  From data center to AI factory](https://www.networkworld.com/article/4111630/top-10-nvidia-stories-of-2025-from-data-center-to-ai-factory.html) - *SoftBank expands AI infrastructure ambitions with $4B DigitalBridge acquisition | Network World* (2025-12-26)
-- [Google Cloud signs $10 billion deal with Palo Alto Networks](https://www.networkworld.com/article/4111130/google-cloud-signs-billion-dollar-deal-with-palo-alto-networks.html) - *SoftBank expands AI infrastructure ambitions with $4B DigitalBridge acquisition | Network World* (2025-12-23)
-- [Google agrees to acquire infrastructure builder Intersect to accelerate capacity development](https://www.networkworld.com/article/4110832/google-agrees-to-acquire-infrastructure-builder-intersect-to-accelerate-capacity-development.html) - *SoftBank expands AI infrastructure ambitions with $4B DigitalBridge acquisition | Network World* (2025-12-23)
+- [Nvidia licenses Groq’s inferencing chip tech and hires its leaders](https://www.networkworld.com/article/4112131/nvidia-licenses-groqs-inferencing-chip-tech-and-hires-its-leaders.html) - *Nvidia licenses Groq’s inferencing chip tech and hires its leaders | Network World* (2025-12-30)
+- [SoftBank expands AI infrastructure ambitions with $4B DigitalBridge acquisition](https://www.networkworld.com/article/4111965/softbank-expands-ai-infrastructure-ambitions-with-4b-digitalbridge-acquisition.html) - *Nvidia licenses Groq’s inferencing chip tech and hires its leaders | Network World* (2025-12-29)
+- [Top Intel stories of 2025](https://www.networkworld.com/article/4111310/top-intel-stories-of-2025.html) - *Nvidia licenses Groq’s inferencing chip tech and hires its leaders | Network World* (2025-12-29)
+- [Top 10 Nvidia stories of 2025](https://www.networkworld.com/article/4111630/top-10-nvidia-stories-of-2025-from-data-center-to-ai-factory.html) - *Nvidia licenses Groq’s inferencing chip tech and hires its leaders | Network World* (2025-12-26)
+- [Google Cloud signs $10 billion deal with Palo Alto Networks](https://www.networkworld.com/article/4111130/google-cloud-signs-billion-dollar-deal-with-palo-alto-networks.html) - *Nvidia licenses Groq’s inferencing chip tech and hires its leaders | Network World* (2025-12-23)
 
 ## Computing
 
-- [US can’t deport hate speech researcher for protected speech, lawsuit says](https://arstechnica.com/tech-policy/2025/12/us-cant-deport-hate-speech-researcher-for-protected-speech-lawsuit-says/) - *Ars Technica - All content* (2025-12-29)
-- [Leonardo’s wood charring method predates Japanese practice](https://arstechnica.com/science/2025/12/did-one-line-in-a-leonardo-codex-anticipate-yakisugi/) - *Ars Technica - All content* (2025-12-29)
-- [Researchers make “neuromorphic” artificial skin for robots](https://arstechnica.com/science/2025/12/researchers-make-neuromorphic-artificial-skin-for-robots/) - *Ars Technica - All content* (2025-12-29)
-- [China drafts world’s strictest rules to end AI-encouraged suicide, violence](https://arstechnica.com/tech-policy/2025/12/china-drafts-worlds-strictest-rules-to-end-ai-encouraged-suicide-violence/) - *Ars Technica - All content* (2025-12-29)
-- [A quirky guide to myths and lore based in actual science](https://arstechnica.com/science/2025/12/a-quirky-guide-to-myths-and-lore-based-in-actual-science/) - *Ars Technica - All content* (2025-12-29)
+- [The science of how (and when) we decide to speak out—or self-censor](https://arstechnica.com/science/2025/12/the-science-of-how-and-when-we-decide-to-speak-out-or-self-censor/) - *Ars Technica - All content* (2025-12-30)
+- [Lawsuit over Trump rejecting medical research grants is settled](https://arstechnica.com/science/2025/12/feds-researchers-settle-suit-over-grants-blocked-by-now-illegal-order/) - *Ars Technica - All content* (2025-12-30)
+- [DOGE did not find $2T in fraud, but that doesn’t matter, Musk allies say](https://arstechnica.com/tech-policy/2025/12/doge-did-not-find-2t-in-fraud-but-that-doesnt-matter-musk-allies-say/) - *Ars Technica - All content* (2025-12-30)
+- [NJ’s answer to flooding: it has bought out and demolished 1,200 properties](https://arstechnica.com/tech-policy/2025/12/as-floods-become-more-severe-a-new-jersey-program-provides-a-model/) - *Ars Technica - All content* (2025-12-30)
+- [Stranger Things series finale trailer is here](https://arstechnica.com/culture/2025/12/stranger-things-series-finale-trailer-is-here/) - *Ars Technica - All content* (2025-12-30)
 
 ## AI/Models/RL
 
