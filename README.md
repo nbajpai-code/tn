@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-01-01 08:31:03 UTC
+Automated tech news updates. Last updated: 2026-01-02 08:31:17 UTC
 
 ## Software Architecture
 
@@ -32,12 +32,12 @@ Automated tech news updates. Last updated: 2026-01-01 08:31:03 UTC
 
 ## Security
 
+- [ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories](https://thehackernews.com/2026/01/threatsday-bulletin-ghostad-drain-macos.html) - *The Hacker News* (2026-01-01)
+- [RondoDox Botnet Exploits Critical React2Shell Flaw to Hijack IoT Devices and Web Servers](https://thehackernews.com/2026/01/rondodox-botnet-exploits-critical.html) - *The Hacker News* (2026-01-01)
+- [How To Browse Faster and Get More Done Using Adapt Browser](https://thehackernews.com/2026/01/how-to-browse-fast-using-a-lightweight-browser.html) - *The Hacker News* (2026-01-01)
 - [Trust Wallet Chrome Extension Hack Drains $8.5M via Shai-Hulud Supply Chain Attack](https://thehackernews.com/2025/12/trust-wallet-chrome-extension-hack.html) - *The Hacker News* (2025-12-31)
 - [DarkSpectre Browser Extension Campaigns Exposed After Impacting 8.8 Million Users Worldwide](https://thehackernews.com/2025/12/darkspectre-browser-extension-campaigns.html) - *The Hacker News* (2025-12-31)
-- [Critical CVSS 9.8 Flaw Found in IBM API Connect Authentication System](https://thehackernews.com/2025/12/ibm-warns-of-critical-api-connect-bug.html) - *The Hacker News* (2025-12-31)
-- [Researchers Spot Modified Shai-Hulud Worm Testing Payload on npm Registry](https://thehackernews.com/2025/12/researchers-spot-modified-shai-hulud.html) - *The Hacker News* (2025-12-31)
 - [LinkedIn Job Scams](https://www.schneier.com/blog/archives/2025/12/linkedin-job-scams.html) - *Schneier on Security* (2025-12-31)
-- [U.S. Treasury Lifts Sanctions on Three Individuals Linked to Intellexa and Predator Spyware](https://thehackernews.com/2025/12/us-treasury-lifts-sanctions-on-three.html) - *The Hacker News* (2025-12-31)
 - [Using AI-Generated Images to Get Refunds](https://www.schneier.com/blog/archives/2025/12/using-ai-generated-images-to-get-refunds.html) - *Schneier on Security* (2025-12-30)
 - [Happy 16th Birthday, KrebsOnSecurity.com!](https://krebsonsecurity.com/2025/12/happy-16th-birthday-krebsonsecurity-com/) - *Krebs on Security* (2025-12-29)
 - [Are We Ready to Be Governed by Artificial Intelligence?](https://www.schneier.com/blog/archives/2025/12/are-we-ready-to-be-governed-by-artificial-intelligence.html) - *Schneier on Security* (2025-12-29)
@@ -46,10 +46,10 @@ Automated tech news updates. Last updated: 2026-01-01 08:31:03 UTC
 ## Databases/Storage
 
 - [Gabriele Bartolini: CloudNativePG in 2025: CNCF Sandbox, PostgreSQL 18, and a new era for extensions](https://postgr.es/p/7oN) - *Planet PostgreSQL* (2025-12-31)
+- [Imran Zaheer: PostgreSQL Recovery Internals](https://postgr.es/p/7oM) - *Planet PostgreSQL* (2025-12-30)
 - [Floor Drees: PostgreSQL Contributor Story: Manni Wood](https://postgr.es/p/7oL) - *Planet PostgreSQL* (2025-12-29)
 - [REGINA OBE: FOSS4GNA 2025: Summary](https://postgr.es/p/7oK) - *Planet PostgreSQL* (2025-12-28)
 - [Cornelia Biacsics: Contributions for week 53, 2025](https://postgr.es/p/7oJ) - *Planet PostgreSQL* (2025-12-28)
-- [Ryan Lambert: Improved Quality in OpenStreetMap Road Network for pgRouting](https://postgr.es/p/7oI) - *Planet PostgreSQL* (2025-12-28)
 - [Amazon ElastiCache re:Invent 2025 recap](https://aws.amazon.com/blogs/database/amazon-elasticache-reinvent-2025-recap/) - *AWS Database Blog* (2025-12-22)
 - [That’s a Wrap: MongoDB’s 2025 in Review & 2026 Predictions](https://www.mongodb.com/company/blog/mongodb-2025-in-review-2026-predictions) - *MongoDB | Blog* (2025-12-22)
 - [Optimizing correlated subqueries in Amazon Aurora PostgreSQL](https://aws.amazon.com/blogs/database/optimizing-correlated-subqueries-in-amazon-aurora-postgresql/) - *AWS Database Blog* (2025-12-18)
@@ -58,19 +58,19 @@ Automated tech news updates. Last updated: 2026-01-01 08:31:03 UTC
 
 ## Networking
 
-- [China requires chipmakers to use at least 50% domestic equipment](https://www.networkworld.com/article/4112245/china-requires-chipmakers-to-use-at-least-50-domestic-equipment.html) - *China requires chipmakers to use at least 50% domestic equipment | Network World* (2025-12-31)
-- [Nvidia licenses Groq’s inferencing chip tech and hires its leaders](https://www.networkworld.com/article/4112131/nvidia-licenses-groqs-inferencing-chip-tech-and-hires-its-leaders.html) - *China requires chipmakers to use at least 50% domestic equipment | Network World* (2025-12-30)
-- [SoftBank expands AI infrastructure ambitions with $4B DigitalBridge acquisition](https://www.networkworld.com/article/4111965/softbank-expands-ai-infrastructure-ambitions-with-4b-digitalbridge-acquisition.html) - *China requires chipmakers to use at least 50% domestic equipment | Network World* (2025-12-29)
-- [Top Intel stories of 2025](https://www.networkworld.com/article/4111310/top-intel-stories-of-2025.html) - *China requires chipmakers to use at least 50% domestic equipment | Network World* (2025-12-29)
-- [Top 10 Nvidia stories of 2025](https://www.networkworld.com/article/4111630/top-10-nvidia-stories-of-2025-from-data-center-to-ai-factory.html) - *China requires chipmakers to use at least 50% domestic equipment | Network World* (2025-12-26)
+- [Enterprise Spotlight: Setting the 2026 IT agenda](https://us.resources.networkworld.com/resources/download-the-2026-it-agenda-spotlight-report/) - *Enterprise Spotlight: Setting the 2026 IT agenda | Network World* (2026-01-01)
+- [China requires chipmakers to use at least 50% domestic equipment](https://www.networkworld.com/article/4112245/china-requires-chipmakers-to-use-at-least-50-domestic-equipment.html) - *Enterprise Spotlight: Setting the 2026 IT agenda | Network World* (2025-12-31)
+- [Nvidia licenses Groq’s inferencing chip tech and hires its leaders](https://www.networkworld.com/article/4112131/nvidia-licenses-groqs-inferencing-chip-tech-and-hires-its-leaders.html) - *Enterprise Spotlight: Setting the 2026 IT agenda | Network World* (2025-12-30)
+- [SoftBank expands AI infrastructure ambitions with $4B DigitalBridge acquisition](https://www.networkworld.com/article/4111965/softbank-expands-ai-infrastructure-ambitions-with-4b-digitalbridge-acquisition.html) - *Enterprise Spotlight: Setting the 2026 IT agenda | Network World* (2025-12-29)
+- [Top Intel stories of 2025](https://www.networkworld.com/article/4111310/top-intel-stories-of-2025.html) - *Enterprise Spotlight: Setting the 2026 IT agenda | Network World* (2025-12-29)
 
 ## Computing
 
+- [Marvel rings in new year with Wonder Man trailer](https://arstechnica.com/culture/2026/01/marvel-rings-in-new-year-with-wonder-man-trailer/) - *Ars Technica - All content* (2026-01-01)
+- [Research roundup: 7 cool science stories we almost missed](https://arstechnica.com/science/2026/01/research-roundup-7-cool-science-stories-we-almost-missed-2/) - *Ars Technica - All content* (2026-01-01)
+- [“Streaming stops feeling infinite”: What subscribers can expect in 2026](https://arstechnica.com/gadgets/2026/01/streaming-stops-feeling-infinite-what-subscribers-can-expect-in-2026/) - *Ars Technica - All content* (2026-01-01)
+- [Film Technica: Our top picks for the best films of 2025](https://arstechnica.com/culture/2026/01/film-technica-our-top-picks-for-the-best-films-of-2025/) - *Ars Technica - All content* (2026-01-01)
 - [Here we go again: Retiring coal plant forced to stay open by Trump Admin](https://arstechnica.com/science/2025/12/trump-admin-orders-another-coal-plant-to-stay-open/) - *Ars Technica - All content* (2025-12-31)
-- [Supply chains, AI, and the cloud: The biggest failures (and one success) of 2025](https://arstechnica.com/security/2025/12/supply-chains-ai-and-the-cloud-the-biggest-failures-and-one-success-of-2025/) - *Ars Technica - All content* (2025-12-31)
-- [From prophet to product: How AI came back down to earth in 2025](https://arstechnica.com/ai/2025/12/from-prophet-to-product-how-ai-came-back-down-to-earth-in-2025/) - *Ars Technica - All content* (2025-12-31)
-- [The science of how (and when) we decide to speak out—or self-censor](https://arstechnica.com/science/2025/12/the-science-of-how-and-when-we-decide-to-speak-out-or-self-censor/) - *Ars Technica - All content* (2025-12-30)
-- [Lawsuit over Trump rejecting medical research grants is settled](https://arstechnica.com/science/2025/12/feds-researchers-settle-suit-over-grants-blocked-by-now-illegal-order/) - *Ars Technica - All content* (2025-12-30)
 
 ## AI/Models/RL
 
@@ -81,7 +81,7 @@ Automated tech news updates. Last updated: 2026-01-01 08:31:03 UTC
 - [Google Research 2025: Bolder breakthroughs, bigger impact](https://research.google/blog/google-research-2025-bolder-breakthroughs-bigger-impact/) - *The latest research from Google* (2025-12-18)
 - [Evaluating chain-of-thought monitorability](https://openai.com/index/evaluating-chain-of-thought-monitorability) - *OpenAI News* (2025-12-18)
 - [Deepening our collaboration with the U.S. Department of Energy](https://openai.com/index/us-department-of-energy-collaboration) - *OpenAI News* (2025-12-18)
-- [AI literacy resources for teens and parents](https://openai.com/index/ai-literacy-resources-for-teens-and-parents) - *OpenAI News* (2025-12-18)
+- [Updating our Model Spec with teen protections](https://openai.com/index/updating-model-spec-with-teen-protections) - *OpenAI News* (2025-12-18)
 - [Tokenization in Transformers v5: Simpler, Clearer, and More Modular](https://huggingface.co/blog/tokenizers) - *Hugging Face - Blog* (2025-12-18)
 - [The Open Evaluation Standard: Benchmarking NVIDIA Nemotron 3 Nano with NeMo Evaluator](https://huggingface.co/blog/nvidia/nemotron-3-nano-evaluation-recipe) - *Hugging Face - Blog* (2025-12-17)
 
