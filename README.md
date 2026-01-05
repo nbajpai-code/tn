@@ -1,10 +1,10 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-01-04 08:29:05 UTC
+Automated tech news updates. Last updated: 2026-01-05 08:35:43 UTC
 
 ## Software Architecture
 
-- [Swiggy Rolls Out Hermes V3: From Text-to-SQL to Conversational AI](https://www.infoq.com/news/2026/01/swiggy-hermes-conversational-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-01-02)
+- [Swiggy Rolls out Hermes V3: from Text-to-SQL to Conversational AI](https://www.infoq.com/news/2026/01/swiggy-hermes-conversational-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-01-02)
 - [Presentation: From Confusion to Clarity: Advanced Observability Strategies for Media Workflows at Netflix](https://www.infoq.com/presentations/stream-pipeline-observability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-01-02)
 - [Article: The Architect’s Dilemma: Choose a Proven Path or Pave Your Own Way?](https://www.infoq.com/articles/architects-dilemma/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-01-02)
 - [AWS Expands Well‑Architected Guidance with Data Residency and Hybrid Cloud Lens](https://www.infoq.com/news/2025/12/aws-well-architected-drhc-lens/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2025-12-29)
@@ -33,6 +33,7 @@ Automated tech news updates. Last updated: 2026-01-04 08:29:05 UTC
 
 ## Security
 
+- [New VVS Stealer Malware Targets Discord Accounts via Obfuscated Python Code](https://thehackernews.com/2026/01/new-vvs-stealer-malware-targets-discord.html) - *The Hacker News* (2026-01-05)
 - [Friday Squid Blogging: Squid Found in Light Fixture](https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-squid-found-in-light-fixture.html) - *Schneier on Security* (2026-01-02)
 - [The Kimwolf Botnet is Stalking Your Local Network](https://krebsonsecurity.com/2026/01/the-kimwolf-botnet-is-stalking-your-local-network/) - *Krebs on Security* (2026-01-02)
 - [Transparent Tribe Launches New RAT Attacks Against Indian Government and Academia](https://thehackernews.com/2026/01/transparent-tribe-launches-new-rat.html) - *The Hacker News* (2026-01-02)
@@ -40,17 +41,16 @@ Automated tech news updates. Last updated: 2026-01-04 08:29:05 UTC
 - [The ROI Problem in Attack Surface Management](https://thehackernews.com/2026/01/the-roi-problem-in-attack-surface.html) - *The Hacker News* (2026-01-02)
 - [Cybercriminals Abuse Google Cloud Email Feature in Multi-Stage Phishing Campaign](https://thehackernews.com/2026/01/cybercriminals-abuse-google-cloud-email.html) - *The Hacker News* (2026-01-02)
 - [ThreatsDay Bulletin: GhostAd Drain, macOS Attacks, Proxy Botnets, Cloud Exploits, and 12+ Stories](https://thehackernews.com/2026/01/threatsday-bulletin-ghostad-drain-macos.html) - *The Hacker News* (2026-01-01)
-- [RondoDox Botnet Exploits Critical React2Shell Flaw to Hijack IoT Devices and Web Servers](https://thehackernews.com/2026/01/rondodox-botnet-exploits-critical.html) - *The Hacker News* (2026-01-01)
 - [LinkedIn Job Scams](https://www.schneier.com/blog/archives/2025/12/linkedin-job-scams.html) - *Schneier on Security* (2025-12-31)
 - [Using AI-Generated Images to Get Refunds](https://www.schneier.com/blog/archives/2025/12/using-ai-generated-images-to-get-refunds.html) - *Schneier on Security* (2025-12-30)
 
 ## Databases/Storage
 
+- [Ian Barwick: PgPedia Week, 2025-12-07](https://postgr.es/p/7oS) - *Planet PostgreSQL* (2026-01-04)
+- [Hubert 'depesz' Lubaczewski: Waiting for PostgreSQL 19 – Implement ALTER TABLE … MERGE/SPLIT PARTITIONS … command](https://postgr.es/p/7oR) - *Planet PostgreSQL* (2026-01-04)
 - [Floor Drees: Sticking with Open Source: pgEdge and CloudNativePG](https://postgr.es/p/7oP) - *Planet PostgreSQL* (2026-01-02)
 - [Gabriele Bartolini: CloudNativePG in 2025: CNCF Sandbox, PostgreSQL 18, and a new era for extensions](https://postgr.es/p/7oN) - *Planet PostgreSQL* (2025-12-31)
 - [Imran Zaheer: PostgreSQL Recovery Internals](https://postgr.es/p/7oM) - *Planet PostgreSQL* (2025-12-30)
-- [Floor Drees: PostgreSQL Contributor Story: Manni Wood](https://postgr.es/p/7oL) - *Planet PostgreSQL* (2025-12-29)
-- [REGINA OBE: FOSS4GNA 2025: Summary](https://postgr.es/p/7oK) - *Planet PostgreSQL* (2025-12-28)
 - [Amazon ElastiCache re:Invent 2025 recap](https://aws.amazon.com/blogs/database/amazon-elasticache-reinvent-2025-recap/) - *AWS Database Blog* (2025-12-22)
 - [That’s a Wrap: MongoDB’s 2025 in Review & 2026 Predictions](https://www.mongodb.com/company/blog/mongodb-2025-in-review-2026-predictions) - *MongoDB | Blog* (2025-12-22)
 - [Optimizing correlated subqueries in Amazon Aurora PostgreSQL](https://aws.amazon.com/blogs/database/optimizing-correlated-subqueries-in-amazon-aurora-postgresql/) - *AWS Database Blog* (2025-12-18)
