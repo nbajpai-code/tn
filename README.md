@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-01-10 08:28:24 UTC
+Automated tech news updates. Last updated: 2026-01-11 08:28:53 UTC
 
 ## Software Architecture
 
@@ -33,13 +33,13 @@ Automated tech news updates. Last updated: 2026-01-10 08:28:24 UTC
 
 ## Security
 
+- [MuddyWater Launches RustyWater RAT via Spear-Phishing Across Middle East Sectors](https://thehackernews.com/2026/01/muddywater-launches-rustywater-rat-via.html) - *The Hacker News* (2026-01-10)
+- [Europol Arrests 34 Black Axe Members in Spain Over €5.9M Fraud and Organized Crime](https://thehackernews.com/2026/01/europol-arrests-34-black-axe-members-in.html) - *The Hacker News* (2026-01-10)
 - [Friday Squid Blogging: The Chinese Squid-Fishing Fleet off the Argentine Coast](https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-the-chinese-squid-fishing-fleet-off-the-argentine-coast.html) - *Schneier on Security* (2026-01-09)
 - [China-Linked Hackers Exploit VMware ESXi Zero-Days to Escape Virtual Machines](https://thehackernews.com/2026/01/chinese-linked-hackers-exploit-vmware.html) - *The Hacker News* (2026-01-09)
 - [Russian APT28 Runs Credential-Stealing Campaign Targeting Energy and Policy Organizations](https://thehackernews.com/2026/01/russian-apt28-runs-credential-stealing.html) - *The Hacker News* (2026-01-09)
 - [Palo Alto Crosswalk Signals Had Default Passwords](https://www.schneier.com/blog/archives/2026/01/palo-alto-crosswalk-signals-had-default-passwords.html) - *Schneier on Security* (2026-01-09)
 - [Cybersecurity Predictions 2026: The Hype We Can Ignore (And the Risks We Can't)](https://thehackernews.com/2026/01/cybersecurity-predictions-2026-hype-we.html) - *The Hacker News* (2026-01-09)
-- [Trend Micro Apex Central RCE Flaw Scores 9.8 CVSS in On-Prem Windows Versions](https://thehackernews.com/2026/01/trend-micro-apex-central-rce-flaw.html) - *The Hacker News* (2026-01-09)
-- [CISA Retires 10 Emergency Cybersecurity Directives Issued Between 2019 and 2024](https://thehackernews.com/2026/01/cisa-retires-10-emergency-cybersecurity.html) - *The Hacker News* (2026-01-09)
 - [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/) - *Krebs on Security* (2026-01-08)
 - [AI &amp; Humans: Making the Relationship Work](https://www.schneier.com/blog/archives/2026/01/ai-humans-making-the-relationship-work.html) - *Schneier on Security* (2026-01-08)
 - [The Wegman’s Supermarket Chain Is Probably Using Facial Recognition](https://www.schneier.com/blog/archives/2026/01/the-wegmans-supermarket-chain-is-probably-using-facial-recognition.html) - *Schneier on Security* (2026-01-07)
@@ -67,11 +67,11 @@ Automated tech news updates. Last updated: 2026-01-10 08:28:24 UTC
 
 ## Computing
 
+- [Conservative lawmakers want porn taxes. Critics say they’re unconstitutional.](https://arstechnica.com/tech-policy/2026/01/conservative-lawmakers-want-porn-taxes-critics-say-theyre-unconstitutional/) - *Ars Technica - All content* (2026-01-10)
 - [SpaceX gets FCC permission to launch another 7,500 Starlink satellites](https://arstechnica.com/tech-policy/2026/01/spacex-gets-fcc-permission-to-launch-another-7500-starlink-satellites/) - *Ars Technica - All content* (2026-01-10)
 - [ESA considers righting the wrongs of Ariane 6 by turning it into a Franken-rocket](https://arstechnica.com/space/2026/01/esa-considers-righting-the-wrongs-of-ariane-6-by-turning-it-into-a-franken-rocket/) - *Ars Technica - All content* (2026-01-10)
 - [Measles continues raging in South Carolina; 99 new cases since Tuesday](https://arstechnica.com/health/2026/01/measles-continues-raging-in-south-carolina-99-new-cases-since-tuesday/) - *Ars Technica - All content* (2026-01-09)
 - [Google: Don’t make “bite-sized” content for LLMs if you care about search rank](https://arstechnica.com/google/2026/01/google-dont-make-bite-sized-content-for-llms-if-you-care-about-search-rank/) - *Ars Technica - All content* (2026-01-09)
-- [Cloudflare defies Italy’s Piracy Shield, won’t block websites on 1.1.1.1 DNS](https://arstechnica.com/tech-policy/2026/01/cloudflare-may-pull-servers-out-of-italy-over-order-that-it-block-pirate-sites/) - *Ars Technica - All content* (2026-01-09)
 
 ## AI/Models/RL
 
