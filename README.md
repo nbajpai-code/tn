@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-01-11 08:28:53 UTC
+Automated tech news updates. Last updated: 2026-01-12 08:34:47 UTC
 
 ## Software Architecture
 
@@ -33,13 +33,13 @@ Automated tech news updates. Last updated: 2026-01-11 08:28:53 UTC
 
 ## Security
 
+- [Researchers Uncover Service Providers Fueling Industrial-Scale Pig Butchering Fraud](https://thehackernews.com/2026/01/researchers-uncover-service-providers.html) - *The Hacker News* (2026-01-12)
 - [MuddyWater Launches RustyWater RAT via Spear-Phishing Across Middle East Sectors](https://thehackernews.com/2026/01/muddywater-launches-rustywater-rat-via.html) - *The Hacker News* (2026-01-10)
 - [Europol Arrests 34 Black Axe Members in Spain Over €5.9M Fraud and Organized Crime](https://thehackernews.com/2026/01/europol-arrests-34-black-axe-members-in.html) - *The Hacker News* (2026-01-10)
 - [Friday Squid Blogging: The Chinese Squid-Fishing Fleet off the Argentine Coast](https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-the-chinese-squid-fishing-fleet-off-the-argentine-coast.html) - *Schneier on Security* (2026-01-09)
 - [China-Linked Hackers Exploit VMware ESXi Zero-Days to Escape Virtual Machines](https://thehackernews.com/2026/01/chinese-linked-hackers-exploit-vmware.html) - *The Hacker News* (2026-01-09)
 - [Russian APT28 Runs Credential-Stealing Campaign Targeting Energy and Policy Organizations](https://thehackernews.com/2026/01/russian-apt28-runs-credential-stealing.html) - *The Hacker News* (2026-01-09)
 - [Palo Alto Crosswalk Signals Had Default Passwords](https://www.schneier.com/blog/archives/2026/01/palo-alto-crosswalk-signals-had-default-passwords.html) - *Schneier on Security* (2026-01-09)
-- [Cybersecurity Predictions 2026: The Hype We Can Ignore (And the Risks We Can't)](https://thehackernews.com/2026/01/cybersecurity-predictions-2026-hype-we.html) - *The Hacker News* (2026-01-09)
 - [Who Benefited from the Aisuru and Kimwolf Botnets?](https://krebsonsecurity.com/2026/01/who-benefited-from-the-aisuru-and-kimwolf-botnets/) - *Krebs on Security* (2026-01-08)
 - [AI &amp; Humans: Making the Relationship Work](https://www.schneier.com/blog/archives/2026/01/ai-humans-making-the-relationship-work.html) - *Schneier on Security* (2026-01-08)
 - [The Wegman’s Supermarket Chain Is Probably Using Facial Recognition](https://www.schneier.com/blog/archives/2026/01/the-wegmans-supermarket-chain-is-probably-using-facial-recognition.html) - *Schneier on Security* (2026-01-07)
@@ -59,19 +59,19 @@ Automated tech news updates. Last updated: 2026-01-11 08:28:53 UTC
 
 ## Networking
 
-- [Cisco routers knocked out due to Cloudflare DNS change](https://www.networkworld.com/article/4115128/cisco-routers-knocked-out-due-to-cloudflare-dns-change.html) - *Cisco routers knocked out due to Cloudflare DNS change | Network World* (2026-01-10)
-- [Cisco identifies vulnerability in ISE network access control devices](https://www.networkworld.com/article/4114677/cisco-identifies-vulnerability-in-ise-network-access-control-devices.html) - *Cisco routers knocked out due to Cloudflare DNS change | Network World* (2026-01-09)
-- [Nvidia: Latest news and insights](https://www.networkworld.com/article/3562856/nvidia-latest-news-and-insights.html) - *Cisco routers knocked out due to Cloudflare DNS change | Network World* (2026-01-08)
-- [The state of Enterprise Linux for networking](https://www.networkworld.com/article/4114186/the-state-of-enterprise-linux-for-networking.html) - *Cisco routers knocked out due to Cloudflare DNS change | Network World* (2026-01-08)
-- [Holes in Veeam Backup suite allow remote code execution, creation of malicious backup config files](https://www.networkworld.com/article/4114036/holes-in-veeam-backup-suite-allow-remote-code-execution-creation-of-malicious-backup-config-files.html) - *Cisco routers knocked out due to Cloudflare DNS change | Network World* (2026-01-08)
+- [AI, edge, and security: Shaping the need for modern infrastructure management](https://www.networkworld.com/article/4115220/ai-edge-and-security-shaping-the-need-for-modern-infrastructure-management.html) - *AI, edge, and security: Shaping the need for modern infrastructure management | Network World* (2026-01-11)
+- [Cisco routers knocked out due to Cloudflare DNS change](https://www.networkworld.com/article/4115128/cisco-routers-knocked-out-due-to-cloudflare-dns-change.html) - *AI, edge, and security: Shaping the need for modern infrastructure management | Network World* (2026-01-10)
+- [Cisco identifies vulnerability in ISE network access control devices](https://www.networkworld.com/article/4114677/cisco-identifies-vulnerability-in-ise-network-access-control-devices.html) - *AI, edge, and security: Shaping the need for modern infrastructure management | Network World* (2026-01-09)
+- [Nvidia: Latest news and insights](https://www.networkworld.com/article/3562856/nvidia-latest-news-and-insights.html) - *AI, edge, and security: Shaping the need for modern infrastructure management | Network World* (2026-01-08)
+- [The state of Enterprise Linux for networking](https://www.networkworld.com/article/4114186/the-state-of-enterprise-linux-for-networking.html) - *AI, edge, and security: Shaping the need for modern infrastructure management | Network World* (2026-01-08)
 
 ## Computing
 
+- [That time Will Smith helped discover new species of anaconda](https://arstechnica.com/science/2026/01/that-time-will-smith-helped-discover-new-species-of-anaconda/) - *Ars Technica - All content* (2026-01-11)
+- [The oceans just keep getting hotter](https://arstechnica.com/science/2026/01/the-oceans-just-keep-getting-hotter/) - *Ars Technica - All content* (2026-01-11)
 - [Conservative lawmakers want porn taxes. Critics say they’re unconstitutional.](https://arstechnica.com/tech-policy/2026/01/conservative-lawmakers-want-porn-taxes-critics-say-theyre-unconstitutional/) - *Ars Technica - All content* (2026-01-10)
 - [SpaceX gets FCC permission to launch another 7,500 Starlink satellites](https://arstechnica.com/tech-policy/2026/01/spacex-gets-fcc-permission-to-launch-another-7500-starlink-satellites/) - *Ars Technica - All content* (2026-01-10)
 - [ESA considers righting the wrongs of Ariane 6 by turning it into a Franken-rocket](https://arstechnica.com/space/2026/01/esa-considers-righting-the-wrongs-of-ariane-6-by-turning-it-into-a-franken-rocket/) - *Ars Technica - All content* (2026-01-10)
-- [Measles continues raging in South Carolina; 99 new cases since Tuesday](https://arstechnica.com/health/2026/01/measles-continues-raging-in-south-carolina-99-new-cases-since-tuesday/) - *Ars Technica - All content* (2026-01-09)
-- [Google: Don’t make “bite-sized” content for LLMs if you care about search rank](https://arstechnica.com/google/2026/01/google-dont-make-bite-sized-content-for-llms-if-you-care-about-search-rank/) - *Ars Technica - All content* (2026-01-09)
 
 ## AI/Models/RL
 
