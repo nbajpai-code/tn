@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-01-17 08:28:08 UTC
+Automated tech news updates. Last updated: 2026-01-18 08:28:46 UTC
 
 ## Software Architecture
 
@@ -33,12 +33,12 @@ Automated tech news updates. Last updated: 2026-01-17 08:28:08 UTC
 
 ## Security
 
+- [Black Basta Ransomware Leader Added to EU Most Wanted and INTERPOL Red Notice](https://thehackernews.com/2026/01/black-basta-ransomware-hacker-leader.html) - *The Hacker News* (2026-01-17)
+- [OpenAI to Show Ads in ChatGPT for Logged-In U.S. Adults on Free and Go Plans](https://thehackernews.com/2026/01/openai-to-show-ads-in-chatgpt-for.html) - *The Hacker News* (2026-01-17)
 - [GootLoader Malware Uses 500–1,000 Concatenated ZIP Archives to Evade Detection](https://thehackernews.com/2026/01/gootloader-malware-uses-5001000.html) - *The Hacker News* (2026-01-16)
 - [AI and the Corporate Capture of Knowledge](https://www.schneier.com/blog/archives/2026/01/ai-and-the-corporate-capture-of-knowledge.html) - *Schneier on Security* (2026-01-16)
 - [Five Malicious Chrome Extensions Impersonate Workday and NetSuite to Hijack Accounts](https://thehackernews.com/2026/01/five-malicious-chrome-extensions.html) - *The Hacker News* (2026-01-16)
 - [Your Digital Footprint Can Lead Right to Your Front Door](https://thehackernews.com/2026/01/your-digital-footprint-can-lead-right.html) - *The Hacker News* (2026-01-16)
-- [LOTUSLITE Backdoor Targets U.S. Policy Entities Using Venezuela-Themed Spear Phishing](https://thehackernews.com/2026/01/lotuslite-backdoor-targets-us-policy.html) - *The Hacker News* (2026-01-16)
-- [China-Linked APT Exploited Sitecore Zero-Day in Critical Infrastructure Intrusions](https://thehackernews.com/2026/01/china-linked-apt-exploits-sitecore-zero.html) - *The Hacker News* (2026-01-16)
 - [New Vulnerability in n8n](https://www.schneier.com/blog/archives/2026/01/new-vulnerability-in-n8n.html) - *Schneier on Security* (2026-01-15)
 - [Hacking Wheelchairs over Bluetooth](https://www.schneier.com/blog/archives/2026/01/hacking-wheelchairs-over-bluetooth.html) - *Schneier on Security* (2026-01-14)
 - [Upcoming Speaking Engagements](https://www.schneier.com/blog/archives/2026/01/upcoming-speaking-engagements-52.html) - *Schneier on Security* (2026-01-14)
@@ -46,6 +46,7 @@ Automated tech news updates. Last updated: 2026-01-17 08:28:08 UTC
 
 ## Databases/Storage
 
+- [Henrietta Dombrovskaya: Illinois Prairie PUG January Edition](https://postgr.es/p/7qv) - *Planet PostgreSQL* (2026-01-17)
 - [Part 1: Building Your First Serverless HTTP API on Azure with Azure Functions & FastAPI](https://devblogs.microsoft.com/cosmosdb/building-your-first-serverless-http-api-on-azure-with-azure-functions-fastapi/) - *Azure Cosmos DB Blog* (2026-01-16)
 - [Dave Page: Introducing pgEdge Load Generator: Realistic PostgreSQL Workload Simulation](https://postgr.es/p/7qu) - *Planet PostgreSQL* (2026-01-16)
 - [MongoDB.local San Francisco 2026: Ship Production AI, Faster](https://www.mongodb.com/company/blog/events/mongodb-local-san-francisco-2026-ship-production-ai-faster) - *MongoDB | Blog* (2026-01-15)
@@ -54,7 +55,6 @@ Automated tech news updates. Last updated: 2026-01-17 08:28:08 UTC
 - [Effectively managing storage in Amazon RDS for Oracle Databases](https://aws.amazon.com/blogs/database/effectively-managing-storage-in-amazon-rds-for-oracle-databases/) - *AWS Database Blog* (2026-01-14)
 - [Avi Vallarapu: Contributions to PostgreSQL by HexaCluster in 2025](https://postgr.es/p/7qn) - *Planet PostgreSQL* (2026-01-14)
 - [Jimmy Angelakos: Announcing the second PostgreSQL Edinburgh meetup](https://postgr.es/p/7ql) - *Planet PostgreSQL* (2026-01-14)
-- [Floor Drees: PostgreSQL Contributor Story: Mark Wong](https://postgr.es/p/7qk) - *Planet PostgreSQL* (2026-01-14)
 - [AWS Organizations now supports upgrade rollout policy for Amazon Aurora and Amazon RDS automatic minor version upgrades](https://aws.amazon.com/blogs/database/aws-organizations-now-supports-upgrade-rollout-policy-for-amazon-aurora-and-amazon-rds-automatic-minor-version-upgrades/) - *AWS Database Blog* (2026-01-13)
 
 ## Networking
@@ -67,11 +67,11 @@ Automated tech news updates. Last updated: 2026-01-17 08:28:08 UTC
 
 ## Computing
 
+- [Meta’s layoffs leave Supernatural fitness users in mourning](https://arstechnica.com/gadgets/2026/01/metas-layoffs-leave-supernatural-fitness-users-in-mourning/) - *Ars Technica - All content* (2026-01-17)
 - [Managers on alert for “launch fever” as pressure builds for NASA’s Moon mission](https://arstechnica.com/space/2026/01/managers-on-alert-for-launch-fever-as-pressure-builds-for-nasas-moon-mission/) - *Ars Technica - All content* (2026-01-17)
 - [Rackspace customers grapple with “devastating” email hosting price hike](https://arstechnica.com/information-technology/2026/01/rackspace-raises-email-hosting-prices-by-as-much-as-706-percent/) - *Ars Technica - All content* (2026-01-16)
 - [Archaeologists find a supersized medieval shipwreck in Denmark](https://arstechnica.com/science/2026/01/archaeologists-find-a-supersized-medieval-shipwreck-in-denmark/) - *Ars Technica - All content* (2026-01-16)
 - [Judge orders Anna’s Archive to delete scraped data; no one thinks it will comply](https://arstechnica.com/tech-policy/2026/01/judge-orders-annas-archive-to-delete-scraped-data-no-one-thinks-it-will-comply/) - *Ars Technica - All content* (2026-01-16)
-- [This may be the grossest eye pic ever—but the cause is what’s truly horrifying](https://arstechnica.com/features/2026/01/this-may-be-the-grossest-eye-pic-ever-but-the-cause-is-whats-truly-horrifying/) - *Ars Technica - All content* (2026-01-16)
 
 ## AI/Models/RL
 
