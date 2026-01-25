@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-01-24 08:29:17 UTC
+Automated tech news updates. Last updated: 2026-01-25 08:29:43 UTC
 
 ## Software Architecture
 
@@ -32,19 +32,21 @@ Automated tech news updates. Last updated: 2026-01-24 08:29:17 UTC
 
 ## Security
 
+- [Multi-Stage Phishing Campaign Targets Russia with Amnesia RAT and Ransomware](https://thehackernews.com/2026/01/multi-stage-phishing-campaign-targets.html) - *The Hacker News* (2026-01-24)
+- [New DynoWiper Malware Used in Attempted Sandworm Attack on Polish Power Sector](https://thehackernews.com/2026/01/new-dynowiper-malware-used-in-attempted.html) - *The Hacker News* (2026-01-24)
+- [Who Approved This Agent? Rethinking Access, Accountability, and Risk in the Age of AI Agents](https://thehackernews.com/2026/01/who-approved-this-agent-rethinking.html) - *The Hacker News* (2026-01-24)
+- [CISA Adds Actively Exploited VMware vCenter Flaw CVE-2024-37079 to KEV Catalog](https://thehackernews.com/2026/01/cisa-adds-actively-exploited-vmware.html) - *The Hacker News* (2026-01-24)
 - [Friday Squid Blogging: Giant Squid in the Star Trek Universe](https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-giant-squid-in-the-star-trek-universe.html) - *Schneier on Security* (2026-01-23)
 - [CISA Updates KEV Catalog with Four Actively Exploited Software Vulnerabilities](https://thehackernews.com/2026/01/cisa-updates-kev-catalog-with-four.html) - *The Hacker News* (2026-01-23)
-- [Fortinet Confirms Active FortiCloud SSO Bypass on Fully Patched FortiGate Firewalls](https://thehackernews.com/2026/01/fortinet-confirms-active-forticloud-sso.html) - *The Hacker News* (2026-01-23)
 - [AIs are Getting Better at Finding and Exploiting Internet Vulnerabilities](https://www.schneier.com/blog/archives/2026/01/ais-are-getting-better-at-finding-and-exploiting-internet-vulnerabilities.html) - *Schneier on Security* (2026-01-23)
-- [TikTok Forms U.S. Joint Venture to Continue Operations Under 2025 Executive Order](https://thehackernews.com/2026/01/tiktok-forms-us-joint-venture-to.html) - *The Hacker News* (2026-01-23)
-- [Phishing Attack Uses Stolen Credentials to Install LogMeIn RMM for Persistent Access](https://thehackernews.com/2026/01/phishing-attack-uses-stolen-credentials.html) - *The Hacker News* (2026-01-23)
-- [Microsoft Flags Multi-Stage AitM Phishing and BEC Attacks Targeting Energy Firms](https://thehackernews.com/2026/01/microsoft-flags-multi-stage-aitm.html) - *The Hacker News* (2026-01-23)
 - [Why AI Keeps Falling for Prompt Injection Attacks](https://www.schneier.com/blog/archives/2026/01/why-ai-keeps-falling-for-prompt-injection-attacks.html) - *Schneier on Security* (2026-01-22)
 - [Internet Voting is Too Insecure for Use in Elections](https://www.schneier.com/blog/archives/2026/01/internet-voting-is-too-insecure-for-use-in-elections.html) - *Schneier on Security* (2026-01-21)
 - [Kimwolf Botnet Lurking in Corporate, Govt. Networks](https://krebsonsecurity.com/2026/01/kimwolf-botnet-lurking-in-corporate-govt-networks/) - *Krebs on Security* (2026-01-20)
 
 ## Databases/Storage
 
+- [David Wheeler: 🛠️ PGXN Tools v1.7](https://postgr.es/p/7qV) - *Planet PostgreSQL* (2026-01-24)
+- [Radim Marek: Introduction to Buffers in PostgreSQL](https://postgr.es/p/7qU) - *Planet PostgreSQL* (2026-01-24)
 - [Kaarel Moppel: CSI: Postgres — Did someone change my table??](https://postgr.es/p/7qT) - *Planet PostgreSQL* (2026-01-23)
 - [Azure Cosmos DB TV Recap: Supercharging AI Agents with the Azure Cosmos DB MCP Toolkit (Ep. 110)](https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-tv-ep-110-mcp-toolkit-ai-agents/) - *Azure Cosmos DB Blog* (2026-01-23)
 - [Dave Page: What's New in the pgEdge Postgres MCP Server: Beta 2 and Beta 3](https://postgr.es/p/7qS) - *Planet PostgreSQL* (2026-01-23)
@@ -52,9 +54,7 @@ Automated tech news updates. Last updated: 2026-01-24 08:29:17 UTC
 - [Introducing the Azure Cosmos DB Agent Kit: Your AI Pair Programmer Just Got Smarter](https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-agent-kit-ai-coding-assistants/) - *Azure Cosmos DB Blog* (2026-01-22)
 - [MaiCoin case study: Blue/green upgrade from Amazon ElastiCache Redis to Valkey](https://aws.amazon.com/blogs/database/maicoin-case-study-blue-green-upgrade-from-amazon-elasticache-redis-to-valkey/) - *AWS Database Blog* (2026-01-22)
 - [Floor Drees: PostgreSQL Contributor Story: Florin Irion](https://postgr.es/p/7qP) - *Planet PostgreSQL* (2026-01-22)
-- [Sarah Conway: CERN PGDay: an annual PostgreSQL event in Geneva, Switzerland](https://postgr.es/p/7qR) - *Planet PostgreSQL* (2026-01-22)
 - [Automate the export of Amazon RDS for MySQL or Amazon Aurora MySQL audit logs to Amazon S3 with batching or near real-time processing](https://aws.amazon.com/blogs/database/automate-the-export-of-amazon-rds-for-mysql-or-amazon-aurora-mysql-audit-logs-to-amazon-s3-with-batching-or-near-real-time-processing/) - *AWS Database Blog* (2026-01-21)
-- [Chao Li: Understanding ALTER TABLE Behavior on Partitioned Tables in PostgreSQL](https://postgr.es/p/7qN) - *Planet PostgreSQL* (2026-01-21)
 
 ## Networking
 
@@ -66,11 +66,11 @@ Automated tech news updates. Last updated: 2026-01-24 08:29:17 UTC
 
 ## Computing
 
+- [Poland's energy grid was targeted by never-before-seen wiper malware](https://arstechnica.com/security/2026/01/wiper-malware-targeted-poland-energy-grid-but-failed-to-knock-out-electricity/) - *Ars Technica - All content* (2026-01-24)
+- [Did Edison accidentally make graphene in 1879?](https://arstechnica.com/science/2026/01/did-edison-accidentally-make-graphene-in-1879/) - *Ars Technica - All content* (2026-01-24)
+- [A weird, itchy rash is linked to the keto diet—but no one knows why](https://arstechnica.com/health/2026/01/a-weird-itchy-rash-is-linked-to-the-keto-diet-but-no-one-knows-why/) - *Ars Technica - All content* (2026-01-24)
 - [TR-49 is interactive fiction for fans of deep research rabbit holes](https://arstechnica.com/gaming/2026/01/tr-49-is-interactive-fiction-for-fans-of-deep-research-rabbit-holes/) - *Ars Technica - All content* (2026-01-23)
 - [Demand for Intel's processors is apparently there, but the supply is not](https://arstechnica.com/gadgets/2026/01/core-ultra-series-3-launch-may-be-hampered-by-chip-shortages-says-intel/) - *Ars Technica - All content* (2026-01-23)
-- [DHS keeps trying and failing to unmask anonymous ICE critics online](https://arstechnica.com/tech-policy/2026/01/instagram-ice-critic-wins-fight-to-stay-anonymous-as-dhs-backs-down/) - *Ars Technica - All content* (2026-01-23)
-- [White House alters arrest photo of ICE protester, says "the memes will continue"](https://arstechnica.com/tech-policy/2026/01/white-house-posts-altered-arrest-photo-to-make-it-appear-ice-critic-was-sobbing/) - *Ars Technica - All content* (2026-01-23)
-- [Telly’s "free" ad-based TVs make notable revenue—when they’re actually delivered](https://arstechnica.com/gadgets/2026/01/tellys-free-ad-based-tvs-make-notable-revenue-when-theyre-actually-delivered/) - *Ars Technica - All content* (2026-01-23)
 
 ## AI/Models/RL
 
