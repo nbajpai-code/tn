@@ -1,10 +1,10 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-01-25 08:29:43 UTC
+Automated tech news updates. Last updated: 2026-01-26 08:35:18 UTC
 
 ## Software Architecture
 
-- [DoorDash Applies AI to Safety Across Chat and Calls, Cutting Incidents by 50%](https://www.infoq.com/news/2026/01/doordash-safechat-ai-safety/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-01-23)
+- [DoorDash Applies AI to Safety across Chat and Calls, Cutting Incidents by 50%](https://www.infoq.com/news/2026/01/doordash-safechat-ai-safety/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-01-23)
 - [Mini book: Architecture in the Age of AI: Change and Opportunity](https://www.infoq.com/minibooks/architecture-age-ai-opportunity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-01-23)
 - [Tracking and Controlling Data Flows at Scale in GenAI: Meta’s Privacy-Aware Infrastructure](https://www.infoq.com/news/2026/01/meta-pai-genai-data-flows/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-01-20)
 - [Podcast: [Video Podcast] AI-Driven Development with Olivia McVicker](https://www.infoq.com/podcasts/ai-driven-development/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-01-19)
@@ -45,15 +45,15 @@ Automated tech news updates. Last updated: 2026-01-25 08:29:43 UTC
 
 ## Databases/Storage
 
+- [Dave Stokes: Is the future of MySQL PostgreSQL (Or MariaDB, or TiDB, or ...)?](https://postgr.es/p/7qZ) - *Planet PostgreSQL* (2026-01-25)
+- [damien clochard: PostgreSQL Anonymizer, available in all good shops](https://postgr.es/p/7qY) - *Planet PostgreSQL* (2026-01-25)
 - [David Wheeler: 🛠️ PGXN Tools v1.7](https://postgr.es/p/7qV) - *Planet PostgreSQL* (2026-01-24)
 - [Radim Marek: Introduction to Buffers in PostgreSQL](https://postgr.es/p/7qU) - *Planet PostgreSQL* (2026-01-24)
 - [Kaarel Moppel: CSI: Postgres — Did someone change my table??](https://postgr.es/p/7qT) - *Planet PostgreSQL* (2026-01-23)
 - [Azure Cosmos DB TV Recap: Supercharging AI Agents with the Azure Cosmos DB MCP Toolkit (Ep. 110)](https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-tv-ep-110-mcp-toolkit-ai-agents/) - *Azure Cosmos DB Blog* (2026-01-23)
-- [Dave Page: What's New in the pgEdge Postgres MCP Server: Beta 2 and Beta 3](https://postgr.es/p/7qS) - *Planet PostgreSQL* (2026-01-23)
 - [How Tradeshift boosted operational efficiency and scalability with Amazon RDS](https://aws.amazon.com/blogs/database/how-tradeshift-boosted-operational-efficiency-and-scalability-with-amazon-rds/) - *AWS Database Blog* (2026-01-22)
 - [Introducing the Azure Cosmos DB Agent Kit: Your AI Pair Programmer Just Got Smarter](https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-agent-kit-ai-coding-assistants/) - *Azure Cosmos DB Blog* (2026-01-22)
 - [MaiCoin case study: Blue/green upgrade from Amazon ElastiCache Redis to Valkey](https://aws.amazon.com/blogs/database/maicoin-case-study-blue-green-upgrade-from-amazon-elasticache-redis-to-valkey/) - *AWS Database Blog* (2026-01-22)
-- [Floor Drees: PostgreSQL Contributor Story: Florin Irion](https://postgr.es/p/7qP) - *Planet PostgreSQL* (2026-01-22)
 - [Automate the export of Amazon RDS for MySQL or Amazon Aurora MySQL audit logs to Amazon S3 with batching or near real-time processing](https://aws.amazon.com/blogs/database/automate-the-export-of-amazon-rds-for-mysql-or-amazon-aurora-mysql-audit-logs-to-amazon-s3-with-batching-or-near-real-time-processing/) - *AWS Database Blog* (2026-01-21)
 
 ## Networking
@@ -66,11 +66,11 @@ Automated tech news updates. Last updated: 2026-01-25 08:29:43 UTC
 
 ## Computing
 
+- [A decade of Star Trek-themed fart jokes: The Greatest Generation podcast turns 10](https://arstechnica.com/culture/2026/01/a-decade-of-star-trek-themed-fart-jokes-the-greatest-generation-podcast-turns-10/) - *Ars Technica - All content* (2026-01-25)
 - [Poland's energy grid was targeted by never-before-seen wiper malware](https://arstechnica.com/security/2026/01/wiper-malware-targeted-poland-energy-grid-but-failed-to-knock-out-electricity/) - *Ars Technica - All content* (2026-01-24)
 - [Did Edison accidentally make graphene in 1879?](https://arstechnica.com/science/2026/01/did-edison-accidentally-make-graphene-in-1879/) - *Ars Technica - All content* (2026-01-24)
 - [A weird, itchy rash is linked to the keto diet—but no one knows why](https://arstechnica.com/health/2026/01/a-weird-itchy-rash-is-linked-to-the-keto-diet-but-no-one-knows-why/) - *Ars Technica - All content* (2026-01-24)
 - [TR-49 is interactive fiction for fans of deep research rabbit holes](https://arstechnica.com/gaming/2026/01/tr-49-is-interactive-fiction-for-fans-of-deep-research-rabbit-holes/) - *Ars Technica - All content* (2026-01-23)
-- [Demand for Intel's processors is apparently there, but the supply is not](https://arstechnica.com/gadgets/2026/01/core-ultra-series-3-launch-may-be-hampered-by-chip-shortages-says-intel/) - *Ars Technica - All content* (2026-01-23)
 
 ## AI/Models/RL
 
