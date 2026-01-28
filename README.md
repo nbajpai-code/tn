@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-01-27 08:35:36 UTC
+Automated tech news updates. Last updated: 2026-01-28 08:35:01 UTC
 
 ## Software Architecture
 
@@ -20,87 +20,77 @@ Automated tech news updates. Last updated: 2026-01-27 08:35:36 UTC
 
 ## Kubernetes
 
+- [Experimenting with Gateway API using kind](https://kubernetes.io/blog/2026/01/28/experimenting-gateway-api-with-kind/) - *Kubernetes Blog* (2026-01-28)
+- [Cluster API v1.12: Introducing In-place Updates and Chained Upgrades](https://kubernetes.io/blog/2026/01/27/cluster-api-v1-12-release/) - *Kubernetes Blog* (2026-01-27)
+- [Navigating the ingress-nginx archival: why now is the time to move to Cilium](https://www.cncf.io/blog/2026/01/27/navigating-the-ingress-nginx-archival-why-now-is-the-time-to-move-to-cilium/) - *Blog – Cloud Native Computing Foundation* (2026-01-27)
 - [k0s in 2025: A year of community growth, governance, and Kubernetes innovation](https://www.cncf.io/blog/2026/01/26/k0s-in-2025-a-year-of-community-growth-governance-and-kubernetes-innovation/) - *Blog – Cloud Native Computing Foundation* (2026-01-26)
 - [The autonomous enterprise and the four pillars of platform control: 2026 forecast](https://www.cncf.io/blog/2026/01/23/the-autonomous-enterprise-and-the-four-pillars-of-platform-control-2026-forecast/) - *Blog – Cloud Native Computing Foundation* (2026-01-23)
 - [LitmusChaos Q4 2025 update: community, contributions, and project progress](https://www.cncf.io/blog/2026/01/22/litmuschaos-q4-2025-update-community-contributions-and-project-progress/) - *Blog – Cloud Native Computing Foundation* (2026-01-22)
 - [Headlamp in 2025: Project Highlights](https://kubernetes.io/blog/2026/01/22/headlamp-in-2025-project-highlights/) - *Kubernetes Blog* (2026-01-22)
 - [Announcing the Checkpoint/Restore Working Group](https://kubernetes.io/blog/2026/01/21/introducing-checkpoint-restore-wg/) - *Kubernetes Blog* (2026-01-21)
 - [Platform engineering maintenance pitfalls and smart strategies to stay ahead](https://www.cncf.io/blog/2026/01/21/platform-engineering-maintenance-pitfalls-and-smart-strategies-to-stay-ahead/) - *Blog – Cloud Native Computing Foundation* (2026-01-21)
-- [Kubernetes Fuels AI Growth; Organizational Culture Remains the Decisive Factor](https://www.cncf.io/blog/2026/01/20/kubernetes-fuels-ai-growth-organizational-culture-remains-the-decisive-factor/) - *Blog – Cloud Native Computing Foundation* (2026-01-20)
 - [Uniform API server access using clientcmd](https://kubernetes.io/blog/2026/01/19/clientcmd-apiserver-access/) - *Kubernetes Blog* (2026-01-19)
-- [Kubernetes v1.35: Restricting executables invoked by kubeconfigs via exec plugin allowList added to kuberc](https://kubernetes.io/blog/2026/01/09/kubernetes-v1-35-kuberc-credential-plugin-allowlist/) - *Kubernetes Blog* (2026-01-09)
-- [Kubernetes v1.35: Mutable PersistentVolume Node Affinity (alpha)](https://kubernetes.io/blog/2026/01/08/kubernetes-v1-35-mutable-pv-nodeaffinity/) - *Kubernetes Blog* (2026-01-08)
 
 ## Security
 
-- [Microsoft Office Zero-Day (CVE-2026-21509) - Emergency Patch Issued for Active Exploitation](https://thehackernews.com/2026/01/microsoft-issues-emergency-patch-for.html) - *The Hacker News* (2026-01-27)
-- [Indian Users Targeted in Tax Phishing Campaign Delivering Blackmoon Malware](https://thehackernews.com/2026/01/indian-users-targeted-in-tax-phishing.html) - *The Hacker News* (2026-01-26)
-- [Malicious VS Code AI Extensions with 1.5 Million Installs Steal Developer Source Code](https://thehackernews.com/2026/01/malicious-vs-code-ai-extensions-with-15.html) - *The Hacker News* (2026-01-26)
+- [Fortinet Patches CVE-2026-24858 After Active FortiOS SSO Exploitation Detected](https://thehackernews.com/2026/01/fortinet-patches-cve-2026-24858-after.html) - *The Hacker News* (2026-01-28)
+- [WhatsApp Rolls Out Lockdown-Style Security Mode to Protect Targeted Users From Spyware](https://thehackernews.com/2026/01/whatsapp-rolls-out-lockdown-style.html) - *The Hacker News* (2026-01-27)
+- [Experts Detect Pakistan-Linked Cyber Campaigns Aimed at Indian Government Entities](https://thehackernews.com/2026/01/experts-detect-pakistan-linked-cyber.html) - *The Hacker News* (2026-01-27)
+- [ClickFix Attacks Expand Using Fake CAPTCHAs, Microsoft Scripts, and Trusted Web Services](https://thehackernews.com/2026/01/clickfix-attacks-expand-using-fake.html) - *The Hacker News* (2026-01-27)
+- [The Constitutionality of Geofence Warrants](https://www.schneier.com/blog/archives/2026/01/the-constitutionality-of-geofence-warrants.html) - *Schneier on Security* (2026-01-27)
+- [CTEM in Practice: Prioritization, Validation, and Outcomes That Matter](https://thehackernews.com/2026/01/ctem-in-practice-prioritization.html) - *The Hacker News* (2026-01-27)
+- [Who Operates the Badbox 2.0 Botnet?](https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/) - *Krebs on Security* (2026-01-26)
 - [Ireland Proposes Giving Police New Digital Surveillance Powers](https://www.schneier.com/blog/archives/2026/01/ireland-proposes-giving-police-new-digital-surveillance-powers.html) - *Schneier on Security* (2026-01-26)
-- [⚡ Weekly Recap: Firewall Flaws, AI-Built Malware, Browser Traps, Critical CVEs & More](https://thehackernews.com/2026/01/weekly-recap-firewall-flaws-ai-built.html) - *The Hacker News* (2026-01-26)
-- [Winning Against AI-Based Attacks Requires a Combined Defensive Approach](https://thehackernews.com/2026/01/winning-against-ai-based-attacks.html) - *The Hacker News* (2026-01-26)
 - [Friday Squid Blogging: Giant Squid in the Star Trek Universe](https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-giant-squid-in-the-star-trek-universe.html) - *Schneier on Security* (2026-01-23)
 - [AIs are Getting Better at Finding and Exploiting Internet Vulnerabilities](https://www.schneier.com/blog/archives/2026/01/ais-are-getting-better-at-finding-and-exploiting-internet-vulnerabilities.html) - *Schneier on Security* (2026-01-23)
-- [Why AI Keeps Falling for Prompt Injection Attacks](https://www.schneier.com/blog/archives/2026/01/why-ai-keeps-falling-for-prompt-injection-attacks.html) - *Schneier on Security* (2026-01-22)
-- [Internet Voting is Too Insecure for Use in Elections](https://www.schneier.com/blog/archives/2026/01/internet-voting-is-too-insecure-for-use-in-elections.html) - *Schneier on Security* (2026-01-21)
 
 ## Databases/Storage
 
+- [Choosing the right code page and collation for migration from mainframe Db2 to Amazon RDS for Db2](https://aws.amazon.com/blogs/database/choosing-the-right-code-page-and-collation-for-migration-from-mainframe-db2-to-amazon-rds-for-db2/) - *AWS Database Blog* (2026-01-27)
+- [Enhance the visibility of Amazon RDS instances and configuration with AWS Config and Amazon Quick Suite](https://aws.amazon.com/blogs/database/enhance-the-visibility-of-amazon-rds-instances-and-configuration-with-aws-config-and-amazon-quick-suite/) - *AWS Database Blog* (2026-01-27)
+- [Analyze JSON data efficiently with Amazon Redshift SUPER](https://aws.amazon.com/blogs/database/analyze-json-data-efficiently-with-amazon-redshift-super/) - *AWS Database Blog* (2026-01-27)
+- [Strategies for upgrading Amazon Aurora PostgreSQL and Amazon RDS for PostgreSQL from version 13](https://aws.amazon.com/blogs/database/strategies-for-upgrading-amazon-aurora-postgresql-and-amazon-rds-for-postgresql-from-version-13/) - *AWS Database Blog* (2026-01-27)
+- [semab tariq: Unused Indexes In PostgreSQL: Risks, Detection, And Safe Removal](https://postgr.es/p/7q_) - *Planet PostgreSQL* (2026-01-27)
+- [Hubert 'depesz' Lubaczewski: How to render timestamp with a timezone that is different from current?](https://postgr.es/p/7q-) - *Planet PostgreSQL* (2026-01-27)
 - [Dave Stokes: Is the future of MySQL PostgreSQL (Or MariaDB, or TiDB, or ...)?](https://postgr.es/p/7qZ) - *Planet PostgreSQL* (2026-01-25)
 - [damien clochard: PostgreSQL Anonymizer, available in all good shops](https://postgr.es/p/7qY) - *Planet PostgreSQL* (2026-01-25)
 - [David Wheeler: 🛠️ PGXN Tools v1.7](https://postgr.es/p/7qV) - *Planet PostgreSQL* (2026-01-24)
-- [Radim Marek: Introduction to Buffers in PostgreSQL](https://postgr.es/p/7qU) - *Planet PostgreSQL* (2026-01-24)
-- [Kaarel Moppel: CSI: Postgres — Did someone change my table??](https://postgr.es/p/7qT) - *Planet PostgreSQL* (2026-01-23)
 - [Azure Cosmos DB TV Recap: Supercharging AI Agents with the Azure Cosmos DB MCP Toolkit (Ep. 110)](https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-tv-ep-110-mcp-toolkit-ai-agents/) - *Azure Cosmos DB Blog* (2026-01-23)
-- [How Tradeshift boosted operational efficiency and scalability with Amazon RDS](https://aws.amazon.com/blogs/database/how-tradeshift-boosted-operational-efficiency-and-scalability-with-amazon-rds/) - *AWS Database Blog* (2026-01-22)
-- [Introducing the Azure Cosmos DB Agent Kit: Your AI Pair Programmer Just Got Smarter](https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-agent-kit-ai-coding-assistants/) - *Azure Cosmos DB Blog* (2026-01-22)
-- [MaiCoin case study: Blue/green upgrade from Amazon ElastiCache Redis to Valkey](https://aws.amazon.com/blogs/database/maicoin-case-study-blue-green-upgrade-from-amazon-elasticache-redis-to-valkey/) - *AWS Database Blog* (2026-01-22)
-- [Automate the export of Amazon RDS for MySQL or Amazon Aurora MySQL audit logs to Amazon S3 with batching or near real-time processing](https://aws.amazon.com/blogs/database/automate-the-export-of-amazon-rds-for-mysql-or-amazon-aurora-mysql-audit-logs-to-amazon-s3-with-batching-or-near-real-time-processing/) - *AWS Database Blog* (2026-01-21)
 
 ## Networking
 
-- [Microsoft launches its second generation AI inference chip, Maia 200](https://www.networkworld.com/article/4122439/microsoft-launches-its-second-generation-ai-inference-chip-maia-200.html) - *Microsoft launches its second generation AI inference chip, Maia 200
-
- | Network World* (2026-01-27)
-- [Photonic chip vendor snags Gates investment](https://www.networkworld.com/article/4122206/photonic-chip-vendor-snags-gates-investment.html) - *Microsoft launches its second generation AI inference chip, Maia 200
-
- | Network World* (2026-01-26)
-- [Intel wrestling with CPU supply shortage](https://www.networkworld.com/article/4122172/intel-wrestling-with-cpu-supply-shortage.html) - *Microsoft launches its second generation AI inference chip, Maia 200
-
- | Network World* (2026-01-26)
-- [Nvidia: Latest news and insights](https://www.networkworld.com/article/3562856/nvidia-latest-news-and-insights.html) - *Microsoft launches its second generation AI inference chip, Maia 200
-
- | Network World* (2026-01-26)
-- [Nvidia is still working with suppliers on RAM chips for Rubin](https://www.networkworld.com/article/4121983/nvidia-is-still-working-with-suppliers-on-ram-chips-for-rubin.html) - *Microsoft launches its second generation AI inference chip, Maia 200
-
- | Network World* (2026-01-26)
+- [2026 network outage report and internet health check](https://www.networkworld.com/article/4113326/2026-network-outage-report-and-internet-health-check.html) - *2026 network outage report and internet health check | Network World* (2026-01-27)
+- [Gauging the real impact of AI agents](https://www.networkworld.com/article/4122790/gauging-the-real-impact-of-ai-agents.html) - *2026 network outage report and internet health check | Network World* (2026-01-27)
+- [Microsoft launches its second generation AI inference chip, Maia 200](https://www.networkworld.com/article/4122439/microsoft-launches-its-second-generation-ai-inference-chip-maia-200.html) - *2026 network outage report and internet health check | Network World* (2026-01-27)
+- [Photonic chip vendor snags Gates investment](https://www.networkworld.com/article/4122206/photonic-chip-vendor-snags-gates-investment.html) - *2026 network outage report and internet health check | Network World* (2026-01-26)
+- [Intel wrestling with CPU supply shortage](https://www.networkworld.com/article/4122172/intel-wrestling-with-cpu-supply-shortage.html) - *2026 network outage report and internet health check | Network World* (2026-01-26)
 
 ## Computing
 
-- [OpenAI spills technical details about how its AI coding agent works](https://arstechnica.com/ai/2026/01/openai-spills-technical-details-about-how-its-ai-coding-agent-works/) - *Ars Technica - All content* (2026-01-26)
-- [Doctors face-palm as RFK Jr.’s top vaccine advisor questions need for polio shot](https://arstechnica.com/science/2026/01/do-we-really-need-polio-shots-deep-thoughts-by-rfk-jr-advisor-get-dragged/) - *Ars Technica - All content* (2026-01-26)
-- [Why has Microsoft been routing example.com traffic to a company in Japan?](https://arstechnica.com/information-technology/2026/01/odd-anomaly-caused-microsofts-network-to-mishandle-example-com-traffic/) - *Ars Technica - All content* (2026-01-26)
-- [Apple's AirTag 2 is easier to find thanks to new chip](https://arstechnica.com/gadgets/2026/01/apple-introduces-new-airtag-with-better-range-and-a-louder-speaker/) - *Ars Technica - All content* (2026-01-26)
-- [“Wildly irresponsible”: DOT's use of AI to draft safety rules sparks concerns](https://arstechnica.com/tech-policy/2026/01/wildly-irresponsible-dots-use-of-ai-to-draft-safety-rules-sparks-concerns/) - *Ars Technica - All content* (2026-01-26)
+- [Dozens of CDC vaccination databases have been frozen under RFK Jr.](https://arstechnica.com/health/2026/01/rfk-jr-lets-cdc-vaccination-data-rot-dozens-of-databases-frozen/) - *Ars Technica - All content* (2026-01-27)
+- [TikTok users “absolutely justified” for fearing MAGA makeover, experts say](https://arstechnica.com/tech-policy/2026/01/tiktok-claimed-bugs-blocked-anti-ice-videos-epstein-mentions-experts-call-bs/) - *Ars Technica - All content* (2026-01-27)
+- [There's a rash of scam spam coming from a real Microsoft address](https://arstechnica.com/information-technology/2026/01/theres-a-rash-of-scam-spam-coming-from-a-real-microsoft-address/) - *Ars Technica - All content* (2026-01-27)
+- [Supreme Court to decide how 1988 videotape privacy law applies to online video](https://arstechnica.com/tech-policy/2026/01/supreme-court-to-decide-how-1988-videotape-privacy-law-applies-to-online-video/) - *Ars Technica - All content* (2026-01-27)
+- [A WB-57 pilot just made a heroic landing in Houston after its landing gear failed](https://arstechnica.com/space/2026/01/one-of-nasas-three-wb-57-aircraft-just-did-a-belly-landing-in-houston/) - *Ars Technica - All content* (2026-01-27)
 
 ## AI/Models/RL
 
+- [Nemotron-Personas-Brazil: Co-Designed Data for Sovereign AI](https://huggingface.co/blog/nvidia/nemotron-personas-brazil) - *Hugging Face - Blog* (2026-01-28)
+- [ATLAS: Practical scaling laws for multilingual models](https://research.google/blog/atlas-practical-scaling-laws-for-multilingual-models/) - *The latest research from Google* (2026-01-27)
+- [Architectural Choices in China's Open-Source AI Ecosystem: Building Beyond DeepSeek](https://huggingface.co/blog/huggingface/one-year-since-the-deepseek-moment-blog-2) - *Hugging Face - Blog* (2026-01-27)
+- [Alyah ⭐️: Toward Robust Evaluation of Emirati Dialect Capabilities in Arabic LLMs](https://huggingface.co/blog/tiiuae/emirati-benchmarks) - *Hugging Face - Blog* (2026-01-27)
+- [PVH reimagines the future of fashion with OpenAI](https://openai.com/index/pvh-future-of-fashion) - *OpenAI News* (2026-01-27)
 - [Unlocking Agentic RL Training for GPT-OSS: A Practical Retrospective](https://huggingface.co/blog/LinkedIn/gpt-oss-agentic-rl) - *Hugging Face - Blog* (2026-01-27)
-- [**NVIDIA Earth-2 Open Models Span the Whole Weather Stack**](https://huggingface.co/blog/nvidia/earth-2-open-models) - *Hugging Face - Blog* (2026-01-26)
+- [Powering tax donations with AI powered personalized recommendations](https://openai.com/index/trustbank) - *OpenAI News* (2026-01-27)
+- [Introducing Prism](https://openai.com/index/introducing-prism) - *OpenAI News* (2026-01-27)
 - [How Indeed uses AI to help evolve the job search](https://openai.com/index/indeed-maggie-hulce) - *OpenAI News* (2026-01-26)
 - [Introducing GIST: The next stage in smart sampling](https://research.google/blog/introducing-gist-the-next-stage-in-smart-sampling/) - *The latest research from Google* (2026-01-23)
-- [Unrolling the Codex agent loop](https://openai.com/index/unrolling-the-codex-agent-loop) - *OpenAI News* (2026-01-23)
-- [Small models, big results: Achieving superior intent extraction through decomposition](https://research.google/blog/small-models-big-results-achieving-superior-intent-extraction-through-decomposition/) - *The latest research from Google* (2026-01-22)
-- [Scaling PostgreSQL to power 800 million ChatGPT users](https://openai.com/index/scaling-postgresql) - *OpenAI News* (2026-01-22)
-- [Inside Praktika's conversational approach to language learning](https://openai.com/index/praktika) - *OpenAI News* (2026-01-22)
-- [Inside GPT-5 for Work: How Businesses Use GPT-5](https://openai.com/business/guides-and-resources/chatgpt-usage-and-adoption-patterns-at-work) - *OpenAI News* (2026-01-22)
-- [AssetOpsBench: Bridging the Gap Between AI Agent Benchmarks and Industrial Reality](https://huggingface.co/blog/ibm-research/assetopsbench-playground-on-hugging-face) - *Hugging Face - Blog* (2026-01-21)
 
 ## AI Infra
 
+- [Build reliable Agentic AI solution with Amazon Bedrock: Learn from Pushpay’s journey on GenAI evaluation](https://aws.amazon.com/blogs/machine-learning/build-reliable-agentic-ai-solution-with-amazon-bedrock-learn-from-pushpays-journey-on-genai-evaluation/) - *Artificial Intelligence* (2026-01-27)
+- [Build an intelligent contract management solution with Amazon Quick Suite and Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-an-intelligent-contract-management-solution-with-amazon-quick-suite-and-bedrock-agentcore/) - *Artificial Intelligence* (2026-01-27)
 - [Build a serverless AI Gateway architecture with AWS AppSync Events](https://aws.amazon.com/blogs/machine-learning/build-a-serverless-ai-gateway-architecture-with-aws-appsync-events/) - *Artificial Intelligence* (2026-01-26)
 - [How Totogi automated change request processing with Totogi BSS Magic and Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-totogi-automated-change-request-processing-with-totogi-bss-magic-and-amazon-bedrock/) - *Artificial Intelligence* (2026-01-26)
 - [Build AI agents with Amazon Bedrock AgentCore using AWS CloudFormation](https://aws.amazon.com/blogs/machine-learning/build-ai-agents-with-amazon-bedrock-agentcore-using-aws-cloudformation/) - *Artificial Intelligence* (2026-01-23)
-- [How the Amazon.com Catalog Team built self-learning generative AI at scale with Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-the-amazon-com-catalog-team-built-self-learning-generative-ai-at-scale-with-amazon-bedrock/) - *Artificial Intelligence* (2026-01-23)
-- [How PDI built an enterprise-grade RAG system for AI applications with AWS](https://aws.amazon.com/blogs/machine-learning/how-pdi-built-an-enterprise-grade-rag-system-for-ai-applications-with-aws/) - *Artificial Intelligence* (2026-01-22)
 
