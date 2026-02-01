@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-01-31 08:32:50 UTC
+Automated tech news updates. Last updated: 2026-02-01 08:34:50 UTC
 
 ## Software Architecture
 
@@ -33,13 +33,13 @@ Automated tech news updates. Last updated: 2026-01-31 08:32:50 UTC
 
 ## Security
 
+- [Iran-Linked RedKitten Cyber Campaign Targets Human Rights NGOs and Activists](https://thehackernews.com/2026/01/iran-linked-redkitten-cyber-campaign.html) - *The Hacker News* (2026-01-31)
+- [Mandiant Finds ShinyHunters-Style Vishing Attacks Stealing MFA to Breach SaaS Platforms](https://thehackernews.com/2026/01/mandiant-finds-shinyhunters-using.html) - *The Hacker News* (2026-01-31)
 - [CERT Polska Details Coordinated Cyber Attacks on 30+ Wind and Solar Farms](https://thehackernews.com/2026/01/poland-attributes-december-cyber.html) - *The Hacker News* (2026-01-31)
 - [Friday Squid Blogging: New Squid Species Discovered](https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-new-squid-species-discovered.html) - *Schneier on Security* (2026-01-30)
 - [AIs Are Getting Better at Finding and Exploiting Security Vulnerabilities](https://www.schneier.com/blog/archives/2026/01/ais-are-getting-better-at-finding-and-exploiting-security-vulnerabilities.html) - *Schneier on Security* (2026-01-30)
 - [Researchers Uncover Chrome Extensions Abusing Affiliate Links and Stealing ChatGPT Access](https://thehackernews.com/2026/01/researchers-uncover-chrome-extensions.html) - *The Hacker News* (2026-01-30)
 - [China-Linked UAT-8099 Targets IIS Servers in Asia with BadIIS SEO Malware](https://thehackernews.com/2026/01/china-linked-uat-8099-targets-iis.html) - *The Hacker News* (2026-01-30)
-- [Badges, Bytes and Blackmail](https://thehackernews.com/2026/01/badges-bytes-and-blackmail.html) - *The Hacker News* (2026-01-30)
-- [Ex-Google Engineer Convicted for Stealing AI Secrets for China Startup](https://thehackernews.com/2026/01/ex-google-engineer-convicted-for.html) - *The Hacker News* (2026-01-30)
 - [The Constitutionality of Geofence Warrants](https://www.schneier.com/blog/archives/2026/01/the-constitutionality-of-geofence-warrants.html) - *Schneier on Security* (2026-01-27)
 - [Ireland Proposes Giving Police New Digital Surveillance Powers](https://www.schneier.com/blog/archives/2026/01/ireland-proposes-giving-police-new-digital-surveillance-powers.html) - *Schneier on Security* (2026-01-26)
 - [Friday Squid Blogging: Giant Squid in the Star Trek Universe](https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-giant-squid-in-the-star-trek-universe.html) - *Schneier on Security* (2026-01-23)
@@ -67,11 +67,11 @@ Automated tech news updates. Last updated: 2026-01-31 08:32:50 UTC
 
 ## Computing
 
-- [How far does $5,000 go when you want an electric car?](https://arstechnica.com/cars/2026/01/how-far-does-5000-go-when-you-want-an-electric-car/) - *Ars Technica - All content* (2026-01-30)
-- [NASA faces a crucial choice on a Mars spacecraft—and it must decide soon](https://arstechnica.com/space/2026/01/nasa-faces-a-crucial-choice-on-a-mars-spacecraft-and-it-must-decide-soon/) - *Ars Technica - All content* (2026-01-30)
-- [Rocket Report: How a 5-ton satellite fell off a booster; will SpaceX and xAI merge?](https://arstechnica.com/space/2026/01/rocket-report-how-a-5-ton-satellite-fell-off-a-booster-will-spacex-and-xai-merge/) - *Ars Technica - All content* (2026-01-30)
-- [Inside Nvidia's 10-year effort to make the Shield TV the most updated Android device ever](https://arstechnica.com/gadgets/2026/01/inside-nvidias-10-year-effort-to-make-the-shield-tv-the-most-updated-android-device-ever/) - *Ars Technica - All content* (2026-01-30)
-- [Having that high-deductible health plan might kill you, literally](https://arstechnica.com/health/2026/01/having-that-high-deductible-health-plan-might-kill-you-literally/) - *Ars Technica - All content* (2026-01-29)
+- [Research roundup: 6 cool stories we almost missed](https://arstechnica.com/science/2026/01/research-roundup-6-cool-stories-we-almost-missed-2/) - *Ars Technica - All content* (2026-01-31)
+- [A cup of coffee for depression treatment has better results than microdosing](https://arstechnica.com/health/2026/01/placebo-outperforms-lsd-microdosing-for-depression/) - *Ars Technica - All content* (2026-01-31)
+- [The TV industry finally concedes that the future may not be in 8K](https://arstechnica.com/gadgets/2026/01/lg-joins-the-rest-of-the-world-accepts-that-people-dont-want-8k-tvs/) - *Ars Technica - All content* (2026-01-30)
+- [ICE protester says her Global Entry was revoked after agent scanned her face](https://arstechnica.com/tech-policy/2026/01/ice-protester-says-her-global-entry-was-revoked-after-agent-scanned-her-face/) - *Ars Technica - All content* (2026-01-30)
+- [TrumpRx delayed as senators question if it's a giant scam with Big Pharma](https://arstechnica.com/health/2026/01/trumprx-delayed-as-senators-question-if-its-a-giant-scam-with-big-pharma/) - *Ars Technica - All content* (2026-01-30)
 
 ## AI/Models/RL
 
@@ -82,8 +82,8 @@ Automated tech news updates. Last updated: 2026-01-31 08:32:50 UTC
 - [Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT](https://openai.com/index/retiring-gpt-4o-and-older-models) - *OpenAI News* (2026-01-29)
 - [Introducing Daggr: Chain apps programmatically, inspect visually](https://huggingface.co/blog/daggr) - *Hugging Face - Blog* (2026-01-29)
 - [Towards a science of scaling agent systems: When and why agent systems work](https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work/) - *The latest research from Google* (2026-01-28)
-- [EMEA Youth & Wellbeing Grant](https://openai.com/index/emea-youth-and-wellbeing-grant) - *OpenAI News* (2026-01-28)
 - [The next chapter for AI in the EU](https://openai.com/index/the-next-chapter-for-ai-in-the-eu) - *OpenAI News* (2026-01-28)
+- [EMEA Youth & Wellbeing Grant](https://openai.com/index/emea-youth-and-wellbeing-grant) - *OpenAI News* (2026-01-28)
 - [We Got Claude to Build CUDA Kernels and teach open models!](https://huggingface.co/blog/upskill) - *Hugging Face - Blog* (2026-01-28)
 
 ## AI Infra
