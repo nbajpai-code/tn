@@ -1,12 +1,12 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-02-01 08:34:50 UTC
+Automated tech news updates. Last updated: 2026-02-02 08:45:55 UTC
 
 ## Software Architecture
 
 - [Presentation: Foundation Models for Ranking: Challenges, Successes, and Lessons Learned](https://www.infoq.com/presentations/foundation-models-ranking/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-01-28)
 - [Article: One Cache to Rule Them All: Handling Responses and In-Flight Requests with Durable Objects](https://www.infoq.com/articles/durable-objects-handle-inflight-requests/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-01-28)
-- [Podcast: Startup Software Architecture - You Never Really Throw It Away: A Conversation with David Gudeman](https://www.infoq.com/podcasts/startup-software-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-01-26)
+- [Podcast: Startup Software Architecture - You Never Really Throw it Away: a Conversation with David Gudeman](https://www.infoq.com/podcasts/startup-software-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-01-26)
 - [DoorDash Applies AI to Safety across Chat and Calls, Cutting Incidents by 50%](https://www.infoq.com/news/2026/01/doordash-safechat-ai-safety/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-01-23)
 - [Mini book: Architecture in the Age of AI: Change and Opportunity](https://www.infoq.com/minibooks/architecture-age-ai-opportunity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-01-23)
 
@@ -33,45 +33,45 @@ Automated tech news updates. Last updated: 2026-02-01 08:34:50 UTC
 
 ## Security
 
+- [eScan Antivirus Update Servers Compromised to Deliver Multi-Stage Malware](https://thehackernews.com/2026/02/escan-antivirus-update-servers.html) - *The Hacker News* (2026-02-02)
+- [Open VSX Supply Chain Attack Used Compromised Dev Account to Spread GlassWorm](https://thehackernews.com/2026/02/open-vsx-supply-chain-attack-used.html) - *The Hacker News* (2026-02-02)
 - [Iran-Linked RedKitten Cyber Campaign Targets Human Rights NGOs and Activists](https://thehackernews.com/2026/01/iran-linked-redkitten-cyber-campaign.html) - *The Hacker News* (2026-01-31)
 - [Mandiant Finds ShinyHunters-Style Vishing Attacks Stealing MFA to Breach SaaS Platforms](https://thehackernews.com/2026/01/mandiant-finds-shinyhunters-using.html) - *The Hacker News* (2026-01-31)
 - [CERT Polska Details Coordinated Cyber Attacks on 30+ Wind and Solar Farms](https://thehackernews.com/2026/01/poland-attributes-december-cyber.html) - *The Hacker News* (2026-01-31)
 - [Friday Squid Blogging: New Squid Species Discovered](https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-new-squid-species-discovered.html) - *Schneier on Security* (2026-01-30)
 - [AIs Are Getting Better at Finding and Exploiting Security Vulnerabilities](https://www.schneier.com/blog/archives/2026/01/ais-are-getting-better-at-finding-and-exploiting-security-vulnerabilities.html) - *Schneier on Security* (2026-01-30)
-- [Researchers Uncover Chrome Extensions Abusing Affiliate Links and Stealing ChatGPT Access](https://thehackernews.com/2026/01/researchers-uncover-chrome-extensions.html) - *The Hacker News* (2026-01-30)
-- [China-Linked UAT-8099 Targets IIS Servers in Asia with BadIIS SEO Malware](https://thehackernews.com/2026/01/china-linked-uat-8099-targets-iis.html) - *The Hacker News* (2026-01-30)
 - [The Constitutionality of Geofence Warrants](https://www.schneier.com/blog/archives/2026/01/the-constitutionality-of-geofence-warrants.html) - *Schneier on Security* (2026-01-27)
+- [Who Operates the Badbox 2.0 Botnet?](https://krebsonsecurity.com/2026/01/who-operates-the-badbox-2-0-botnet/) - *Krebs on Security* (2026-01-26)
 - [Ireland Proposes Giving Police New Digital Surveillance Powers](https://www.schneier.com/blog/archives/2026/01/ireland-proposes-giving-police-new-digital-surveillance-powers.html) - *Schneier on Security* (2026-01-26)
-- [Friday Squid Blogging: Giant Squid in the Star Trek Universe](https://www.schneier.com/blog/archives/2026/01/friday-squid-blogging-giant-squid-in-the-star-trek-universe.html) - *Schneier on Security* (2026-01-23)
 
 ## Databases/Storage
 
+- [Kai Wagner: Hackorum - A Forum-Style View of pg-hackers](https://postgr.es/p/7ra) - *Planet PostgreSQL* (2026-02-02)
+- [Lætitia AVROT: FOSDEM 2026: €400 Repetto Heels, Recursive CTEs, and Europe's Tech Sovereignty Wake-Up Call](https://postgr.es/p/7r9) - *Planet PostgreSQL* (2026-02-01)
 - [Deepak Mahto: Same SQL, Different Results: A Subtle Oracle vs PostgreSQL Migration Bug](https://postgr.es/p/7r8) - *Planet PostgreSQL* (2026-01-30)
 - [Introducing pre-warming for Amazon Keyspaces tables](https://aws.amazon.com/blogs/database/introducing-pre-warming-for-amazon-keyspaces-tables/) - *AWS Database Blog* (2026-01-29)
 - [Azure Cosmos DB TV Recap – From Burger to Bots – Agentic Apps with Cosmos DB and LangChain.js | Ep. 111](https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-tv-recap-from-burger-to-bots-agentic-apps-with-cosmos-db-and-langchain-js-ep-111/) - *Azure Cosmos DB Blog* (2026-01-29)
 - [Jimmy Angelakos: Panel Discussion: How to Work with Other Postgres People — PGConf.EU 2025](https://postgr.es/p/7r6) - *Planet PostgreSQL* (2026-01-29)
 - [warda bibi: Unlocking High-Performance PostgreSQL: Key Memory Optimizations](https://postgr.es/p/7r5) - *Planet PostgreSQL* (2026-01-29)
-- [Antony Pegg: How to Use the pgEdge MCP Server for PostgreSQL with Claude Cowork](https://postgr.es/p/7r7) - *Planet PostgreSQL* (2026-01-29)
 - [Managing IP address exhaustion for Amazon RDS Proxy](https://aws.amazon.com/blogs/database/managing-ip-address-exhaustion-for-amazon-rds-proxy/) - *AWS Database Blog* (2026-01-28)
 - [Accelerate Your Cosmos DB Infrastructure with GitHub Copilot CLI and Azure Cosmos DB Agent Kit](https://devblogs.microsoft.com/cosmosdb/github-copilot-cli-cosmos-db-agent-kit/) - *Azure Cosmos DB Blog* (2026-01-28)
-- [Andrei Lepikhov: 500 Milliseconds on Planning: How PostgreSQL Statistics Slowed Down a Query 20 Times Over](https://postgr.es/p/7r3) - *Planet PostgreSQL* (2026-01-28)
 - [Choosing the right code page and collation for migration from mainframe Db2 to Amazon RDS for Db2](https://aws.amazon.com/blogs/database/choosing-the-right-code-page-and-collation-for-migration-from-mainframe-db2-to-amazon-rds-for-db2/) - *AWS Database Blog* (2026-01-27)
 
 ## Networking
 
-- [Startup Amutable plotting Linux security overhaul to counter hacking threats](https://www.networkworld.com/article/4125186/startup-amutable-plotting-linux-security-overhaul-to-counter-hacking-threats-2.html) - *Startup Amutable plotting Linux security overhaul to counter hacking threats | Network World* (2026-01-30)
-- [Forward Networks launches agentic AI system built on network digital twin](https://www.networkworld.com/article/4125111/forward-networks-launches-agentic-ai-system-built-on-network-digital-twin.html) - *Startup Amutable plotting Linux security overhaul to counter hacking threats | Network World* (2026-01-30)
-- [Oracle may slash up to 30,000 jobs to fund AI data-center expansion as US banks retreat](https://www.networkworld.com/article/4125108/oracle-may-slash-up-to-30000-jobs-to-fund-ai-data-center-expansion-as-us-banks-retreat-2.html) - *Startup Amutable plotting Linux security overhaul to counter hacking threats | Network World* (2026-01-30)
-- [Cisco: Latest news and insights](https://www.networkworld.com/article/3523958/cisco-latest-news-and-insights.html) - *Startup Amutable plotting Linux security overhaul to counter hacking threats | Network World* (2026-01-30)
-- [Top 11 network outages and application failures of 2025](https://www.networkworld.com/article/4124642/top-11-network-outages-and-application-failures-of-2025.html) - *Startup Amutable plotting Linux security overhaul to counter hacking threats | Network World* (2026-01-30)
+- [Enterprise Spotlight: Manufacturing Reimagined](https://us.resources.cio.com/resources/enterprise-spotlight-manufacturing-reimagined/) - *Enterprise Spotlight: Manufacturing Reimagined | Network World* (2026-02-01)
+- [Startup Amutable plotting Linux security overhaul to counter hacking threats](https://www.networkworld.com/article/4125186/startup-amutable-plotting-linux-security-overhaul-to-counter-hacking-threats-2.html) - *Enterprise Spotlight: Manufacturing Reimagined | Network World* (2026-01-30)
+- [Forward Networks launches agentic AI system built on network digital twin](https://www.networkworld.com/article/4125111/forward-networks-launches-agentic-ai-system-built-on-network-digital-twin.html) - *Enterprise Spotlight: Manufacturing Reimagined | Network World* (2026-01-30)
+- [Oracle may slash up to 30,000 jobs to fund AI data-center expansion as US banks retreat](https://www.networkworld.com/article/4125108/oracle-may-slash-up-to-30000-jobs-to-fund-ai-data-center-expansion-as-us-banks-retreat-2.html) - *Enterprise Spotlight: Manufacturing Reimagined | Network World* (2026-01-30)
+- [Cisco: Latest news and insights](https://www.networkworld.com/article/3523958/cisco-latest-news-and-insights.html) - *Enterprise Spotlight: Manufacturing Reimagined | Network World* (2026-01-30)
 
 ## Computing
 
+- [At NIH, a power struggle over institute directorships deepens](https://arstechnica.com/science/2026/02/at-nih-a-power-struggle-over-institute-directorships-deepens/) - *Ars Technica - All content* (2026-02-01)
+- [Fungus could be the insecticide of the future](https://arstechnica.com/science/2026/02/fungus-could-be-the-insecticide-of-the-future/) - *Ars Technica - All content* (2026-02-01)
 - [Research roundup: 6 cool stories we almost missed](https://arstechnica.com/science/2026/01/research-roundup-6-cool-stories-we-almost-missed-2/) - *Ars Technica - All content* (2026-01-31)
 - [A cup of coffee for depression treatment has better results than microdosing](https://arstechnica.com/health/2026/01/placebo-outperforms-lsd-microdosing-for-depression/) - *Ars Technica - All content* (2026-01-31)
 - [The TV industry finally concedes that the future may not be in 8K](https://arstechnica.com/gadgets/2026/01/lg-joins-the-rest-of-the-world-accepts-that-people-dont-want-8k-tvs/) - *Ars Technica - All content* (2026-01-30)
-- [ICE protester says her Global Entry was revoked after agent scanned her face](https://arstechnica.com/tech-policy/2026/01/ice-protester-says-her-global-entry-was-revoked-after-agent-scanned-her-face/) - *Ars Technica - All content* (2026-01-30)
-- [TrumpRx delayed as senators question if it's a giant scam with Big Pharma](https://arstechnica.com/health/2026/01/trumprx-delayed-as-senators-question-if-its-a-giant-scam-with-big-pharma/) - *Ars Technica - All content* (2026-01-30)
 
 ## AI/Models/RL
 
