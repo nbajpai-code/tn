@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-02-06 08:43:33 UTC
+Automated tech news updates. Last updated: 2026-02-07 08:33:51 UTC
 
 ## Software Architecture
 
@@ -33,64 +33,64 @@ Automated tech news updates. Last updated: 2026-02-06 08:43:33 UTC
 
 ## Security
 
-- [Claude Opus 4.6 Finds 500+ High-Severity Flaws Across Major Open-Source Libraries](https://thehackernews.com/2026/02/claude-opus-46-finds-500-high-severity.html) - *The Hacker News* (2026-02-06)
-- [AISURU/Kimwolf Botnet Launches Record-Setting 31.4 Tbps DDoS Attack](https://thehackernews.com/2026/02/aisurukimwolf-botnet-launches-record.html) - *The Hacker News* (2026-02-05)
-- [ThreatsDay Bulletin: Codespaces RCE, AsyncRAT C2, BYOVD Abuse, AI Cloud Intrusions & 15+ Stories](https://thehackernews.com/2026/02/threatsday-bulletin-codespaces-rce.html) - *The Hacker News* (2026-02-05)
+- [Friday Squid Blogging: Squid Fishing Tips](https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-squid-fishing-tips.html) - *Schneier on Security* (2026-02-06)
+- [I Am in the Epstein Files](https://www.schneier.com/blog/archives/2026/02/i-am-in-the-epstein-files.html) - *Schneier on Security* (2026-02-06)
+- [China-Linked DKnife AitM Framework Targets Routers for Traffic Hijacking, Malware Delivery](https://thehackernews.com/2026/02/china-linked-dknife-aitm-framework.html) - *The Hacker News* (2026-02-06)
+- [CISA Orders Removal of Unsupported Edge Devices to Reduce Federal Network Risk](https://thehackernews.com/2026/02/cisa-orders-removal-of-unsupported-edge.html) - *The Hacker News* (2026-02-06)
+- [Asian State-Backed Group TGR-STA-1030 Breaches 70 Government, Infrastructure Entities](https://thehackernews.com/2026/02/asian-state-backed-group-tgr-sta-1030.html) - *The Hacker News* (2026-02-06)
+- [iPhone Lockdown Mode Protects Washington Post Reporter](https://www.schneier.com/blog/archives/2026/02/iphone-lockdown-mode-protects-washington-post-reporter.html) - *Schneier on Security* (2026-02-06)
+- [How Samsung Knox Helps Stop Your Network Security Breach](https://thehackernews.com/2026/02/how-samsung-knox-helps-stop-your-network-security-breach.html) - *The Hacker News* (2026-02-06)
+- [Compromised dYdX npm and PyPI Packages Deliver Wallet Stealers and RAT Malware](https://thehackernews.com/2026/02/compromised-dydx-npm-and-pypi-packages.html) - *The Hacker News* (2026-02-06)
 - [Backdoor in Notepad++](https://www.schneier.com/blog/archives/2026/02/backdoor-in-notepad.html) - *Schneier on Security* (2026-02-05)
-- [The Buyer’s Guide to AI Usage Control](https://thehackernews.com/2026/02/the-buyers-guide-to-ai-usage-control.html) - *The Hacker News* (2026-02-05)
-- [Infy Hackers Resume Operations with New C2 Servers After Iran Internet Blackout Ends](https://thehackernews.com/2026/02/infy-hackers-resume-operations-with-new.html) - *The Hacker News* (2026-02-05)
 - [US Declassifies Information on JUMPSEAT Spy Satellites](https://www.schneier.com/blog/archives/2026/02/us-declassifies-information-on-jumpseat-spy-satellites.html) - *Schneier on Security* (2026-02-04)
-- [Microsoft is Giving the FBI BitLocker Keys](https://www.schneier.com/blog/archives/2026/02/microsoft-is-giving-the-fbi-bitlocker-keys.html) - *Schneier on Security* (2026-02-03)
-- [Please Don’t Feed the Scattered Lapsus ShinyHunters](https://krebsonsecurity.com/2026/02/please-dont-feed-the-scattered-lapsus-shiny-hunters/) - *Krebs on Security* (2026-02-02)
-- [AI Coding Assistants Secretly Copying All Code to China](https://www.schneier.com/blog/archives/2026/02/ai-coding-assistants-secretly-copying-all-code-to-china.html) - *Schneier on Security* (2026-02-02)
 
 ## Databases/Storage
 
+- [Jimmy Angelakos: FOSDEM 2026 — Defining "Drop-in Replacement" and Beyond](https://postgr.es/p/7tf) - *Planet PostgreSQL* (2026-02-06)
+- [Henrietta Dombrovskaya: Prague PostgreSQL Dev Day – a very late follow up](https://postgr.es/p/7te) - *Planet PostgreSQL* (2026-02-06)
+- [Radim Marek: Reading Buffer statistics in EXPLAIN output](https://postgr.es/p/7td) - *Planet PostgreSQL* (2026-02-06)
 - [Shinya Kato: Reducing row count estimation errors in PostgreSQL](https://postgr.es/p/7tb) - *Planet PostgreSQL* (2026-02-06)
 - [Trigger AWS Lambda functions from Amazon RDS for SQL Server database events](https://aws.amazon.com/blogs/database/trigger-aws-lambda-functions-from-amazon-rds-for-sql-server-database-events/) - *AWS Database Blog* (2026-02-05)
 - [Build fraud detection systems using AWS Entity Resolution and Amazon Neptune Analytics](https://aws.amazon.com/blogs/database/build-fraud-detection-systems-using-aws-entity-resolution-and-amazon-neptune-analytics/) - *AWS Database Blog* (2026-02-05)
 - [How to Enable Microsoft Entra ID for Azure Cosmos DB (NoSQL)](https://devblogs.microsoft.com/cosmosdb/how-to-enable-microsoft-entra-id-for-azure-cosmos-db-nosql/) - *Azure Cosmos DB Blog* (2026-02-05)
 - [Jeremy Schneider: Postgres client_connection_check_interval](https://postgr.es/p/7t9) - *Planet PostgreSQL* (2026-02-05)
-- [Ibrar Ahmed: MCP Transport: Architecture, Boundaries, and Failure Modes](https://postgr.es/p/7ta) - *Planet PostgreSQL* (2026-02-05)
 - [Auto Analyze in Aurora DSQL: Managed optimizer statistics in a multi-Region database](https://aws.amazon.com/blogs/database/auto-analyze-in-aurora-dsql-managed-optimizer-statistics-in-a-multi-region-database/) - *AWS Database Blog* (2026-02-04)
 - [Validate Neo4j Cypher queries for Amazon Neptune migration](https://aws.amazon.com/blogs/database/validate-neo4j-cypher-queries-for-amazon-neptune-migration/) - *AWS Database Blog* (2026-02-04)
-- [Automate your Neo4j to Amazon Neptune migration using the neo4j-to-neptune utility](https://aws.amazon.com/blogs/database/automate-your-neo4j-to-amazon-neptune-migration-using-the-neo4j-to-neptune-utility/) - *AWS Database Blog* (2026-02-04)
-- [Richard Yen: History Repeats Itself](https://postgr.es/p/7t8) - *Planet PostgreSQL* (2026-02-04)
 
 ## Networking
 
-- [Four new vulnerabilities found in Ingress NGINX](https://www.networkworld.com/article/4128477/four-new-vulnerabilities-found-in-ingress-nginx-2.html) - *Four new vulnerabilities found in Ingress NGINX | Network World* (2026-02-06)
-- [Reports of Nvidia/OpenAI deal in jeopardy are overblown, says Nvidia’s CEO Huang](https://www.networkworld.com/article/4128229/reports-of-nvidia-openai-deal-in-jeopardy-are-overblown-says-nvidias-ceo-huang.html) - *Four new vulnerabilities found in Ingress NGINX | Network World* (2026-02-05)
-- [Cisco: Latest news and insights](https://www.networkworld.com/article/3523958/cisco-latest-news-and-insights.html) - *Four new vulnerabilities found in Ingress NGINX | Network World* (2026-02-05)
-- [Is private 5G/6G important after all?](https://www.networkworld.com/article/4128115/is-private-5g-6g-important-after-all.html) - *Four new vulnerabilities found in Ingress NGINX | Network World* (2026-02-05)
-- [Takeaways from Cisco’s AI Summit](https://www.networkworld.com/article/4127471/takeaways-from-ciscos-ai-summit.html) - *Four new vulnerabilities found in Ingress NGINX | Network World* (2026-02-04)
+- [What hyperscalers’ hyper-spending on data centers tells us](https://www.networkworld.com/article/4128935/what-hyperscalers-hyper-spending-on-data-centers-tells-us.html) - *What hyperscalers’ hyper-spending on data centers tells us | Network World* (2026-02-06)
+- [Musk’s million data centers in space won’t fly, say experts](https://www.networkworld.com/article/4128923/musks-million-data-centers-in-space-wont-fly-say-experts-2.html) - *What hyperscalers’ hyper-spending on data centers tells us | Network World* (2026-02-06)
+- [Nvidia: Latest news and insights](https://www.networkworld.com/article/3562856/nvidia-latest-news-and-insights.html) - *What hyperscalers’ hyper-spending on data centers tells us | Network World* (2026-02-06)
+- [Ruckus makes some noise with preconfigured switches for AV-over-IP networks](https://www.networkworld.com/article/4128849/ruckus-makes-some-noise-with-preconfigured-switches-for-av-over-ip-networks.html) - *What hyperscalers’ hyper-spending on data centers tells us | Network World* (2026-02-06)
+- [Super Bowl LX raises network expectations](https://www.networkworld.com/article/4128814/super-bowl-lx-raises-network-expectations.html) - *What hyperscalers’ hyper-spending on data centers tells us | Network World* (2026-02-06)
 
 ## Computing
 
-- [AI companies want you to stop chatting with bots and start managing them](https://arstechnica.com/information-technology/2026/02/ai-companies-want-you-to-stop-chatting-with-bots-and-start-managing-them/) - *Ars Technica - All content* (2026-02-05)
-- [The Switch 2 is getting a new Virtual Console (kind of)](https://arstechnica.com/gaming/2026/02/the-virtual-console-is-sort-of-back-on-the-switch-2/) - *Ars Technica - All content* (2026-02-05)
-- [With GPT-5.3-Codex, OpenAI pitches Codex for more than just writing code](https://arstechnica.com/ai/2026/02/with-gpt-5-3-codex-openai-pitches-codex-for-more-than-just-writing-code/) - *Ars Technica - All content* (2026-02-05)
-- ["ICE Out of Our Faces Act" would ban ICE and CBP use of facial recognition](https://arstechnica.com/tech-policy/2026/02/ice-out-of-our-faces-act-would-ban-ice-and-cbp-use-of-facial-recognition/) - *Ars Technica - All content* (2026-02-05)
-- [Neocities founder stuck in chatbot hell after Bing blocked 1.5 million sites](https://arstechnica.com/tech-policy/2026/02/neocities-founder-stuck-in-chatbot-hell-after-bing-blocked-1-5m-sites/) - *Ars Technica - All content* (2026-02-05)
+- [Sixteen Claude AI agents working together created a new C compiler](https://arstechnica.com/ai/2026/02/sixteen-claude-ai-agents-working-together-created-a-new-c-compiler/) - *Ars Technica - All content* (2026-02-06)
+- [Penisgate erupts at Olympics; scandal exposes risks of bulking your bulge](https://arstechnica.com/health/2026/02/penisgate-erupts-at-olympics-scandal-exposes-risks-of-bulking-your-budge/) - *Ars Technica - All content* (2026-02-06)
+- [Lawyer sets new standard for abuse of AI; judge tosses case](https://arstechnica.com/tech-policy/2026/02/randomly-quoting-ray-bradbury-did-not-save-lawyer-from-losing-case-over-ai-errors/) - *Ars Technica - All content* (2026-02-06)
+- [Malicious packages for dYdX cryptocurrency exchange empties user wallets](https://arstechnica.com/security/2026/02/malicious-packages-for-dydx-cryptocurrency-exchange-empties-user-wallets/) - *Ars Technica - All content* (2026-02-06)
+- [Why $700 could be a "death sentence" for the Steam Machine](https://arstechnica.com/gaming/2026/02/why-a-bump-to-700-could-be-a-death-sentence-for-the-steam-machine/) - *Ars Technica - All content* (2026-02-06)
 
 ## AI/Models/RL
 
+- [Making AI work for everyone, everywhere: our approach to localization](https://openai.com/index/our-approach-to-localization) - *OpenAI News* (2026-02-06)
+- [Korea privacy policy](https://openai.com/policies/kr-privacy-policy) - *OpenAI News* (2026-02-06)
 - [Introducing SyGra Studio](https://huggingface.co/blog/ServiceNow-AI/sygra-studio) - *Hugging Face - Blog* (2026-02-05)
 - [GPT-5 lowers the cost of cell-free protein synthesis](https://openai.com/index/gpt-5-lowers-protein-synthesis-cost) - *OpenAI News* (2026-02-05)
 - [Introducing Trusted Access for Cyber](https://openai.com/index/trusted-access-for-cyber) - *OpenAI News* (2026-02-05)
-- [How AI agents can redefine universal design to increase accessibility](https://research.google/blog/how-ai-agents-can-redefine-universal-design-to-increase-accessibility/) - *The latest research from Google* (2026-02-05)
+- [How AI tools can redefine universal design to increase accessibility](https://research.google/blog/how-ai-agents-can-redefine-universal-design-to-increase-accessibility/) - *The latest research from Google* (2026-02-05)
 - [Introducing OpenAI Frontier](https://openai.com/index/introducing-openai-frontier) - *OpenAI News* (2026-02-05)
-- [GPT-5.3-Codex System Card](https://openai.com/index/gpt-5-3-codex-system-card) - *OpenAI News* (2026-02-05)
-- [Introducing GPT-5.3-Codex](https://openai.com/index/introducing-gpt-5-3-codex) - *OpenAI News* (2026-02-05)
 - [​Sequential Attention: Making AI models leaner and faster without sacrificing accuracy](https://research.google/blog/sequential-attention-making-ai-models-leaner-and-faster-without-sacrificing-accuracy/) - *The latest research from Google* (2026-02-04)
 - [Nemotron ColEmbed V2: Raising the Bar for Multimodal Retrieval with ViDoRe V3’s Top Model](https://huggingface.co/blog/nvidia/nemotron-colembed-v2) - *Hugging Face - Blog* (2026-02-04)
 - [Community Evals: Because we're done trusting black-box leaderboards over the community](https://huggingface.co/blog/community-evals) - *Hugging Face - Blog* (2026-02-04)
 
 ## AI Infra
 
+- [Structured outputs on Amazon Bedrock: Schema-compliant AI responses](https://aws.amazon.com/blogs/machine-learning/structured-outputs-on-amazon-bedrock-schema-compliant-ai-responses/) - *Artificial Intelligence* (2026-02-06)
+- [Manage Amazon SageMaker HyperPod clusters using the HyperPod CLI and SDK](https://aws.amazon.com/blogs/machine-learning/manage-amazon-sagemaker-hyperpod-clusters-using-the-hyperpod-cli-and-sdk/) - *Artificial Intelligence* (2026-02-06)
+- [Evaluate generative AI models with an Amazon Nova rubric-based LLM judge on Amazon SageMaker AI (Part 2)](https://aws.amazon.com/blogs/machine-learning/evaluate-generative-ai-models-with-an-amazon-nova-rubric-based-llm-judge-on-amazon-sagemaker-ai-part-2/) - *Artificial Intelligence* (2026-02-06)
 - [How Associa transforms document classification with the GenAI IDP Accelerator and Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-associa-transforms-document-classification-with-the-genai-idp-accelerator-and-amazon-bedrock/) - *Artificial Intelligence* (2026-02-05)
 - [A practical guide to Amazon Nova Multimodal Embeddings](https://aws.amazon.com/blogs/machine-learning/a-practical-guide-to-amazon-nova-multimodal-embeddings/) - *Artificial Intelligence* (2026-02-05)
-- [Accelerating your marketing ideation with generative AI – Part 2: Generate custom marketing images from historical references](https://aws.amazon.com/blogs/machine-learning/accelerating-your-marketing-ideation-with-generative-ai-part-2-generate-custom-marketing-images-from-historical-references/) - *Artificial Intelligence* (2026-02-04)
-- [Democratizing business intelligence: BGL’s journey with Claude Agent SDK and Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/democratizing-business-intelligence-bgls-journey-with-claude-agent-sdk-and-amazon-bedrock-agentcore/) - *Artificial Intelligence* (2026-02-03)
-- [Use Amazon Quick Suite custom action connectors to upload text files to Google Drive using OpenAPI specification](https://aws.amazon.com/blogs/machine-learning/use-amazon-quick-suite-custom-action-connectors-to-upload-text-files-to-google-drive-using-openapi-specification/) - *Artificial Intelligence* (2026-02-03)
 
