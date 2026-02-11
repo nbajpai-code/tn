@@ -1,14 +1,14 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-02-10 08:57:53 UTC
+Automated tech news updates. Last updated: 2026-02-11 08:51:46 UTC
 
 ## Software Architecture
 
+- [QCon Previews 20th Anniversary Conferences: Production AI, Resilience, and Staff+ Engineering](https://www.infoq.com/news/2026/02/qcon-previews-20th-anniversary/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-02-10)
 - [Podcast: [Video Podcast] Improving Valkey with Madelyn Olson](https://www.infoq.com/podcasts/valkey-performance-improvements/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-02-09)
 - [Cloudflare Launches Vertical Microfrontend Template for Path-Based Edge Routing](https://www.infoq.com/news/2026/02/cloudflare-vmfe-template/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-02-09)
 - [GitHub Reworks Layered Defenses after Legacy Protections Block Legitimate Traffic](https://www.infoq.com/news/2026/02/github-layered-def/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-02-04)
 - [Article: Working with Code Assistants: the Skeleton Architecture](https://www.infoq.com/articles/skeleton-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-02-03)
-- [Presentation: Scaling to 100+ as a Director: Lessons from Growing Engineering Organizations](https://www.infoq.com/presentations/patterns-organizational-change/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-02-02)
 
 ## Cloud Computing
 
@@ -33,64 +33,64 @@ Automated tech news updates. Last updated: 2026-02-10 08:57:53 UTC
 
 ## Security
 
-- [Dutch Authorities Confirm Ivanti Zero-Day Exploit Exposed Employee Contact Data](https://thehackernews.com/2026/02/dutch-authorities-confirm-ivanti-zero.html) - *The Hacker News* (2026-02-10)
+- [North Korea-Linked UNC1069 Uses AI Lures to Attack Cryptocurrency Organizations](https://thehackernews.com/2026/02/north-korea-linked-unc1069-uses-ai.html) - *The Hacker News* (2026-02-11)
+- [Patch Tuesday, February 2026 Edition](https://krebsonsecurity.com/2026/02/patch-tuesday-february-2026-edition/) - *Krebs on Security* (2026-02-10)
+- [DPRK Operatives Impersonate Professionals on LinkedIn to Infiltrate Companies](https://thehackernews.com/2026/02/dprk-operatives-impersonate.html) - *The Hacker News* (2026-02-10)
+- [Reynolds Ransomware Embeds BYOVD Driver to Disable EDR Security Tools](https://thehackernews.com/2026/02/reynolds-ransomware-embeds-byovd-driver.html) - *The Hacker News* (2026-02-10)
+- [From Ransomware to Residency: Inside the Rise of the Digital Parasite](https://thehackernews.com/2026/02/from-ransomware-to-residency-inside.html) - *The Hacker News* (2026-02-10)
 - [Fortinet Patches Critical SQLi Flaw Enabling Unauthenticated Code Execution](https://thehackernews.com/2026/02/fortinet-patches-critical-sqli-flaw.html) - *The Hacker News* (2026-02-10)
-- [China-Linked UNC3886 Targets Singapore Telecom Sector in Cyber Espionage Campaign](https://thehackernews.com/2026/02/china-linked-unc3886-targets-singapore.html) - *The Hacker News* (2026-02-09)
-- [SolarWinds Web Help Desk Exploited for RCE in Multi-Stage Attacks on Exposed Servers](https://thehackernews.com/2026/02/solarwinds-web-help-desk-exploited-for.html) - *The Hacker News* (2026-02-09)
-- [⚡ Weekly Recap: AI Skill Malware, 31Tbps DDoS, Notepad++ Hack, LLM Backdoors and More](https://thehackernews.com/2026/02/weekly-recap-ai-skill-malware-31tbps.html) - *The Hacker News* (2026-02-09)
+- [AI-Generated Text and the Detection Arms Race](https://www.schneier.com/blog/archives/2026/02/the-ai-generated-text-arms-race.html) - *Schneier on Security* (2026-02-10)
 - [LLMs are Getting a Lot Better and Faster at Finding and Exploiting Zero-Days](https://www.schneier.com/blog/archives/2026/02/llms-are-getting-a-lot-better-and-faster-at-finding-and-exploiting-zero-days.html) - *Schneier on Security* (2026-02-09)
 - [Friday Squid Blogging: Squid Fishing Tips](https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-squid-fishing-tips.html) - *Schneier on Security* (2026-02-06)
 - [I Am in the Epstein Files](https://www.schneier.com/blog/archives/2026/02/i-am-in-the-epstein-files.html) - *Schneier on Security* (2026-02-06)
-- [iPhone Lockdown Mode Protects Washington Post Reporter](https://www.schneier.com/blog/archives/2026/02/iphone-lockdown-mode-protects-washington-post-reporter.html) - *Schneier on Security* (2026-02-06)
-- [Backdoor in Notepad++](https://www.schneier.com/blog/archives/2026/02/backdoor-in-notepad.html) - *Schneier on Security* (2026-02-05)
 
 ## Databases/Storage
 
+- [Replication instance sizing for optimal database migrations with AWS DMS](https://aws.amazon.com/blogs/database/replication-instance-sizing-for-optimal-database-migrations-with-aws-dms/) - *AWS Database Blog* (2026-02-10)
+- [Build a custom solution to migrate SQL Server HierarchyID to PostgreSQL LTREE with AWS DMS](https://aws.amazon.com/blogs/database/build-a-custom-solution-to-migrate-sql-server-hierarchyid-to-postgresql-ltree-with-aws-dms/) - *AWS Database Blog* (2026-02-10)
+- [Building AI-Powered Apps with Azure Cosmos DB and the Vercel AI SDK](https://devblogs.microsoft.com/cosmosdb/building-ai-powered-apps-azure-cosmos-db-vercel-ai-sdk/) - *Azure Cosmos DB Blog* (2026-02-10)
+- [Shane Borden: Do PostgreSQL Sub-Transactions Hurt Performance?](https://postgr.es/p/7tn) - *Planet PostgreSQL* (2026-02-10)
 - [ahmed gouda: Monitoring query plans with pgwatch and pg_stat_plans](https://postgr.es/p/7tj) - *Planet PostgreSQL* (2026-02-10)
+- [Dave Page: Teaching an LLM What It Doesn't Know About PostgreSQL](https://postgr.es/p/7tm) - *Planet PostgreSQL* (2026-02-10)
+- [Lætitia AVROT: PAX: The Cache Performance You're Looking For](https://postgr.es/p/7tl) - *Planet PostgreSQL* (2026-02-10)
 - [Simplify cross-account stream processing with AWS Lambda and Amazon DynamoDB](https://aws.amazon.com/blogs/database/simplify-cross-account-stream-processing-with-aws-lambda-and-amazon-dynamodb/) - *AWS Database Blog* (2026-02-09)
 - [New in Terraform: Manage global secondary index drift in Amazon DynamoDB](https://aws.amazon.com/blogs/database/new-in-terraform-manage-global-secondary-index-drift-in-amazon-dynamodb/) - *AWS Database Blog* (2026-02-09)
 - [Regina Obe: PostGIS Patch Releases](https://postgr.es/p/7ti) - *Planet PostgreSQL* (2026-02-09)
-- [Cornelia Biacsics: Contributions for week 5, 2026](https://postgr.es/p/7th) - *Planet PostgreSQL* (2026-02-08)
-- [Jan Kristof Nidzwetzki: eBPF Tracing of PostgreSQL Spinlocks](https://postgr.es/p/7tg) - *Planet PostgreSQL* (2026-02-08)
-- [Jimmy Angelakos: FOSDEM 2026 — Defining "Drop-in Replacement" and Beyond](https://postgr.es/p/7tf) - *Planet PostgreSQL* (2026-02-06)
-- [Trigger AWS Lambda functions from Amazon RDS for SQL Server database events](https://aws.amazon.com/blogs/database/trigger-aws-lambda-functions-from-amazon-rds-for-sql-server-database-events/) - *AWS Database Blog* (2026-02-05)
-- [Build fraud detection systems using AWS Entity Resolution and Amazon Neptune Analytics](https://aws.amazon.com/blogs/database/build-fraud-detection-systems-using-aws-entity-resolution-and-amazon-neptune-analytics/) - *AWS Database Blog* (2026-02-05)
-- [How to Enable Microsoft Entra ID for Azure Cosmos DB (NoSQL)](https://devblogs.microsoft.com/cosmosdb/how-to-enable-microsoft-entra-id-for-azure-cosmos-db-nosql/) - *Azure Cosmos DB Blog* (2026-02-05)
 
 ## Networking
 
-- [Intel teams with SoftBank to develop new memory type](https://www.networkworld.com/article/4129624/intel-teams-with-softbank-to-develop-new-memory-type.html) - *Intel teams with SoftBank to develop new memory type | Network World* (2026-02-09)
-- [DKnife targets network gateways in long running AitM campaign](https://www.networkworld.com/article/4129511/dknife-targets-network-gateways-in-long-running-aitm-campaign-2.html) - *Intel teams with SoftBank to develop new memory type | Network World* (2026-02-09)
-- [What hyperscalers’ hyper-spending on data centers tells us](https://www.networkworld.com/article/4128935/what-hyperscalers-hyper-spending-on-data-centers-tells-us.html) - *Intel teams with SoftBank to develop new memory type | Network World* (2026-02-06)
-- [Musk’s million data centers in space won’t fly, say experts](https://www.networkworld.com/article/4128923/musks-million-data-centers-in-space-wont-fly-say-experts-2.html) - *Intel teams with SoftBank to develop new memory type | Network World* (2026-02-06)
-- [Nvidia: Latest news and insights](https://www.networkworld.com/article/3562856/nvidia-latest-news-and-insights.html) - *Intel teams with SoftBank to develop new memory type | Network World* (2026-02-06)
+- [Cisco amps up Silicon One line, delivers new systems and optics for AI networking](https://www.networkworld.com/article/4130263/cisco-amps-up-silicon-one-line-delivers-new-systems-and-optics-for-ai-networking.html) - *Cisco amps up Silicon One line, delivers new systems and optics for AI networking | Network World* (2026-02-10)
+- [Versa bolsters data protection, AI-powered operations in SASE upgrade](https://www.networkworld.com/article/4130171/versa-bolsters-data-protection-ai-powered-operations-in-sase-upgrade.html) - *Cisco amps up Silicon One line, delivers new systems and optics for AI networking | Network World* (2026-02-10)
+- [NetBox Labs ships AI copilot designed for network engineers, not developers](https://www.networkworld.com/article/4130122/netbox-labs-ships-ai-copilot-designed-for-network-engineers-not-developers.html) - *Cisco amps up Silicon One line, delivers new systems and optics for AI networking | Network World* (2026-02-10)
+- [Intel: Latest news and insights](https://www.networkworld.com/article/4021442/intel-latest-news-and-insights.html) - *Cisco amps up Silicon One line, delivers new systems and optics for AI networking | Network World* (2026-02-10)
+- [2026 network outage report and internet health check](https://www.networkworld.com/article/4113326/2026-network-outage-report-and-internet-health-check.html) - *Cisco amps up Silicon One line, delivers new systems and optics for AI networking | Network World* (2026-02-10)
 
 ## Computing
 
-- [Just look at Ayaneo's absolute unit of a Windows gaming "handheld"](https://arstechnica.com/gaming/2026/02/just-look-at-ayaneos-absolute-unit-of-a-windows-gaming-handheld/) - *Ars Technica - All content* (2026-02-09)
-- [No humans allowed: This new space-based MMO is designed exclusively for AI agents](https://arstechnica.com/ai/2026/02/after-moltbook-ai-agents-can-now-hang-out-in-their-own-space-faring-mmo/) - *Ars Technica - All content* (2026-02-09)
-- [Google experiments with locking YouTube Music lyrics behind paywall](https://arstechnica.com/google/2026/02/google-locks-youtube-music-lyrics-behind-paywall/) - *Ars Technica - All content* (2026-02-09)
-- [Trump FCC investigates The View, reportedly says "fake news" will be punished](https://arstechnica.com/tech-policy/2026/02/trump-fcc-investigates-the-view-reportedly-says-fake-news-will-be-punished/) - *Ars Technica - All content* (2026-02-09)
-- [Discord faces backlash over age checks after data breach exposed 70,000 IDs](https://arstechnica.com/tech-policy/2026/02/discord-faces-backlash-over-age-checks-after-data-breach-exposed-70000-ids/) - *Ars Technica - All content* (2026-02-09)
+- [FDA refuses to review Moderna's mRNA flu vaccine](https://arstechnica.com/health/2026/02/fda-refuses-to-review-modernas-mrna-flu-vaccine/) - *Ars Technica - All content* (2026-02-11)
+- [SpaceX's next-gen Super Heavy booster aces four days of "cryoproof" testing](https://arstechnica.com/space/2026/02/spacexs-starbase-is-coming-alive-again-after-a-lull-in-starship-testing/) - *Ars Technica - All content* (2026-02-10)
+- [Archive.today CAPTCHA page executes DDoS; Wikipedia considers banning site](https://arstechnica.com/tech-policy/2026/02/wikipedia-might-blacklist-archive-today-after-site-maintainer-ddosed-a-blog/) - *Ars Technica - All content* (2026-02-10)
+- [Yet another co-founder departs Elon Musk's xAI](https://arstechnica.com/ai/2026/02/grok-maker-xai-loses-another-co-founder/) - *Ars Technica - All content* (2026-02-10)
+- [Dewormer ivermectin as cancer cure? RFK Jr.'s NIH funds "absurd" study.](https://arstechnica.com/health/2026/02/dewormer-ivermectin-as-cancer-cure-rfk-jr-s-nih-funds-absurd-study/) - *Ars Technica - All content* (2026-02-10)
 
 ## AI/Models/RL
 
+- [Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations](https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/) - *The latest research from Google* (2026-02-10)
 - [How AI trained on birds is surfacing underwater mysteries](https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries/) - *The latest research from Google* (2026-02-09)
-- [Testing ads in ChatGPT](https://openai.com/index/testing-ads-in-chatgpt) - *OpenAI News* (2026-02-09)
 - [Bringing ChatGPT to GenAI.mil](https://openai.com/index/bringing-chatgpt-to-genaimil) - *OpenAI News* (2026-02-09)
+- [Testing ads in ChatGPT](https://openai.com/index/testing-ads-in-chatgpt) - *OpenAI News* (2026-02-09)
 - [Transformers.js v4 Preview: Now Available on NPM!](https://huggingface.co/blog/transformersjs-v4) - *Hugging Face - Blog* (2026-02-09)
 - [Making AI work for everyone, everywhere: our approach to localization](https://openai.com/index/our-approach-to-localization) - *OpenAI News* (2026-02-06)
 - [Introducing SyGra Studio](https://huggingface.co/blog/ServiceNow-AI/sygra-studio) - *Hugging Face - Blog* (2026-02-05)
 - [GPT-5 lowers the cost of cell-free protein synthesis](https://openai.com/index/gpt-5-lowers-protein-synthesis-cost) - *OpenAI News* (2026-02-05)
 - [Introducing Trusted Access for Cyber](https://openai.com/index/trusted-access-for-cyber) - *OpenAI News* (2026-02-05)
 - [How AI tools can redefine universal design to increase accessibility](https://research.google/blog/how-ai-agents-can-redefine-universal-design-to-increase-accessibility/) - *The latest research from Google* (2026-02-05)
-- [​Sequential Attention: Making AI models leaner and faster without sacrificing accuracy](https://research.google/blog/sequential-attention-making-ai-models-leaner-and-faster-without-sacrificing-accuracy/) - *The latest research from Google* (2026-02-04)
 
 ## AI Infra
 
+- [How Amazon uses Amazon Nova models to automate operational readiness testing for new fulfillment centers](https://aws.amazon.com/blogs/machine-learning/how-amazon-uses-amazon-nova-models-to-automate-operational-readiness-testing-for-new-fulfillment-centers/) - *Artificial Intelligence* (2026-02-10)
+- [Iberdrola enhances IT operations using Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/iberdrola-enhances-it-operations-using-amazon-bedrock-agentcore/) - *Artificial Intelligence* (2026-02-10)
+- [Building real-time voice assistants with Amazon Nova Sonic compared to cascading architectures](https://aws.amazon.com/blogs/machine-learning/building-real-time-voice-assistants-with-amazon-nova-sonic-compared-to-cascading-architectures/) - *Artificial Intelligence* (2026-02-10)
 - [Automated Reasoning checks rewriting chatbot reference implementation](https://aws.amazon.com/blogs/machine-learning/automated-reasoning-checks-rewriting-chatbot-reference-implementation/) - *Artificial Intelligence* (2026-02-09)
 - [Scale LLM fine-tuning with Hugging Face and Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/scale-llm-fine-tuning-with-hugging-face-and-amazon-sagemaker-ai/) - *Artificial Intelligence* (2026-02-09)
-- [New Relic transforms productivity with generative AI on AWS](https://aws.amazon.com/blogs/machine-learning/new-relic-transforms-productivity-with-generative-ai-on-aws/) - *Artificial Intelligence* (2026-02-09)
-- [Accelerate agentic application development with a full-stack starter template for Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-application-development-with-a-full-stack-starter-template-for-amazon-bedrock-agentcore/) - *Artificial Intelligence* (2026-02-09)
-- [Agent-to-agent collaboration: Using Amazon Nova 2 Lite and Amazon Nova Act for multi-agent systems](https://aws.amazon.com/blogs/machine-learning/agent-to-agent-collaboration-using-amazon-nova-2-lite-and-amazon-nova-act-for-multi-agent-systems/) - *Artificial Intelligence* (2026-02-09)
 
