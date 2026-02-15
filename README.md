@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-02-14 08:35:00 UTC
+Automated tech news updates. Last updated: 2026-02-15 08:35:34 UTC
 
 ## Software Architecture
 
@@ -33,6 +33,7 @@ Automated tech news updates. Last updated: 2026-02-14 08:35:00 UTC
 
 ## Security
 
+- [Upcoming Speaking Engagements](https://www.schneier.com/blog/archives/2026/02/upcoming-speaking-engagements-53.html) - *Schneier on Security* (2026-02-14)
 - [Friday Squid Blogging: Do Squid Dream?](https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-do-squid-dream.html) - *Schneier on Security* (2026-02-13)
 - [Google Ties Suspected Russian Actor to CANFAIL Malware Attacks on Ukrainian Orgs](https://thehackernews.com/2026/02/google-ties-suspected-russian-actor-to.html) - *The Hacker News* (2026-02-13)
 - [Google Links China, Iran, Russia, North Korea to Coordinated Defense Sector Cyber Operations](https://thehackernews.com/2026/02/google-links-china-iran-russia-north.html) - *The Hacker News* (2026-02-13)
@@ -42,7 +43,6 @@ Automated tech news updates. Last updated: 2026-02-14 08:35:00 UTC
 - [3D Printer Surveillance](https://www.schneier.com/blog/archives/2026/02/3d-printer-surveillance.html) - *Schneier on Security* (2026-02-12)
 - [Kimwolf Botnet Swamps Anonymity Network I2P](https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/) - *Krebs on Security* (2026-02-11)
 - [Rewiring Democracy Ebook is on Sale](https://www.schneier.com/blog/archives/2026/02/rewiring-democracy-ebook-is-on-sale.html) - *Schneier on Security* (2026-02-11)
-- [Prompt Injection Via Road Signs](https://www.schneier.com/blog/archives/2026/02/prompt-injection-via-road-signs.html) - *Schneier on Security* (2026-02-11)
 
 ## Databases/Storage
 
@@ -59,19 +59,19 @@ Automated tech news updates. Last updated: 2026-02-14 08:35:00 UTC
 
 ## Networking
 
-- [AI will likely shut down critical infrastructure on its own, no attackers required](https://www.networkworld.com/article/4132393/ai-will-likely-shut-down-critical-infrastructure-on-its-own-no-attackers-required-3.html) - *AI will likely shut down critical infrastructure on its own, no attackers required | Network World* (2026-02-14)
-- [FTC digs deeper into Microsoft’s bundling and licensing practices](https://www.networkworld.com/article/4132380/ftc-digs-deeper-into-microsofts-bundling-and-licensing-practices-2.html) - *AI will likely shut down critical infrastructure on its own, no attackers required | Network World* (2026-02-14)
-- [Nvidia: Latest news and insights](https://www.networkworld.com/article/3562856/nvidia-latest-news-and-insights.html) - *AI will likely shut down critical infrastructure on its own, no attackers required | Network World* (2026-02-13)
-- [Nvidia claims 10x cost savings with open-source inference models](https://www.networkworld.com/article/4132357/nvidia-claims-10x-cost-savings-with-open-source-inference-models.html) - *AI will likely shut down critical infrastructure on its own, no attackers required | Network World* (2026-02-13)
-- [AI agent traffic drives first profitable year for Fastly](https://www.networkworld.com/article/4132262/ai-agent-traffic-drives-first-profitable-year-for-fastly.html) - *AI will likely shut down critical infrastructure on its own, no attackers required | Network World* (2026-02-13)
+- [Arista laments ‘horrendous’ memory situation](https://www.networkworld.com/article/4132328/arista-laments-horrendous-memory-situation.html) - *Arista laments 'horrendous' memory situation | Network World* (2026-02-14)
+- [AI will likely shut down critical infrastructure on its own, no attackers required](https://www.networkworld.com/article/4132393/ai-will-likely-shut-down-critical-infrastructure-on-its-own-no-attackers-required-3.html) - *Arista laments 'horrendous' memory situation | Network World* (2026-02-14)
+- [FTC digs deeper into Microsoft’s bundling and licensing practices](https://www.networkworld.com/article/4132380/ftc-digs-deeper-into-microsofts-bundling-and-licensing-practices-2.html) - *Arista laments 'horrendous' memory situation | Network World* (2026-02-14)
+- [Nvidia: Latest news and insights](https://www.networkworld.com/article/3562856/nvidia-latest-news-and-insights.html) - *Arista laments 'horrendous' memory situation | Network World* (2026-02-13)
+- [Nvidia claims 10x cost savings with open-source inference models](https://www.networkworld.com/article/4132357/nvidia-claims-10x-cost-savings-with-open-source-inference-models.html) - *Arista laments 'horrendous' memory situation | Network World* (2026-02-13)
 
 ## Computing
 
+- [NASA has a new problem to fix before the next Artemis II countdown test](https://arstechnica.com/space/2026/02/nasa-chief-vows-to-solve-sls-rocket-fueling-issues-before-artemis-iii/) - *Ars Technica - All content* (2026-02-14)
+- [A Valentine's Day homage to Crouching Tiger, Hidden Dragon](https://arstechnica.com/culture/2026/02/a-valentines-day-homage-to-crouching-tiger-hidden-dragon/) - *Ars Technica - All content* (2026-02-14)
+- [Astronomers are filling in the blanks of the Kuiper Belt](https://arstechnica.com/science/2026/02/astronomers-are-filling-in-the-blanks-of-the-kuiper-belt/) - *Ars Technica - All content* (2026-02-14)
 - [WHO slams US-funded newborn vaccine trial as "unethical"](https://arstechnica.com/health/2026/02/who-slams-us-funded-newborn-vaccine-trial-as-unethical/) - *Ars Technica - All content* (2026-02-13)
 - [Aided by AI, California beach town broadens hunt for bike lane blockers](https://arstechnica.com/tech-policy/2026/02/santa-monica-deploys-ai-powered-parking-cameras-to-protect-bike-lanes/) - *Ars Technica - All content* (2026-02-13)
-- [Verizon imposes new roadblock on users trying to unlock paid-off phones](https://arstechnica.com/tech-policy/2026/02/verizon-makes-customers-wait-35-days-to-unlock-fully-paid-off-phones/) - *Ars Technica - All content* (2026-02-13)
-- [Ring cancels Flock deal after dystopian Super Bowl ad prompts mass outrage](https://arstechnica.com/tech-policy/2026/02/after-creepy-super-bowl-ad-sparks-outrage-ring-abandons-flock-deal/) - *Ars Technica - All content* (2026-02-13)
-- [The first Android 17 beta is now available on Pixel devices](https://arstechnica.com/gadgets/2026/02/the-first-android-17-beta-is-now-available-on-pixel-devices/) - *Ars Technica - All content* (2026-02-13)
 
 ## AI/Models/RL
 
