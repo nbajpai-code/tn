@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-02-15 08:35:34 UTC
+Automated tech news updates. Last updated: 2026-02-16 08:51:20 UTC
 
 ## Software Architecture
 
@@ -33,25 +33,25 @@ Automated tech news updates. Last updated: 2026-02-15 08:35:34 UTC
 
 ## Security
 
+- [New Chrome Zero-Day (CVE-2026-2441) Under Active Attack — Patch Released](https://thehackernews.com/2026/02/new-chrome-zero-day-cve-2026-2441-under.html) - *The Hacker News* (2026-02-16)
+- [Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging](https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html) - *The Hacker News* (2026-02-15)
 - [Upcoming Speaking Engagements](https://www.schneier.com/blog/archives/2026/02/upcoming-speaking-engagements-53.html) - *Schneier on Security* (2026-02-14)
 - [Friday Squid Blogging: Do Squid Dream?](https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-do-squid-dream.html) - *Schneier on Security* (2026-02-13)
 - [Google Ties Suspected Russian Actor to CANFAIL Malware Attacks on Ukrainian Orgs](https://thehackernews.com/2026/02/google-ties-suspected-russian-actor-to.html) - *The Hacker News* (2026-02-13)
 - [Google Links China, Iran, Russia, North Korea to Coordinated Defense Sector Cyber Operations](https://thehackernews.com/2026/02/google-links-china-iran-russia-north.html) - *The Hacker News* (2026-02-13)
 - [UAT-9921 Deploys VoidLink Malware to Target Technology and Financial Sectors](https://thehackernews.com/2026/02/uat-9921-deploys-voidlink-malware-to.html) - *The Hacker News* (2026-02-13)
-- [Malicious Chrome Extensions Caught Stealing Business Data, Emails, and Browsing History](https://thehackernews.com/2026/02/malicious-chrome-extensions-caught.html) - *The Hacker News* (2026-02-13)
-- [npm’s Update to Harden Their Supply Chain, and Points to Consider](https://thehackernews.com/2026/02/npms-update-to-harden-their-supply.html) - *The Hacker News* (2026-02-13)
 - [3D Printer Surveillance](https://www.schneier.com/blog/archives/2026/02/3d-printer-surveillance.html) - *Schneier on Security* (2026-02-12)
 - [Kimwolf Botnet Swamps Anonymity Network I2P](https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/) - *Krebs on Security* (2026-02-11)
 - [Rewiring Democracy Ebook is on Sale](https://www.schneier.com/blog/archives/2026/02/rewiring-democracy-ebook-is-on-sale.html) - *Schneier on Security* (2026-02-11)
 
 ## Databases/Storage
 
+- [Vibhor Kumar: Autonomous Postgres: From Speed to Trust](https://postgr.es/p/7tx) - *Planet PostgreSQL* (2026-02-15)
+- [Cornelia Biacsics: Contributions for week 6, 2026](https://postgr.es/p/7tw) - *Planet PostgreSQL* (2026-02-15)
 - [Jeremy Schneider: The Scott Shambaugh Situation Clarifies How Dumb We Are Acting](https://postgr.es/p/7tv) - *Planet PostgreSQL* (2026-02-13)
 - [Jimmy Angelakos: PostgresEDI Feb 2026 Meetup — Two Talks](https://postgr.es/p/7tu) - *Planet PostgreSQL* (2026-02-13)
 - [Michael Christofides: Read efficiency issues in Postgres queries](https://postgr.es/p/7tt) - *Planet PostgreSQL* (2026-02-13)
-- [Goutham Reddy: Row-level and Column-level Security - Oracle vs PostgreSQL](https://postgr.es/p/7ts) - *Planet PostgreSQL* (2026-02-13)
 - [Achieve near-zero downtime database maintenance by using blue/green deployments with AWS JDBC Driver](https://aws.amazon.com/blogs/database/achieve-near-zero-downtime-database-maintenance-by-using-blue-green-deployments-with-aws-jdbc-driver/) - *AWS Database Blog* (2026-02-12)
-- [Ryan Booz: Introducing Bluebox Docker: A Living PostgreSQL Sample Database](https://postgr.es/p/7tr) - *Planet PostgreSQL* (2026-02-12)
 - [Essential tools for monitoring and optimizing Amazon RDS for SQL Server](https://aws.amazon.com/blogs/database/essential-tools-for-monitoring-and-optimizing-amazon-rds-for-sql-server/) - *AWS Database Blog* (2026-02-11)
 - [Migrate relational-style data from NoSQL to Amazon Aurora DSQL](https://aws.amazon.com/blogs/database/migrate-relational-style-data-from-nosql-to-amazon-aurora-dsql/) - *AWS Database Blog* (2026-02-11)
 - [Maximize Azure Cosmos DB Performance with Azure Advisor Recommendations](https://devblogs.microsoft.com/cosmosdb/maximize-azure-cosmos-db-performance-with-azure-advisor-recommendations/) - *Azure Cosmos DB Blog* (2026-02-11)
@@ -67,11 +67,11 @@ Automated tech news updates. Last updated: 2026-02-15 08:35:34 UTC
 
 ## Computing
 
+- [Space Station returns to a full crew complement after a month](https://arstechnica.com/space/2026/02/space-station-returns-to-a-full-crew-complement-after-a-month/) - *Ars Technica - All content* (2026-02-15)
+- [Ancient Mars was warm and wet, not cold and icy](https://arstechnica.com/science/2026/02/ancient-mars-was-warm-and-wet-not-cold-and-icy/) - *Ars Technica - All content* (2026-02-15)
+- [Editor’s Note: Retraction of article containing fabricated quotations](https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/) - *Ars Technica - All content* (2026-02-15)
+- ["It ain't no unicorn": These researchers have interviewed 130 Bigfoot hunters](https://arstechnica.com/science/2026/02/it-aint-no-unicorn-these-researchers-have-interviewed-130-bigfoot-hunters/) - *Ars Technica - All content* (2026-02-15)
 - [NASA has a new problem to fix before the next Artemis II countdown test](https://arstechnica.com/space/2026/02/nasa-chief-vows-to-solve-sls-rocket-fueling-issues-before-artemis-iii/) - *Ars Technica - All content* (2026-02-14)
-- [A Valentine's Day homage to Crouching Tiger, Hidden Dragon](https://arstechnica.com/culture/2026/02/a-valentines-day-homage-to-crouching-tiger-hidden-dragon/) - *Ars Technica - All content* (2026-02-14)
-- [Astronomers are filling in the blanks of the Kuiper Belt](https://arstechnica.com/science/2026/02/astronomers-are-filling-in-the-blanks-of-the-kuiper-belt/) - *Ars Technica - All content* (2026-02-14)
-- [WHO slams US-funded newborn vaccine trial as "unethical"](https://arstechnica.com/health/2026/02/who-slams-us-funded-newborn-vaccine-trial-as-unethical/) - *Ars Technica - All content* (2026-02-13)
-- [Aided by AI, California beach town broadens hunt for bike lane blockers](https://arstechnica.com/tech-policy/2026/02/santa-monica-deploys-ai-powered-parking-cameras-to-protect-bike-lanes/) - *Ars Technica - All content* (2026-02-13)
 
 ## AI/Models/RL
 
