@@ -1,14 +1,14 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-02-16 08:51:20 UTC
+Automated tech news updates. Last updated: 2026-02-17 08:49:56 UTC
 
 ## Software Architecture
 
+- [Presentation: The Ideal Micro-Frontends Platform](https://www.infoq.com/presentations/distributed-micro-frontends/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-02-16)
+- [Podcast: [Video Podcast] Building Resilient Event-Driven Microservices in Financial Systems with Muzeeb Mohammad](https://www.infoq.com/podcasts/building-resilient-event-driven-microservices/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-02-16)
 - [Article: You’ve Generated Your MVP Using AI. What Does That Mean for Your Software Architecture?](https://www.infoq.com/articles/ai-generated-mvp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-02-12)
 - [Podcast: [Video Podcast] The Craft of Software Architecture in the Age of AI Tools](https://www.infoq.com/podcasts/craft-software-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-02-11)
-- [Article: From Prompts to Production: A Playbook for Agentic Development](https://www.infoq.com/articles/prompts-to-production-playbook-for-agentic-development/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-02-11)
 - [QCon Previews 20th Anniversary Conferences: Production AI, Resilience, and Staff+ Engineering](https://www.infoq.com/news/2026/02/qcon-previews-20th-anniversary/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-02-10)
-- [Podcast: [Video Podcast] Improving Valkey with Madelyn Olson](https://www.infoq.com/podcasts/valkey-performance-improvements/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-02-09)
 
 ## Cloud Computing
 
@@ -33,29 +33,29 @@ Automated tech news updates. Last updated: 2026-02-16 08:51:20 UTC
 
 ## Security
 
-- [New Chrome Zero-Day (CVE-2026-2441) Under Active Attack — Patch Released](https://thehackernews.com/2026/02/new-chrome-zero-day-cve-2026-2441-under.html) - *The Hacker News* (2026-02-16)
-- [Microsoft Discloses DNS-Based ClickFix Attack Using Nslookup for Malware Staging](https://thehackernews.com/2026/02/microsoft-discloses-dns-based-clickfix.html) - *The Hacker News* (2026-02-15)
+- [Apple Tests End-to-End Encrypted RCS Messaging in iOS 26.4 Developer Beta](https://thehackernews.com/2026/02/apple-tests-end-to-end-encrypted-rcs.html) - *The Hacker News* (2026-02-17)
+- [Infostealer Steals OpenClaw AI Agent Configuration Files and Gateway Tokens](https://thehackernews.com/2026/02/infostealer-steals-openclaw-ai-agent.html) - *The Hacker News* (2026-02-17)
+- [Study Uncovers 25 Password Recovery Attacks in Major Cloud Password Managers](https://thehackernews.com/2026/02/study-uncovers-25-password-recovery.html) - *The Hacker News* (2026-02-16)
+- [Weekly Recap: Outlook Add-Ins Hijack, 0-Day Patches, Wormable Botnet & AI Malware](https://thehackernews.com/2026/02/weekly-recap-outlook-add-ins-hijack-0.html) - *The Hacker News* (2026-02-16)
+- [The Promptware Kill Chain](https://www.schneier.com/blog/archives/2026/02/the-promptware-kill-chain.html) - *Schneier on Security* (2026-02-16)
+- [Safe and Inclusive E‑Society: How Lithuania Is Bracing for AI‑Driven Cyber Fraud](https://thehackernews.com/2026/02/safe-and-inclusive-esociety-how.html) - *The Hacker News* (2026-02-16)
 - [Upcoming Speaking Engagements](https://www.schneier.com/blog/archives/2026/02/upcoming-speaking-engagements-53.html) - *Schneier on Security* (2026-02-14)
 - [Friday Squid Blogging: Do Squid Dream?](https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-do-squid-dream.html) - *Schneier on Security* (2026-02-13)
-- [Google Ties Suspected Russian Actor to CANFAIL Malware Attacks on Ukrainian Orgs](https://thehackernews.com/2026/02/google-ties-suspected-russian-actor-to.html) - *The Hacker News* (2026-02-13)
-- [Google Links China, Iran, Russia, North Korea to Coordinated Defense Sector Cyber Operations](https://thehackernews.com/2026/02/google-links-china-iran-russia-north.html) - *The Hacker News* (2026-02-13)
-- [UAT-9921 Deploys VoidLink Malware to Target Technology and Financial Sectors](https://thehackernews.com/2026/02/uat-9921-deploys-voidlink-malware-to.html) - *The Hacker News* (2026-02-13)
 - [3D Printer Surveillance](https://www.schneier.com/blog/archives/2026/02/3d-printer-surveillance.html) - *Schneier on Security* (2026-02-12)
 - [Kimwolf Botnet Swamps Anonymity Network I2P](https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/) - *Krebs on Security* (2026-02-11)
-- [Rewiring Democracy Ebook is on Sale](https://www.schneier.com/blog/archives/2026/02/rewiring-democracy-ebook-is-on-sale.html) - *Schneier on Security* (2026-02-11)
 
 ## Databases/Storage
 
+- [Accelerate your database migration journey with AI-powered AWS DMS](https://aws.amazon.com/blogs/database/accelerate-your-database-migration-journey-with-ai-powered-aws-dms/) - *AWS Database Blog* (2026-02-16)
+- [Vibhor Kumar: pg_background: make Postgres do the long work (while your session stays light)](https://postgr.es/p/7tz) - *Planet PostgreSQL* (2026-02-16)
+- [Lætitia AVROT: The MCD: Your Rosetta Stone for Turning "We Need a Database" into Actual Requirements](https://postgr.es/p/7ty) - *Planet PostgreSQL* (2026-02-16)
 - [Vibhor Kumar: Autonomous Postgres: From Speed to Trust](https://postgr.es/p/7tx) - *Planet PostgreSQL* (2026-02-15)
 - [Cornelia Biacsics: Contributions for week 6, 2026](https://postgr.es/p/7tw) - *Planet PostgreSQL* (2026-02-15)
 - [Jeremy Schneider: The Scott Shambaugh Situation Clarifies How Dumb We Are Acting](https://postgr.es/p/7tv) - *Planet PostgreSQL* (2026-02-13)
-- [Jimmy Angelakos: PostgresEDI Feb 2026 Meetup — Two Talks](https://postgr.es/p/7tu) - *Planet PostgreSQL* (2026-02-13)
-- [Michael Christofides: Read efficiency issues in Postgres queries](https://postgr.es/p/7tt) - *Planet PostgreSQL* (2026-02-13)
 - [Achieve near-zero downtime database maintenance by using blue/green deployments with AWS JDBC Driver](https://aws.amazon.com/blogs/database/achieve-near-zero-downtime-database-maintenance-by-using-blue-green-deployments-with-aws-jdbc-driver/) - *AWS Database Blog* (2026-02-12)
 - [Essential tools for monitoring and optimizing Amazon RDS for SQL Server](https://aws.amazon.com/blogs/database/essential-tools-for-monitoring-and-optimizing-amazon-rds-for-sql-server/) - *AWS Database Blog* (2026-02-11)
 - [Migrate relational-style data from NoSQL to Amazon Aurora DSQL](https://aws.amazon.com/blogs/database/migrate-relational-style-data-from-nosql-to-amazon-aurora-dsql/) - *AWS Database Blog* (2026-02-11)
 - [Maximize Azure Cosmos DB Performance with Azure Advisor Recommendations](https://devblogs.microsoft.com/cosmosdb/maximize-azure-cosmos-db-performance-with-azure-advisor-recommendations/) - *Azure Cosmos DB Blog* (2026-02-11)
-- [Replication instance sizing for optimal database migrations with AWS DMS](https://aws.amazon.com/blogs/database/replication-instance-sizing-for-optimal-database-migrations-with-aws-dms/) - *AWS Database Blog* (2026-02-10)
 
 ## Networking
 
@@ -67,11 +67,11 @@ Automated tech news updates. Last updated: 2026-02-16 08:51:20 UTC
 
 ## Computing
 
-- [Space Station returns to a full crew complement after a month](https://arstechnica.com/space/2026/02/space-station-returns-to-a-full-crew-complement-after-a-month/) - *Ars Technica - All content* (2026-02-15)
-- [Ancient Mars was warm and wet, not cold and icy](https://arstechnica.com/science/2026/02/ancient-mars-was-warm-and-wet-not-cold-and-icy/) - *Ars Technica - All content* (2026-02-15)
-- [Editor’s Note: Retraction of article containing fabricated quotations](https://arstechnica.com/staff/2026/02/editors-note-retraction-of-article-containing-fabricated-quotations/) - *Ars Technica - All content* (2026-02-15)
-- ["It ain't no unicorn": These researchers have interviewed 130 Bigfoot hunters](https://arstechnica.com/science/2026/02/it-aint-no-unicorn-these-researchers-have-interviewed-130-bigfoot-hunters/) - *Ars Technica - All content* (2026-02-15)
-- [NASA has a new problem to fix before the next Artemis II countdown test](https://arstechnica.com/space/2026/02/nasa-chief-vows-to-solve-sls-rocket-fueling-issues-before-artemis-iii/) - *Ars Technica - All content* (2026-02-14)
+- [Get ready for new Macs and iPads: Apple announces "Special Experience" on March 4](https://arstechnica.com/apple/2026/02/get-ready-for-new-macs-and-ipads-apple-announces-special-experience-on-march-4/) - *Ars Technica - All content* (2026-02-16)
+- [Best Buy worker used manager’s code to get 99% off MacBooks, cops say](https://arstechnica.com/tech-policy/2026/02/best-buy-worker-used-managers-code-to-get-99-off-macbooks-cops-say/) - *Ars Technica - All content* (2026-02-16)
+- [ByteDance backpedals after Seedance 2.0 turned Hollywood icons into AI “clip art”](https://arstechnica.com/tech-policy/2026/02/bytedance-backpedals-after-seedance-2-0-turned-hollywood-icons-into-ai-clip-art/) - *Ars Technica - All content* (2026-02-16)
+- [A fluid can store solar energy and then release it as heat months later](https://arstechnica.com/science/2026/02/dna-inspired-molecule-breaks-records-for-storing-solar-heat/) - *Ars Technica - All content* (2026-02-16)
+- [Michigan antitrust lawsuit says oil companies hobbled EVs and renewables](https://arstechnica.com/tech-policy/2026/02/michigan-accuses-oil-companies-of-antitrust-violations-in-climate-change-lawsuit/) - *Ars Technica - All content* (2026-02-16)
 
 ## AI/Models/RL
 
