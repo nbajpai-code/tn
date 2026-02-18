@@ -1,14 +1,14 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-02-17 08:49:56 UTC
+Automated tech news updates. Last updated: 2026-02-18 08:49:23 UTC
 
 ## Software Architecture
 
+- [How Dropbox Built a Scalable Context Engine for Enterprise Knowledge Search](https://www.infoq.com/news/2026/02/dropbox-context-engine/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-02-18)
 - [Presentation: The Ideal Micro-Frontends Platform](https://www.infoq.com/presentations/distributed-micro-frontends/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-02-16)
 - [Podcast: [Video Podcast] Building Resilient Event-Driven Microservices in Financial Systems with Muzeeb Mohammad](https://www.infoq.com/podcasts/building-resilient-event-driven-microservices/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-02-16)
 - [Article: You’ve Generated Your MVP Using AI. What Does That Mean for Your Software Architecture?](https://www.infoq.com/articles/ai-generated-mvp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-02-12)
 - [Podcast: [Video Podcast] The Craft of Software Architecture in the Age of AI Tools](https://www.infoq.com/podcasts/craft-software-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-02-11)
-- [QCon Previews 20th Anniversary Conferences: Production AI, Resilience, and Staff+ Engineering](https://www.infoq.com/news/2026/02/qcon-previews-20th-anniversary/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-02-10)
 
 ## Cloud Computing
 
@@ -33,48 +33,50 @@ Automated tech news updates. Last updated: 2026-02-17 08:49:56 UTC
 
 ## Security
 
-- [Apple Tests End-to-End Encrypted RCS Messaging in iOS 26.4 Developer Beta](https://thehackernews.com/2026/02/apple-tests-end-to-end-encrypted-rcs.html) - *The Hacker News* (2026-02-17)
-- [Infostealer Steals OpenClaw AI Agent Configuration Files and Gateway Tokens](https://thehackernews.com/2026/02/infostealer-steals-openclaw-ai-agent.html) - *The Hacker News* (2026-02-17)
-- [Study Uncovers 25 Password Recovery Attacks in Major Cloud Password Managers](https://thehackernews.com/2026/02/study-uncovers-25-password-recovery.html) - *The Hacker News* (2026-02-16)
-- [Weekly Recap: Outlook Add-Ins Hijack, 0-Day Patches, Wormable Botnet & AI Malware](https://thehackernews.com/2026/02/weekly-recap-outlook-add-ins-hijack-0.html) - *The Hacker News* (2026-02-16)
+- [Notepad++ Fixes Hijacked Update Mechanism Used to Deliver Targeted Malware](https://thehackernews.com/2026/02/notepad-fixes-hijacked-update-mechanism.html) - *The Hacker News* (2026-02-18)
+- [CISA Flags Four Security Flaws Under Active Exploitation in Latest KEV Update](https://thehackernews.com/2026/02/cisa-flags-four-security-flaws-under.html) - *The Hacker News* (2026-02-18)
+- [Webinar: How Modern SOC Teams Use AI and Context to Investigate Cloud Breaches Faster](https://thehackernews.com/2026/02/cloud-forensics-webinar-learn-how-ai.html) - *The Hacker News* (2026-02-18)
+- [Researchers Show Copilot and Grok Can Be Abused as Malware C2 Proxies](https://thehackernews.com/2026/02/researchers-show-copilot-and-grok-can.html) - *The Hacker News* (2026-02-17)
+- [Keenadu Firmware Backdoor Infects Android Tablets via Signed OTA Updates](https://thehackernews.com/2026/02/keenadu-firmware-backdoor-infects.html) - *The Hacker News* (2026-02-17)
+- [Side-Channel Attacks Against LLMs](https://www.schneier.com/blog/archives/2026/02/side-channel-attacks-against-llms.html) - *Schneier on Security* (2026-02-17)
 - [The Promptware Kill Chain](https://www.schneier.com/blog/archives/2026/02/the-promptware-kill-chain.html) - *Schneier on Security* (2026-02-16)
-- [Safe and Inclusive E‑Society: How Lithuania Is Bracing for AI‑Driven Cyber Fraud](https://thehackernews.com/2026/02/safe-and-inclusive-esociety-how.html) - *The Hacker News* (2026-02-16)
 - [Upcoming Speaking Engagements](https://www.schneier.com/blog/archives/2026/02/upcoming-speaking-engagements-53.html) - *Schneier on Security* (2026-02-14)
 - [Friday Squid Blogging: Do Squid Dream?](https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-do-squid-dream.html) - *Schneier on Security* (2026-02-13)
 - [3D Printer Surveillance](https://www.schneier.com/blog/archives/2026/02/3d-printer-surveillance.html) - *Schneier on Security* (2026-02-12)
-- [Kimwolf Botnet Swamps Anonymity Network I2P](https://krebsonsecurity.com/2026/02/kimwolf-botnet-swamps-anonymity-network-i2p/) - *Krebs on Security* (2026-02-11)
 
 ## Databases/Storage
 
+- [David Wheeler: pg_clickhouse v0.1.4](https://postgr.es/p/7tC) - *Planet PostgreSQL* (2026-02-17)
+- [Use default encryption at rest for new Amazon Aurora clusters](https://aws.amazon.com/blogs/database/use-default-encryption-at-rest-for-new-amazon-aurora-clusters/) - *AWS Database Blog* (2026-02-17)
+- [Streamline Amazon RDS management with consolidation techniques – Part 2](https://aws.amazon.com/blogs/database/streamline-amazon-rds-management-with-consolidation-techniques-part-2/) - *AWS Database Blog* (2026-02-17)
+- [Streamline Amazon RDS management with consolidation techniques – Part 1](https://aws.amazon.com/blogs/database/streamline-amazon-rds-management-with-consolidation-techniques-part-1/) - *AWS Database Blog* (2026-02-17)
+- [Pavel Luzanov: PostgreSQL 19: part 1 or CommitFest 2025-07](https://postgr.es/p/7tA) - *Planet PostgreSQL* (2026-02-17)
 - [Accelerate your database migration journey with AI-powered AWS DMS](https://aws.amazon.com/blogs/database/accelerate-your-database-migration-journey-with-ai-powered-aws-dms/) - *AWS Database Blog* (2026-02-16)
 - [Vibhor Kumar: pg_background: make Postgres do the long work (while your session stays light)](https://postgr.es/p/7tz) - *Planet PostgreSQL* (2026-02-16)
 - [Lætitia AVROT: The MCD: Your Rosetta Stone for Turning "We Need a Database" into Actual Requirements](https://postgr.es/p/7ty) - *Planet PostgreSQL* (2026-02-16)
 - [Vibhor Kumar: Autonomous Postgres: From Speed to Trust](https://postgr.es/p/7tx) - *Planet PostgreSQL* (2026-02-15)
-- [Cornelia Biacsics: Contributions for week 6, 2026](https://postgr.es/p/7tw) - *Planet PostgreSQL* (2026-02-15)
-- [Jeremy Schneider: The Scott Shambaugh Situation Clarifies How Dumb We Are Acting](https://postgr.es/p/7tv) - *Planet PostgreSQL* (2026-02-13)
 - [Achieve near-zero downtime database maintenance by using blue/green deployments with AWS JDBC Driver](https://aws.amazon.com/blogs/database/achieve-near-zero-downtime-database-maintenance-by-using-blue-green-deployments-with-aws-jdbc-driver/) - *AWS Database Blog* (2026-02-12)
-- [Essential tools for monitoring and optimizing Amazon RDS for SQL Server](https://aws.amazon.com/blogs/database/essential-tools-for-monitoring-and-optimizing-amazon-rds-for-sql-server/) - *AWS Database Blog* (2026-02-11)
-- [Migrate relational-style data from NoSQL to Amazon Aurora DSQL](https://aws.amazon.com/blogs/database/migrate-relational-style-data-from-nosql-to-amazon-aurora-dsql/) - *AWS Database Blog* (2026-02-11)
-- [Maximize Azure Cosmos DB Performance with Azure Advisor Recommendations](https://devblogs.microsoft.com/cosmosdb/maximize-azure-cosmos-db-performance-with-azure-advisor-recommendations/) - *Azure Cosmos DB Blog* (2026-02-11)
 
 ## Networking
 
-- [Arista laments ‘horrendous’ memory situation](https://www.networkworld.com/article/4132328/arista-laments-horrendous-memory-situation.html) - *Arista laments 'horrendous' memory situation | Network World* (2026-02-14)
-- [AI will likely shut down critical infrastructure on its own, no attackers required](https://www.networkworld.com/article/4132393/ai-will-likely-shut-down-critical-infrastructure-on-its-own-no-attackers-required-3.html) - *Arista laments 'horrendous' memory situation | Network World* (2026-02-14)
-- [FTC digs deeper into Microsoft’s bundling and licensing practices](https://www.networkworld.com/article/4132380/ftc-digs-deeper-into-microsofts-bundling-and-licensing-practices-2.html) - *Arista laments 'horrendous' memory situation | Network World* (2026-02-14)
-- [Nvidia: Latest news and insights](https://www.networkworld.com/article/3562856/nvidia-latest-news-and-insights.html) - *Arista laments 'horrendous' memory situation | Network World* (2026-02-13)
-- [Nvidia claims 10x cost savings with open-source inference models](https://www.networkworld.com/article/4132357/nvidia-claims-10x-cost-savings-with-open-source-inference-models.html) - *Arista laments 'horrendous' memory situation | Network World* (2026-02-13)
+- [Palo Alto to acquire Israeli startup Koi for agentic AI security](https://www.networkworld.com/article/4133374/palo-alto-to-acquire-israeli-startup-koi-for-agentic-ai-security.html) - *Palo Alto to acquire Israeli startup Koi for agentic AI security | Network World* (2026-02-17)
+- [CompTIA launches SecAI+ certification](https://www.networkworld.com/article/4133427/comptia-launches-secai-certification.html) - *Palo Alto to acquire Israeli startup Koi for agentic AI security | Network World* (2026-02-17)
+- [2026 network outage report and internet health check](https://www.networkworld.com/article/4113326/2026-network-outage-report-and-internet-health-check.html) - *Palo Alto to acquire Israeli startup Koi for agentic AI security | Network World* (2026-02-17)
+- [Adani bets $100 billion on AI data centers as India eyes global hub status](https://www.networkworld.com/article/4133111/adani-bets-100-billion-on-ai-data-centers-as-india-eyes-global-hub-status.html) - *Palo Alto to acquire Israeli startup Koi for agentic AI security | Network World* (2026-02-17)
+- [Arista laments ‘horrendous’ memory situation](https://www.networkworld.com/article/4132328/arista-laments-horrendous-memory-situation.html) - *Palo Alto to acquire Israeli startup Koi for agentic AI security | Network World* (2026-02-14)
 
 ## Computing
 
-- [Get ready for new Macs and iPads: Apple announces "Special Experience" on March 4](https://arstechnica.com/apple/2026/02/get-ready-for-new-macs-and-ipads-apple-announces-special-experience-on-march-4/) - *Ars Technica - All content* (2026-02-16)
-- [Best Buy worker used manager’s code to get 99% off MacBooks, cops say](https://arstechnica.com/tech-policy/2026/02/best-buy-worker-used-managers-code-to-get-99-off-macbooks-cops-say/) - *Ars Technica - All content* (2026-02-16)
-- [ByteDance backpedals after Seedance 2.0 turned Hollywood icons into AI “clip art”](https://arstechnica.com/tech-policy/2026/02/bytedance-backpedals-after-seedance-2-0-turned-hollywood-icons-into-ai-clip-art/) - *Ars Technica - All content* (2026-02-16)
-- [A fluid can store solar energy and then release it as heat months later](https://arstechnica.com/science/2026/02/dna-inspired-molecule-breaks-records-for-storing-solar-heat/) - *Ars Technica - All content* (2026-02-16)
-- [Michigan antitrust lawsuit says oil companies hobbled EVs and renewables](https://arstechnica.com/tech-policy/2026/02/michigan-accuses-oil-companies-of-antitrust-violations-in-climate-change-lawsuit/) - *Ars Technica - All content* (2026-02-16)
+- [GameHub will give Mac owners another imperfect way to play Windows games](https://arstechnica.com/gaming/2026/02/gamehub-will-give-mac-owners-another-imperfect-way-to-play-windows-games/) - *Ars Technica - All content* (2026-02-17)
+- [Password managers' promise that they can't see your vaults isn't always true](https://arstechnica.com/security/2026/02/password-managers-promise-that-they-cant-see-your-vaults-isnt-always-true/) - *Ars Technica - All content* (2026-02-17)
+- [Stephen Colbert says CBS forbid interview of Democrat because of FCC threat](https://arstechnica.com/tech-policy/2026/02/stephen-colbert-says-cbs-forbid-interview-of-democrat-because-of-fcc-threat/) - *Ars Technica - All content* (2026-02-17)
+- [Most VMware users still "actively reducing their VMware footprint," survey finds](https://arstechnica.com/information-technology/2026/02/most-vmware-users-still-actively-reducing-their-vmware-footprint-survey-finds/) - *Ars Technica - All content* (2026-02-17)
+- [What happens to a car when the company behind its software goes under?](https://arstechnica.com/cars/2026/02/what-happens-to-a-car-when-the-company-behind-its-software-goes-under/) - *Ars Technica - All content* (2026-02-17)
 
 ## AI/Models/RL
 
+- [NVIDIA Nemotron 2 Nano 9B Japanese: 日本のソブリンAIを支える最先端小規模言語モデル](https://huggingface.co/blog/nvidia/nemotron-nano-9b-v2-japanese-ja) - *Hugging Face - Blog* (2026-02-17)
+- [Teaching AI to read a map](https://research.google/blog/teaching-ai-to-read-a-map/) - *The latest research from Google* (2026-02-17)
 - [GPT-5.2 derives a new result in theoretical physics](https://openai.com/index/new-result-theoretical-physics) - *OpenAI News* (2026-02-13)
 - [Introducing Lockdown Mode and Elevated Risk labels in ChatGPT](https://openai.com/index/introducing-lockdown-mode-and-elevated-risk-labels-in-chatgpt) - *OpenAI News* (2026-02-13)
 - [Beyond rate limits: scaling access to Codex and Sora](https://openai.com/index/beyond-rate-limits) - *OpenAI News* (2026-02-13)
@@ -83,8 +85,6 @@ Automated tech news updates. Last updated: 2026-02-17 08:49:56 UTC
 - [Gemini 3 Deep Think: Advancing science, research and engineering](https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/) - *Google DeepMind News* (2026-02-12)
 - [Introducing GPT-5.3-Codex-Spark](https://openai.com/index/introducing-gpt-5-3-codex-spark) - *OpenAI News* (2026-02-12)
 - [OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments](https://huggingface.co/blog/openenv-turing) - *Hugging Face - Blog* (2026-02-12)
-- [Scheduling in a changing world: Maximizing throughput with time-varying capacity](https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity/) - *The latest research from Google* (2026-02-11)
-- [Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations](https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations/) - *The latest research from Google* (2026-02-10)
 
 ## AI Infra
 
