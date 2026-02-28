@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-02-27 08:42:21 UTC
+Automated tech news updates. Last updated: 2026-02-28 08:31:34 UTC
 
 ## Software Architecture
 
@@ -19,69 +19,69 @@ Automated tech news updates. Last updated: 2026-02-27 08:42:21 UTC
 
 ## Kubernetes
 
+- [Before You Migrate: Five Surprising Ingress-NGINX Behaviors You Need to Know](https://kubernetes.io/blog/2026/02/27/ingress-nginx-before-you-migrate/) - *Kubernetes Blog* (2026-02-27)
+- [KubeCon + CloudNativeCon Europe 2026 Co-located Event Deep Dive: BackstageCon](https://www.cncf.io/blog/2026/02/27/kubecon-cloudnativecon-europe-2026-co-located-event-deep-dive-backstagecon/) - *Blog – Cloud Native Computing Foundation* (2026-02-27)
 - [CNCF joins 2026 Google Summer of Code as mentoring organization: Calling all contributors!](https://www.cncf.io/blog/2026/02/26/cncf-joins-2026-google-summer-of-code-as-mentoring-organization-calling-all-contributors/) - *Blog – Cloud Native Computing Foundation* (2026-02-26)
 - [Kubernetes WG Serving concludes following successful advancement of AI inference support](https://www.cncf.io/blog/2026/02/26/kubernetes-wg-serving-concludes-following-successful-advancement-of-ai-inference-support/) - *Blog – Cloud Native Computing Foundation* (2026-02-26)
 - [Exposing Spin apps on SpinKube with GatewayAPI](https://www.cncf.io/blog/2026/02/26/exposing-spin-apps-on-spinkube-with-gatewayapi/) - *Blog – Cloud Native Computing Foundation* (2026-02-26)
 - [Announcing H2 2026 KCDs](https://www.cncf.io/blog/2026/02/25/announcing-h2-2026-kcds/) - *Blog – Cloud Native Computing Foundation* (2026-02-25)
-- [Making Harbor production-ready: Essential considerations for deployment](https://www.cncf.io/blog/2026/02/24/making-harbor-production-ready-essential-considerations-for-deployment/) - *Blog – Cloud Native Computing Foundation* (2026-02-24)
 - [Spotlight on SIG Architecture: API Governance](https://kubernetes.io/blog/2026/02/12/sig-architecture-api-spotlight/) - *Kubernetes Blog* (2026-02-12)
 - [Introducing Node Readiness Controller](https://kubernetes.io/blog/2026/02/03/introducing-node-readiness-controller/) - *Kubernetes Blog* (2026-02-03)
 - [New Conversion from cgroup v1 CPU Shares to v2 CPU Weight](https://kubernetes.io/blog/2026/01/30/new-cgroup-v1-to-v2-cpu-conversion-formula/) - *Kubernetes Blog* (2026-01-30)
 - [Ingress NGINX: Statement from the Kubernetes Steering and Security Response Committees](https://kubernetes.io/blog/2026/01/29/ingress-nginx-statement/) - *Kubernetes Blog* (2026-01-29)
-- [Experimenting with Gateway API using kind](https://kubernetes.io/blog/2026/01/28/experimenting-gateway-api-with-kind/) - *Kubernetes Blog* (2026-01-28)
 
 ## Security
 
-- [Meta Files Lawsuits Against Brazil, China, Vietnam Advertisers Over Celeb-Bait Scams](https://thehackernews.com/2026/02/meta-files-lawsuits-against-brazil.html) - *The Hacker News* (2026-02-27)
-- [Aeternum C2 Botnet Stores Encrypted Commands on Polygon Blockchain to Evade Takedown](https://thehackernews.com/2026/02/aeternum-c2-botnet-stores-encrypted.html) - *The Hacker News* (2026-02-26)
-- [UAT-10027 Targets U.S. Education and Healthcare with Dohdoor Backdoor](https://thehackernews.com/2026/02/uat-10027-targets-us-education-and.html) - *The Hacker News* (2026-02-26)
-- [ThreatsDay Bulletin: Kali Linux + Claude, Chrome Crash Traps, WinRAR Flaws, LockBit & 15+ Stories](https://thehackernews.com/2026/02/threatsday-bulletin-kali-linux-claude.html) - *The Hacker News* (2026-02-26)
+- [Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute](https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html) - *The Hacker News* (2026-02-28)
+- [Friday Squid Blogging: Squid Fishing in Peru](https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-squid-fishing-in-peru.html) - *Schneier on Security* (2026-02-27)
+- [DoJ Seizes $61 Million in Tether Linked to Pig Butchering Crypto Scams](https://thehackernews.com/2026/02/doj-seizes-61-million-in-tether-linked.html) - *The Hacker News* (2026-02-27)
+- [900+ Sangoma FreePBX Instances Compromised in Ongoing Web Shell Attacks](https://thehackernews.com/2026/02/900-sangoma-freepbx-instances.html) - *The Hacker News* (2026-02-27)
+- [Malicious Go Crypto Module Steals Passwords, Deploys Rekoobe Backdoor](https://thehackernews.com/2026/02/malicious-go-crypto-module-steals.html) - *The Hacker News* (2026-02-27)
+- [ScarCruft Uses Zoho WorkDrive and USB Malware to Breach Air-Gapped Networks](https://thehackernews.com/2026/02/scarcruft-uses-zoho-workdrive-and-usb.html) - *The Hacker News* (2026-02-27)
+- [Why Tehran’s Two-Tiered Internet Is So Dangerous](https://www.schneier.com/blog/archives/2026/02/why-tehrans-two-tiered-internet-is-so-dangerous.html) - *Schneier on Security* (2026-02-27)
+- [Phishing Attacks Against People Seeking Programming Jobs](https://www.schneier.com/blog/archives/2026/02/phishing-attacks-against-people-seeking-programming-jobs.html) - *Schneier on Security* (2026-02-27)
 - [LLMs Generate Predictable Passwords](https://www.schneier.com/blog/archives/2026/02/llms-generate-predictable-passwords.html) - *Schneier on Security* (2026-02-26)
-- [Expert Recommends: Prepare for PQC Right Now](https://thehackernews.com/2026/02/expert-recommends-prepare-for-pqc-right.html) - *The Hacker News* (2026-02-26)
 - [Poisoning AI Training Data](https://www.schneier.com/blog/archives/2026/02/poisoning-ai-training-data.html) - *Schneier on Security* (2026-02-25)
-- [Is AI Good for Democracy?](https://www.schneier.com/blog/archives/2026/02/is-ai-good-for-democracy.html) - *Schneier on Security* (2026-02-24)
-- [On the Security of Password Managers](https://www.schneier.com/blog/archives/2026/02/on-the-security-of-password-managers.html) - *Schneier on Security* (2026-02-23)
-- [Friday Squid Blogging: Squid Cartoon](https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-squid-cartoon-3.html) - *Schneier on Security* (2026-02-20)
 
 ## Databases/Storage
 
+- [Vibhor Kumar: Open Source, Open Nerves](https://postgr.es/p/7ua) - *Planet PostgreSQL* (2026-02-27)
+- [Shaun Thomas: How Patroni Brings High Availability to Postgres](https://postgr.es/p/7ub) - *Planet PostgreSQL* (2026-02-27)
 - [Azure DocumentDB: A Fully Managed MongoDB-Compatible Database](https://devblogs.microsoft.com/cosmosdb/azure-documentdb-mongodb-compatible/) - *Azure Cosmos DB Blog* (2026-02-27)
 - [Radim Marek: PostgreSQL Statistics: Why queries run slow](https://postgr.es/p/7u9) - *Planet PostgreSQL* (2026-02-26)
 - [Replicate spatial data using AWS DMS and Amazon RDS for PostgreSQL](https://aws.amazon.com/blogs/database/replicate-spatial-data-using-aws-dms-and-amazon-rds-for-postgresql/) - *AWS Database Blog* (2026-02-26)
 - [Alastair Turner: A reponsible role for AI in Open Source projects?](https://postgr.es/p/7u8) - *Planet PostgreSQL* (2026-02-26)
 - [Tomas Vondra: The real cost of random I/O](https://postgr.es/p/7u4) - *Planet PostgreSQL* (2026-02-26)
-- [Paul Ramsey: Postgres JSONB Columns and TOAST: A Performance Guide](https://postgr.es/p/7u3) - *Planet PostgreSQL* (2026-02-25)
-- [Henrietta Dombrovskaya: February Meetup: slides and recording are available!](https://postgr.es/p/7u1) - *Planet PostgreSQL* (2026-02-25)
 - [Well-Architected design for resiliency with Oracle Database@AWS](https://aws.amazon.com/blogs/database/well-architected-design-for-resiliency-with-oracle-databaseaws/) - *AWS Database Blog* (2026-02-24)
 - [Resilience testing on Amazon ElastiCache with AWS Fault Injection Service](https://aws.amazon.com/blogs/database/resilience-testing-on-amazon-elasticache-with-aws-fault-injection-service/) - *AWS Database Blog* (2026-02-23)
 - [Upgrade legacy Amazon RDS file systems to increase storage capacity and improve performance with minimal downtime](https://aws.amazon.com/blogs/database/upgrade-legacy-amazon-rds-file-systems-to-increase-storage-capacity-and-improve-performance-with-minimal-downtime/) - *AWS Database Blog* (2026-02-19)
 
 ## Networking
 
-- [Why do data centers need so much water?](https://www.networkworld.com/article/4138052/why-do-data-centers-need-so-much-water.html) - *Why do data centers need so much water? | Network World* (2026-02-26)
-- [ControlMonkey extends configuration disaster recovery to cloud network vendors](https://www.networkworld.com/article/4137501/controlmonkey-extends-configuration-disaster-recovery-to-cloud-network-vendors.html) - *Why do data centers need so much water? | Network World* (2026-02-25)
-- [IBM X-Force: AI creates security challenges, but basic system flaws are more problematic](https://www.networkworld.com/article/4137368/ibm-x-force-ai-creates-security-challenges-but-basic-system-flaws-are-more-problematic.html) - *Why do data centers need so much water? | Network World* (2026-02-25)
-- [Netskope targets AI-driven network bottlenecks with AI Fast Path](https://www.networkworld.com/article/4137369/netskope-targets-ai-driven-network-bottlenecks-with-ai-fast-path.html) - *Why do data centers need so much water? | Network World* (2026-02-25)
-- [AMD: Latest news and insights](https://www.networkworld.com/article/4021291/amd-latest-news-and-insights.html) - *Why do data centers need so much water? | Network World* (2026-02-25)
+- [OpenAI launches stateful AI on AWS, signaling a control plane power shift](https://www.networkworld.com/article/4138834/openai-launches-stateful-ai-on-aws-signaling-a-control-plane-power-shift-3.html) - *OpenAI launches stateful AI on AWS, signaling a control plane power shift | Network World* (2026-02-28)
+- [Security hole could let hackers take over Juniper Networks PTX core routers](https://www.networkworld.com/article/4138807/security-hole-could-let-hackers-take-over-juniper-networks-ptx-core-routers-2.html) - *OpenAI launches stateful AI on AWS, signaling a control plane power shift | Network World* (2026-02-27)
+- [Enterprise Spotlight: Data Center Modernization](https://us.resources.networkworld.com/resources/spotlight-report-accelerating-data-center-modernization-2/) - *OpenAI launches stateful AI on AWS, signaling a control plane power shift | Network World* (2026-02-27)
+- [Why do data centers need so much water?](https://www.networkworld.com/article/4138052/why-do-data-centers-need-so-much-water.html) - *OpenAI launches stateful AI on AWS, signaling a control plane power shift | Network World* (2026-02-26)
+- [ControlMonkey extends configuration disaster recovery to cloud network vendors](https://www.networkworld.com/article/4137501/controlmonkey-extends-configuration-disaster-recovery-to-cloud-network-vendors.html) - *OpenAI launches stateful AI on AWS, signaling a control plane power shift | Network World* (2026-02-25)
 
 ## Computing
 
-- [Neanderthals seemed to have a thing for modern human women](https://arstechnica.com/science/2026/02/genomes-chart-the-history-of-neanderthal-modern-human-interactions/) - *Ars Technica - All content* (2026-02-26)
-- [Perplexity announces "Computer," an AI agent that assigns work to other AI agents](https://arstechnica.com/ai/2026/02/perplexity-announces-computer-an-ai-agent-that-assigns-work-to-other-ai-agents/) - *Ars Technica - All content* (2026-02-26)
-- [xAI spent $7M building wall that barely muffles annoying power plant noise](https://arstechnica.com/tech-policy/2026/02/pops-whines-and-roars-xai-accused-of-torturing-neighbors-of-noisy-power-plant/) - *Ars Technica - All content* (2026-02-26)
-- [The physics of squeaking sneakers](https://arstechnica.com/science/2026/02/the-physics-of-squeaking-sneakers/) - *Ars Technica - All content* (2026-02-26)
-- [Google reveals Nano Banana 2 AI image model, coming to Gemini today](https://arstechnica.com/ai/2026/02/google-releases-nano-banana-2-ai-image-generator-promises-pro-results-with-flash-speed/) - *Ars Technica - All content* (2026-02-26)
+- [Google quantum-proofs HTTPS by squeezing 2.5kB of data into 64-byte space](https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/) - *Ars Technica - All content* (2026-02-28)
+- [The Air Force's new ICBM is nearly ready to fly, but there’s nowhere to put it](https://arstechnica.com/space/2026/02/the-air-forces-new-icbm-is-nearly-ready-to-fly-but-theres-nowhere-to-put-them/) - *Ars Technica - All content* (2026-02-28)
+- [Under a Paramount-WBD merger, two struggling media giants would unite](https://arstechnica.com/gadgets/2026/02/under-a-paramount-wbd-merger-two-struggling-media-giants-would-unite/) - *Ars Technica - All content* (2026-02-27)
+- [Photons that aren't actually there influence superconductivity](https://arstechnica.com/science/2026/02/photons-that-arent-actually-there-influence-superconductivity/) - *Ars Technica - All content* (2026-02-27)
+- [Whoops: US military laser strike takes down CBP drone near Mexican border](https://arstechnica.com/tech-policy/2026/02/whoops-us-military-laser-strike-takes-down-cbp-drone-near-mexican-border/) - *Ars Technica - All content* (2026-02-27)
 
 ## AI/Models/RL
 
+- [Joint Statement from OpenAI and Microsoft](https://openai.com/index/continuing-microsoft-partnership) - *OpenAI News* (2026-02-27)
+- [Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock](https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock) - *OpenAI News* (2026-02-27)
+- [Scaling AI for everyone](https://openai.com/index/scaling-ai-for-everyone) - *OpenAI News* (2026-02-27)
+- [OpenAI and Amazon announce strategic partnership](https://openai.com/index/amazon-partnership) - *OpenAI News* (2026-02-27)
+- [An update on our mental health-related work](https://openai.com/index/update-on-mental-health-related-work) - *OpenAI News* (2026-02-27)
 - [Nano Banana 2: Combining Pro capabilities with lightning-fast speed](https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/) - *Google DeepMind News* (2026-02-26)
-- [Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting](https://openai.com/index/pacific-northwest-national-laboratory) - *OpenAI News* (2026-02-26)
-- [OpenAI Codex and Figma launch seamless code-to-design experience](https://openai.com/index/figma-partnership) - *OpenAI News* (2026-02-26)
 - [Mixture of Experts (MoEs) in Transformers](https://huggingface.co/blog/moe-transformers) - *Hugging Face - Blog* (2026-02-26)
-- [Disrupting malicious uses of AI | February 2026](https://openai.com/index/disrupting-malicious-ai-uses) - *OpenAI News* (2026-02-25)
-- [Arvind KC appointed Chief People Officer](https://openai.com/index/arvind-kc-chief-people-officer) - *OpenAI News* (2026-02-24)
 - [Deploying Open Source Vision Language Models (VLM) on Jetson](https://huggingface.co/blog/nvidia/cosmos-on-jetson) - *Hugging Face - Blog* (2026-02-24)
-- [Why we no longer evaluate SWE-bench Verified](https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified) - *OpenAI News* (2026-02-23)
 - [GGML and llama.cpp join HF to ensure the long-term progress of Local AI](https://huggingface.co/blog/ggml-joins-hf) - *Hugging Face - Blog* (2026-02-20)
 - [Train AI models with Unsloth and Hugging Face Jobs for FREE](https://huggingface.co/blog/unsloth-jobs) - *Hugging Face - Blog* (2026-02-20)
 
