@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-02-28 08:31:34 UTC
+Automated tech news updates. Last updated: 2026-03-01 08:33:19 UTC
 
 ## Software Architecture
 
@@ -32,26 +32,26 @@ Automated tech news updates. Last updated: 2026-02-28 08:31:34 UTC
 
 ## Security
 
+- [ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket](https://thehackernews.com/2026/02/clawjacked-flaw-lets-malicious-sites.html) - *The Hacker News* (2026-02-28)
+- [Who is the Kimwolf Botmaster “Dort”?](https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/) - *Krebs on Security* (2026-02-28)
+- [Thousands of Public Google Cloud API Keys Exposed with Gemini Access After API Enablement](https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html) - *The Hacker News* (2026-02-28)
 - [Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute](https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html) - *The Hacker News* (2026-02-28)
 - [Friday Squid Blogging: Squid Fishing in Peru](https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-squid-fishing-in-peru.html) - *Schneier on Security* (2026-02-27)
 - [DoJ Seizes $61 Million in Tether Linked to Pig Butchering Crypto Scams](https://thehackernews.com/2026/02/doj-seizes-61-million-in-tether-linked.html) - *The Hacker News* (2026-02-27)
 - [900+ Sangoma FreePBX Instances Compromised in Ongoing Web Shell Attacks](https://thehackernews.com/2026/02/900-sangoma-freepbx-instances.html) - *The Hacker News* (2026-02-27)
-- [Malicious Go Crypto Module Steals Passwords, Deploys Rekoobe Backdoor](https://thehackernews.com/2026/02/malicious-go-crypto-module-steals.html) - *The Hacker News* (2026-02-27)
-- [ScarCruft Uses Zoho WorkDrive and USB Malware to Breach Air-Gapped Networks](https://thehackernews.com/2026/02/scarcruft-uses-zoho-workdrive-and-usb.html) - *The Hacker News* (2026-02-27)
 - [Why Tehran’s Two-Tiered Internet Is So Dangerous](https://www.schneier.com/blog/archives/2026/02/why-tehrans-two-tiered-internet-is-so-dangerous.html) - *Schneier on Security* (2026-02-27)
 - [Phishing Attacks Against People Seeking Programming Jobs](https://www.schneier.com/blog/archives/2026/02/phishing-attacks-against-people-seeking-programming-jobs.html) - *Schneier on Security* (2026-02-27)
 - [LLMs Generate Predictable Passwords](https://www.schneier.com/blog/archives/2026/02/llms-generate-predictable-passwords.html) - *Schneier on Security* (2026-02-26)
-- [Poisoning AI Training Data](https://www.schneier.com/blog/archives/2026/02/poisoning-ai-training-data.html) - *Schneier on Security* (2026-02-25)
 
 ## Databases/Storage
 
+- [Gilles Darold: pgdsat version 2.0](https://postgr.es/p/7uc) - *Planet PostgreSQL* (2026-03-01)
 - [Vibhor Kumar: Open Source, Open Nerves](https://postgr.es/p/7ua) - *Planet PostgreSQL* (2026-02-27)
 - [Shaun Thomas: How Patroni Brings High Availability to Postgres](https://postgr.es/p/7ub) - *Planet PostgreSQL* (2026-02-27)
 - [Azure DocumentDB: A Fully Managed MongoDB-Compatible Database](https://devblogs.microsoft.com/cosmosdb/azure-documentdb-mongodb-compatible/) - *Azure Cosmos DB Blog* (2026-02-27)
 - [Radim Marek: PostgreSQL Statistics: Why queries run slow](https://postgr.es/p/7u9) - *Planet PostgreSQL* (2026-02-26)
 - [Replicate spatial data using AWS DMS and Amazon RDS for PostgreSQL](https://aws.amazon.com/blogs/database/replicate-spatial-data-using-aws-dms-and-amazon-rds-for-postgresql/) - *AWS Database Blog* (2026-02-26)
 - [Alastair Turner: A reponsible role for AI in Open Source projects?](https://postgr.es/p/7u8) - *Planet PostgreSQL* (2026-02-26)
-- [Tomas Vondra: The real cost of random I/O](https://postgr.es/p/7u4) - *Planet PostgreSQL* (2026-02-26)
 - [Well-Architected design for resiliency with Oracle Database@AWS](https://aws.amazon.com/blogs/database/well-architected-design-for-resiliency-with-oracle-databaseaws/) - *AWS Database Blog* (2026-02-24)
 - [Resilience testing on Amazon ElastiCache with AWS Fault Injection Service](https://aws.amazon.com/blogs/database/resilience-testing-on-amazon-elasticache-with-aws-fault-injection-service/) - *AWS Database Blog* (2026-02-23)
 - [Upgrade legacy Amazon RDS file systems to increase storage capacity and improve performance with minimal downtime](https://aws.amazon.com/blogs/database/upgrade-legacy-amazon-rds-file-systems-to-increase-storage-capacity-and-improve-performance-with-minimal-downtime/) - *AWS Database Blog* (2026-02-19)
@@ -66,19 +66,19 @@ Automated tech news updates. Last updated: 2026-02-28 08:31:34 UTC
 
 ## Computing
 
-- [Google quantum-proofs HTTPS by squeezing 2.5kB of data into 64-byte space](https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/) - *Ars Technica - All content* (2026-02-28)
+- [Trump moves to ban Anthropic from the US government](https://arstechnica.com/tech-policy/2026/02/trump-moves-to-ban-anthropic-from-the-us-government/) - *Ars Technica - All content* (2026-02-28)
+- [In puzzling outbreak, officials look to cold beer, gross ice, and ChatGPT](https://arstechnica.com/health/2026/02/did-chatgpt-help-health-officials-solve-a-weird-outbreak-maybe/) - *Ars Technica - All content* (2026-02-28)
+- [Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space](https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/) - *Ars Technica - All content* (2026-02-28)
 - [The Air Force's new ICBM is nearly ready to fly, but there’s nowhere to put it](https://arstechnica.com/space/2026/02/the-air-forces-new-icbm-is-nearly-ready-to-fly-but-theres-nowhere-to-put-them/) - *Ars Technica - All content* (2026-02-28)
 - [Under a Paramount-WBD merger, two struggling media giants would unite](https://arstechnica.com/gadgets/2026/02/under-a-paramount-wbd-merger-two-struggling-media-giants-would-unite/) - *Ars Technica - All content* (2026-02-27)
-- [Photons that aren't actually there influence superconductivity](https://arstechnica.com/science/2026/02/photons-that-arent-actually-there-influence-superconductivity/) - *Ars Technica - All content* (2026-02-27)
-- [Whoops: US military laser strike takes down CBP drone near Mexican border](https://arstechnica.com/tech-policy/2026/02/whoops-us-military-laser-strike-takes-down-cbp-drone-near-mexican-border/) - *Ars Technica - All content* (2026-02-27)
 
 ## AI/Models/RL
 
+- [Our agreement with the Department of War](https://openai.com/index/our-agreement-with-the-department-of-war) - *OpenAI News* (2026-02-28)
 - [Joint Statement from OpenAI and Microsoft](https://openai.com/index/continuing-microsoft-partnership) - *OpenAI News* (2026-02-27)
-- [Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock](https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock) - *OpenAI News* (2026-02-27)
-- [Scaling AI for everyone](https://openai.com/index/scaling-ai-for-everyone) - *OpenAI News* (2026-02-27)
 - [OpenAI and Amazon announce strategic partnership](https://openai.com/index/amazon-partnership) - *OpenAI News* (2026-02-27)
-- [An update on our mental health-related work](https://openai.com/index/update-on-mental-health-related-work) - *OpenAI News* (2026-02-27)
+- [Scaling AI for everyone](https://openai.com/index/scaling-ai-for-everyone) - *OpenAI News* (2026-02-27)
+- [Introducing the Stateful Runtime Environment for Agents in Amazon Bedrock](https://openai.com/index/introducing-the-stateful-runtime-environment-for-agents-in-amazon-bedrock) - *OpenAI News* (2026-02-27)
 - [Nano Banana 2: Combining Pro capabilities with lightning-fast speed](https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/) - *Google DeepMind News* (2026-02-26)
 - [Mixture of Experts (MoEs) in Transformers](https://huggingface.co/blog/moe-transformers) - *Hugging Face - Blog* (2026-02-26)
 - [Deploying Open Source Vision Language Models (VLM) on Jetson](https://huggingface.co/blog/nvidia/cosmos-on-jetson) - *Hugging Face - Blog* (2026-02-24)
