@@ -1,13 +1,11 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-03-01 08:33:19 UTC
+Automated tech news updates. Last updated: 2026-03-02 08:49:42 UTC
 
 ## Software Architecture
 
 - [Article: Borrowing from Kotlin/Android to Architect Scalable iOS Apps in SwiftUI](https://www.infoq.com/articles/kotlin-scalable-swiftui-patterns/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-02-26)
-- [Podcast: Software Evolution with Microservices and LLMs: A Conversation with Chris Richardson](https://www.infoq.com/podcasts/software-evolution-microservices/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-02-23)
-- [Article: Spec-Driven Development – Adoption at Enterprise Scale](https://www.infoq.com/articles/enterprise-spec-driven-development/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-02-19)
-- [How Dropbox Built a Scalable Context Engine for Enterprise Knowledge Search](https://www.infoq.com/news/2026/02/dropbox-context-engine/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-02-18)
+- [Podcast: Software Evolution with Microservices and LLMs: a Conversation with Chris Richardson](https://www.infoq.com/podcasts/software-evolution-microservices/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-02-23)
 
 ## Cloud Computing
 
@@ -66,11 +64,11 @@ Automated tech news updates. Last updated: 2026-03-01 08:33:19 UTC
 
 ## Computing
 
+- [AMD will bring its "Ryzen AI" processors to standard desktop PCs for the first time](https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/) - *Ars Technica - All content* (2026-03-02)
+- [The strange animals that control their body heat](https://arstechnica.com/science/2026/03/the-strange-animals-that-control-their-body-heat/) - *Ars Technica - All content* (2026-03-01)
 - [Trump moves to ban Anthropic from the US government](https://arstechnica.com/tech-policy/2026/02/trump-moves-to-ban-anthropic-from-the-us-government/) - *Ars Technica - All content* (2026-02-28)
 - [In puzzling outbreak, officials look to cold beer, gross ice, and ChatGPT](https://arstechnica.com/health/2026/02/did-chatgpt-help-health-officials-solve-a-weird-outbreak-maybe/) - *Ars Technica - All content* (2026-02-28)
 - [Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space](https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/) - *Ars Technica - All content* (2026-02-28)
-- [The Air Force's new ICBM is nearly ready to fly, but there’s nowhere to put it](https://arstechnica.com/space/2026/02/the-air-forces-new-icbm-is-nearly-ready-to-fly-but-theres-nowhere-to-put-them/) - *Ars Technica - All content* (2026-02-28)
-- [Under a Paramount-WBD merger, two struggling media giants would unite](https://arstechnica.com/gadgets/2026/02/under-a-paramount-wbd-merger-two-struggling-media-giants-would-unite/) - *Ars Technica - All content* (2026-02-27)
 
 ## AI/Models/RL
 
