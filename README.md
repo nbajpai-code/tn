@@ -1,9 +1,11 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-03-02 08:49:42 UTC
+Automated tech news updates. Last updated: 2026-03-03 08:42:47 UTC
 
 ## Software Architecture
 
+- [Podcast: [Video Podcast] Frictionless DevEx with Nicole Forsgren](https://www.infoq.com/podcasts/frictionless-devex/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-03-02)
+- [Presentation: Platforms for Secure API Connectivity with Architecture as Code](https://www.infoq.com/presentations/secure-connectivity-api/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-02-27)
 - [Article: Borrowing from Kotlin/Android to Architect Scalable iOS Apps in SwiftUI](https://www.infoq.com/articles/kotlin-scalable-swiftui-patterns/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-02-26)
 - [Podcast: Software Evolution with Microservices and LLMs: a Conversation with Chris Richardson](https://www.infoq.com/podcasts/software-evolution-microservices/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-02-23)
 
@@ -17,12 +19,12 @@ Automated tech news updates. Last updated: 2026-03-02 08:49:42 UTC
 
 ## Kubernetes
 
+- [KubeCon + CloudNativeCon Europe 2026 Co-located Event Deep Dive: Kubernetes on Edge Day](https://www.cncf.io/blog/2026/03/02/kubecon-cloudnativecon-europe-2026-co-located-event-deep-dive-kubernetes-on-edge-day/) - *Blog – Cloud Native Computing Foundation* (2026-03-02)
 - [Before You Migrate: Five Surprising Ingress-NGINX Behaviors You Need to Know](https://kubernetes.io/blog/2026/02/27/ingress-nginx-before-you-migrate/) - *Kubernetes Blog* (2026-02-27)
 - [KubeCon + CloudNativeCon Europe 2026 Co-located Event Deep Dive: BackstageCon](https://www.cncf.io/blog/2026/02/27/kubecon-cloudnativecon-europe-2026-co-located-event-deep-dive-backstagecon/) - *Blog – Cloud Native Computing Foundation* (2026-02-27)
 - [CNCF joins 2026 Google Summer of Code as mentoring organization: Calling all contributors!](https://www.cncf.io/blog/2026/02/26/cncf-joins-2026-google-summer-of-code-as-mentoring-organization-calling-all-contributors/) - *Blog – Cloud Native Computing Foundation* (2026-02-26)
 - [Kubernetes WG Serving concludes following successful advancement of AI inference support](https://www.cncf.io/blog/2026/02/26/kubernetes-wg-serving-concludes-following-successful-advancement-of-ai-inference-support/) - *Blog – Cloud Native Computing Foundation* (2026-02-26)
 - [Exposing Spin apps on SpinKube with GatewayAPI](https://www.cncf.io/blog/2026/02/26/exposing-spin-apps-on-spinkube-with-gatewayapi/) - *Blog – Cloud Native Computing Foundation* (2026-02-26)
-- [Announcing H2 2026 KCDs](https://www.cncf.io/blog/2026/02/25/announcing-h2-2026-kcds/) - *Blog – Cloud Native Computing Foundation* (2026-02-25)
 - [Spotlight on SIG Architecture: API Governance](https://kubernetes.io/blog/2026/02/12/sig-architecture-api-spotlight/) - *Kubernetes Blog* (2026-02-12)
 - [Introducing Node Readiness Controller](https://kubernetes.io/blog/2026/02/03/introducing-node-readiness-controller/) - *Kubernetes Blog* (2026-02-03)
 - [New Conversion from cgroup v1 CPU Shares to v2 CPU Weight](https://kubernetes.io/blog/2026/01/30/new-cgroup-v1-to-v2-cpu-conversion-formula/) - *Kubernetes Blog* (2026-01-30)
@@ -30,45 +32,45 @@ Automated tech news updates. Last updated: 2026-03-02 08:49:42 UTC
 
 ## Security
 
-- [ClawJacked Flaw Lets Malicious Sites Hijack Local OpenClaw AI Agents via WebSocket](https://thehackernews.com/2026/02/clawjacked-flaw-lets-malicious-sites.html) - *The Hacker News* (2026-02-28)
+- [Google Confirms CVE-2026-21385 in Qualcomm Android Component Exploited](https://thehackernews.com/2026/03/google-confirms-cve-2026-21385-in.html) - *The Hacker News* (2026-03-03)
+- [SloppyLemming Targets Pakistan and Bangladesh Governments Using Dual Malware Chains](https://thehackernews.com/2026/03/sloppylemming-targets-pakistan-and.html) - *The Hacker News* (2026-03-03)
+- [New Chrome Vulnerability Let Malicious Extensions Escalate Privileges via Gemini Panel](https://thehackernews.com/2026/03/new-chrome-vulnerability-let-malicious.html) - *The Hacker News* (2026-03-02)
+- [Google Develops Merkle Tree Certificates to Enable Quantum-Resistant HTTPS in Chrome](https://thehackernews.com/2026/03/google-develops-merkle-tree.html) - *The Hacker News* (2026-03-02)
+- [⚡ Weekly Recap: SD-WAN 0-Day, Critical CVEs, Telegram Probe, Smart TV Proxy SDK and More](https://thehackernews.com/2026/03/weekly-recap-sd-wan-0-day-critical-cves.html) - *The Hacker News* (2026-03-02)
+- [LLM-Assisted Deanonymization](https://www.schneier.com/blog/archives/2026/03/llm-assisted-deanonymization.html) - *Schneier on Security* (2026-03-02)
 - [Who is the Kimwolf Botmaster “Dort”?](https://krebsonsecurity.com/2026/02/who-is-the-kimwolf-botmaster-dort/) - *Krebs on Security* (2026-02-28)
-- [Thousands of Public Google Cloud API Keys Exposed with Gemini Access After API Enablement](https://thehackernews.com/2026/02/thousands-of-public-google-cloud-api.html) - *The Hacker News* (2026-02-28)
-- [Pentagon Designates Anthropic Supply Chain Risk Over AI Military Dispute](https://thehackernews.com/2026/02/pentagon-designates-anthropic-supply.html) - *The Hacker News* (2026-02-28)
 - [Friday Squid Blogging: Squid Fishing in Peru](https://www.schneier.com/blog/archives/2026/02/friday-squid-blogging-squid-fishing-in-peru.html) - *Schneier on Security* (2026-02-27)
-- [DoJ Seizes $61 Million in Tether Linked to Pig Butchering Crypto Scams](https://thehackernews.com/2026/02/doj-seizes-61-million-in-tether-linked.html) - *The Hacker News* (2026-02-27)
-- [900+ Sangoma FreePBX Instances Compromised in Ongoing Web Shell Attacks](https://thehackernews.com/2026/02/900-sangoma-freepbx-instances.html) - *The Hacker News* (2026-02-27)
 - [Why Tehran’s Two-Tiered Internet Is So Dangerous](https://www.schneier.com/blog/archives/2026/02/why-tehrans-two-tiered-internet-is-so-dangerous.html) - *Schneier on Security* (2026-02-27)
 - [Phishing Attacks Against People Seeking Programming Jobs](https://www.schneier.com/blog/archives/2026/02/phishing-attacks-against-people-seeking-programming-jobs.html) - *Schneier on Security* (2026-02-27)
-- [LLMs Generate Predictable Passwords](https://www.schneier.com/blog/archives/2026/02/llms-generate-predictable-passwords.html) - *Schneier on Security* (2026-02-26)
 
 ## Databases/Storage
 
+- [Set up and troubleshoot IAM database authentication in AWS DMS](https://aws.amazon.com/blogs/database/set-up-and-troubleshoot-iam-database-authentication-in-aws-dms/) - *AWS Database Blog* (2026-03-02)
+- [Cornelia Biacsics: Contributions for week 8, 2026](https://postgr.es/p/7ue) - *Planet PostgreSQL* (2026-03-02)
 - [Gilles Darold: pgdsat version 2.0](https://postgr.es/p/7uc) - *Planet PostgreSQL* (2026-03-01)
+- [Floor Drees: Developer U: Exercising Cohesion and Technical Skill in PostgreSQL](https://postgr.es/p/7uf) - *Planet PostgreSQL* (2026-02-27)
+- [Inside MongoDB Dublin: The Heart of Our International Growth](https://www.mongodb.com/company/blog/culture/inside-mongodb-dublin-the-heart-of-our-international-growth) - *MongoDB | Blog* (2026-02-27)
+- [Towards Model-based Verification of a Key-Value Storage Engine](https://www.mongodb.com/company/blog/engineering/towards-model-based-verification-key-value-storage-engine) - *MongoDB | Blog* (2026-02-27)
 - [Vibhor Kumar: Open Source, Open Nerves](https://postgr.es/p/7ua) - *Planet PostgreSQL* (2026-02-27)
 - [Shaun Thomas: How Patroni Brings High Availability to Postgres](https://postgr.es/p/7ub) - *Planet PostgreSQL* (2026-02-27)
 - [Azure DocumentDB: A Fully Managed MongoDB-Compatible Database](https://devblogs.microsoft.com/cosmosdb/azure-documentdb-mongodb-compatible/) - *Azure Cosmos DB Blog* (2026-02-27)
-- [Radim Marek: PostgreSQL Statistics: Why queries run slow](https://postgr.es/p/7u9) - *Planet PostgreSQL* (2026-02-26)
 - [Replicate spatial data using AWS DMS and Amazon RDS for PostgreSQL](https://aws.amazon.com/blogs/database/replicate-spatial-data-using-aws-dms-and-amazon-rds-for-postgresql/) - *AWS Database Blog* (2026-02-26)
-- [Alastair Turner: A reponsible role for AI in Open Source projects?](https://postgr.es/p/7u8) - *Planet PostgreSQL* (2026-02-26)
-- [Well-Architected design for resiliency with Oracle Database@AWS](https://aws.amazon.com/blogs/database/well-architected-design-for-resiliency-with-oracle-databaseaws/) - *AWS Database Blog* (2026-02-24)
-- [Resilience testing on Amazon ElastiCache with AWS Fault Injection Service](https://aws.amazon.com/blogs/database/resilience-testing-on-amazon-elasticache-with-aws-fault-injection-service/) - *AWS Database Blog* (2026-02-23)
-- [Upgrade legacy Amazon RDS file systems to increase storage capacity and improve performance with minimal downtime](https://aws.amazon.com/blogs/database/upgrade-legacy-amazon-rds-file-systems-to-increase-storage-capacity-and-improve-performance-with-minimal-downtime/) - *AWS Database Blog* (2026-02-19)
 
 ## Networking
 
-- [OpenAI launches stateful AI on AWS, signaling a control plane power shift](https://www.networkworld.com/article/4138834/openai-launches-stateful-ai-on-aws-signaling-a-control-plane-power-shift-3.html) - *OpenAI launches stateful AI on AWS, signaling a control plane power shift | Network World* (2026-02-28)
-- [Security hole could let hackers take over Juniper Networks PTX core routers](https://www.networkworld.com/article/4138807/security-hole-could-let-hackers-take-over-juniper-networks-ptx-core-routers-2.html) - *OpenAI launches stateful AI on AWS, signaling a control plane power shift | Network World* (2026-02-27)
-- [Enterprise Spotlight: Data Center Modernization](https://us.resources.networkworld.com/resources/spotlight-report-accelerating-data-center-modernization-2/) - *OpenAI launches stateful AI on AWS, signaling a control plane power shift | Network World* (2026-02-27)
-- [Why do data centers need so much water?](https://www.networkworld.com/article/4138052/why-do-data-centers-need-so-much-water.html) - *OpenAI launches stateful AI on AWS, signaling a control plane power shift | Network World* (2026-02-26)
-- [ControlMonkey extends configuration disaster recovery to cloud network vendors](https://www.networkworld.com/article/4137501/controlmonkey-extends-configuration-disaster-recovery-to-cloud-network-vendors.html) - *OpenAI launches stateful AI on AWS, signaling a control plane power shift | Network World* (2026-02-25)
+- [Nvidia partners with optics technology vendors Lumentum and Coherent to enhance AI infrastructure](https://www.networkworld.com/article/4139643/nvidia-partners-with-optics-technology-vendors-lumentum-and-coherent-to-enhance-ai-infrastructure.html) - *Nvidia partners with optics technology vendors Lumentum and Coherent to enhance AI infrastructure | Network World* (2026-03-03)
+- [Intel: Latest news and insights](https://www.networkworld.com/article/4021442/intel-latest-news-and-insights.html) - *Nvidia partners with optics technology vendors Lumentum and Coherent to enhance AI infrastructure | Network World* (2026-03-02)
+- [Nvidia: Latest news and insights](https://www.networkworld.com/article/3562856/nvidia-latest-news-and-insights.html) - *Nvidia partners with optics technology vendors Lumentum and Coherent to enhance AI infrastructure | Network World* (2026-03-02)
+- [Intel aims advanced  Xeon 6+ at AI edge computing](https://www.networkworld.com/article/4139524/intel-aims-advanced-xeon-6-at-ai-edge-computing.html) - *Nvidia partners with optics technology vendors Lumentum and Coherent to enhance AI infrastructure | Network World* (2026-03-02)
+- [Nvidia partners with telecom providers for open 6G networks](https://www.networkworld.com/article/4139428/nvidia-partners-with-telecom-providers-for-open-6g-networks.html) - *Nvidia partners with optics technology vendors Lumentum and Coherent to enhance AI infrastructure | Network World* (2026-03-02)
 
 ## Computing
 
-- [AMD will bring its "Ryzen AI" processors to standard desktop PCs for the first time](https://arstechnica.com/gadgets/2026/03/amd-ryzen-ai-400-cpus-will-bring-upgraded-graphics-to-socket-am5-desktops/) - *Ars Technica - All content* (2026-03-02)
-- [The strange animals that control their body heat](https://arstechnica.com/science/2026/03/the-strange-animals-that-control-their-body-heat/) - *Ars Technica - All content* (2026-03-01)
-- [Trump moves to ban Anthropic from the US government](https://arstechnica.com/tech-policy/2026/02/trump-moves-to-ban-anthropic-from-the-us-government/) - *Ars Technica - All content* (2026-02-28)
-- [In puzzling outbreak, officials look to cold beer, gross ice, and ChatGPT](https://arstechnica.com/health/2026/02/did-chatgpt-help-health-officials-solve-a-weird-outbreak-maybe/) - *Ars Technica - All content* (2026-02-28)
-- [Google quantum-proofs HTTPS by squeezing 15kB of data into 700-byte space](https://arstechnica.com/security/2026/02/google-is-using-clever-math-to-quantum-proof-https-certificates/) - *Ars Technica - All content* (2026-02-28)
+- [Clueless cops post seized crypto wallet password. $5M quickly stolen.](https://arstechnica.com/tech-policy/2026/03/oops-south-korean-cops-lost-5m-in-seized-crypto-after-leaking-wallet-password/) - *Ars Technica - All content* (2026-03-02)
+- [Charter gets FCC permission to buy Cox and become largest ISP in the US](https://arstechnica.com/tech-policy/2026/03/fcc-lets-charter-buy-cox-says-no-reason-to-worry-about-higher-internet-prices/) - *Ars Technica - All content* (2026-03-02)
+- [Iowa county adopts strict zoning rules for data centers, but residents still worry](https://arstechnica.com/ai/2026/03/iowa-county-adopts-strict-zoning-rules-for-data-centers-but-residents-still-worry/) - *Ars Technica - All content* (2026-03-02)
+- [$599 M4 iPad Air is a lot like the old one, but with a substantial RAM boost](https://arstechnica.com/gadgets/2026/03/apple-keeps-the-ipad-air-fresh-with-m4-chip-upgrade-and-12gb-of-ram/) - *Ars Technica - All content* (2026-03-02)
+- [Research roundup: Six cool science stories we almost missed](https://arstechnica.com/science/2026/03/research-roundup-six-cool-science-stories-we-almost-missed/) - *Ars Technica - All content* (2026-03-02)
 
 ## AI/Models/RL
 
@@ -85,9 +87,9 @@ Automated tech news updates. Last updated: 2026-03-02 08:49:42 UTC
 
 ## AI Infra
 
+- [Building specialized AI without sacrificing intelligence: Nova Forge data mixing in action](https://aws.amazon.com/blogs/machine-learning/building-specialized-ai-without-sacrificing-intelligence-nova-forge-data-mixing-in-action/) - *Artificial Intelligence* (2026-03-02)
+- [Build a serverless conversational AI agent using Claude with LangGraph and managed MLflow on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/build-a-serverless-conversational-ai-agent-using-claude-with-langgraph-and-managed-mlflow-on-amazon-sagemaker-ai/) - *Artificial Intelligence* (2026-03-02)
+- [Build safe generative AI applications like a Pro: Best Practices with Amazon Bedrock Guardrails](https://aws.amazon.com/blogs/machine-learning/build-safe-generative-ai-applications-like-a-pro-best-practices-with-amazon-bedrock-guardrails/) - *Artificial Intelligence* (2026-03-02)
 - [Learnings from COBOL modernization in the real world](https://aws.amazon.com/blogs/machine-learning/learnings-from-cobol-modernization-in-the-real-world/) - *Artificial Intelligence* (2026-02-26)
 - [Reinforcement fine-tuning for Amazon Nova: Teaching AI through feedback](https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-for-amazon-nova-teaching-ai-through-feedback/) - *Artificial Intelligence* (2026-02-26)
-- [Large model inference container – latest capabilities and performance enhancements](https://aws.amazon.com/blogs/machine-learning/large-model-inference-container-latest-capabilities-and-performance-enhancements/) - *Artificial Intelligence* (2026-02-26)
-- [Efficiently serve dozens of fine-tuned models with vLLM on Amazon SageMaker AI and Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/efficiently-serve-dozens-of-fine-tuned-models-with-vllm-on-amazon-sagemaker-ai-and-amazon-bedrock/) - *Artificial Intelligence* (2026-02-25)
-- [Building intelligent event agents using Amazon Bedrock AgentCore and Amazon Bedrock Knowledge Bases](https://aws.amazon.com/blogs/machine-learning/building-intelligent-event-agents-using-amazon-bedrock-agentcore-and-amazon-bedrock-knowledge-bases/) - *Artificial Intelligence* (2026-02-25)
 
