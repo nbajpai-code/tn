@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-03-08 08:33:47 UTC
+Automated tech news updates. Last updated: 2026-03-09 08:48:56 UTC
 
 ## Software Architecture
 
@@ -33,6 +33,8 @@ Automated tech news updates. Last updated: 2026-03-08 08:33:47 UTC
 
 ## Security
 
+- [Web Server Exploits and Mimikatz Used in Attacks Targeting Asian Critical Infrastructure](https://thehackernews.com/2026/03/web-server-exploits-and-mimikatz-used.html) - *The Hacker News* (2026-03-09)
+- [How AI Assistants are Moving the Security Goalposts](https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/) - *Krebs on Security* (2026-03-08)
 - [OpenAI Codex Security Scanned 1.2 Million Commits and Found 10,561 High-Severity Issues](https://thehackernews.com/2026/03/openai-codex-security-scanned-12.html) - *The Hacker News* (2026-03-07)
 - [Anthropic Finds 22 Firefox Vulnerabilities Using Claude Opus 4.6 AI Model](https://thehackernews.com/2026/03/anthropic-finds-22-firefox.html) - *The Hacker News* (2026-03-07)
 - [Friday Squid Blogging: Squid in Byzantine Monk Cooking](https://www.schneier.com/blog/archives/2026/03/friday-squid-blogging-squid-in-byzantine-monk-cooking.html) - *Schneier on Security* (2026-03-06)
@@ -40,18 +42,16 @@ Automated tech news updates. Last updated: 2026-03-08 08:33:47 UTC
 - [Transparent Tribe Uses AI to Mass-Produce Malware Implants in Campaign Targeting India](https://thehackernews.com/2026/03/transparent-tribe-uses-ai-to-mass.html) - *The Hacker News* (2026-03-06)
 - [Multi-Stage VOID#GEIST Malware Delivering XWorm, AsyncRAT, and Xeno RAT](https://thehackernews.com/2026/03/multi-stage-voidgeist-malware.html) - *The Hacker News* (2026-03-06)
 - [Claude Used to Hack Mexican Government](https://www.schneier.com/blog/archives/2026/03/claude-used-to-hack-mexican-government.html) - *Schneier on Security* (2026-03-06)
-- [The MSP Guide to Using AI-Powered Risk Management to Scale Cybersecurity](https://thehackernews.com/2026/03/the-msp-guide-to-using-ai-powered-risk.html) - *The Hacker News* (2026-03-06)
 - [Israel Hacked Traffic Cameras in Iran](https://www.schneier.com/blog/archives/2026/03/israel-hacked-traffic-cameras-in-iran.html) - *Schneier on Security* (2026-03-05)
-- [Hacked App Part of US/Israeli Propaganda Campaign Against Iran](https://www.schneier.com/blog/archives/2026/03/hacked-app-part-of-us-israeli-propaganda-campaign-against-iran.html) - *Schneier on Security* (2026-03-05)
 
 ## Databases/Storage
 
+- [Radim Marek: Production Query Plans Without Production Data](https://postgr.es/p/7uw) - *Planet PostgreSQL* (2026-03-08)
 - [Bruce Momjian: New Presentation](https://postgr.es/p/7uu) - *Planet PostgreSQL* (2026-03-07)
 - [Gabriele Bartolini: From proposal to PR: how to contribute to the new CloudNativePG extensions project](https://postgr.es/p/7us) - *Planet PostgreSQL* (2026-03-07)
 - [Automating Amazon RDS backup and maintenance windows for Daylight Saving Time shifts](https://aws.amazon.com/blogs/database/automating-amazon-rds-backup-and-maintenance-windows-for-daylight-saving-time-shifts/) - *AWS Database Blog* (2026-03-06)
 - [Shaun Thomas: Using Patroni to Build a Highly Available Postgres Cluster—Part 1: etcd](https://postgr.es/p/7uq) - *Planet PostgreSQL* (2026-03-06)
-- [warda bibi: How PostgreSQL Scans Your Data](https://postgr.es/p/7uo) - *Planet PostgreSQL* (2026-03-05)
-- [Zhang Chen: Inside the Kernel: The Complete Path to PostgreSQL Delete Recovery — From FPW to Data Resurrection](https://postgr.es/p/7ut) - *Planet PostgreSQL* (2026-03-05)
+- [Andreas Scherbaum: PostgreSQL Berlin March 2026 Meetup](https://postgr.es/p/7uv) - *Planet PostgreSQL* (2026-03-05)
 - [Set up and troubleshoot IAM database authentication in AWS DMS](https://aws.amazon.com/blogs/database/set-up-and-troubleshoot-iam-database-authentication-in-aws-dms/) - *AWS Database Blog* (2026-03-02)
 - [Inside MongoDB Dublin: The Heart of Our International Growth](https://www.mongodb.com/company/blog/culture/inside-mongodb-dublin-the-heart-of-our-international-growth) - *MongoDB | Blog* (2026-02-27)
 - [Towards Model-based Verification of a Key-Value Storage Engine](https://www.mongodb.com/company/blog/engineering/towards-model-based-verification-key-value-storage-engine) - *MongoDB | Blog* (2026-02-27)
@@ -67,21 +67,21 @@ Automated tech news updates. Last updated: 2026-03-08 08:33:47 UTC
 
 ## Computing
 
+- [Jessica Jones joins the fray in Daredevil: Born Again trailer](https://arstechnica.com/culture/2026/03/jessica-jones-joins-the-fray-in-daredevil-born-again-trailer/) - *Ars Technica - All content* (2026-03-08)
+- [Tiny, long-armed dinosaur leads to rethink of dinosaur miniaturization](https://arstechnica.com/science/2026/03/tiny-long-armed-dinosaur-leads-to-rethink-of-dinosaur-miniaturization/) - *Ars Technica - All content* (2026-03-08)
 - [Hunting for elusive "ghost elephants"](https://arstechnica.com/science/2026/03/hunting-for-elusive-ghost-elephants/) - *Ars Technica - All content* (2026-03-07)
 - [A unicorn-like Spinosaurus found in the Sahara](https://arstechnica.com/science/2026/03/a-unicorn-like-spinosaurus-found-in-the-sahara/) - *Ars Technica - All content* (2026-03-07)
 - [From Iran to Ukraine, everyone's trying to hack security cameras](https://arstechnica.com/security/2026/03/from-iran-to-ukraine-everyones-trying-to-hack-security-cameras/) - *Ars Technica - All content* (2026-03-07)
-- [Ding-dong! The Exploration Upper Stage is dead](https://arstechnica.com/space/2026/03/ding-dong-the-exploration-upper-stage-is-dead/) - *Ars Technica - All content* (2026-03-06)
-- [Satellite firm pauses imagery after revealing Iran's attacks on US bases](https://arstechnica.com/space/2026/03/satellite-firm-pauses-imagery-after-revealing-irans-attacks-on-us-bases/) - *Ars Technica - All content* (2026-03-06)
 
 ## AI/Models/RL
 
 - [WAXAL: A large-scale open resource for African language speech technology](https://research.google/blog/waxal-a-large-scale-open-resource-for-african-language-speech-technology/) - *The latest research from Google* (2026-03-06)
 - [Where wild things roam: Identifying wildlife with SpeciesNet](https://research.google/blog/where-wild-things-roam-identifying-wildlife-with-speciesnet/) - *The latest research from Google* (2026-03-06)
-- [Codex Security: now in research preview](https://openai.com/index/codex-security-now-in-research-preview) - *OpenAI News* (2026-03-06)
 - [How Descript enables multilingual video dubbing at scale](https://openai.com/index/descript) - *OpenAI News* (2026-03-06)
+- [Codex Security: now in research preview](https://openai.com/index/codex-security-now-in-research-preview) - *OpenAI News* (2026-03-06)
 - [How Balyasny Asset Management built an AI research engine for investing](https://openai.com/index/balyasny-asset-management) - *OpenAI News* (2026-03-06)
 - [Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations](https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms) - *Hugging Face - Blog* (2026-03-05)
-- [Introducing GPT-5.4](https://openai.com/index/introducing-gpt-5-4) - *OpenAI News* (2026-03-05)
+- [GPT-5.4 Thinking System Card](https://openai.com/index/gpt-5-4-thinking-system-card) - *OpenAI News* (2026-03-05)
 - [Reasoning models struggle to control their chains of thought, and that’s good](https://openai.com/index/reasoning-models-chain-of-thought-controllability) - *OpenAI News* (2026-03-05)
 - [Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines](https://huggingface.co/blog/modular-diffusers) - *Hugging Face - Blog* (2026-03-05)
 - [Teaching LLMs to reason like Bayesians](https://research.google/blog/teaching-llms-to-reason-like-bayesians/) - *The latest research from Google* (2026-03-04)
