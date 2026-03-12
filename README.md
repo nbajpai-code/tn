@@ -1,12 +1,12 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-03-11 08:43:23 UTC
+Automated tech news updates. Last updated: 2026-03-12 08:45:43 UTC
 
 ## Software Architecture
 
 - [Presentation: 4 Patterns of AI Native Development](https://www.infoq.com/presentations/patterns-ai-native-development/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-03-09)
 - [Podcast: Mindful Leadership in the Age of AI](https://www.infoq.com/podcasts/mindful-leadership/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-03-09)
-- [Architecting for Global Scale: Inside DoorDash’s Unified, Composable Dasher Onboarding Platform](https://www.infoq.com/news/2026/03/doordash-dasherglobal-onboarding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-03-06)
+- [Architecting for Global Scale: inside DoorDash’s Unified, Composable Dasher Onboarding Platform](https://www.infoq.com/news/2026/03/doordash-dasherglobal-onboarding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-03-06)
 - [OpenAI Secures AWS Distribution for Frontier Platform in $110B Multi-Cloud Deal](https://www.infoq.com/news/2026/03/openai-aws-frontier-stateful/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-03-06)
 - [Article: Read-Copy-Update (RCU): the Secret to Lock-Free Performance](https://www.infoq.com/articles/read-copy-update/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-03-06)
 
@@ -33,64 +33,64 @@ Automated tech news updates. Last updated: 2026-03-11 08:43:23 UTC
 
 ## Security
 
-- [UNC6426 Exploits nx npm Supply-Chain Attack to Gain AWS Admin Access in 72 Hours](https://thehackernews.com/2026/03/unc6426-exploits-nx-npm-supply-chain.html) - *The Hacker News* (2026-03-11)
-- [Five Malicious Rust Crates and AI Bot Exploit CI/CD Pipelines to Steal Developer Secrets](https://thehackernews.com/2026/03/five-malicious-rust-crates-and-ai-bot.html) - *The Hacker News* (2026-03-11)
+- [CISA Flags Actively Exploited n8n RCE Bug as 24,700 Instances Remain Exposed](https://thehackernews.com/2026/03/cisa-flags-actively-exploited-n8n-rce.html) - *The Hacker News* (2026-03-12)
+- [Researchers Trick Perplexity's Comet AI Browser Into Phishing Scam in Under Four Minutes](https://thehackernews.com/2026/03/researchers-trick-perplexitys-comet-ai.html) - *The Hacker News* (2026-03-11)
+- [Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker](https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/) - *Krebs on Security* (2026-03-11)
+- [Critical n8n Flaws Allow Remote Code Execution and Exposure of Stored Credentials](https://thehackernews.com/2026/03/critical-n8n-flaws-allow-remote-code.html) - *The Hacker News* (2026-03-11)
+- [Meta Disables 150K Accounts Linked to Southeast Asia Scam Centers in Global Crackdown](https://thehackernews.com/2026/03/meta-disables-150k-accounts-linked-to.html) - *The Hacker News* (2026-03-11)
+- [Dozens of Vendors Patch Security Flaws Across Enterprise Software and Network Devices](https://thehackernews.com/2026/03/dozens-of-vendors-patch-security-flaws.html) - *The Hacker News* (2026-03-11)
+- [Canada Needs Nationalized, Public AI](https://www.schneier.com/blog/archives/2026/03/canada-needs-nationalized-public-ai.html) - *Schneier on Security* (2026-03-11)
 - [Microsoft Patch Tuesday, March 2026 Edition](https://krebsonsecurity.com/2026/03/microsoft-patch-tuesday-march-2026-edition/) - *Krebs on Security* (2026-03-11)
-- [FortiGate Devices Exploited to Breach Networks and Steal Service Account Credentials](https://thehackernews.com/2026/03/fortigate-devices-exploited-to-breach.html) - *The Hacker News* (2026-03-10)
-- [How to Stop AI Data Leaks: A Webinar Guide to Auditing Modern Agentic Workflows](https://thehackernews.com/2026/03/how-to-stop-ai-data-leaks-webinar-guide.html) - *The Hacker News* (2026-03-10)
-- [KadNap Malware Infects 14,000+ Edge Devices to Power Stealth Proxy Botnet](https://thehackernews.com/2026/03/kadnap-malware-infects-14000-edge.html) - *The Hacker News* (2026-03-10)
 - [Jailbreaking the F-35 Fighter Jet](https://www.schneier.com/blog/archives/2026/03/jailbreaking-the-f-35-fighter-jet.html) - *Schneier on Security* (2026-03-10)
 - [New Attack Against Wi-Fi](https://www.schneier.com/blog/archives/2026/03/new-attack-against-wi-fi.html) - *Schneier on Security* (2026-03-09)
-- [How AI Assistants are Moving the Security Goalposts](https://krebsonsecurity.com/2026/03/how-ai-assistants-are-moving-the-security-goalposts/) - *Krebs on Security* (2026-03-08)
-- [Friday Squid Blogging: Squid in Byzantine Monk Cooking](https://www.schneier.com/blog/archives/2026/03/friday-squid-blogging-squid-in-byzantine-monk-cooking.html) - *Schneier on Security* (2026-03-06)
 
 ## Databases/Storage
 
+- [gabrielle roth: SCaLE23x](https://postgr.es/p/7uL) - *Planet PostgreSQL* (2026-03-12)
+- [Migrate Cloud SQL for MySQL to Amazon Aurora and Amazon RDS for MySQL Using AWS DMS](https://aws.amazon.com/blogs/database/migrate-cloud-sql-for-mysql-to-amazon-aurora-and-amazon-rds-for-mysql-using-aws-dms/) - *AWS Database Blog* (2026-03-11)
+- [A Look Ahead at Azure Cosmos DB Conf 2026: From AI Agents to Global Scale](https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-conf-2026-preview/) - *Azure Cosmos DB Blog* (2026-03-11)
+- [Bruce Momjian: The MySQL Shadow](https://postgr.es/p/7uJ) - *Planet PostgreSQL* (2026-03-11)
+- [Vibhor Kumar: Beyond Features: What a PostgreSQL Strategy Discussion Taught Me About Calm, Modern Platforms](https://postgr.es/p/7uI) - *Planet PostgreSQL* (2026-03-11)
 - [Lukas Fittl: The Dilemma of the ‘AI DBA’](https://postgr.es/p/7uG) - *Planet PostgreSQL* (2026-03-11)
-- [Virender Singla: The Part of PostgreSQL We Discuss the Most — 2](https://postgr.es/p/7uC) - *Planet PostgreSQL* (2026-03-10)
-- [Virender Singla: The Part of PostgreSQL We Discuss the Most — 1](https://postgr.es/p/7uD) - *Planet PostgreSQL* (2026-03-10)
-- [Floor Drees: Shaping SQL in São Paulo](https://postgr.es/p/7uE) - *Planet PostgreSQL* (2026-03-10)
-- [Andrew Dunstan: Validating the shape of your JSON data](https://postgr.es/p/7uB) - *Planet PostgreSQL* (2026-03-10)
+- [Lætitia AVROT: work_mem: it's a trap!](https://postgr.es/p/7uH) - *Planet PostgreSQL* (2026-03-11)
 - [From bottlenecks to breakthroughs: Dutchie’s database migration journey](https://aws.amazon.com/blogs/database/from-bottlenecks-to-breakthroughs-dutchies-database-migration-journey/) - *AWS Database Blog* (2026-03-09)
 - [Automating Amazon RDS backup and maintenance windows for Daylight Saving Time shifts](https://aws.amazon.com/blogs/database/automating-amazon-rds-backup-and-maintenance-windows-for-daylight-saving-time-shifts/) - *AWS Database Blog* (2026-03-06)
 - [Set up and troubleshoot IAM database authentication in AWS DMS](https://aws.amazon.com/blogs/database/set-up-and-troubleshoot-iam-database-authentication-in-aws-dms/) - *AWS Database Blog* (2026-03-02)
-- [Inside MongoDB Dublin: The Heart of Our International Growth](https://www.mongodb.com/company/blog/culture/inside-mongodb-dublin-the-heart-of-our-international-growth) - *MongoDB | Blog* (2026-02-27)
-- [Towards Model-based Verification of a Key-Value Storage Engine](https://www.mongodb.com/company/blog/engineering/towards-model-based-verification-key-value-storage-engine) - *MongoDB | Blog* (2026-02-27)
 
 ## Networking
 
-- [Eridu exits stealth with $200M to rebuild AI networking](https://www.networkworld.com/article/4143119/eridu-exits-stealth-with-200m-to-rebuild-ai-networking.html) - *Eridu exits stealth with $200M to rebuild AI networking  | Network World* (2026-03-10)
-- [2026 network outage report and internet health check](https://www.networkworld.com/article/4113326/2026-network-outage-report-and-internet-health-check.html) - *Eridu exits stealth with $200M to rebuild AI networking  | Network World* (2026-03-10)
-- [Cisco blends Splunk analytics, security with core data center management](https://www.networkworld.com/article/4142676/cisco-blends-splunk-analytics-security-with-core-data-center-management.html) - *Eridu exits stealth with $200M to rebuild AI networking  | Network World* (2026-03-10)
-- [Cisco: Latest news and insights](https://www.networkworld.com/article/3523958/cisco-latest-news-and-insights.html) - *Eridu exits stealth with $200M to rebuild AI networking  | Network World* (2026-03-10)
-- [HPE’s server and storage prices can change after you place an order](https://www.networkworld.com/article/4142928/hpes-server-and-storage-prices-can-change-after-you-place-an-order.html) - *Eridu exits stealth with $200M to rebuild AI networking  | Network World* (2026-03-10)
+- [F5 brings new visibility and AI controls to Big-IP, NGINX](https://www.networkworld.com/article/4143922/f5-brings-new-visibility-and-ai-controls-to-big-ip-nginx.html) - *F5 brings new visibility and AI controls to Big-IP, NGINX  | Network World* (2026-03-11)
+- [Datalec targets rapid infrastructure deployment with new modular data centers](https://www.networkworld.com/article/4143908/datalec-targets-rapid-infrastructure-deployment-with-new-modular-data-centers.html) - *F5 brings new visibility and AI controls to Big-IP, NGINX  | Network World* (2026-03-11)
+- [Study finds significant savings from direct current power for AI workloads](https://www.networkworld.com/article/4143898/study-finds-significant-savings-from-direct-current-power-for-ai-workloads.html) - *F5 brings new visibility and AI controls to Big-IP, NGINX  | Network World* (2026-03-11)
+- [Tech layoffs surpass 45,000 in early 2026](https://www.networkworld.com/article/4143749/tech-layoffs-surpass-45000-in-early-2026.html) - *F5 brings new visibility and AI controls to Big-IP, NGINX  | Network World* (2026-03-11)
+- [Eridu exits stealth with $200M to rebuild AI networking](https://www.networkworld.com/article/4143119/eridu-exits-stealth-with-200m-to-rebuild-ai-networking.html) - *F5 brings new visibility and AI controls to Big-IP, NGINX  | Network World* (2026-03-10)
 
 ## Computing
 
-- [Reentry of NASA satellite will exceed the agency's own risk guidelines](https://arstechnica.com/space/2026/03/nasa-approved-a-safety-waiver-for-this-weeks-reentry-of-van-allen-probe/) - *Ars Technica - All content* (2026-03-10)
-- [FDA contradicts Trump admin, declines to approve generic drug for autism](https://arstechnica.com/health/2026/03/fda-contradicts-trump-admin-declines-to-approve-generic-drug-for-autism/) - *Ars Technica - All content* (2026-03-10)
-- [AI can rewrite open source code—but can it rewrite the license, too?](https://arstechnica.com/ai/2026/03/ai-can-rewrite-open-source-code-but-can-it-rewrite-the-license-too/) - *Ars Technica - All content* (2026-03-10)
-- [Meta acquires Moltbook, the AI agent social network](https://arstechnica.com/ai/2026/03/meta-acquires-moltbook-the-ai-agent-social-network/) - *Ars Technica - All content* (2026-03-10)
-- [After complaints, Google will make it easier to disable gen AI search in Photos](https://arstechnica.com/ai/2026/03/google-backtracks-on-ai-search-in-photos-adds-toggle-for-fast-classic-search/) - *Ars Technica - All content* (2026-03-10)
+- [Google Play Games for PC is getting more premium titles and cross-buy with Android](https://arstechnica.com/gaming/2026/03/google-play-games-for-pc-is-getting-more-premium-titles-and-cross-buy-with-android/) - *Ars Technica - All content* (2026-03-11)
+- [Report: RFK Jr.’s anti-vaccine agenda curbed as GOP realizes it's unpopular](https://arstechnica.com/health/2026/03/report-trump-admin-trying-to-rein-in-rfk-jr-s-unpopular-anti-vaccine-agenda/) - *Ars Technica - All content* (2026-03-11)
+- [FCC chair blasts Amazon after it criticizes SpaceX megaconstellation](https://arstechnica.com/space/2026/03/fcc-chair-blasts-amazon-after-it-criticizes-spacex-megaconstellation/) - *Ars Technica - All content* (2026-03-11)
+- [14,000 routers are infected by malware that's highly resistant to takedowns](https://arstechnica.com/security/2026/03/14000-routers-are-infected-by-malware-thats-highly-resistant-to-takedowns/) - *Ars Technica - All content* (2026-03-11)
+- [Explain it like I'm 5: Why is everyone on speakerphone in public?](https://arstechnica.com/culture/2026/03/explain-it-like-im-5-why-is-everyone-on-speakerphone-in-public/) - *Ars Technica - All content* (2026-03-11)
 
 ## AI/Models/RL
 
-- [How NVIDIA Builds Open Data for AI](https://huggingface.co/blog/nvidia/open-data-for-ai) - *Hugging Face - Blog* (2026-03-10)
+- [How NVIDIA AI-Q Reached \#1 on DeepResearch Bench I and II](https://huggingface.co/blog/nvidia/how-nvidia-won-deepresearch-bench) - *Hugging Face - Blog* (2026-03-12)
+- [Exploring the feasibility of conversational diagnostic AI in a real-world clinical study](https://research.google/blog/exploring-the-feasibility-of-conversational-diagnostic-ai-in-a-real-world-clinical-study/) - *The latest research from Google* (2026-03-11)
+- [Rakuten fixes issues twice as fast with Codex](https://openai.com/index/rakuten) - *OpenAI News* (2026-03-11)
+- [Designing AI agents to resist prompt injection](https://openai.com/index/designing-agents-to-resist-prompt-injection) - *OpenAI News* (2026-03-11)
+- [Wayfair boosts catalog accuracy and support speed with OpenAI](https://openai.com/index/wayfair) - *OpenAI News* (2026-03-11)
+- [From model to agent: Equipping the Responses API with a computer environment](https://openai.com/index/equip-responses-api-computer-environment) - *OpenAI News* (2026-03-11)
 - [Improving instruction hierarchy in frontier LLMs](https://openai.com/index/instruction-hierarchy-challenge) - *OpenAI News* (2026-03-10)
-- [New ways to learn math and science in ChatGPT](https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt) - *OpenAI News* (2026-03-10)
 - [Introducing Storage Buckets on the Hugging Face Hub](https://huggingface.co/blog/storage-buckets) - *Hugging Face - Blog* (2026-03-10)
 - [Keep the Tokens Flowing: Lessons from 16 Open-Source RL Libraries](https://huggingface.co/blog/async-rl-training-landscape) - *Hugging Face - Blog* (2026-03-10)
 - [Granite 4.0 1B Speech: Compact, Multilingual, and Built for the Edge](https://huggingface.co/blog/ibm-granite/granite-4-speech) - *Hugging Face - Blog* (2026-03-09)
-- [From games to biology and beyond: 10 years of AlphaGo’s impact](https://deepmind.google/blog/10-years-of-alphago/) - *Google DeepMind News* (2026-03-09)
-- [OpenAI to acquire Promptfoo](https://openai.com/index/openai-to-acquire-promptfoo) - *OpenAI News* (2026-03-09)
-- [Ulysses Sequence Parallelism: Training with Million-Token Contexts](https://huggingface.co/blog/ulysses-sp) - *Hugging Face - Blog* (2026-03-09)
-- [WAXAL: A large-scale open resource for African language speech technology](https://research.google/blog/waxal-a-large-scale-open-resource-for-african-language-speech-technology/) - *The latest research from Google* (2026-03-06)
 
 ## AI Infra
 
+- [Operationalizing Agentic AI Part 1: A Stakeholder’s Guide](https://aws.amazon.com/blogs/machine-learning/operationalizing-agentic-ai-part-1-a-stakeholders-guide/) - *Artificial Intelligence* (2026-03-11)
 - [Accelerate custom LLM deployment: Fine-tune with Oumi and deploy to Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/accelerate-custom-llm-deployment-fine-tune-with-oumi-and-deploy-to-amazon-bedrock/) - *Artificial Intelligence* (2026-03-10)
 - [Run NVIDIA Nemotron 3 Nano as a fully managed serverless model on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/run-nvidia-nemotron-3-nano-as-a-fully-managed-serverless-model-on-amazon-bedrock/) - *Artificial Intelligence* (2026-03-09)
 - [Access Anthropic Claude models in India on Amazon Bedrock with Global cross-Region inference](https://aws.amazon.com/blogs/machine-learning/access-anthropic-claude-models-in-india-on-amazon-bedrock-with-global-cross-region-inference/) - *Artificial Intelligence* (2026-03-09)
 - [Drive organizational growth with Amazon Lex multi-developer CI/CD pipeline](https://aws.amazon.com/blogs/machine-learning/drive-organizational-growth-with-amazon-lex-multi-developer-ci-cd-pipeline/) - *Artificial Intelligence* (2026-03-05)
-- [Building custom model provider for Strands Agents with LLMs hosted on SageMaker AI endpoints](https://aws.amazon.com/blogs/machine-learning/building-custom-model-provider-for-strands-agents-with-llms-hosted-on-sagemaker-ai-endpoints/) - *Artificial Intelligence* (2026-03-05)
 
