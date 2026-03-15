@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-03-14 08:37:28 UTC
+Automated tech news updates. Last updated: 2026-03-15 08:39:03 UTC
 
 ## Software Architecture
 
@@ -33,16 +33,16 @@ Automated tech news updates. Last updated: 2026-03-14 08:37:28 UTC
 
 ## Security
 
+- [OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration](https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html) - *The Hacker News* (2026-03-14)
+- [Upcoming Speaking Engagements](https://www.schneier.com/blog/archives/2026/03/upcoming-speaking-engagements-54.html) - *Schneier on Security* (2026-03-14)
+- [GlassWorm Supply-Chain Attack Abuses 72 Open VSX Extensions to Target Developers](https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html) - *The Hacker News* (2026-03-14)
 - [Friday Squid Blogging: Increased Squid Population in the Falklands](https://www.schneier.com/blog/archives/2026/03/friday-squid-blogging-increased-squid-population-in-the-falklands.html) - *Schneier on Security* (2026-03-13)
 - [Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware](https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html) - *The Hacker News* (2026-03-13)
 - [Meta to Shut Down Instagram End-to-End Encrypted Chat Support Starting May 2026](https://thehackernews.com/2026/03/meta-to-shut-down-instagram-end-to-end.html) - *The Hacker News* (2026-03-13)
 - [INTERPOL Dismantles 45,000 Malicious IPs, Arrests 94 in Global Cybercrime](https://thehackernews.com/2026/03/interpol-dismantles-45000-malicious-ips.html) - *The Hacker News* (2026-03-13)
-- [Storm-2561 Spreads Trojan VPN Clients via SEO Poisoning to Steal Credentials](https://thehackernews.com/2026/03/storm-2561-spreads-trojan-vpn-clients.html) - *The Hacker News* (2026-03-13)
-- [Investigating a New Click-Fix Variant](https://thehackernews.com/2026/03/investigating-new-click-fix-variant.html) - *The Hacker News* (2026-03-13)
 - [Academia and the “AI Brain Drain”](https://www.schneier.com/blog/archives/2026/03/academia-and-the-ai-brain-drain.html) - *Schneier on Security* (2026-03-13)
 - [iPhones and iPads Approved for NATO Classified Data](https://www.schneier.com/blog/archives/2026/03/iphones-and-ipads-approved-for-nato-classified-data.html) - *Schneier on Security* (2026-03-12)
 - [Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker](https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/) - *Krebs on Security* (2026-03-11)
-- [Canada Needs Nationalized, Public AI](https://www.schneier.com/blog/archives/2026/03/canada-needs-nationalized-public-ai.html) - *Schneier on Security* (2026-03-11)
 
 ## Databases/Storage
 
@@ -81,8 +81,8 @@ Automated tech news updates. Last updated: 2026-03-14 08:37:28 UTC
 - [Exploring the feasibility of conversational diagnostic AI in a real-world clinical study](https://research.google/blog/exploring-the-feasibility-of-conversational-diagnostic-ai-in-a-real-world-clinical-study/) - *The latest research from Google* (2026-03-11)
 - [Rakuten fixes issues twice as fast with Codex](https://openai.com/index/rakuten) - *OpenAI News* (2026-03-11)
 - [Designing AI agents to resist prompt injection](https://openai.com/index/designing-agents-to-resist-prompt-injection) - *OpenAI News* (2026-03-11)
-- [From model to agent: Equipping the Responses API with a computer environment](https://openai.com/index/equip-responses-api-computer-environment) - *OpenAI News* (2026-03-11)
 - [Wayfair boosts catalog accuracy and support speed with OpenAI](https://openai.com/index/wayfair) - *OpenAI News* (2026-03-11)
+- [From model to agent: Equipping the Responses API with a computer environment](https://openai.com/index/equip-responses-api-computer-environment) - *OpenAI News* (2026-03-11)
 - [Improving instruction hierarchy in frontier LLMs](https://openai.com/index/instruction-hierarchy-challenge) - *OpenAI News* (2026-03-10)
 - [Introducing Storage Buckets on the Hugging Face Hub](https://huggingface.co/blog/storage-buckets) - *Hugging Face - Blog* (2026-03-10)
 
