@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-03-15 08:39:03 UTC
+Automated tech news updates. Last updated: 2026-03-16 08:58:48 UTC
 
 ## Software Architecture
 
@@ -33,24 +33,24 @@ Automated tech news updates. Last updated: 2026-03-15 08:39:03 UTC
 
 ## Security
 
+- [Android 17 Blocks Non-Accessibility Apps from Accessibility API to Prevent Malware Abuse](https://thehackernews.com/2026/03/android-17-blocks-non-accessibility.html) - *The Hacker News* (2026-03-16)
 - [OpenClaw AI Agent Flaws Could Enable Prompt Injection and Data Exfiltration](https://thehackernews.com/2026/03/openclaw-ai-agent-flaws-could-enable.html) - *The Hacker News* (2026-03-14)
 - [Upcoming Speaking Engagements](https://www.schneier.com/blog/archives/2026/03/upcoming-speaking-engagements-54.html) - *Schneier on Security* (2026-03-14)
 - [GlassWorm Supply-Chain Attack Abuses 72 Open VSX Extensions to Target Developers](https://thehackernews.com/2026/03/glassworm-supply-chain-attack-abuses-72.html) - *The Hacker News* (2026-03-14)
 - [Friday Squid Blogging: Increased Squid Population in the Falklands](https://www.schneier.com/blog/archives/2026/03/friday-squid-blogging-increased-squid-population-in-the-falklands.html) - *Schneier on Security* (2026-03-13)
 - [Chinese Hackers Target Southeast Asian Militaries with AppleChris and MemFun Malware](https://thehackernews.com/2026/03/chinese-hackers-target-southeast-asian.html) - *The Hacker News* (2026-03-13)
 - [Meta to Shut Down Instagram End-to-End Encrypted Chat Support Starting May 2026](https://thehackernews.com/2026/03/meta-to-shut-down-instagram-end-to-end.html) - *The Hacker News* (2026-03-13)
-- [INTERPOL Dismantles 45,000 Malicious IPs, Arrests 94 in Global Cybercrime](https://thehackernews.com/2026/03/interpol-dismantles-45000-malicious-ips.html) - *The Hacker News* (2026-03-13)
 - [Academia and the “AI Brain Drain”](https://www.schneier.com/blog/archives/2026/03/academia-and-the-ai-brain-drain.html) - *Schneier on Security* (2026-03-13)
 - [iPhones and iPads Approved for NATO Classified Data](https://www.schneier.com/blog/archives/2026/03/iphones-and-ipads-approved-for-nato-classified-data.html) - *Schneier on Security* (2026-03-12)
 - [Iran-Backed Hackers Claim Wiper Attack on Medtech Firm Stryker](https://krebsonsecurity.com/2026/03/iran-backed-hackers-claim-wiper-attack-on-medtech-firm-stryker/) - *Krebs on Security* (2026-03-11)
 
 ## Databases/Storage
 
+- [Cornelia Biacsics: Contributions for week 10, 2026](https://postgr.es/p/7uV) - *Planet PostgreSQL* (2026-03-16)
+- [Pavel Luzanov: PostgreSQL 19: part 4 or CommitFest 2026-01](https://postgr.es/p/7uU) - *Planet PostgreSQL* (2026-03-16)
 - [Ashutosh Bapat: Professional karma](https://postgr.es/p/7uT) - *Planet PostgreSQL* (2026-03-14)
 - [Shane Borden: More Obscure Things That Make It Go “Vacuum” in PostgreSQL](https://postgr.es/p/7uS) - *Planet PostgreSQL* (2026-03-13)
 - [Shaun Thomas: Using Patroni to Build a Highly Available Postgres Cluster—Part 2: Postgres and Patroni](https://postgr.es/p/7uR) - *Planet PostgreSQL* (2026-03-13)
-- [Deepak Mahto: PGConf India 2026: PostgreSQL Query Tuning: A Foundation Every Database Developer Should Build](https://postgr.es/p/7uP) - *Planet PostgreSQL* (2026-03-13)
-- [Pavel Luzanov: PostgreSQL 19: part 3 or CommitFest 2025-11](https://postgr.es/p/7uQ) - *Planet PostgreSQL* (2026-03-13)
 - [Migrate Cloud SQL for MySQL to Amazon Aurora and Amazon RDS for MySQL Using AWS DMS](https://aws.amazon.com/blogs/database/migrate-cloud-sql-for-mysql-to-amazon-aurora-and-amazon-rds-for-mysql-using-aws-dms/) - *AWS Database Blog* (2026-03-11)
 - [A Look Ahead at Azure Cosmos DB Conf 2026: From AI Agents to Global Scale](https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-conf-2026-preview/) - *Azure Cosmos DB Blog* (2026-03-11)
 - [From bottlenecks to breakthroughs: Dutchie’s database migration journey](https://aws.amazon.com/blogs/database/from-bottlenecks-to-breakthroughs-dutchies-database-migration-journey/) - *AWS Database Blog* (2026-03-09)
@@ -67,11 +67,11 @@ Automated tech news updates. Last updated: 2026-03-15 08:39:03 UTC
 
 ## Computing
 
+- [An engineering thesis disguised as a coupe: A history of the Honda Prelude](https://arstechnica.com/cars/2026/03/an-engineering-thesis-disguised-as-a-coupe-a-history-of-the-honda-prelude/) - *Ars Technica - All content* (2026-03-15)
 - [Staff complain that xAI is flailing because of constant upheaval](https://arstechnica.com/ai/2026/03/staff-complain-that-xai-is-flailing-because-of-constant-upheaval/) - *Ars Technica - All content* (2026-03-14)
 - [NASA officials sidestepped questions on Artemis II risks—there's a reason why](https://arstechnica.com/space/2026/03/flying-to-the-moon-for-the-first-time-in-54-years-is-risky-but-how-risky/) - *Ars Technica - All content* (2026-03-14)
 - [Woman sneezes out maggots after fly larvae get trapped in her deviated septum](https://arstechnica.com/health/2026/03/woman-sneezes-out-maggots-after-fly-larvae-get-trapped-in-her-deviated-septum/) - *Ars Technica - All content* (2026-03-13)
 - [Slay the Spire 2 is a bit too familiar for its own good](https://arstechnica.com/gaming/2026/03/slay-the-spire-2-is-a-bit-too-familiar-for-its-own-good/) - *Ars Technica - All content* (2026-03-13)
-- [Figuring out why AIs get flummoxed by some games](https://arstechnica.com/ai/2026/03/figuring-out-why-ais-get-flummoxed-by-some-games/) - *Ars Technica - All content* (2026-03-13)
 
 ## AI/Models/RL
 
@@ -81,8 +81,8 @@ Automated tech news updates. Last updated: 2026-03-15 08:39:03 UTC
 - [Exploring the feasibility of conversational diagnostic AI in a real-world clinical study](https://research.google/blog/exploring-the-feasibility-of-conversational-diagnostic-ai-in-a-real-world-clinical-study/) - *The latest research from Google* (2026-03-11)
 - [Rakuten fixes issues twice as fast with Codex](https://openai.com/index/rakuten) - *OpenAI News* (2026-03-11)
 - [Designing AI agents to resist prompt injection](https://openai.com/index/designing-agents-to-resist-prompt-injection) - *OpenAI News* (2026-03-11)
-- [Wayfair boosts catalog accuracy and support speed with OpenAI](https://openai.com/index/wayfair) - *OpenAI News* (2026-03-11)
 - [From model to agent: Equipping the Responses API with a computer environment](https://openai.com/index/equip-responses-api-computer-environment) - *OpenAI News* (2026-03-11)
+- [Wayfair boosts catalog accuracy and support speed with OpenAI](https://openai.com/index/wayfair) - *OpenAI News* (2026-03-11)
 - [Improving instruction hierarchy in frontier LLMs](https://openai.com/index/instruction-hierarchy-challenge) - *OpenAI News* (2026-03-10)
 - [Introducing Storage Buckets on the Hugging Face Hub](https://huggingface.co/blog/storage-buckets) - *Hugging Face - Blog* (2026-03-10)
 
