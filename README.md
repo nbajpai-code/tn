@@ -1,14 +1,14 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-03-21 08:35:30 UTC
+Automated tech news updates. Last updated: 2026-03-22 08:36:48 UTC
 
 ## Software Architecture
 
+- [Presentation: Platform Engineering as a Practice of Sociotechnical Excellence](https://www.infoq.com/presentations/platform-engineering-sociotechnical/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-03-20)
 - [Article: Configuration as a Control Plane: Designing for Safety and Reliability at Scale](https://www.infoq.com/articles/configuration-control-plane/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-03-20)
 - [War in Iran Damages Multiple AWS Data Centers, Challenging Multi-AZ Assumptions](https://www.infoq.com/news/2026/03/aws-multiaz-conflict-outage/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-03-18)
 - [Article: Evaluating AI Agents in Practice: Benchmarks, Frameworks, and Lessons Learned](https://www.infoq.com/articles/evaluating-ai-agents-lessons-learned/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-03-16)
 - [Podcast: Andres Almiray on How to Release Any Software to Any OS with JReleaser](https://www.infoq.com/podcasts/release-software-jreleaser/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-03-16)
-- [DoorDash Builds LLM Conversation Simulator to Test Customer Support Chatbots at Scale](https://www.infoq.com/news/2026/03/doordash-llm-chatbot-simulator/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-03-13)
 
 ## Cloud Computing
 
@@ -33,25 +33,25 @@ Automated tech news updates. Last updated: 2026-03-21 08:35:30 UTC
 
 ## Security
 
+- [FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks](https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html) - *The Hacker News* (2026-03-21)
+- [Oracle Patches Critical CVE-2026-21992 Enabling Unauthenticated RCE in Identity Manager](https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html) - *The Hacker News* (2026-03-21)
 - [Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages](https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html) - *The Hacker News* (2026-03-21)
+- [CISA Flags Apple, Craft CMS, Laravel Bugs in KEV, Orders Patching by April 3, 2026](https://thehackernews.com/2026/03/cisa-flags-apple-craft-cms-laravel-bugs.html) - *The Hacker News* (2026-03-21)
 - [Friday Squid Blogging: Jumbo Flying Squid in the South Pacific](https://www.schneier.com/blog/archives/2026/03/friday-squid-blogging-jumbo-flying-squid-in-the-south-pacific.html) - *Schneier on Security* (2026-03-20)
 - [Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets](https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html) - *The Hacker News* (2026-03-20)
-- [Critical Langflow Flaw CVE-2026-33017 Triggers Attacks within 20 Hours of Disclosure](https://thehackernews.com/2026/03/critical-langflow-flaw-cve-2026-33017.html) - *The Hacker News* (2026-03-20)
 - [Proton Mail Shared User Information with the Police](https://www.schneier.com/blog/archives/2026/03/proton-mail-shared-user-information-with-the-police.html) - *Schneier on Security* (2026-03-20)
-- [Google Adds 24-Hour Wait for Unverified App Sideloading to Reduce Malware and Scams](https://thehackernews.com/2026/03/google-adds-24-hour-wait-for-unverified.html) - *The Hacker News* (2026-03-20)
-- [The Importance of Behavioral Analytics in AI-Enabled Cyber Attacks](https://thehackernews.com/2026/03/the-importance-of-behavioral-analytics.html) - *The Hacker News* (2026-03-20)
 - [Feds Disrupt IoT Botnets Behind Huge DDoS Attacks](https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/) - *Krebs on Security* (2026-03-20)
 - [Hacking a Robot Vacuum](https://www.schneier.com/blog/archives/2026/03/hacking-a-robot-vacuum.html) - *Schneier on Security* (2026-03-19)
 - [Meta’s AI Glasses and Privacy](https://www.schneier.com/blog/archives/2026/03/metas-ai-glasses-and-privacy.html) - *Schneier on Security* (2026-03-18)
 
 ## Databases/Storage
 
+- [Radim Marek: pg_regresql: truly portable PostgreSQL statistics](https://postgr.es/p/7vW) - *Planet PostgreSQL* (2026-03-21)
+- [Deepak Mahto: PostgreSQL Sequence Reset: START WITH vs RESTART WITH vs SETVAL Explained](https://postgr.es/p/7vV) - *Planet PostgreSQL* (2026-03-21)
 - [David Wheeler: pg_clickhouse 0.1.5](https://postgr.es/p/7vU) - *Planet PostgreSQL* (2026-03-20)
 - [Shaun Thomas: Using Patroni to Build a Highly Available Postgres Cluster—Part 3: HAProxy](https://postgr.es/p/7vT) - *Planet PostgreSQL* (2026-03-20)
 - [Henrietta Dombrovskaya: Prairie Postgres March Meetup](https://postgr.es/p/7vS) - *Planet PostgreSQL* (2026-03-19)
 - [Synchronizing a Backup on-premises Db2 Server with Amazon RDS for Db2](https://aws.amazon.com/blogs/database/synchronizing-a-backup-on-premises-db2-server-with-amazon-rds-for-db2/) - *AWS Database Blog* (2026-03-19)
-- [Vibhor Kumar: PostgreSQL HA Without SSH: Why Open Source efm_extension Matters in a Zero-Trust World](https://postgr.es/p/7vm) - *Planet PostgreSQL* (2026-03-19)
-- [Hubert 'depesz' Lubaczewski: Waiting for PostgreSQL 19 – Introduce the REPACK command](https://postgr.es/p/7vl) - *Planet PostgreSQL* (2026-03-19)
 - [Automated parameter and option group change monitoring in Amazon RDS and Amazon Aurora](https://aws.amazon.com/blogs/database/automated-parameter-and-option-group-change-monitoring-in-amazon-rds-and-amazon-aurora/) - *AWS Database Blog* (2026-03-18)
 - [Introducing the Azure Cosmos DB Plugin for Cursor](https://devblogs.microsoft.com/cosmosdb/introducing-the-azure-cosmos-db-plugin-for-cursor/) - *Azure Cosmos DB Blog* (2026-03-17)
 - [Enhance Your In-IDE Data Browsing Experience With MongoDB](https://www.mongodb.com/company/blog/technical/enhance-your-in-ide-data-browsing-experience-with-mongodb) - *MongoDB | Blog* (2026-03-17)
@@ -67,11 +67,11 @@ Automated tech news updates. Last updated: 2026-03-21 08:35:30 UTC
 
 ## Computing
 
+- [We keep finding the raw material of DNA in asteroids—what's it telling us?](https://arstechnica.com/science/2026/03/we-keep-finding-the-raw-material-of-dna-in-asteroids-whats-it-telling-us/) - *Ars Technica - All content* (2026-03-21)
+- [DOGE goes nuclear: How Trump invited Silicon Valley into America’s nuclear power regulator](https://arstechnica.com/science/2026/03/doge-goes-nuclear-how-trump-invited-silicon-valley-into-americas-nuclear-power-regulator/) - *Ars Technica - All content* (2026-03-21)
 - [Jury finds Musk owes damages to Twitter investors for his tweets](https://arstechnica.com/tech-policy/2026/03/jury-agrees-that-musks-tweets-during-twitter-takeover-constituted-fraud/) - *Ars Technica - All content* (2026-03-20)
 - [You're likely already infected with a brain-eating virus you've never heard of](https://arstechnica.com/health/2026/03/youre-likely-already-infected-with-a-brain-eating-virus-youve-never-heard-of/) - *Ars Technica - All content* (2026-03-20)
 - [Once again, ULA can't deliver when the US military needs a satellite in orbit](https://arstechnica.com/space/2026/03/spacex-swipes-yet-another-military-contract-from-united-launch-alliance/) - *Ars Technica - All content* (2026-03-20)
-- [Microsoft keeps insisting that it's deeply committed to the quality of Windows 11](https://arstechnica.com/gadgets/2026/03/microsoft-keeps-insisting-that-its-deeply-committed-to-the-quality-of-windows-11/) - *Ars Technica - All content* (2026-03-20)
-- [Writer denies it, but publisher pulls horror novel after multiple allegations of AI use](https://arstechnica.com/ai/2026/03/hachette-pulls-shy-girl-horror-novel-after-concerns-about-ai-use/) - *Ars Technica - All content* (2026-03-20)
 
 ## AI/Models/RL
 
