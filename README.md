@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-03-22 08:36:48 UTC
+Automated tech news updates. Last updated: 2026-03-23 08:58:29 UTC
 
 ## Software Architecture
 
@@ -20,25 +20,25 @@ Automated tech news updates. Last updated: 2026-03-22 08:36:48 UTC
 
 ## Kubernetes
 
+- [Beyond Batch: Volcano Evolves into the AI-Native Unified Scheduling Platform](https://www.cncf.io/blog/2026/03/23/beyond-batch-volcano-evolves-into-the-ai-native-unified-scheduling-platform/) - *Blog – Cloud Native Computing Foundation* (2026-03-23)
+- [Metal3 at KubeCon + CloudNativeCon Europe 2026: Meet the CNCF’s Freshly Incubated Bare Metal Project](https://www.cncf.io/blog/2026/03/23/metal3-at-kubecon-cloudnativecon-europe-2026-meet-the-cncfs-freshly-incubated-bare-metal-project/) - *Blog – Cloud Native Computing Foundation* (2026-03-23)
+- [CNCF Introduces a New Recertification Program as Kubestronaut Community Surpasses 3,500](https://www.cncf.io/blog/2026/03/23/cncf-introduces-a-new-recertification-program-as-kubestronaut-community-surpasses-3500/) - *Blog – Cloud Native Computing Foundation* (2026-03-23)
+- [Agones Moves to the CNCF: A New Era for Open Source Multiplayer Game Infrastructure](https://www.cncf.io/blog/2026/03/23/agones-moves-to-the-cncf-a-new-era-for-open-source-multiplayer-game-infrastructure/) - *Blog – Cloud Native Computing Foundation* (2026-03-23)
 - [Announcing Ingress2Gateway 1.0: Your Path to Gateway API](https://kubernetes.io/blog/2026/03/20/ingress2gateway-1-0-release/) - *Kubernetes Blog* (2026-03-20)
 - [Running Agents on Kubernetes with Agent Sandbox](https://kubernetes.io/blog/2026/03/20/running-agents-on-kubernetes-with-agent-sandbox/) - *Kubernetes Blog* (2026-03-20)
-- [Your Merge Forward guide to KubeCon + CloudNativeCon Amsterdam](https://www.cncf.io/blog/2026/03/20/your-merge-forward-guide-to-kubecon-cloudnativecon-amsterdam/) - *Blog – Cloud Native Computing Foundation* (2026-03-20)
 - [Crossplane and AI: The case for API-first infrastructure](https://www.cncf.io/blog/2026/03/20/crossplane-and-ai-the-case-for-api-first-infrastructure/) - *Blog – Cloud Native Computing Foundation* (2026-03-20)
-- [KubeCon + CloudNativeCon EU 2026: End User TAB recommendations and tips](https://www.cncf.io/blog/2026/03/20/kubecon-cloudnativecon-eu-2026-end-user-tab-recommendations-and-tips/) - *Blog – Cloud Native Computing Foundation* (2026-03-20)
-- [KubeCon + CloudNativeCon Europe 2026 Co-located Event Deep Dive: Platform Engineering Day](https://www.cncf.io/blog/2026/03/19/kubecon-cloudnativecon-europe-2026-co-located-event-deep-dive-platform-engineering-day/) - *Blog – Cloud Native Computing Foundation* (2026-03-19)
-- [Policy-as-Code: Flexible Kubernetes governance with Kyverno](https://www.cncf.io/blog/2026/03/19/policy-as-code-flexible-kubernetes-governance-with-kyverno/) - *Blog – Cloud Native Computing Foundation* (2026-03-19)
 - [Securing Production Debugging in Kubernetes](https://kubernetes.io/blog/2026/03/18/securing-production-debugging-in-kubernetes/) - *Kubernetes Blog* (2026-03-18)
 - [The Invisible Rewrite: Modernizing the Kubernetes Image Promoter](https://kubernetes.io/blog/2026/03/17/image-promoter-rewrite/) - *Kubernetes Blog* (2026-03-17)
 - [Announcing the AI Gateway Working Group](https://kubernetes.io/blog/2026/03/09/announcing-ai-gateway-wg/) - *Kubernetes Blog* (2026-03-09)
 
 ## Security
 
+- [Hackers Exploit CVE-2025-32975 (CVSS 10.0) to Hijack Unpatched Quest KACE SMA Systems](https://thehackernews.com/2026/03/hackers-exploit-cve-2025-32975-cvss-100.html) - *The Hacker News* (2026-03-23)
 - [FBI Warns Russian Hackers Target Signal, WhatsApp in Mass Phishing Attacks](https://thehackernews.com/2026/03/fbi-warns-russian-hackers-target-signal.html) - *The Hacker News* (2026-03-21)
 - [Oracle Patches Critical CVE-2026-21992 Enabling Unauthenticated RCE in Identity Manager](https://thehackernews.com/2026/03/oracle-patches-critical-cve-2026-21992.html) - *The Hacker News* (2026-03-21)
 - [Trivy Supply Chain Attack Triggers Self-Spreading CanisterWorm Across 47 npm Packages](https://thehackernews.com/2026/03/trivy-supply-chain-attack-triggers-self.html) - *The Hacker News* (2026-03-21)
 - [CISA Flags Apple, Craft CMS, Laravel Bugs in KEV, Orders Patching by April 3, 2026](https://thehackernews.com/2026/03/cisa-flags-apple-craft-cms-laravel-bugs.html) - *The Hacker News* (2026-03-21)
 - [Friday Squid Blogging: Jumbo Flying Squid in the South Pacific](https://www.schneier.com/blog/archives/2026/03/friday-squid-blogging-jumbo-flying-squid-in-the-south-pacific.html) - *Schneier on Security* (2026-03-20)
-- [Trivy Security Scanner GitHub Actions Breached, 75 Tags Hijacked to Steal CI/CD Secrets](https://thehackernews.com/2026/03/trivy-security-scanner-github-actions.html) - *The Hacker News* (2026-03-20)
 - [Proton Mail Shared User Information with the Police](https://www.schneier.com/blog/archives/2026/03/proton-mail-shared-user-information-with-the-police.html) - *Schneier on Security* (2026-03-20)
 - [Feds Disrupt IoT Botnets Behind Huge DDoS Attacks](https://krebsonsecurity.com/2026/03/feds-disrupt-iot-botnets-behind-huge-ddos-attacks/) - *Krebs on Security* (2026-03-20)
 - [Hacking a Robot Vacuum](https://www.schneier.com/blog/archives/2026/03/hacking-a-robot-vacuum.html) - *Schneier on Security* (2026-03-19)
@@ -46,11 +46,11 @@ Automated tech news updates. Last updated: 2026-03-22 08:36:48 UTC
 
 ## Databases/Storage
 
+- [Cornelia Biacsics: Contributions for week 11, 2026](https://postgr.es/p/7vY) - *Planet PostgreSQL* (2026-03-23)
+- [Hubert 'depesz' Lubaczewski: Waiting for PostgreSQL 19 – Add pg_plan_advice contrib module.](https://postgr.es/p/7vX) - *Planet PostgreSQL* (2026-03-22)
 - [Radim Marek: pg_regresql: truly portable PostgreSQL statistics](https://postgr.es/p/7vW) - *Planet PostgreSQL* (2026-03-21)
 - [Deepak Mahto: PostgreSQL Sequence Reset: START WITH vs RESTART WITH vs SETVAL Explained](https://postgr.es/p/7vV) - *Planet PostgreSQL* (2026-03-21)
 - [David Wheeler: pg_clickhouse 0.1.5](https://postgr.es/p/7vU) - *Planet PostgreSQL* (2026-03-20)
-- [Shaun Thomas: Using Patroni to Build a Highly Available Postgres Cluster—Part 3: HAProxy](https://postgr.es/p/7vT) - *Planet PostgreSQL* (2026-03-20)
-- [Henrietta Dombrovskaya: Prairie Postgres March Meetup](https://postgr.es/p/7vS) - *Planet PostgreSQL* (2026-03-19)
 - [Synchronizing a Backup on-premises Db2 Server with Amazon RDS for Db2](https://aws.amazon.com/blogs/database/synchronizing-a-backup-on-premises-db2-server-with-amazon-rds-for-db2/) - *AWS Database Blog* (2026-03-19)
 - [Automated parameter and option group change monitoring in Amazon RDS and Amazon Aurora](https://aws.amazon.com/blogs/database/automated-parameter-and-option-group-change-monitoring-in-amazon-rds-and-amazon-aurora/) - *AWS Database Blog* (2026-03-18)
 - [Introducing the Azure Cosmos DB Plugin for Cursor](https://devblogs.microsoft.com/cosmosdb/introducing-the-azure-cosmos-db-plugin-for-cursor/) - *Azure Cosmos DB Blog* (2026-03-17)
@@ -67,11 +67,11 @@ Automated tech news updates. Last updated: 2026-03-22 08:36:48 UTC
 
 ## Computing
 
+- [There can (still) be only one: Highlander is 40](https://arstechnica.com/culture/2026/03/there-can-still-be-only-one-highlander-is-40/) - *Ars Technica - All content* (2026-03-22)
+- [Mining the deep ocean](https://arstechnica.com/science/2026/03/mining-the-deep-ocean/) - *Ars Technica - All content* (2026-03-22)
 - [We keep finding the raw material of DNA in asteroids—what's it telling us?](https://arstechnica.com/science/2026/03/we-keep-finding-the-raw-material-of-dna-in-asteroids-whats-it-telling-us/) - *Ars Technica - All content* (2026-03-21)
 - [DOGE goes nuclear: How Trump invited Silicon Valley into America’s nuclear power regulator](https://arstechnica.com/science/2026/03/doge-goes-nuclear-how-trump-invited-silicon-valley-into-americas-nuclear-power-regulator/) - *Ars Technica - All content* (2026-03-21)
 - [Jury finds Musk owes damages to Twitter investors for his tweets](https://arstechnica.com/tech-policy/2026/03/jury-agrees-that-musks-tweets-during-twitter-takeover-constituted-fraud/) - *Ars Technica - All content* (2026-03-20)
-- [You're likely already infected with a brain-eating virus you've never heard of](https://arstechnica.com/health/2026/03/youre-likely-already-infected-with-a-brain-eating-virus-youve-never-heard-of/) - *Ars Technica - All content* (2026-03-20)
-- [Once again, ULA can't deliver when the US military needs a satellite in orbit](https://arstechnica.com/space/2026/03/spacex-swipes-yet-another-military-contract-from-united-launch-alliance/) - *Ars Technica - All content* (2026-03-20)
 
 ## AI/Models/RL
 
