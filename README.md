@@ -1,14 +1,14 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-03-27 08:55:37 UTC
+Automated tech news updates. Last updated: 2026-03-28 08:41:24 UTC
 
 ## Software Architecture
 
+- [Presentation: Security and Architecture: To Betray One Is To Destroy Both](https://www.infoq.com/presentations/security-architecture-systemic-vulnerabilities/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-03-27)
+- [Article: Architecting Autonomy at Scale: Raising Teams Without Creating Dependencies](https://www.infoq.com/articles/architecting-autonomy-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-03-27)
 - [Article: Architectural Governance at AI Speed](https://www.infoq.com/articles/architectural-governance-ai-speed/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-03-26)
 - [Podcast: [Video Podcast] Agentic Systems Without Chaos: Early Operating Models for Autonomous Agents](https://www.infoq.com/podcasts/agentic-systems-without-chaos/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-03-25)
 - [Article: Architecting Portable Systems on Open Standards for Digital Sovereignty](https://www.infoq.com/articles/portable-systems-sovereignty/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-03-23)
-- [Presentation: Data Mesh in Action: A Journey From Ideation to Implementation](https://www.infoq.com/presentations/data-mesh-horse-powertrain/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-03-23)
-- [Presentation: Platform Engineering as a Practice of Sociotechnical Excellence](https://www.infoq.com/presentations/platform-engineering-sociotechnical/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-03-20)
 
 ## Cloud Computing
 
@@ -20,11 +20,11 @@ Automated tech news updates. Last updated: 2026-03-27 08:55:37 UTC
 
 ## Kubernetes
 
+- [The weight of AI models: Why infrastructure always arrives slowly](https://www.cncf.io/blog/2026/03/27/the-weight-of-ai-models-why-infrastructure-always-arrives-slowly/) - *Blog – Cloud Native Computing Foundation* (2026-03-27)
 - [The platform under the model: How cloud native powers AI engineering in production](https://www.cncf.io/blog/2026/03/26/the-platform-under-the-model-how-cloud-native-powers-ai-engineering-in-production/) - *Blog – Cloud Native Computing Foundation* (2026-03-26)
 - [Announcing Kubescape 4.0 Enterprise Stability Meets the AI Era](https://www.cncf.io/blog/2026/03/26/announcing-kubescape-4-0-enterprise-stability-meets-the-ai-era/) - *Blog – Cloud Native Computing Foundation* (2026-03-26)
 - [Higress Joins CNCF: Delivering an enterprise-grade AI gateway and a seamless path from Nginx Ingress](https://www.cncf.io/blog/2026/03/25/higress-joins-cncf-delivering-an-enterprise-grade-ai-gateway-and-a-seamless-path-from-nginx-ingress/) - *Blog – Cloud Native Computing Foundation* (2026-03-25)
 - [Announcing the release of KubeVirt v1.8](https://www.cncf.io/blog/2026/03/25/announcing-the-release-of-kubevirt-v1-8/) - *Blog – Cloud Native Computing Foundation* (2026-03-25)
-- [Lima v2.1: macOS guests and enhanced AI agent safety](https://www.cncf.io/blog/2026/03/25/lima-v2-1-macos-guests-and-enhanced-ai-agent-safety/) - *Blog – Cloud Native Computing Foundation* (2026-03-25)
 - [Announcing Ingress2Gateway 1.0: Your Path to Gateway API](https://kubernetes.io/blog/2026/03/20/ingress2gateway-1-0-release/) - *Kubernetes Blog* (2026-03-20)
 - [Running Agents on Kubernetes with Agent Sandbox](https://kubernetes.io/blog/2026/03/20/running-agents-on-kubernetes-with-agent-sandbox/) - *Kubernetes Blog* (2026-03-20)
 - [Securing Production Debugging in Kubernetes](https://kubernetes.io/blog/2026/03/18/securing-production-debugging-in-kubernetes/) - *Kubernetes Blog* (2026-03-18)
@@ -33,25 +33,25 @@ Automated tech news updates. Last updated: 2026-03-27 08:55:37 UTC
 
 ## Security
 
-- [LangChain, LangGraph Flaws Expose Files, Secrets, Databases in Widely Used AI Frameworks](https://thehackernews.com/2026/03/langchain-langgraph-flaws-expose-files.html) - *The Hacker News* (2026-03-27)
-- [China-Linked Red Menshen Uses Stealthy BPFDoor Implants to Spy via Telecom Networks](https://thehackernews.com/2026/03/china-linked-red-menshen-uses-stealthy.html) - *The Hacker News* (2026-03-26)
-- [[Webinar] Stop Guessing. Learn to Validate Your Defenses Against Real Attacks](https://thehackernews.com/2026/03/webinar-stop-guessing-learn-to-validate.html) - *The Hacker News* (2026-03-26)
-- [Claude Extension Flaw Enabled Zero-Click XSS Prompt Injection via Any Website](https://thehackernews.com/2026/03/claude-extension-flaw-enabled-zero.html) - *The Hacker News* (2026-03-26)
-- [Masters of Imitation: How Hackers and Art Forgers Perfect the Art of Deception](https://thehackernews.com/2026/03/masters-of-imitation-how-hackers-and.html) - *The Hacker News* (2026-03-26)
+- [TA446 Deploys DarkSword iOS Exploit Kit in Targeted Spear-Phishing Campaign](https://thehackernews.com/2026/03/ta446-deploys-leaked-darksword-ios.html) - *The Hacker News* (2026-03-28)
+- [CISA Adds CVE-2025-53521 to KEV After Active F5 BIG-IP APM Exploitation](https://thehackernews.com/2026/03/cisa-adds-cve-2025-53521-to-kev-after.html) - *The Hacker News* (2026-03-28)
+- [Friday Squid Blogging: Bioluminescent Bacteria in Squid](https://www.schneier.com/blog/archives/2026/03/friday-squid-blogging-bioluminescent-bacteria-in-squid.html) - *Schneier on Security* (2026-03-27)
+- [Apple Sends Lock Screen Alerts to Outdated iPhones Over Active Web-Based Exploits](https://thehackernews.com/2026/03/apple-sends-lock-screen-alerts-to.html) - *The Hacker News* (2026-03-27)
+- [TeamPCP Pushes Malicious Telnyx Versions to PyPI, Hides Stealer in WAV Files](https://thehackernews.com/2026/03/teampcp-pushes-malicious-telnyx.html) - *The Hacker News* (2026-03-27)
+- [Open VSX Bug Let Malicious VS Code Extensions Bypass Pre-Publish Security Checks](https://thehackernews.com/2026/03/open-vsx-bug-let-malicious-vs-code.html) - *The Hacker News* (2026-03-27)
 - [As the US Midterms Approach, AI Is Going to Emerge as a Key Issue Concerning Voters](https://www.schneier.com/blog/archives/2026/03/as-the-us-midterms-approach-ai-is-going-to-emerge-as-a-key-issue-concerning-voters.html) - *Schneier on Security* (2026-03-26)
 - [Sen. Wyden Warns of Another Section 702 Abuse](https://www.schneier.com/blog/archives/2026/03/sen-wyden-warns-of-another-section-702-abuse.html) - *Schneier on Security* (2026-03-25)
 - [Team Mirai and Democracy](https://www.schneier.com/blog/archives/2026/03/team-mirai-and-democracy.html) - *Schneier on Security* (2026-03-24)
 - [‘CanisterWorm’ Springs Wiper Attack Targeting Iran](https://krebsonsecurity.com/2026/03/canisterworm-springs-wiper-attack-targeting-iran/) - *Krebs on Security* (2026-03-23)
-- [Microsoft Xbox One Hacked](https://www.schneier.com/blog/archives/2026/03/microsoft-xbox-hacked.html) - *Schneier on Security* (2026-03-23)
 
 ## Databases/Storage
 
+- [Cornelia Biacsics: My First Self-Organized PostgreSQL Meetup in Vienna](https://postgr.es/p/7wm) - *Planet PostgreSQL* (2026-03-27)
+- [Shaun Thomas: PG Phriday: Absorbing the Load](https://postgr.es/p/7wl) - *Planet PostgreSQL* (2026-03-27)
 - [Deepak Mahto: Oracle & SQL Server to PostgreSQL – Migration Tooling Gotchas No One Warns You About!](https://postgr.es/p/7wk) - *Planet PostgreSQL* (2026-03-26)
 - [AWS positioned highest in execution in the latest Gartner Magic Quadrant for Cloud Database Management Systems](https://aws.amazon.com/blogs/database/aws-positioned-highest-in-execution-in-the-latest-gartner-magic-quadrant-for-cloud-database-management-systems/) - *AWS Database Blog* (2026-03-26)
 - [Hubert 'depesz' Lubaczewski: Waiting for PostgreSQL 19 – Add support for EXCEPT TABLE in ALTER PUBLICATION.](https://postgr.es/p/7wi) - *Planet PostgreSQL* (2026-03-26)
 - [Jeremy Schneider: Database Schema Migrations in 2026 – Survey](https://postgr.es/p/7wh) - *Planet PostgreSQL* (2026-03-26)
-- [Rhys Stewart: From Triggers to Training: Automating Network Design in Three Levels](https://postgr.es/p/7wg) - *Planet PostgreSQL* (2026-03-25)
-- [Devrim GÜNDÜZ: Announcing openSUSE Leap 16.0 Support in the PostgreSQL RPM Repository](https://postgr.es/p/7wf) - *Planet PostgreSQL* (2026-03-25)
 - [Automatically scale storage for Amazon RDS Multi-AZ DB clusters using AWS Lambda](https://aws.amazon.com/blogs/database/automatically-scale-storage-for-amazon-rds-multi-az-db-clusters-using-aws-lambda/) - *AWS Database Blog* (2026-03-24)
 - [Synchronizing a Backup on-premises Db2 Server with Amazon RDS for Db2](https://aws.amazon.com/blogs/database/synchronizing-a-backup-on-premises-db2-server-with-amazon-rds-for-db2/) - *AWS Database Blog* (2026-03-19)
 - [Automated parameter and option group change monitoring in Amazon RDS and Amazon Aurora](https://aws.amazon.com/blogs/database/automated-parameter-and-option-group-change-monitoring-in-amazon-rds-and-amazon-aurora/) - *AWS Database Blog* (2026-03-18)
@@ -59,22 +59,23 @@ Automated tech news updates. Last updated: 2026-03-27 08:55:37 UTC
 
 ## Networking
 
-- [Intel: Latest news and insights](https://www.networkworld.com/article/4021442/intel-latest-news-and-insights.html) - *Intel: Latest news and insights | Network World* (2026-03-26)
-- [Network jobs watch: Hiring, skills and certification trends](https://www.networkworld.com/article/2093749/network-jobs-watch-hiring-skills-and-certification-trends.html) - *Intel: Latest news and insights | Network World* (2026-03-26)
-- [Data center poaching adds to staffing crisis](https://www.networkworld.com/article/4150619/data-center-poaching-adds-to-staffing-crisis.html) - *Intel: Latest news and insights | Network World* (2026-03-26)
-- [Arm shifts course, moves into silicon business](https://www.networkworld.com/article/4150759/arm-shifts-course-moves-into-silicon-business.html) - *Intel: Latest news and insights | Network World* (2026-03-26)
-- [AI’s need for speed, optical connectivity in focus at OFC 2026](https://www.networkworld.com/article/4150229/ais-need-for-speed-optical-connectivity-in-focus-at-ofc-2026.html) - *Intel: Latest news and insights | Network World* (2026-03-26)
+- [European Commission data stolen in a cyberattack on the infrastructure hosting its web sites](https://www.networkworld.com/article/4151383/european-commission-data-stolen-in-a-cyberattack-on-the-infrastructure-hosting-its-web-sites-2.html) - *European Commission data stolen in a cyberattack on the infrastructure hosting its web sites  | Network World* (2026-03-27)
+- [Equinix launches AI platform to simplify control of distributed AI resources](https://www.networkworld.com/article/4151372/equinix-launches-ai-platform-to-simplify-control-of-distributed-ai-resources.html) - *European Commission data stolen in a cyberattack on the infrastructure hosting its web sites  | Network World* (2026-03-27)
+- [Return of the PTT: Poste Italiane looks to snap up telco TIM](https://www.networkworld.com/article/4151324/return-of-the-ptt-poste-italiane-looks-to-snap-up-telco-tim.html) - *European Commission data stolen in a cyberattack on the infrastructure hosting its web sites  | Network World* (2026-03-27)
+- [Networking terms and definitions](https://www.networkworld.com/article/970224/networking-terms-and-definitions.html) - *European Commission data stolen in a cyberattack on the infrastructure hosting its web sites  | Network World* (2026-03-27)
+- [Intel: Latest news and insights](https://www.networkworld.com/article/4021442/intel-latest-news-and-insights.html) - *European Commission data stolen in a cyberattack on the infrastructure hosting its web sites  | Network World* (2026-03-26)
 
 ## Computing
 
-- [Elon Musk loses big in court; X boycott perfectly legal](https://arstechnica.com/tech-policy/2026/03/elon-musk-loses-big-in-court-x-boycott-perfectly-legal/) - *Ars Technica - All content* (2026-03-26)
-- [Spotify seeks $300M from Anna's Archive, which ignores all court proceedings](https://arstechnica.com/tech-policy/2026/03/spotify-lawsuit-tries-to-kick-annas-archive-off-the-web-without-much-success/) - *Ars Technica - All content* (2026-03-26)
-- [Internet Yiff Machine: We hacked 93GB of "anonymous" crime tips](https://arstechnica.com/security/2026/03/internet-yiff-machine-we-hacked-93gb-of-anonymous-crime-tips/) - *Ars Technica - All content* (2026-03-26)
-- [As RFK Jr.’s anti-vaccine ways turn toxic to GOP, CDC director is hard to find](https://arstechnica.com/health/2026/03/as-rfk-jr-s-anti-vaccine-ways-turn-toxic-to-gop-cdc-director-is-hard-to-find/) - *Ars Technica - All content* (2026-03-26)
-- [Netflix raises prices for every subscription tier by up to 12.5 percent](https://arstechnica.com/gadgets/2026/03/netflix-increases-prices-for-all-plans-by-up-to-2-per-month/) - *Ars Technica - All content* (2026-03-26)
+- [Playing Wolfenstein 3D with one hand in 2026](https://arstechnica.com/gaming/2026/03/playing-wolfenstein-3d-with-one-hand-in-2026/) - *Ars Technica - All content* (2026-03-27)
+- [With new plugins feature, OpenAI officially takes Codex beyond coding](https://arstechnica.com/ai/2026/03/openai-brings-plugins-to-codex-closing-some-of-the-gap-with-claude-code/) - *Ars Technica - All content* (2026-03-27)
+- [Outbreak linked to raw cheese grows; 9 cases total, one with kidney failure](https://arstechnica.com/health/2026/03/kidney-failure-case-reported-in-raw-cheese-outbreak-maker-still-denies-link/) - *Ars Technica - All content* (2026-03-27)
+- [Judge irate as defendant joins by Zoom while driving—then lies about it](https://arstechnica.com/tech-policy/2026/03/judge-irate-as-defendant-joins-by-zoom-while-driving-then-lies-about-it/) - *Ars Technica - All content* (2026-03-27)
+- [AV1’s open, royalty-free promise in question as Dolby sues Snapchat over codec](https://arstechnica.com/gadgets/2026/03/av1s-open-royalty-free-promise-in-question-as-dolby-sues-snapchat-over-codec/) - *Ars Technica - All content* (2026-03-27)
 
 ## AI/Models/RL
 
+- [STADLER reshapes knowledge work at a 230-year-old company](https://openai.com/index/stadler) - *OpenAI News* (2026-03-27)
 - [Gemini 3.1 Flash Live: Making audio AI more natural and reliable](https://deepmind.google/blog/gemini-3-1-flash-live-making-audio-ai-more-natural-and-reliable/) - *Google DeepMind News* (2026-03-26)
 - [Protecting people from harmful manipulation](https://deepmind.google/blog/protecting-people-from-harmful-manipulation/) - *Google DeepMind News* (2026-03-25)
 - [Lyria 3 Pro: Create longer tracks in more](https://deepmind.google/blog/lyria-3-pro-create-longer-tracks-in-more/) - *Google DeepMind News* (2026-03-25)
@@ -84,7 +85,6 @@ Automated tech news updates. Last updated: 2026-03-27 08:55:37 UTC
 - [TurboQuant: Redefining AI efficiency with extreme compression](https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/) - *The latest research from Google* (2026-03-24)
 - [Mapping the modern world: How S2Vec learns the language of our cities](https://research.google/blog/mapping-the-modern-world-how-s2vec-learns-the-language-of-our-cities/) - *The latest research from Google* (2026-03-24)
 - [Helping developers build safer AI experiences for teens](https://openai.com/index/teen-safety-policies-gpt-oss-safeguard) - *OpenAI News* (2026-03-24)
-- [Update on the OpenAI Foundation](https://openai.com/index/update-on-the-openai-foundation) - *OpenAI News* (2026-03-24)
 
 ## AI Infra
 
