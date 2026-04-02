@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-04-01 09:06:49 UTC
+Automated tech news updates. Last updated: 2026-04-02 08:59:11 UTC
 
 ## Software Architecture
 
@@ -12,11 +12,11 @@ Automated tech news updates. Last updated: 2026-04-01 09:06:49 UTC
 
 ## Cloud Computing
 
+- [Automate safety monitoring with computer vision and generative AI](https://aws.amazon.com/blogs/architecture/automate-safety-monitoring-with-computer-vision-and-generative-ai/) - *AWS Architecture Blog* (2026-04-01)
 - [Streamlining access to powerful disaster recovery capabilities of AWS](https://aws.amazon.com/blogs/architecture/streamlining-access-to-powerful-disaster-recovery-capabilities-of-aws/) - *AWS Architecture Blog* (2026-03-31)
 - [How Aigen transformed agricultural robotics for sustainable farming with Amazon SageMaker AI](https://aws.amazon.com/blogs/architecture/how-aigen-transformed-agricultural-robotics-for-sustainable-farming-with-amazon-sagemaker-ai/) - *AWS Architecture Blog* (2026-03-30)
 - [Architecting for agentic AI development on AWS](https://aws.amazon.com/blogs/architecture/architecting-for-agentic-ai-development-on-aws/) - *AWS Architecture Blog* (2026-03-26)
 - [How Generali Malaysia optimizes operations with Amazon EKS](https://aws.amazon.com/blogs/architecture/how-generali-malaysia-optimizes-operations-with-amazon-eks/) - *AWS Architecture Blog* (2026-03-23)
-- [AI-powered event response for Amazon EKS](https://aws.amazon.com/blogs/architecture/ai-powered-event-response-for-amazon-eks/) - *AWS Architecture Blog* (2026-03-18)
 
 ## Kubernetes
 
@@ -33,48 +33,49 @@ Automated tech news updates. Last updated: 2026-04-01 09:06:49 UTC
 
 ## Security
 
-- [Google Attributes Axios npm Supply Chain Attack to North Korean Group UNC1069](https://thehackernews.com/2026/04/google-attributes-axios-npm-supply.html) - *The Hacker News* (2026-04-01)
-- [Claude Code Source Leaked via npm Packaging Error, Anthropic Confirms](https://thehackernews.com/2026/04/claude-code-tleaked-via-npm-packaging.html) - *The Hacker News* (2026-04-01)
-- [Android Developer Verification Rollout Begins Ahead of September Enforcement](https://thehackernews.com/2026/03/android-developer-verification-rollout.html) - *The Hacker News* (2026-03-31)
-- [TrueConf Zero-Day Exploited in Attacks on Southeast Asian Government Networks](https://thehackernews.com/2026/03/trueconf-zero-day-exploited-in-attacks.html) - *The Hacker News* (2026-03-31)
-- [Vertex AI Vulnerability Exposes Google Cloud Data and Private Artifacts](https://thehackernews.com/2026/03/vertex-ai-vulnerability-exposes-google.html) - *The Hacker News* (2026-03-31)
+- [Apple Expands iOS 18.7.7 Update to More Devices to Block DarkSword Exploit](https://thehackernews.com/2026/04/apple-expands-ios-1877-update-to-more.html) - *The Hacker News* (2026-04-02)
+- [Is “Hackback” Official US Cybersecurity Strategy?](https://www.schneier.com/blog/archives/2026/04/is-hackback-official-us-cybersecurity-strategy.html) - *Schneier on Security* (2026-04-01)
+- [CERT-UA Impersonation Campaign Spread AGEWHEEZE Malware to 1 Million Emails](https://thehackernews.com/2026/04/cert-ua-impersonation-campaign-spread.html) - *The Hacker News* (2026-04-01)
+- [Microsoft Warns of WhatsApp-Delivered VBS Malware Hijacking Windows via UAC Bypass](https://thehackernews.com/2026/04/microsoft-warns-of-whatsapp-delivered.html) - *The Hacker News* (2026-04-01)
+- [Block the Prompt, Not the Work: The End of "Doctor No"](https://thehackernews.com/2026/04/block-prompt-not-work-end-of-doctor-no.html) - *The Hacker News* (2026-04-01)
+- [Casbaneiro Phishing Targets Latin America and Europe Using Dynamic PDF Lures](https://thehackernews.com/2026/04/casbaneiro-phishing-targets-latin.html) - *The Hacker News* (2026-04-01)
+- [A Taxonomy of Cognitive Security](https://www.schneier.com/blog/archives/2026/04/a-taxonomy-of-cognitive-security.html) - *Schneier on Security* (2026-04-01)
 - [Inventors of Quantum Cryptography Win Turing Award](https://www.schneier.com/blog/archives/2026/03/inventors-of-quantum-cryptography-win-turing-award.html) - *Schneier on Security* (2026-03-31)
 - [Apple’s Camera Indicator Lights](https://www.schneier.com/blog/archives/2026/03/apples-camera-indicator-lights.html) - *Schneier on Security* (2026-03-30)
 - [Friday Squid Blogging: Bioluminescent Bacteria in Squid](https://www.schneier.com/blog/archives/2026/03/friday-squid-blogging-bioluminescent-bacteria-in-squid.html) - *Schneier on Security* (2026-03-27)
-- [As the US Midterms Approach, AI Is Going to Emerge as a Key Issue Concerning Voters](https://www.schneier.com/blog/archives/2026/03/as-the-us-midterms-approach-ai-is-going-to-emerge-as-a-key-issue-concerning-voters.html) - *Schneier on Security* (2026-03-26)
-- [Sen. Wyden Warns of Another Section 702 Abuse](https://www.schneier.com/blog/archives/2026/03/sen-wyden-warns-of-another-section-702-abuse.html) - *Schneier on Security* (2026-03-25)
 
 ## Databases/Storage
 
+- [Vibhor Kumar: pg_background v1.9: a calmer, more practical way to run SQL in the background](https://postgr.es/p/7wA) - *Planet PostgreSQL* (2026-04-01)
+- [Migrating to Amazon ElastiCache for Valkey: Best practices and a customer success story](https://aws.amazon.com/blogs/database/migrating-to-amazon-elasticache-for-valkey-best-practices-and-a-customer-success-story/) - *AWS Database Blog* (2026-04-01)
+- [Antony Pegg: Replicating CrystalDBA With pgEdge MCP Server Custom Tools](https://postgr.es/p/7wz) - *Planet PostgreSQL* (2026-04-01)
 - [Augment DMS SC with Amazon Q Developer for code conversion and test case generation](https://aws.amazon.com/blogs/database/augment-dms-sc-with-amazon-q-developer-for-code-conversion-and-test-case-generation/) - *AWS Database Blog* (2026-03-31)
 - [Enabling nested transactions in Amazon DynamoDB using C#](https://aws.amazon.com/blogs/database/enabling-nested-transactions-in-amazon-dynamodb-using-c/) - *AWS Database Blog* (2026-03-31)
+- [Introducing MongoDB Agent Skills and Plugins for Coding Agents](https://www.mongodb.com/company/blog/product-release-announcements/introducing-mongodb-agent-skills) - *MongoDB | Blog* (2026-03-31)
 - [Deepak Mahto: Why Ora2Pg Should Be Your First Stop for PostgreSQL Conversion](https://postgr.es/p/7wu) - *Planet PostgreSQL* (2026-03-31)
 - [Umut TEKIN: Patroni: Cascading Replication with Stanby Cluster](https://postgr.es/p/7wx) - *Planet PostgreSQL* (2026-03-31)
 - [Lætitia AVROT: pg_service.conf: the spell your team forgot to learn](https://postgr.es/p/7ww) - *Planet PostgreSQL* (2026-03-31)
-- [Richard Yen: The Hidden Behavior of plan_cache_mode](https://postgr.es/p/7ws) - *Planet PostgreSQL* (2026-03-30)
-- [Cornelia Biacsics: Contributions for week 12, 2026](https://postgr.es/p/7wr) - *Planet PostgreSQL* (2026-03-30)
 - [AWS positioned highest in execution in the latest Gartner Magic Quadrant for Cloud Database Management Systems](https://aws.amazon.com/blogs/database/aws-positioned-highest-in-execution-in-the-latest-gartner-magic-quadrant-for-cloud-database-management-systems/) - *AWS Database Blog* (2026-03-26)
-- [Automatically scale storage for Amazon RDS Multi-AZ DB clusters using AWS Lambda](https://aws.amazon.com/blogs/database/automatically-scale-storage-for-amazon-rds-multi-az-db-clusters-using-aws-lambda/) - *AWS Database Blog* (2026-03-24)
-- [Synchronizing a Backup on-premises Db2 Server with Amazon RDS for Db2](https://aws.amazon.com/blogs/database/synchronizing-a-backup-on-premises-db2-server-with-amazon-rds-for-db2/) - *AWS Database Blog* (2026-03-19)
 
 ## Networking
 
-- [Enterprise Spotlight: Setting the 2026 IT agenda](https://us.resources.networkworld.com/resources/download-the-2026-it-agenda-spotlight-report/) - *Enterprise Spotlight: Setting the 2026 IT agenda | Network World* (2026-04-01)
-- [Microsoft facing CMA probe of its business software portfolio](https://www.networkworld.com/article/4152750/microsoft-facing-cma-probe-of-its-business-software-portfolio.html) - *Enterprise Spotlight: Setting the 2026 IT agenda | Network World* (2026-04-01)
-- [With new Marvell deal, Nvidia is chasing the AI control layer](https://www.networkworld.com/article/4152790/with-new-marvell-deal-nvidia-is-chasing-the-ai-control-layer.html) - *Enterprise Spotlight: Setting the 2026 IT agenda | Network World* (2026-04-01)
-- [Cisco extends its Enterprise Agreement to include Nutanix Cloud Platform](https://www.networkworld.com/article/4152615/cisco-extends-its-enterprise-agreement-to-include-nutanix-cloud-platform.html) - *Enterprise Spotlight: Setting the 2026 IT agenda | Network World* (2026-03-31)
-- [Cato Networks lets enterprises pick their SASE starting point](https://www.networkworld.com/article/4152525/cato-networks-lets-enterprises-pick-their-sase-starting-point.html) - *Enterprise Spotlight: Setting the 2026 IT agenda | Network World* (2026-03-31)
+- [No joke: data centers are warming the planet](https://www.networkworld.com/article/4153403/no-joke-data-centers-are-warming-the-planet.html) - *No joke: data centers are warming the planet | Network World* (2026-04-02)
+- [Vim and GNU Emacs: Claude Code helpfully found zero-day exploits for both](https://www.networkworld.com/article/4153334/vim-and-gnu-emacs-claude-code-helpfully-found-zero-day-exploits-for-both-3.html) - *No joke: data centers are warming the planet | Network World* (2026-04-01)
+- [OpenStack Gazpacho is a dish best served cold for hot cloud networks](https://www.networkworld.com/article/4153256/openstack-gazpacho-is-a-dish-best-served-cold-for-hot-cloud-networks.html) - *No joke: data centers are warming the planet | Network World* (2026-04-01)
+- [Tokenomics: Why IT leaders need to pay attention to AI tokens](https://www.networkworld.com/article/4153278/tokenomics-why-it-leaders-need-to-pay-attention-to-ai-tokens.html) - *No joke: data centers are warming the planet | Network World* (2026-04-01)
+- [Enterprise Spotlight: Setting the 2026 IT agenda](https://us.resources.networkworld.com/resources/download-the-2026-it-agenda-spotlight-report/) - *No joke: data centers are warming the planet | Network World* (2026-04-01)
 
 ## Computing
 
-- [NASA is leading the way to the Moon, but the military won't be far behind](https://arstechnica.com/space/2026/03/nasa-is-leading-the-way-to-the-moon-but-the-military-wont-be-far-behind/) - *Ars Technica - All content* (2026-04-01)
-- [Running local models on Macs gets faster with Ollama's MLX support](https://arstechnica.com/apple/2026/03/running-local-models-on-macs-gets-faster-with-ollamas-mlx-support/) - *Ars Technica - All content* (2026-03-31)
-- [RFK Jr. wants Americans to use peptides that were banned over safety risks](https://arstechnica.com/health/2026/03/rfk-jr-s-fda-expected-to-lift-restrictions-on-risky-unproven-peptides/) - *Ars Technica - All content* (2026-03-31)
-- [Starlink satellite breaks apart into "tens of objects"; SpaceX confirms "anomaly"](https://arstechnica.com/tech-policy/2026/03/starlink-satellite-breaks-apart-into-tens-of-objects-spacex-confirms-anomaly/) - *Ars Technica - All content* (2026-03-31)
-- [He-Man gets an origin story in Masters of the Universe trailer](https://arstechnica.com/culture/2026/03/he-man-gets-an-origin-story-in-masters-of-the-universe-trailer/) - *Ars Technica - All content* (2026-03-31)
+- [Artemis II, NASA's boldest mission in generations, launches crew to the Moon](https://arstechnica.com/space/2026/04/four-astronauts-depart-for-the-moon-with-a-fiery-send-off-from-cape-canaveral/) - *Ars Technica - All content* (2026-04-02)
+- [Nvidia rolls out its fix for PC gaming's "compiling shaders" wait times](https://arstechnica.com/gaming/2026/04/nvidias-new-app-lets-you-precompile-gaming-shaders-during-machine-idle-time/) - *Ars Technica - All content* (2026-04-01)
+- [Here's what that Claude Code source leak reveals about Anthropic's plans](https://arstechnica.com/ai/2026/04/heres-what-that-claude-code-source-leak-reveals-about-anthropics-plans/) - *Ars Technica - All content* (2026-04-01)
+- [Research roundup: 7 cool science stories we almost missed](https://arstechnica.com/science/2026/04/research-roundup-7-cool-science-stories-we-almost-missed-3/) - *Ars Technica - All content* (2026-04-01)
+- [Did Nazis escape on a UFO? Dev who asked the question just built the official White House app.](https://arstechnica.com/tech-policy/2026/04/official-white-house-app-developer-also-a-ufo-conspiracy-theorist/) - *Ars Technica - All content* (2026-04-01)
 
 ## AI/Models/RL
 
+- [Holo3: Breaking the Computer Use Frontier](https://huggingface.co/blog/Hcompany/holo3) - *Hugging Face - Blog* (2026-04-01)
 - [Falcon Perception](https://huggingface.co/blog/tiiuae/falcon-perception) - *Hugging Face - Blog* (2026-04-01)
 - [Gradient Labs gives every bank customer an AI account manager](https://openai.com/index/gradient-labs) - *OpenAI News* (2026-04-01)
 - [Building better AI benchmarks: How many raters are enough?](https://research.google/blog/building-better-ai-benchmarks-how-many-raters-are-enough/) - *The latest research from Google* (2026-03-31)
@@ -84,13 +85,12 @@ Automated tech news updates. Last updated: 2026-04-01 09:06:49 UTC
 - [TRL v1.0: Post-Training Library Built to Move with the Field](https://huggingface.co/blog/trl-v1) - *Hugging Face - Blog* (2026-03-31)
 - [Helping disaster response teams turn AI into action across Asia](https://openai.com/index/helping-disaster-response-teams-asia) - *OpenAI News* (2026-03-29)
 - [STADLER reshapes knowledge work at a 230-year-old company](https://openai.com/index/stadler) - *OpenAI News* (2026-03-27)
-- [Liberate your OpenClaw](https://huggingface.co/blog/liberate-your-openclaw) - *Hugging Face - Blog* (2026-03-27)
 
 ## AI Infra
 
+- [Automating competitive price intelligence with Amazon Nova Act](https://aws.amazon.com/blogs/machine-learning/automating-competitive-price-intelligence-with-amazon-nova-act/) - *Artificial Intelligence* (2026-04-01)
 - [Build reliable AI agents with Amazon Bedrock AgentCore Evaluations](https://aws.amazon.com/blogs/machine-learning/build-reliable-ai-agents-with-amazon-bedrock-agentcore-evaluations/) - *Artificial Intelligence* (2026-03-31)
 - [Build a FinOps agent using Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-a-finops-agent-using-amazon-bedrock-agentcore/) - *Artificial Intelligence* (2026-03-31)
 - [Building an AI powered system for compliance evidence collection](https://aws.amazon.com/blogs/machine-learning/building-an-ai-powered-system-for-compliance-evidence-collection/) - *Artificial Intelligence* (2026-03-31)
 - [Accelerating software delivery with agentic QA automation using Amazon Nova Act](https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act/) - *Artificial Intelligence* (2026-03-31)
-- [AWS launches frontier agents for security testing and cloud operations](https://aws.amazon.com/blogs/machine-learning/aws-launches-frontier-agents-for-security-testing-and-cloud-operations/) - *Artificial Intelligence* (2026-03-31)
 
