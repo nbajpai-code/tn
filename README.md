@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-04-03 08:56:43 UTC
+Automated tech news updates. Last updated: 2026-04-04 08:42:12 UTC
 
 ## Software Architecture
 
@@ -33,48 +33,49 @@ Automated tech news updates. Last updated: 2026-04-03 08:56:43 UTC
 
 ## Security
 
-- [Hackers Exploit CVE-2025-55182 to Breach 766 Next.js Hosts, Steal Credentials](https://thehackernews.com/2026/04/hackers-exploit-cve-2025-55182-to.html) - *The Hacker News* (2026-04-03)
+- [Friday Squid Blogging: Jurassic Fish Chokes on Squid](https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-jurassic-fish-chokes-on-squid.html) - *Schneier on Security* (2026-04-03)
+- [China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing](https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html) - *The Hacker News* (2026-04-03)
+- [Microsoft Details Cookie-Controlled PHP Web Shells Persisting via Cron on Linux Servers](https://thehackernews.com/2026/04/microsoft-details-cookie-controlled-php.html) - *The Hacker News* (2026-04-03)
+- [Company that Secretly Records and Publishes Zoom Meetings](https://www.schneier.com/blog/archives/2026/04/company-that-secretly-records-and-publishes-zoom-meetings.html) - *Schneier on Security* (2026-04-03)
+- [UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack](https://thehackernews.com/2026/04/unc1069-social-engineering-of-axios.html) - *The Hacker News* (2026-04-03)
+- [Why Third-Party Risk Is the Biggest Gap in Your Clients' Security Posture](https://thehackernews.com/2026/04/why-third-party-risk-is-biggest-gap-in.html) - *The Hacker News* (2026-04-03)
+- [New SparkCat Variant in iOS, Android Apps Steals Crypto Wallet Recovery Phrase Images](https://thehackernews.com/2026/04/new-sparkcat-variant-in-ios-android.html) - *The Hacker News* (2026-04-03)
 - [US Bans All Foreign-Made Consumer Routers](https://www.schneier.com/blog/archives/2026/04/us-bans-all-foreign-made-consumer-routers.html) - *Schneier on Security* (2026-04-02)
-- [Cisco Patches 9.8 CVSS IMC and SSM Flaws Allowing Remote System Compromise](https://thehackernews.com/2026/04/cisco-patches-98-cvss-imc-and-ssm-flaws.html) - *The Hacker News* (2026-04-02)
-- [ThreatsDay Bulletin: Pre-Auth Chains, Android Rootkits, CloudTrail Evasion & 10 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-pre-auth-chains.html) - *The Hacker News* (2026-04-02)
-- [Researchers Uncover Mining Operation Using ISO Lures to Spread RATs and Crypto Miners](https://thehackernews.com/2026/04/researchers-uncover-mining-operation.html) - *The Hacker News* (2026-04-02)
-- [The State of Trusted Open Source Report](https://thehackernews.com/2026/04/the-state-of-trusted-open-source-report.html) - *The Hacker News* (2026-04-02)
 - [Possible US Government iPhone Hacking Tool Leaked](https://www.schneier.com/blog/archives/2026/04/possible-us-government-iphone-hacking-tool-leaked.html) - *Schneier on Security* (2026-04-02)
 - [Is “Hackback” Official US Cybersecurity Strategy?](https://www.schneier.com/blog/archives/2026/04/is-hackback-official-us-cybersecurity-strategy.html) - *Schneier on Security* (2026-04-01)
-- [A Taxonomy of Cognitive Security](https://www.schneier.com/blog/archives/2026/04/a-taxonomy-of-cognitive-security.html) - *Schneier on Security* (2026-04-01)
-- [Inventors of Quantum Cryptography Win Turing Award](https://www.schneier.com/blog/archives/2026/03/inventors-of-quantum-cryptography-win-turing-award.html) - *Schneier on Security* (2026-03-31)
 
 ## Databases/Storage
 
 - [Pavel Stehule: Using non ACID storage as workaround instead missing autonomous transactions](https://postgr.es/p/7A9) - *Planet PostgreSQL* (2026-04-03)
+- [Shaun Thomas: What is a Collation, and Why is My Data Corrupt](https://postgr.es/p/7Ds) - *Planet PostgreSQL* (2026-04-03)
 - [Stream live data from Amazon Keyspaces to S3 vector for real time AI applications](https://aws.amazon.com/blogs/database/stream-live-data-from-amazon-keyspaces-to-s3-vector-for-real-time-ai-applications/) - *AWS Database Blog* (2026-04-02)
 - [Turbocharge your applications with Amazon DocumentDB 8.0](https://aws.amazon.com/blogs/database/turbocharge-your-applications-with-amazon-documentdb-8-0/) - *AWS Database Blog* (2026-04-02)
 - [Conversational Oracle EBS operations with CloudWatch MCP and Kiro CLI](https://aws.amazon.com/blogs/database/conversational-oracle-ebs-operations-with-cloudwatch-mcp-and-kiro-cli/) - *AWS Database Blog* (2026-04-02)
 - [David Wheeler: pg_clickhouse 0.1.6](https://postgr.es/p/7A6) - *Planet PostgreSQL* (2026-04-02)
 - [Antony Pegg: pgEdge MCP Server for Postgres Is Now GA. Here’s Why That Matters](https://postgr.es/p/7A5) - *Planet PostgreSQL* (2026-04-02)
 - [Hubert 'depesz' Lubaczewski: Waiting for PostgreSQL 19 – Add UPDATE/DELETE FOR PORTION OF](https://postgr.es/p/7A4) - *Planet PostgreSQL* (2026-04-02)
-- [Vibhor Kumar: pg_background v1.9: a calmer, more practical way to run SQL in the background](https://postgr.es/p/7wA) - *Planet PostgreSQL* (2026-04-01)
 - [Migrating to Amazon ElastiCache for Valkey: Best practices and a customer success story](https://aws.amazon.com/blogs/database/migrating-to-amazon-elasticache-for-valkey-best-practices-and-a-customer-success-story/) - *AWS Database Blog* (2026-04-01)
 - [Augment DMS SC with Amazon Q Developer for code conversion and test case generation](https://aws.amazon.com/blogs/database/augment-dms-sc-with-amazon-q-developer-for-code-conversion-and-test-case-generation/) - *AWS Database Blog* (2026-03-31)
 
 ## Networking
 
-- [Cisco fixes critical IMC auth bypass present in many products](https://www.networkworld.com/article/4154055/cisco-fixes-critical-imc-auth-bypass-present-in-many-products-2.html) - *Cisco fixes critical IMC auth bypass present in many products | Network World* (2026-04-02)
-- [Kyndryl service targets AI agent automation, security](https://www.networkworld.com/article/4153912/kyndryl-service-targets-ai-agent-automation-security.html) - *Cisco fixes critical IMC auth bypass present in many products | Network World* (2026-04-02)
-- [Google Research touts memory-compression breakthrough for AI processing](https://www.networkworld.com/article/4154034/google-research-talks-compression-technology-it-says-will-greatly-reduce-memory-needed-for-ai-processing.html) - *Cisco fixes critical IMC auth bypass present in many products | Network World* (2026-04-02)
-- [Why can’t we have nice routers anymore?](https://www.networkworld.com/article/4153824/why-cant-we-have-nice-routers-anymore.html) - *Cisco fixes critical IMC auth bypass present in many products | Network World* (2026-04-02)
-- [Amazon Middle East datacenter suffers second drone hit as Iran steps up attacks](https://www.networkworld.com/article/4153994/amazon-middle-east-datacenter-suffers-second-drone-hit-as-iran-steps-up-attacks.html) - *Cisco fixes critical IMC auth bypass present in many products | Network World* (2026-04-02)
+- [French government take Bull by horns for €404 million](https://www.networkworld.com/article/4154186/french-government-take-bull-by-horns-for-e404-million.html) - *French government take Bull by horns for €404 million | Network World* (2026-04-03)
+- [CERT-EU blames Trivy supply chain attack for Europa.eu data breach](https://www.networkworld.com/article/4154185/cert-eu-blames-trivy-supply-chain-attack-for-europa-eu-data-breach-2.html) - *French government take Bull by horns for €404 million | Network World* (2026-04-03)
+- [Cisco: Latest news and insights](https://www.networkworld.com/article/3523958/cisco-latest-news-and-insights.html) - *French government take Bull by horns for €404 million | Network World* (2026-04-03)
+- [Cisco fixes critical IMC auth bypass present in many products](https://www.networkworld.com/article/4154055/cisco-fixes-critical-imc-auth-bypass-present-in-many-products-2.html) - *French government take Bull by horns for €404 million | Network World* (2026-04-02)
+- [Kyndryl service targets AI agent automation, security](https://www.networkworld.com/article/4153912/kyndryl-service-targets-ai-agent-automation-security.html) - *French government take Bull by horns for €404 million | Network World* (2026-04-02)
 
 ## Computing
 
-- [Four astronauts are now inexorably bound for the Moon](https://arstechnica.com/space/2026/04/four-astronauts-are-now-inexorably-bound-for-the-moon/) - *Ars Technica - All content* (2026-04-03)
-- [Perplexity's "Incognito Mode" is a "sham," lawsuit says](https://arstechnica.com/tech-policy/2026/04/perplexitys-incognito-mode-is-a-sham-lawsuit-says/) - *Ars Technica - All content* (2026-04-02)
-- [SpaceX tries to convince FCC that Amazon put satellites into wrong altitude](https://arstechnica.com/tech-policy/2026/04/spacex-claims-amazon-leo-launches-could-crash-into-starlink-satellites/) - *Ars Technica - All content* (2026-04-02)
-- [Google Vids gets AI upgrade with Veo and Lyria models, directable AI avatars](https://arstechnica.com/ai/2026/04/google-vids-gets-ai-upgrade-with-veo-and-lyria-models-directable-ai-avatars/) - *Ars Technica - All content* (2026-04-02)
-- [Male octopuses guided through mating by female hormones](https://arstechnica.com/science/2026/04/male-octopuses-guided-through-mating-by-female-hormones/) - *Ars Technica - All content* (2026-04-02)
+- [Trump proposes steep cut to NASA budget as astronauts head for the Moon](https://arstechnica.com/space/2026/04/trump-proposes-steep-cut-to-nasa-budget-as-astronauts-head-for-the-moon/) - *Ars Technica - All content* (2026-04-03)
+- [Ice Age dice show early Native Americans may have understood probability](https://arstechnica.com/science/2026/04/ice-age-dice-show-early-native-americans-may-have-understood-probability/) - *Ars Technica - All content* (2026-04-03)
+- [As Artemis II zooms to the Moon, everything seems to be going swimmingly](https://arstechnica.com/space/2026/04/as-artemis-ii-zooms-to-the-moon-everything-seems-to-be-going-swimmingly/) - *Ars Technica - All content* (2026-04-03)
+- [Elon Musk insists banks working on SpaceX IPO must buy Grok subscriptions](https://arstechnica.com/tech-policy/2026/04/elon-musk-insists-banks-working-on-spacex-ipo-must-buy-grok-subscriptions/) - *Ars Technica - All content* (2026-04-03)
+- ["Cognitive surrender" leads AI users to abandon logical thinking, research finds](https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/) - *Ars Technica - All content* (2026-04-03)
 
 ## AI/Models/RL
 
+- [Evaluating alignment of behavioral dispositions in LLMs](https://research.google/blog/evaluating-alignment-of-behavioral-dispositions-in-llms/) - *The latest research from Google* (2026-04-03)
 - [Gemma 4: Byte for byte, the most capable open models](https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/) - *Google DeepMind News* (2026-04-02)
 - [OpenAI acquires TBPN](https://openai.com/index/openai-acquires-tbpn) - *OpenAI News* (2026-04-02)
 - [Codex now offers more flexible pricing for teams](https://openai.com/index/codex-flexible-pricing-for-teams) - *OpenAI News* (2026-04-02)
@@ -84,7 +85,6 @@ Automated tech news updates. Last updated: 2026-04-03 08:56:43 UTC
 - [Gradient Labs gives every bank customer an AI account manager](https://openai.com/index/gradient-labs) - *OpenAI News* (2026-04-01)
 - [Building better AI benchmarks: How many raters are enough?](https://research.google/blog/building-better-ai-benchmarks-how-many-raters-are-enough/) - *The latest research from Google* (2026-03-31)
 - [Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents](https://huggingface.co/blog/ibm-granite/granite-4-vision) - *Hugging Face - Blog* (2026-03-31)
-- [Accelerating the next phase of AI](https://openai.com/index/accelerating-the-next-phase-ai) - *OpenAI News* (2026-03-31)
 
 ## AI Infra
 
