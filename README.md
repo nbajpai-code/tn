@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-04-04 08:42:12 UTC
+Automated tech news updates. Last updated: 2026-04-05 08:45:27 UTC
 
 ## Software Architecture
 
@@ -33,13 +33,13 @@ Automated tech news updates. Last updated: 2026-04-04 08:42:12 UTC
 
 ## Security
 
+- [36 Malicious npm Packages Exploited Redis, PostgreSQL to Deploy Persistent Implants](https://thehackernews.com/2026/04/36-malicious-npm-packages-exploited.html) - *The Hacker News* (2026-04-05)
+- [Fortinet Patches Actively Exploited CVE-2026-35616 in FortiClient EMS](https://thehackernews.com/2026/04/fortinet-patches-actively-exploited-cve.html) - *The Hacker News* (2026-04-05)
 - [Friday Squid Blogging: Jurassic Fish Chokes on Squid](https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-jurassic-fish-chokes-on-squid.html) - *Schneier on Security* (2026-04-03)
 - [China-Linked TA416 Targets European Governments with PlugX and OAuth-Based Phishing](https://thehackernews.com/2026/04/china-linked-ta416-targets-european.html) - *The Hacker News* (2026-04-03)
 - [Microsoft Details Cookie-Controlled PHP Web Shells Persisting via Cron on Linux Servers](https://thehackernews.com/2026/04/microsoft-details-cookie-controlled-php.html) - *The Hacker News* (2026-04-03)
 - [Company that Secretly Records and Publishes Zoom Meetings](https://www.schneier.com/blog/archives/2026/04/company-that-secretly-records-and-publishes-zoom-meetings.html) - *Schneier on Security* (2026-04-03)
 - [UNC1069 Social Engineering of Axios Maintainer Led to npm Supply Chain Attack](https://thehackernews.com/2026/04/unc1069-social-engineering-of-axios.html) - *The Hacker News* (2026-04-03)
-- [Why Third-Party Risk Is the Biggest Gap in Your Clients' Security Posture](https://thehackernews.com/2026/04/why-third-party-risk-is-biggest-gap-in.html) - *The Hacker News* (2026-04-03)
-- [New SparkCat Variant in iOS, Android Apps Steals Crypto Wallet Recovery Phrase Images](https://thehackernews.com/2026/04/new-sparkcat-variant-in-ios-android.html) - *The Hacker News* (2026-04-03)
 - [US Bans All Foreign-Made Consumer Routers](https://www.schneier.com/blog/archives/2026/04/us-bans-all-foreign-made-consumer-routers.html) - *Schneier on Security* (2026-04-02)
 - [Possible US Government iPhone Hacking Tool Leaked](https://www.schneier.com/blog/archives/2026/04/possible-us-government-iphone-hacking-tool-leaked.html) - *Schneier on Security* (2026-04-02)
 - [Is “Hackback” Official US Cybersecurity Strategy?](https://www.schneier.com/blog/archives/2026/04/is-hackback-official-us-cybersecurity-strategy.html) - *Schneier on Security* (2026-04-01)
@@ -67,11 +67,11 @@ Automated tech news updates. Last updated: 2026-04-04 08:42:12 UTC
 
 ## Computing
 
+- [Artemis II is going so well that we're left to talk about frozen urine](https://arstechnica.com/space/2026/04/artemis-ii-is-going-so-well-that-were-left-to-talk-about-frozen-urine/) - *Ars Technica - All content* (2026-04-05)
+- [Tech companies are trying to neuter Colorado’s landmark right-to-repair law](https://arstechnica.com/tech-policy/2026/04/tech-companies-are-trying-to-neuter-colorados-landmark-right-to-repair-law/) - *Ars Technica - All content* (2026-04-04)
 - [Trump proposes steep cut to NASA budget as astronauts head for the Moon](https://arstechnica.com/space/2026/04/trump-proposes-steep-cut-to-nasa-budget-as-astronauts-head-for-the-moon/) - *Ars Technica - All content* (2026-04-03)
 - [Ice Age dice show early Native Americans may have understood probability](https://arstechnica.com/science/2026/04/ice-age-dice-show-early-native-americans-may-have-understood-probability/) - *Ars Technica - All content* (2026-04-03)
 - [As Artemis II zooms to the Moon, everything seems to be going swimmingly](https://arstechnica.com/space/2026/04/as-artemis-ii-zooms-to-the-moon-everything-seems-to-be-going-swimmingly/) - *Ars Technica - All content* (2026-04-03)
-- [Elon Musk insists banks working on SpaceX IPO must buy Grok subscriptions](https://arstechnica.com/tech-policy/2026/04/elon-musk-insists-banks-working-on-spacex-ipo-must-buy-grok-subscriptions/) - *Ars Technica - All content* (2026-04-03)
-- ["Cognitive surrender" leads AI users to abandon logical thinking, research finds](https://arstechnica.com/ai/2026/04/research-finds-ai-users-scarily-willing-to-surrender-their-cognition-to-llms/) - *Ars Technica - All content* (2026-04-03)
 
 ## AI/Models/RL
 
