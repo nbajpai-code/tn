@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-04-07 09:04:16 UTC
+Automated tech news updates. Last updated: 2026-04-08 09:03:02 UTC
 
 ## Software Architecture
 
@@ -33,45 +33,45 @@ Automated tech news updates. Last updated: 2026-04-07 09:04:16 UTC
 
 ## Security
 
-- [China-Linked Storm-1175 Exploits Zero-Days to Rapidly Deploy Medusa Ransomware](https://thehackernews.com/2026/04/china-linked-storm-1175-exploits-zero.html) - *The Hacker News* (2026-04-07)
-- [Flowise AI Agent Builder Under Active CVSS 10.0 RCE Exploitation; 12,000+ Instances Exposed](https://thehackernews.com/2026/04/flowise-ai-agent-builder-under-active.html) - *The Hacker News* (2026-04-07)
+- [N. Korean Hackers Spread 1,700 Malicious Packages Across npm, PyPI, Go, Rust](https://thehackernews.com/2026/04/n-korean-hackers-spread-1700-malicious.html) - *The Hacker News* (2026-04-08)
+- [Iran-Linked Hackers Disrupt U.S. Critical Infrastructure by Targeting Internet-Exposed PLCs](https://thehackernews.com/2026/04/iran-linked-hackers-disrupt-us-critical.html) - *The Hacker News* (2026-04-08)
+- [Cybersecurity in the Age of Instant Software](https://www.schneier.com/blog/archives/2026/04/cybersecurity-in-the-age-of-instant-software.html) - *Schneier on Security* (2026-04-07)
+- [Russia Hacked Routers to Steal Microsoft Office Tokens](https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/) - *Krebs on Security* (2026-04-07)
+- [Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign](https://thehackernews.com/2026/04/russian-state-linked-apt28-exploits.html) - *The Hacker News* (2026-04-07)
+- [[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk](https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html) - *The Hacker News* (2026-04-07)
+- [Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access](https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html) - *The Hacker News* (2026-04-07)
+- [Hong Kong Police Can Force You to Reveal Your Encryption Keys](https://www.schneier.com/blog/archives/2026/04/hong-kong-police-can-force-you-to-reveal-your-encryption-keys.html) - *Schneier on Security* (2026-04-07)
 - [New Mexico’s Meta Ruling and Encryption](https://www.schneier.com/blog/archives/2026/04/new-mexicos-meta-ruling-and-encryption.html) - *Schneier on Security* (2026-04-06)
-- [Iran-Linked Password-Spraying Campaign Targets 300+ Israeli Microsoft 365 Organizations](https://thehackernews.com/2026/04/iran-linked-password-spraying-campaign.html) - *The Hacker News* (2026-04-07)
-- [DPRK-Linked Hackers Use GitHub as C2 in Multi-Stage Attacks Targeting South Korea](https://thehackernews.com/2026/04/dprk-linked-hackers-use-github-as-c2-in.html) - *The Hacker News* (2026-04-06)
-- [Multi-OS Cyberattacks: How SOCs Close a Critical Risk in 3 Steps](https://thehackernews.com/2026/04/multi-os-cyberattacks-how-socs-close.html) - *The Hacker News* (2026-04-06)
 - [Google Wants to Transition to Post-Quantum Cryptography by 2029](https://www.schneier.com/blog/archives/2026/04/google-wants-to-transition-to-post-quantum-cryptography-by-2029.html) - *Schneier on Security* (2026-04-06)
-- [Germany Doxes “UNKN,” Head of RU Ransomware Gangs REvil, GandCrab](https://krebsonsecurity.com/2026/04/germany-doxes-unkn-head-of-ru-ransomware-gangs-revil-gandcrab/) - *Krebs on Security* (2026-04-06)
-- [Friday Squid Blogging: Jurassic Fish Chokes on Squid](https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-jurassic-fish-chokes-on-squid.html) - *Schneier on Security* (2026-04-03)
-- [Company that Secretly Records and Publishes Zoom Meetings](https://www.schneier.com/blog/archives/2026/04/company-that-secretly-records-and-publishes-zoom-meetings.html) - *Schneier on Security* (2026-04-03)
 
 ## Databases/Storage
 
+- [Monitor custom database metrics in Amazon RDS for SQL Server using Amazon CloudWatch](https://aws.amazon.com/blogs/database/monitor-custom-database-metrics-in-amazon-rds-for-sql-server-using-amazon-cloudwatch/) - *AWS Database Blog* (2026-04-07)
+- [PostgreSQL logical replication: How to replicate only the data that you need](https://aws.amazon.com/blogs/database/postgresql-logical-replication-how-to-replicate-only-the-data-that-you-need/) - *AWS Database Blog* (2026-04-07)
+- [MongoDB Predictive Auto-Scaling: An Experiment](https://www.mongodb.com/company/blog/engineering/mongodb-predictive-auto-scaling-an-experiment) - *MongoDB | Blog* (2026-04-07)
+- [Scalable AI with Azure Cosmos DB: Tredence Intelligent Document Processing (IDP) | March 2026](https://devblogs.microsoft.com/cosmosdb/scalable-ai-with-azure-cosmos-db-tredence-intelligent-document-processing-idp-march-2026/) - *Azure Cosmos DB Blog* (2026-04-07)
 - [Cornelia Biacsics: Contributions for week 13, 2026](https://postgr.es/p/806) - *Planet PostgreSQL* (2026-04-07)
+- [Ahsan Hadi: Using the pgEdge MCP Server with a Distributed PostgreSQL Cluster](https://postgr.es/p/8cL) - *Planet PostgreSQL* (2026-04-07)
+- [Laurenz Albe: Schemas in PostgreSQL and Oracle: what is the difference?](https://postgr.es/p/8cK) - *Planet PostgreSQL* (2026-04-07)
+- [Lætitia AVROT: pg_column_size(): What you see is not what you get](https://postgr.es/p/8cM) - *Planet PostgreSQL* (2026-04-07)
 - [David Wheeler: pg_clickhouse 0.1.10](https://postgr.es/p/7DT) - *Planet PostgreSQL* (2026-04-06)
-- [Radim Marek: Don't let your AI touch production](https://postgr.es/p/7DS) - *Planet PostgreSQL* (2026-04-06)
 - [Navigating backup and recovery options for Oracle Database@AWS](https://aws.amazon.com/blogs/database/navigating-backup-and-recovery-options-for-oracle-databaseaws/) - *AWS Database Blog* (2026-04-06)
-- [Optimize full-text search in Amazon RDS for MySQL and Amazon Aurora MySQL](https://aws.amazon.com/blogs/database/optimize-full-text-search-in-amazon-rds-for-mysql-and-amazon-aurora-mysql/) - *AWS Database Blog* (2026-04-06)
-- [Working with identity columns and sequences in Aurora DSQL](https://aws.amazon.com/blogs/database/working-with-identity-columns-and-sequences-in-aurora-dsql/) - *AWS Database Blog* (2026-04-06)
-- [Richard Yen: WAL as a Data Distribution Layer](https://postgr.es/p/7DR) - *Planet PostgreSQL* (2026-04-06)
-- [Lætitia AVROT: PAX: The Storage Engine Strikes Back](https://postgr.es/p/7DQ) - *Planet PostgreSQL* (2026-04-06)
-- [Stream live data from Amazon Keyspaces to S3 vector for real time AI applications](https://aws.amazon.com/blogs/database/stream-live-data-from-amazon-keyspaces-to-s3-vector-for-real-time-ai-applications/) - *AWS Database Blog* (2026-04-02)
-- [Turbocharge your applications with Amazon DocumentDB 8.0](https://aws.amazon.com/blogs/database/turbocharge-your-applications-with-amazon-documentdb-8-0/) - *AWS Database Blog* (2026-04-02)
 
 ## Networking
 
-- [Hyperscaler backlogs show growing demand for AI infrastructure](https://www.networkworld.com/article/4154532/hyperscaler-backlogs-show-growing-demand-for-ai-infrastructure.html) - *Hyperscaler backlogs show growing demand for AI infrastructure | Network World* (2026-04-06)
-- [Two New England states say no to new data centers](https://www.networkworld.com/article/4154527/two-new-england-states-say-no-to-new-data-centers.html) - *Hyperscaler backlogs show growing demand for AI infrastructure | Network World* (2026-04-06)
-- [AI for IT stalls as network complexity rises](https://www.networkworld.com/article/4152655/ai-for-it-stalls-as-network-complexity-rises.html) - *Hyperscaler backlogs show growing demand for AI infrastructure | Network World* (2026-04-06)
-- [French government take Bull by horns for €404 million](https://www.networkworld.com/article/4154186/french-government-take-bull-by-horns-for-e404-million.html) - *Hyperscaler backlogs show growing demand for AI infrastructure | Network World* (2026-04-03)
-- [CERT-EU blames Trivy supply chain attack for Europa.eu data breach](https://www.networkworld.com/article/4154185/cert-eu-blames-trivy-supply-chain-attack-for-europa-eu-data-breach-2.html) - *Hyperscaler backlogs show growing demand for AI infrastructure | Network World* (2026-04-03)
+- [Intel bets on Terafab to help it reassert itself in the AI chip race](https://www.networkworld.com/article/4155438/intel-bets-on-terafab-to-help-it-reassert-itself-in-the-ai-chip-race-2.html) - *Intel bets on Terafab to help it reassert itself in the AI chip race | Network World* (2026-04-08)
+- [New v2 UALink specification aims to catch up to NVLink](https://www.networkworld.com/article/4155357/new-v2-ualink-specification-aims-to-catch-up-to-nvlink.html) - *Intel bets on Terafab to help it reassert itself in the AI chip race | Network World* (2026-04-08)
+- [Cisco joins Anthropic’s multivendor effort to secure AI software](https://www.networkworld.com/article/4155237/cisco-joins-anthropics-multivendor-effort-to-secure-ai-software.html) - *Intel bets on Terafab to help it reassert itself in the AI chip race | Network World* (2026-04-07)
+- [Cisco: Latest news and insights](https://www.networkworld.com/article/3523958/cisco-latest-news-and-insights.html) - *Intel bets on Terafab to help it reassert itself in the AI chip race | Network World* (2026-04-07)
+- [2026 network outage report and internet health check](https://www.networkworld.com/article/4113326/2026-network-outage-report-and-internet-health-check.html) - *Intel bets on Terafab to help it reassert itself in the AI chip race | Network World* (2026-04-07)
 
 ## Computing
 
-- [Astronauts set distance record, revealing the Moon as a place to be explored](https://arstechnica.com/space/2026/04/astronauts-set-distance-record-revealing-the-moon-as-a-place-to-be-explored/) - *Ars Technica - All content* (2026-04-07)
-- [After court loss, RFK Jr. gives himself more power over CDC vaccine panel](https://arstechnica.com/health/2026/04/after-court-loss-rfk-jr-gives-himself-more-power-over-cdc-vaccine-panel/) - *Ars Technica - All content* (2026-04-06)
-- [From folding boxes to fixing vacuums, GEN-1 robotics model hits 99% reliability](https://arstechnica.com/ai/2026/04/generalists-new-physical-robotics-ai-brings-production-level-success-rates/) - *Ars Technica - All content* (2026-04-06)
-- [Sports bets on prediction markets ruled to be "swaps," exempt from state laws](https://arstechnica.com/tech-policy/2026/04/sports-bets-on-prediction-markets-ruled-to-be-swaps-exempt-from-state-laws/) - *Ars Technica - All content* (2026-04-06)
-- [Trump's next budget once again calls for massive cuts to science](https://arstechnica.com/science/2026/04/trumps-next-budget-once-again-calls-for-massive-cuts-to-science/) - *Ars Technica - All content* (2026-04-06)
+- [Valve brings native Steam Link app to Apple's Vision Pro](https://arstechnica.com/gaming/2026/04/valve-brings-native-steam-link-app-to-apples-vision-pro/) - *Ars Technica - All content* (2026-04-07)
+- [Apple and Lenovo have the least repairable laptops, analysis finds](https://arstechnica.com/gadgets/2026/04/apple-has-the-lowest-grades-in-laptop-phone-repairability-analysis/) - *Ars Technica - All content* (2026-04-07)
+- [What the heck is wrong with our AI overlords?](https://arstechnica.com/tech-policy/2026/04/what-the-heck-is-wrong-with-our-ai-overlords/) - *Ars Technica - All content* (2026-04-07)
+- [Bluesky users are mastering the fine art of blaming everything on "vibe coding"](https://arstechnica.com/ai/2026/04/bluesky-users-are-mastering-the-fine-art-of-blaming-everything-on-vibe-coding/) - *Ars Technica - All content* (2026-04-07)
+- [SCOTUS overturns 5th Circuit ruling that told ISP to kick pirates off Internet](https://arstechnica.com/tech-policy/2026/04/scotus-overturns-5th-circuit-ruling-that-told-isp-to-kick-pirates-off-internet/) - *Ars Technica - All content* (2026-04-07)
 
 ## AI/Models/RL
 
@@ -88,9 +88,9 @@ Automated tech news updates. Last updated: 2026-04-07 09:04:16 UTC
 
 ## AI Infra
 
+- [Manage AI costs with Amazon Bedrock Projects](https://aws.amazon.com/blogs/machine-learning/manage-ai-costs-with-amazon-bedrock-projects/) - *Artificial Intelligence* (2026-04-07)
+- [Building real-time conversational podcasts with Amazon Nova 2 Sonic](https://aws.amazon.com/blogs/machine-learning/building-real-time-conversational-podcasts-with-amazon-nova-2-sonic/) - *Artificial Intelligence* (2026-04-07)
+- [Text-to-SQL solution powered by Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/text-to-sql-solution-powered-by-amazon-bedrock/) - *Artificial Intelligence* (2026-04-07)
 - [Build AI-powered employee onboarding agents with Amazon Quick](https://aws.amazon.com/blogs/machine-learning/build-ai-powered-employee-onboarding-agents-with-amazon-quick/) - *Artificial Intelligence* (2026-04-06)
 - [Accelerate agentic tool calling with serverless model customization in Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-tool-calling-with-serverless-model-customization-in-amazon-sagemaker-ai/) - *Artificial Intelligence* (2026-04-06)
-- [Building Intelligent Search with Amazon Bedrock and Amazon OpenSearch for hybrid RAG solutions](https://aws.amazon.com/blogs/machine-learning/building-intelligent-search-with-amazon-bedrock-and-amazon-opensearch-for-hybrid-rag-solutions/) - *Artificial Intelligence* (2026-04-06)
-- [From isolated alerts to contextual intelligence: Agentic maritime anomaly analysis with generative AI](https://aws.amazon.com/blogs/machine-learning/from-isolated-alerts-to-contextual-intelligence-agentic-maritime-anomaly-analysis-with-generative-ai/) - *Artificial Intelligence* (2026-04-06)
-- [Connecting MCP servers to Amazon Bedrock AgentCore Gateway using Authorization Code flow](https://aws.amazon.com/blogs/machine-learning/connecting-mcp-servers-to-amazon-bedrock-agentcore-gateway-using-authorization-code-flow/) - *Artificial Intelligence* (2026-04-06)
 
