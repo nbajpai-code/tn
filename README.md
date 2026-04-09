@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-04-08 09:03:02 UTC
+Automated tech news updates. Last updated: 2026-04-09 09:09:31 UTC
 
 ## Software Architecture
 
@@ -12,11 +12,11 @@ Automated tech news updates. Last updated: 2026-04-08 09:03:02 UTC
 
 ## Cloud Computing
 
+- [Build a multi-tenant configuration system with tagged storage patterns](https://aws.amazon.com/blogs/architecture/build-a-multi-tenant-configuration-system-with-tagged-storage-patterns/) - *AWS Architecture Blog* (2026-04-08)
 - [Unlock efficient model deployment: Simplified Inference Operator setup on Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/architecture/unlock-efficient-model-deployment-simplified-inference-operator-setup-on-amazon-sagemaker-hyperpod/) - *AWS Architecture Blog* (2026-04-06)
 - [Automate safety monitoring with computer vision and generative AI](https://aws.amazon.com/blogs/architecture/automate-safety-monitoring-with-computer-vision-and-generative-ai/) - *AWS Architecture Blog* (2026-04-01)
 - [Streamlining access to powerful disaster recovery capabilities of AWS](https://aws.amazon.com/blogs/architecture/streamlining-access-to-powerful-disaster-recovery-capabilities-of-aws/) - *AWS Architecture Blog* (2026-03-31)
 - [How Aigen transformed agricultural robotics for sustainable farming with Amazon SageMaker AI](https://aws.amazon.com/blogs/architecture/how-aigen-transformed-agricultural-robotics-for-sustainable-farming-with-amazon-sagemaker-ai/) - *AWS Architecture Blog* (2026-03-30)
-- [Architecting for agentic AI development on AWS](https://aws.amazon.com/blogs/architecture/architecting-for-agentic-ai-development-on-aws/) - *AWS Architecture Blog* (2026-03-26)
 
 ## Kubernetes
 
@@ -33,64 +33,64 @@ Automated tech news updates. Last updated: 2026-04-08 09:03:02 UTC
 
 ## Security
 
-- [N. Korean Hackers Spread 1,700 Malicious Packages Across npm, PyPI, Go, Rust](https://thehackernews.com/2026/04/n-korean-hackers-spread-1700-malicious.html) - *The Hacker News* (2026-04-08)
-- [Iran-Linked Hackers Disrupt U.S. Critical Infrastructure by Targeting Internet-Exposed PLCs](https://thehackernews.com/2026/04/iran-linked-hackers-disrupt-us-critical.html) - *The Hacker News* (2026-04-08)
+- [New Chaos Variant Targets Misconfigured Cloud Deployments, Adds SOCKS Proxy](https://thehackernews.com/2026/04/new-chaos-variant-targets-misconfigured.html) - *The Hacker News* (2026-04-08)
+- [Masjesu Botnet Emerges as DDoS-for-Hire Service Targeting Global IoT Devices](https://thehackernews.com/2026/04/masjesu-botnet-emerges-as-ddos-for-hire.html) - *The Hacker News* (2026-04-08)
+- [APT28 Deploys PRISMEX Malware in Campaign Targeting Ukraine and NATO Allies](https://thehackernews.com/2026/04/apt28-deploys-prismex-malware-in.html) - *The Hacker News* (2026-04-08)
+- [Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)](https://thehackernews.com/2026/04/shrinking-iam-attack-surface-through.html) - *The Hacker News* (2026-04-08)
+- [Python Supply-Chain Compromise](https://www.schneier.com/blog/archives/2026/04/python-supply-chain-compromise.html) - *Schneier on Security* (2026-04-08)
+- [Anthropic's Claude Mythos Finds Thousands of Zero-Day Flaws Across Major Systems](https://thehackernews.com/2026/04/anthropics-claude-mythos-finds.html) - *The Hacker News* (2026-04-08)
 - [Cybersecurity in the Age of Instant Software](https://www.schneier.com/blog/archives/2026/04/cybersecurity-in-the-age-of-instant-software.html) - *Schneier on Security* (2026-04-07)
 - [Russia Hacked Routers to Steal Microsoft Office Tokens](https://krebsonsecurity.com/2026/04/russia-hacked-routers-to-steal-microsoft-office-tokens/) - *Krebs on Security* (2026-04-07)
-- [Russian State-Linked APT28 Exploits SOHO Routers in Global DNS Hijacking Campaign](https://thehackernews.com/2026/04/russian-state-linked-apt28-exploits.html) - *The Hacker News* (2026-04-07)
-- [[Webinar] How to Close Identity Gaps in 2026 Before AI Exploits Enterprise Risk](https://thehackernews.com/2026/04/webinar-how-to-close-identity-gaps-in.html) - *The Hacker News* (2026-04-07)
-- [Docker CVE-2026-34040 Lets Attackers Bypass Authorization and Gain Host Access](https://thehackernews.com/2026/04/docker-cve-2026-34040-lets-attackers.html) - *The Hacker News* (2026-04-07)
 - [Hong Kong Police Can Force You to Reveal Your Encryption Keys](https://www.schneier.com/blog/archives/2026/04/hong-kong-police-can-force-you-to-reveal-your-encryption-keys.html) - *Schneier on Security* (2026-04-07)
 - [New Mexico’s Meta Ruling and Encryption](https://www.schneier.com/blog/archives/2026/04/new-mexicos-meta-ruling-and-encryption.html) - *Schneier on Security* (2026-04-06)
-- [Google Wants to Transition to Post-Quantum Cryptography by 2029](https://www.schneier.com/blog/archives/2026/04/google-wants-to-transition-to-post-quantum-cryptography-by-2029.html) - *Schneier on Security* (2026-04-06)
 
 ## Databases/Storage
 
+- [warda bibi: The 1 GB Limit That Breaks pg_prewarm at Scale](https://postgr.es/p/8jf) - *Planet PostgreSQL* (2026-04-09)
+- [Jim Mlodgenski: pgcollection 2.0: Integer Keys, Range Deletes, and Oracle Parity](https://postgr.es/p/8je) - *Planet PostgreSQL* (2026-04-09)
+- [Vibhor Kumar: AI at the Edge, Truth in Postgres](https://postgr.es/p/8f_) - *Planet PostgreSQL* (2026-04-08)
+- [How to build unified JSON search solutions in AWS](https://aws.amazon.com/blogs/database/how-to-build-unified-json-search-solutions-in-aws/) - *AWS Database Blog* (2026-04-08)
 - [Monitor custom database metrics in Amazon RDS for SQL Server using Amazon CloudWatch](https://aws.amazon.com/blogs/database/monitor-custom-database-metrics-in-amazon-rds-for-sql-server-using-amazon-cloudwatch/) - *AWS Database Blog* (2026-04-07)
 - [PostgreSQL logical replication: How to replicate only the data that you need](https://aws.amazon.com/blogs/database/postgresql-logical-replication-how-to-replicate-only-the-data-that-you-need/) - *AWS Database Blog* (2026-04-07)
 - [MongoDB Predictive Auto-Scaling: An Experiment](https://www.mongodb.com/company/blog/engineering/mongodb-predictive-auto-scaling-an-experiment) - *MongoDB | Blog* (2026-04-07)
 - [Scalable AI with Azure Cosmos DB: Tredence Intelligent Document Processing (IDP) | March 2026](https://devblogs.microsoft.com/cosmosdb/scalable-ai-with-azure-cosmos-db-tredence-intelligent-document-processing-idp-march-2026/) - *Azure Cosmos DB Blog* (2026-04-07)
 - [Cornelia Biacsics: Contributions for week 13, 2026](https://postgr.es/p/806) - *Planet PostgreSQL* (2026-04-07)
 - [Ahsan Hadi: Using the pgEdge MCP Server with a Distributed PostgreSQL Cluster](https://postgr.es/p/8cL) - *Planet PostgreSQL* (2026-04-07)
-- [Laurenz Albe: Schemas in PostgreSQL and Oracle: what is the difference?](https://postgr.es/p/8cK) - *Planet PostgreSQL* (2026-04-07)
-- [Lætitia AVROT: pg_column_size(): What you see is not what you get](https://postgr.es/p/8cM) - *Planet PostgreSQL* (2026-04-07)
-- [David Wheeler: pg_clickhouse 0.1.10](https://postgr.es/p/7DT) - *Planet PostgreSQL* (2026-04-06)
-- [Navigating backup and recovery options for Oracle Database@AWS](https://aws.amazon.com/blogs/database/navigating-backup-and-recovery-options-for-oracle-databaseaws/) - *AWS Database Blog* (2026-04-06)
 
 ## Networking
 
-- [Intel bets on Terafab to help it reassert itself in the AI chip race](https://www.networkworld.com/article/4155438/intel-bets-on-terafab-to-help-it-reassert-itself-in-the-ai-chip-race-2.html) - *Intel bets on Terafab to help it reassert itself in the AI chip race | Network World* (2026-04-08)
-- [New v2 UALink specification aims to catch up to NVLink](https://www.networkworld.com/article/4155357/new-v2-ualink-specification-aims-to-catch-up-to-nvlink.html) - *Intel bets on Terafab to help it reassert itself in the AI chip race | Network World* (2026-04-08)
-- [Cisco joins Anthropic’s multivendor effort to secure AI software](https://www.networkworld.com/article/4155237/cisco-joins-anthropics-multivendor-effort-to-secure-ai-software.html) - *Intel bets on Terafab to help it reassert itself in the AI chip race | Network World* (2026-04-07)
-- [Cisco: Latest news and insights](https://www.networkworld.com/article/3523958/cisco-latest-news-and-insights.html) - *Intel bets on Terafab to help it reassert itself in the AI chip race | Network World* (2026-04-07)
-- [2026 network outage report and internet health check](https://www.networkworld.com/article/4113326/2026-network-outage-report-and-internet-health-check.html) - *Intel bets on Terafab to help it reassert itself in the AI chip race | Network World* (2026-04-07)
+- [Aria Networks raises $125M and debuts its approach for AI-optimized networks](https://www.networkworld.com/article/4155900/aria-networks-raises-125m-and-debuts-its-approach-for-ai-optimized-networks.html) - *Aria Networks raises $125M, launches platform for AI factories | Network World* (2026-04-08)
+- [Top network and data center events of 2026](https://www.networkworld.com/article/2138316/top-network-and-data-center-events.html) - *Aria Networks raises $125M, launches platform for AI factories | Network World* (2026-04-08)
+- [Cisco: Latest news and insights](https://www.networkworld.com/article/3523958/cisco-latest-news-and-insights.html) - *Aria Networks raises $125M, launches platform for AI factories | Network World* (2026-04-08)
+- [Yael Nardi joins Minimus as Chief Business Officer to drive hyper-growth](https://www.networkworld.com/article/4155832/yael-nardi-joins-minimus-as-chief-business-officer-to-drive-hyper-growth.html) - *Aria Networks raises $125M, launches platform for AI factories | Network World* (2026-04-08)
+- [Intel bets on Terafab to help it reassert itself in the AI chip race](https://www.networkworld.com/article/4155438/intel-bets-on-terafab-to-help-it-reassert-itself-in-the-ai-chip-race-2.html) - *Aria Networks raises $125M, launches platform for AI factories | Network World* (2026-04-08)
 
 ## Computing
 
-- [Valve brings native Steam Link app to Apple's Vision Pro](https://arstechnica.com/gaming/2026/04/valve-brings-native-steam-link-app-to-apples-vision-pro/) - *Ars Technica - All content* (2026-04-07)
-- [Apple and Lenovo have the least repairable laptops, analysis finds](https://arstechnica.com/gadgets/2026/04/apple-has-the-lowest-grades-in-laptop-phone-repairability-analysis/) - *Ars Technica - All content* (2026-04-07)
-- [What the heck is wrong with our AI overlords?](https://arstechnica.com/tech-policy/2026/04/what-the-heck-is-wrong-with-our-ai-overlords/) - *Ars Technica - All content* (2026-04-07)
-- [Bluesky users are mastering the fine art of blaming everything on "vibe coding"](https://arstechnica.com/ai/2026/04/bluesky-users-are-mastering-the-fine-art-of-blaming-everything-on-vibe-coding/) - *Ars Technica - All content* (2026-04-07)
-- [SCOTUS overturns 5th Circuit ruling that told ISP to kick pirates off Internet](https://arstechnica.com/tech-policy/2026/04/scotus-overturns-5th-circuit-ruling-that-told-isp-to-kick-pirates-off-internet/) - *Ars Technica - All content* (2026-04-07)
+- [The Moon is already on Google Maps—did Artemis II really tell us anything new?](https://arstechnica.com/space/2026/04/the-moon-is-already-on-google-maps-did-artemis-ii-really-tell-us-anything-new/) - *Ars Technica - All content* (2026-04-09)
+- [Trump admin makes sweeping request for medical records of federal workers](https://arstechnica.com/health/2026/04/trump-admin-seeks-medical-records-of-federal-workers-for-vague-reasons/) - *Ars Technica - All content* (2026-04-08)
+- [LinkedIn scanning users' browser extensions sparks controversy and two lawsuits](https://arstechnica.com/tech-policy/2026/04/linkedin-scanning-users-browser-extensions-sparks-controversy-and-two-lawsuits/) - *Ars Technica - All content* (2026-04-08)
+- [Iran-linked hackers disrupt operations at US critical infrastructure sites](https://arstechnica.com/security/2026/04/iran-linked-hackers-disrupt-operations-at-us-critical-infrastructure-sites/) - *Ars Technica - All content* (2026-04-08)
+- [Meta's Superintelligence Lab unveils its first public model, Muse Spark](https://arstechnica.com/ai/2026/04/metas-superintelligence-lab-unveils-its-first-public-model-muse-spark/) - *Ars Technica - All content* (2026-04-08)
 
 ## AI/Models/RL
 
+- [Improving the academic workflow: Introducing two AI agents for better figures and peer review](https://research.google/blog/improving-the-academic-workflow-introducing-two-ai-agents-for-better-figures-and-peer-review/) - *The latest research from Google* (2026-04-08)
+- [ALTK‑Evolve: On‑the‑Job Learning for AI Agents](https://huggingface.co/blog/ibm-research/altk-evolve) - *Hugging Face - Blog* (2026-04-08)
+- [The next phase of enterprise AI](https://openai.com/index/next-phase-of-enterprise-ai) - *OpenAI News* (2026-04-08)
+- [Introducing the Child Safety Blueprint](https://openai.com/index/introducing-child-safety-blueprint) - *OpenAI News* (2026-04-08)
+- [Safetensors is Joining the PyTorch Foundation](https://huggingface.co/blog/safetensors-joins-pytorch-foundation) - *Hugging Face - Blog* (2026-04-08)
 - [Announcing the OpenAI Safety Fellowship](https://openai.com/index/introducing-openai-safety-fellowship) - *OpenAI News* (2026-04-06)
 - [Industrial policy for the Intelligence Age](https://openai.com/index/industrial-policy-for-the-intelligence-age) - *OpenAI News* (2026-04-06)
 - [Evaluating alignment of behavioral dispositions in LLMs](https://research.google/blog/evaluating-alignment-of-behavioral-dispositions-in-llms/) - *The latest research from Google* (2026-04-03)
 - [Gemma 4: Byte for byte, the most capable open models](https://deepmind.google/blog/gemma-4-byte-for-byte-the-most-capable-open-models/) - *Google DeepMind News* (2026-04-02)
 - [OpenAI acquires TBPN](https://openai.com/index/openai-acquires-tbpn) - *OpenAI News* (2026-04-02)
-- [Codex now offers more flexible pricing for teams](https://openai.com/index/codex-flexible-pricing-for-teams) - *OpenAI News* (2026-04-02)
-- [Welcome Gemma 4: Frontier multimodal intelligence on device](https://huggingface.co/blog/gemma4) - *Hugging Face - Blog* (2026-04-02)
-- [Holo3: Breaking the Computer Use Frontier](https://huggingface.co/blog/Hcompany/holo3) - *Hugging Face - Blog* (2026-04-01)
-- [Falcon Perception](https://huggingface.co/blog/tiiuae/falcon-perception) - *Hugging Face - Blog* (2026-04-01)
-- [Gradient Labs gives every bank customer an AI account manager](https://openai.com/index/gradient-labs) - *OpenAI News* (2026-04-01)
 
 ## AI Infra
 
+- [Customize Amazon Nova models with Amazon Bedrock fine-tuning](https://aws.amazon.com/blogs/machine-learning/customize-amazon-nova-models-with-amazon-bedrock-fine-tuning/) - *Artificial Intelligence* (2026-04-08)
+- [Human-in-the-loop constructs for agentic workflows in healthcare and life sciences](https://aws.amazon.com/blogs/machine-learning/human-in-the-loop-constructs-for-agentic-workflows-in-healthcare-and-life-sciences/) - *Artificial Intelligence* (2026-04-08)
+- [Building intelligent audio search with Amazon Nova Embeddings: A deep dive into semantic audio understanding](https://aws.amazon.com/blogs/machine-learning/building-intelligent-audio-search-with-amazon-nova-embeddings-a-deep-dive-into-semantic-audio-understanding/) - *Artificial Intelligence* (2026-04-08)
+- [Reinforcement fine-tuning on Amazon Bedrock: Best practices](https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-on-amazon-bedrock-best-practices/) - *Artificial Intelligence* (2026-04-08)
 - [Manage AI costs with Amazon Bedrock Projects](https://aws.amazon.com/blogs/machine-learning/manage-ai-costs-with-amazon-bedrock-projects/) - *Artificial Intelligence* (2026-04-07)
-- [Building real-time conversational podcasts with Amazon Nova 2 Sonic](https://aws.amazon.com/blogs/machine-learning/building-real-time-conversational-podcasts-with-amazon-nova-2-sonic/) - *Artificial Intelligence* (2026-04-07)
-- [Text-to-SQL solution powered by Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/text-to-sql-solution-powered-by-amazon-bedrock/) - *Artificial Intelligence* (2026-04-07)
-- [Build AI-powered employee onboarding agents with Amazon Quick](https://aws.amazon.com/blogs/machine-learning/build-ai-powered-employee-onboarding-agents-with-amazon-quick/) - *Artificial Intelligence* (2026-04-06)
-- [Accelerate agentic tool calling with serverless model customization in Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/accelerate-agentic-tool-calling-with-serverless-model-customization-in-amazon-sagemaker-ai/) - *Artificial Intelligence* (2026-04-06)
 
