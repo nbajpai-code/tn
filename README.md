@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-04-11 08:45:40 UTC
+Automated tech news updates. Last updated: 2026-04-12 08:51:00 UTC
 
 ## Software Architecture
 
@@ -20,11 +20,11 @@ Automated tech news updates. Last updated: 2026-04-11 08:45:40 UTC
 
 ## Kubernetes
 
+- [What I Learned at My First KubeCon + CloudNativeCon as a High School Speaker](https://www.cncf.io/blog/2026/04/11/what-i-learned-at-my-first-kubecon-cloudnativecon-as-a-high-school-speaker/) - *Blog – Cloud Native Computing Foundation* (2026-04-11)
 - [Rethinking platform engineering through diverse perspectives at KubeCon + CloudNativeCon EU Amsterdam](https://www.cncf.io/blog/2026/04/10/rethinking-platform-engineering-through-diverse-perspectives-at-kubecon-cloudnativecon-eu-amsterdam/) - *Blog – Cloud Native Computing Foundation* (2026-04-10)
 - [Peer-to-Peer acceleration for AI model distribution with Dragonfly](https://www.cncf.io/blog/2026/04/06/peer-to-peer-acceleration-for-ai-model-distribution-with-dragonfly/) - *Blog – Cloud Native Computing Foundation* (2026-04-06)
 - [GitOps policy-as-code: Securing Kubernetes with Argo CD and Kyverno](https://www.cncf.io/blog/2026/04/02/gitops-policy-as-code-securing-kubernetes-with-argo-cd-and-kyverno/) - *Blog – Cloud Native Computing Foundation* (2026-04-02)
 - [Sustaining OpenTelemetry: Moving from dependency management to stewardship](https://www.cncf.io/blog/2026/03/31/sustaining-opentelemetry-moving-from-dependency-management-to-stewardship/) - *Blog – Cloud Native Computing Foundation* (2026-03-31)
-- [LLMs on Kubernetes Part 1: Understanding the threat model](https://www.cncf.io/blog/2026/03/30/llms-on-kubernetes-part-1-understanding-the-threat-model/) - *Blog – Cloud Native Computing Foundation* (2026-03-30)
 - [Kubernetes v1.36 Sneak Peek](https://kubernetes.io/blog/2026/03/30/kubernetes-v1-36-sneak-peek/) - *Kubernetes Blog* (2026-03-30)
 - [Announcing Ingress2Gateway 1.0: Your Path to Gateway API](https://kubernetes.io/blog/2026/03/20/ingress2gateway-1-0-release/) - *Kubernetes Blog* (2026-03-20)
 - [Running Agents on Kubernetes with Agent Sandbox](https://kubernetes.io/blog/2026/03/20/running-agents-on-kubernetes-with-agent-sandbox/) - *Kubernetes Blog* (2026-03-20)
@@ -33,24 +33,24 @@ Automated tech news updates. Last updated: 2026-04-11 08:45:40 UTC
 
 ## Security
 
+- [CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads](https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html) - *The Hacker News* (2026-04-12)
+- [Adobe Patches Actively Exploited Acrobat Reader Flaw CVE-2026-34621](https://thehackernews.com/2026/04/adobe-patches-actively-exploited.html) - *The Hacker News* (2026-04-12)
 - [Citizen Lab: Law Enforcement Used Webloc to Track 500 Million Devices via Ad Data](https://thehackernews.com/2026/04/citizen-lab-law-enforcement-used-webloc.html) - *The Hacker News* (2026-04-11)
 - [Friday Squid Blogging: Squid Overfishing in the South Pacific](https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-squid-overfishing-in-the-south-pacific.html) - *Schneier on Security* (2026-04-10)
 - [GlassWorm Campaign Uses Zig Dropper to Infect Multiple Developer IDEs](https://thehackernews.com/2026/04/glassworm-campaign-uses-zig-dropper-to.html) - *The Hacker News* (2026-04-10)
 - [Browser Extensions Are the New AI Consumption Channel That No One Is Talking About](https://thehackernews.com/2026/04/browser-extensions-are-new-ai.html) - *The Hacker News* (2026-04-10)
 - [Sen. Sanders Talks to Claude About AI and Privacy](https://www.schneier.com/blog/archives/2026/04/sen-sanders-talks-to-claude-about-ai-and-privacy.html) - *Schneier on Security* (2026-04-10)
-- [Google Rolls Out DBSC in Chrome 146 to Block Session Theft on Windows](https://thehackernews.com/2026/04/google-rolls-out-dbsc-in-chrome-146-to.html) - *The Hacker News* (2026-04-10)
-- [Marimo RCE Flaw CVE-2026-39987 Exploited Within 10 Hours of Disclosure](https://thehackernews.com/2026/04/marimo-rce-flaw-cve-2026-39987.html) - *The Hacker News* (2026-04-10)
 - [On Microsoft’s Lousy Cloud Security](https://www.schneier.com/blog/archives/2026/04/on-microsofts-lousy-cloud-security.html) - *Schneier on Security* (2026-04-09)
 - [Python Supply-Chain Compromise](https://www.schneier.com/blog/archives/2026/04/python-supply-chain-compromise.html) - *Schneier on Security* (2026-04-08)
 - [Cybersecurity in the Age of Instant Software](https://www.schneier.com/blog/archives/2026/04/cybersecurity-in-the-age-of-instant-software.html) - *Schneier on Security* (2026-04-07)
 
 ## Databases/Storage
 
+- [Lukas Fittl: Waiting for Postgres 19: Reduced timing overhead for EXPLAIN ANALYZE with RDTSC](https://postgr.es/p/8pQ) - *Planet PostgreSQL* (2026-04-11)
 - [Shaun Thomas: Checkpoints, Write Storms, and You](https://postgr.es/p/8mA) - *Planet PostgreSQL* (2026-04-10)
 - [Hubert 'depesz' Lubaczewski: Waiting for PostgreSQL 19 – new pg_get_*_ddl() functions](https://postgr.es/p/8jg) - *Planet PostgreSQL* (2026-04-09)
 - [warda bibi: The 1 GB Limit That Breaks pg_prewarm at Scale](https://postgr.es/p/8jf) - *Planet PostgreSQL* (2026-04-09)
 - [Jim Mlodgenski: pgcollection 2.0: Integer Keys, Range Deletes, and Oracle Parity](https://postgr.es/p/8je) - *Planet PostgreSQL* (2026-04-09)
-- [Vibhor Kumar: AI at the Edge, Truth in Postgres](https://postgr.es/p/8f_) - *Planet PostgreSQL* (2026-04-08)
 - [How to build unified JSON search solutions in AWS](https://aws.amazon.com/blogs/database/how-to-build-unified-json-search-solutions-in-aws/) - *AWS Database Blog* (2026-04-08)
 - [Monitor custom database metrics in Amazon RDS for SQL Server using Amazon CloudWatch](https://aws.amazon.com/blogs/database/monitor-custom-database-metrics-in-amazon-rds-for-sql-server-using-amazon-cloudwatch/) - *AWS Database Blog* (2026-04-07)
 - [PostgreSQL logical replication: How to replicate only the data that you need](https://aws.amazon.com/blogs/database/postgresql-logical-replication-how-to-replicate-only-the-data-that-you-need/) - *AWS Database Blog* (2026-04-07)
@@ -67,18 +67,18 @@ Automated tech news updates. Last updated: 2026-04-11 08:45:40 UTC
 
 ## Computing
 
+- [AI models are terrible at betting on soccer—especially xAI Grok](https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/) - *Ars Technica - All content* (2026-04-11)
 - [The Artemis II mission has ended. Where does NASA go from here?](https://arstechnica.com/space/2026/04/the-artemis-ii-mission-has-ended-where-does-nasa-go-from-here/) - *Ars Technica - All content* (2026-04-11)
 - [Four astronauts are back home after a daring ride around the Moon](https://arstechnica.com/space/2026/04/four-astronauts-are-back-home-after-a-daring-ride-around-the-moon/) - *Ars Technica - All content* (2026-04-11)
 - [Californians sue over AI tool that records doctor visits](https://arstechnica.com/tech-policy/2026/04/californians-sue-over-ai-tool-that-records-doctor-visits/) - *Ars Technica - All content* (2026-04-10)
 - [New paper argues history, not mantle plume, powers Yellowstone](https://arstechnica.com/science/2026/04/new-paper-argues-history-not-mantle-plume-powers-yellowstone/) - *Ars Technica - All content* (2026-04-10)
-- [F1 moves a step closer to fixing its 2026 hybrid problem](https://arstechnica.com/cars/2026/04/f1-moves-a-step-closer-to-fixing-its-2026-hybrid-problem/) - *Ars Technica - All content* (2026-04-10)
 
 ## AI/Models/RL
 
+- [Using projects in ChatGPT](https://openai.com/academy/projects) - *OpenAI News* (2026-04-10)
+- [ChatGPT for marketing teams](https://openai.com/academy/marketing) - *OpenAI News* (2026-04-10)
+- [Our response to the Axios developer tool compromise](https://openai.com/index/axios-developer-tool-compromise) - *OpenAI News* (2026-04-10)
 - [Using custom GPTs](https://openai.com/academy/custom-gpts) - *OpenAI News* (2026-04-10)
-- [ChatGPT for customer success teams](https://openai.com/academy/customer-success) - *OpenAI News* (2026-04-10)
-- [Applications of AI at OpenAI](https://openai.com/academy/applications-of-ai) - *OpenAI News* (2026-04-10)
-- [Research with ChatGPT](https://openai.com/academy/search-and-deep-research) - *OpenAI News* (2026-04-10)
 - [Analyzing data with ChatGPT](https://openai.com/academy/data-analysis) - *OpenAI News* (2026-04-10)
 - [ConvApparel: Measuring and bridging the realism gap in user simulators](https://research.google/blog/convapparel-measuring-and-bridging-the-realism-gap-in-user-simulators/) - *The latest research from Google* (2026-04-09)
 - [Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs](https://huggingface.co/blog/waypoint-1-5) - *Hugging Face - Blog* (2026-04-09)
