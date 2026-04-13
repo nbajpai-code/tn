@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-04-12 08:51:00 UTC
+Automated tech news updates. Last updated: 2026-04-13 09:56:18 UTC
 
 ## Software Architecture
 
@@ -8,7 +8,6 @@ Automated tech news updates. Last updated: 2026-04-12 08:51:00 UTC
 - [Pinterest Reduces Spark OOM Failures by 96% through Auto Memory Retries](https://www.infoq.com/news/2026/04/pinterest-spark-oom-reduction/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-04-06)
 - [Podcast: Context Engineering with Adi Polak](https://www.infoq.com/podcasts/context-engineering-large-language-models/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-04-06)
 - [Article: Replacing Database Sequences at Scale without Breaking 100+ Services](https://www.infoq.com/articles/replacing-database-sequences/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-04-03)
-- [Article: Beyond RAG: Architecting Context-Aware AI Systems with Spring Boot](https://www.infoq.com/articles/beyond-rag-context-aware/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-04-02)
 
 ## Cloud Computing
 
@@ -33,12 +32,12 @@ Automated tech news updates. Last updated: 2026-04-12 08:51:00 UTC
 
 ## Security
 
+- [OpenAI Revokes macOS App Certificate After Malicious Axios Supply Chain Incident](https://thehackernews.com/2026/04/openai-revokes-macos-app-certificate.html) - *The Hacker News* (2026-04-13)
 - [CPUID Breach Distributes STX RAT via Trojanized CPU-Z and HWMonitor Downloads](https://thehackernews.com/2026/04/cpuid-breach-distributes-stx-rat-via.html) - *The Hacker News* (2026-04-12)
 - [Adobe Patches Actively Exploited Acrobat Reader Flaw CVE-2026-34621](https://thehackernews.com/2026/04/adobe-patches-actively-exploited.html) - *The Hacker News* (2026-04-12)
 - [Citizen Lab: Law Enforcement Used Webloc to Track 500 Million Devices via Ad Data](https://thehackernews.com/2026/04/citizen-lab-law-enforcement-used-webloc.html) - *The Hacker News* (2026-04-11)
 - [Friday Squid Blogging: Squid Overfishing in the South Pacific](https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-squid-overfishing-in-the-south-pacific.html) - *Schneier on Security* (2026-04-10)
 - [GlassWorm Campaign Uses Zig Dropper to Infect Multiple Developer IDEs](https://thehackernews.com/2026/04/glassworm-campaign-uses-zig-dropper-to.html) - *The Hacker News* (2026-04-10)
-- [Browser Extensions Are the New AI Consumption Channel That No One Is Talking About](https://thehackernews.com/2026/04/browser-extensions-are-new-ai.html) - *The Hacker News* (2026-04-10)
 - [Sen. Sanders Talks to Claude About AI and Privacy](https://www.schneier.com/blog/archives/2026/04/sen-sanders-talks-to-claude-about-ai-and-privacy.html) - *Schneier on Security* (2026-04-10)
 - [On Microsoft’s Lousy Cloud Security](https://www.schneier.com/blog/archives/2026/04/on-microsofts-lousy-cloud-security.html) - *Schneier on Security* (2026-04-09)
 - [Python Supply-Chain Compromise](https://www.schneier.com/blog/archives/2026/04/python-supply-chain-compromise.html) - *Schneier on Security* (2026-04-08)
@@ -46,11 +45,11 @@ Automated tech news updates. Last updated: 2026-04-12 08:51:00 UTC
 
 ## Databases/Storage
 
+- [Cornelia Biacsics: Contributions for week 14, 2026](https://postgr.es/p/8wl) - *Planet PostgreSQL* (2026-04-13)
+- [Jeremy Schneider: Zero autovacuum_cost_delay, Write Storms, and You](https://postgr.es/p/8wk) - *Planet PostgreSQL* (2026-04-13)
+- [Vibhor Kumar: column_encrypt v4.0: A Simpler, Safer Model for Column-Level Encryption in PostgreSQL](https://postgr.es/p/8t4) - *Planet PostgreSQL* (2026-04-12)
 - [Lukas Fittl: Waiting for Postgres 19: Reduced timing overhead for EXPLAIN ANALYZE with RDTSC](https://postgr.es/p/8pQ) - *Planet PostgreSQL* (2026-04-11)
 - [Shaun Thomas: Checkpoints, Write Storms, and You](https://postgr.es/p/8mA) - *Planet PostgreSQL* (2026-04-10)
-- [Hubert 'depesz' Lubaczewski: Waiting for PostgreSQL 19 – new pg_get_*_ddl() functions](https://postgr.es/p/8jg) - *Planet PostgreSQL* (2026-04-09)
-- [warda bibi: The 1 GB Limit That Breaks pg_prewarm at Scale](https://postgr.es/p/8jf) - *Planet PostgreSQL* (2026-04-09)
-- [Jim Mlodgenski: pgcollection 2.0: Integer Keys, Range Deletes, and Oracle Parity](https://postgr.es/p/8je) - *Planet PostgreSQL* (2026-04-09)
 - [How to build unified JSON search solutions in AWS](https://aws.amazon.com/blogs/database/how-to-build-unified-json-search-solutions-in-aws/) - *AWS Database Blog* (2026-04-08)
 - [Monitor custom database metrics in Amazon RDS for SQL Server using Amazon CloudWatch](https://aws.amazon.com/blogs/database/monitor-custom-database-metrics-in-amazon-rds-for-sql-server-using-amazon-cloudwatch/) - *AWS Database Blog* (2026-04-07)
 - [PostgreSQL logical replication: How to replicate only the data that you need](https://aws.amazon.com/blogs/database/postgresql-logical-replication-how-to-replicate-only-the-data-that-you-need/) - *AWS Database Blog* (2026-04-07)
@@ -67,19 +66,19 @@ Automated tech news updates. Last updated: 2026-04-12 08:51:00 UTC
 
 ## Computing
 
+- [Shock from Iran war has Trump's vision for US energy dominance flailing](https://arstechnica.com/science/2026/04/shock-from-iran-war-has-trumps-vision-for-us-energy-dominance-flailing/) - *Ars Technica - All content* (2026-04-12)
 - [AI models are terrible at betting on soccer—especially xAI Grok](https://arstechnica.com/ai/2026/04/ai-models-are-terrible-at-betting-on-soccer-especially-xai-grok/) - *Ars Technica - All content* (2026-04-11)
 - [The Artemis II mission has ended. Where does NASA go from here?](https://arstechnica.com/space/2026/04/the-artemis-ii-mission-has-ended-where-does-nasa-go-from-here/) - *Ars Technica - All content* (2026-04-11)
 - [Four astronauts are back home after a daring ride around the Moon](https://arstechnica.com/space/2026/04/four-astronauts-are-back-home-after-a-daring-ride-around-the-moon/) - *Ars Technica - All content* (2026-04-11)
 - [Californians sue over AI tool that records doctor visits](https://arstechnica.com/tech-policy/2026/04/californians-sue-over-ai-tool-that-records-doctor-visits/) - *Ars Technica - All content* (2026-04-10)
-- [New paper argues history, not mantle plume, powers Yellowstone](https://arstechnica.com/science/2026/04/new-paper-argues-history-not-mantle-plume-powers-yellowstone/) - *Ars Technica - All content* (2026-04-10)
 
 ## AI/Models/RL
 
-- [Using projects in ChatGPT](https://openai.com/academy/projects) - *OpenAI News* (2026-04-10)
-- [ChatGPT for marketing teams](https://openai.com/academy/marketing) - *OpenAI News* (2026-04-10)
-- [Our response to the Axios developer tool compromise](https://openai.com/index/axios-developer-tool-compromise) - *OpenAI News* (2026-04-10)
-- [Using custom GPTs](https://openai.com/academy/custom-gpts) - *OpenAI News* (2026-04-10)
-- [Analyzing data with ChatGPT](https://openai.com/academy/data-analysis) - *OpenAI News* (2026-04-10)
+- [Research with ChatGPT](https://openai.com/academy/search-and-deep-research) - *OpenAI News* (2026-04-10)
+- [ChatGPT for finance teams](https://openai.com/academy/finance) - *OpenAI News* (2026-04-10)
+- [ChatGPT for research](https://openai.com/academy/research) - *OpenAI News* (2026-04-10)
+- [Financial services](https://openai.com/academy/financial-services) - *OpenAI News* (2026-04-10)
+- [Responsible and safe use of AI](https://openai.com/academy/responsible-and-safe-use) - *OpenAI News* (2026-04-10)
 - [ConvApparel: Measuring and bridging the realism gap in user simulators](https://research.google/blog/convapparel-measuring-and-bridging-the-realism-gap-in-user-simulators/) - *The latest research from Google* (2026-04-09)
 - [Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs](https://huggingface.co/blog/waypoint-1-5) - *Hugging Face - Blog* (2026-04-09)
 - [Multimodal Embedding & Reranker Models with Sentence Transformers](https://huggingface.co/blog/multimodal-sentence-transformers) - *Hugging Face - Blog* (2026-04-09)
