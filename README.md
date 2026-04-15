@@ -1,13 +1,13 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-04-14 09:19:48 UTC
+Automated tech news updates. Last updated: 2026-04-15 09:21:16 UTC
 
 ## Software Architecture
 
+- [Presentation: Latency: the Race to Zero...Are We There Yet?](https://www.infoq.com/presentations/latency-techniques/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-04-10)
 - [Article: Stateful Continuation for AI Agents: Why Transport Layers Now Matter](https://www.infoq.com/articles/ai-agent-transport-layer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-04-08)
 - [Pinterest Reduces Spark OOM Failures by 96% through Auto Memory Retries](https://www.infoq.com/news/2026/04/pinterest-spark-oom-reduction/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-04-06)
 - [Podcast: Context Engineering with Adi Polak](https://www.infoq.com/podcasts/context-engineering-large-language-models/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-04-06)
-- [Article: Replacing Database Sequences at Scale without Breaking 100+ Services](https://www.infoq.com/articles/replacing-database-sequences/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-04-03)
 
 ## Cloud Computing
 
@@ -32,64 +32,64 @@ Automated tech news updates. Last updated: 2026-04-14 09:19:48 UTC
 
 ## Security
 
-- [108 Malicious Chrome Extensions Steal Google and Telegram Data, Affecting 20,000 Users](https://thehackernews.com/2026/04/108-malicious-chrome-extensions-steal.html) - *The Hacker News* (2026-04-14)
-- [ShowDoc RCE Flaw CVE-2025-0520 Actively Exploited on Unpatched Servers](https://thehackernews.com/2026/04/showdoc-rce-flaw-cve-2025-0520-actively.html) - *The Hacker News* (2026-04-14)
-- [CISA Adds 6 Known Exploited Flaws in Fortinet, Microsoft, and Adobe Software](https://thehackernews.com/2026/04/cisa-adds-6-known-exploited-flaws-in.html) - *The Hacker News* (2026-04-14)
-- [JanelaRAT Malware Targets Latin American Banks with 14,739 Attacks in Brazil in 2025](https://thehackernews.com/2026/04/janelarat-malware-targets-latin.html) - *The Hacker News* (2026-04-13)
+- [Microsoft Issues Patches for SharePoint Zero-Day and 168 Other New Vulnerabilities](https://thehackernews.com/2026/04/microsoft-issues-patches-for-sharepoint.html) - *The Hacker News* (2026-04-15)
+- [OpenAI Launches GPT-5.4-Cyber with Expanded Access for Security Teams](https://thehackernews.com/2026/04/openai-launches-gpt-54-cyber-with.html) - *The Hacker News* (2026-04-15)
+- [Patch Tuesday, April 2026 Edition](https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/) - *Krebs on Security* (2026-04-14)
+- [Upcoming Speaking Engagements](https://www.schneier.com/blog/archives/2026/04/upcoming-speaking-engagements-55.html) - *Schneier on Security* (2026-04-14)
+- [New PHP Composer Flaws Enable Arbitrary Command Execution — Patches Released](https://thehackernews.com/2026/04/new-php-composer-flaws-enable-arbitrary.html) - *The Hacker News* (2026-04-14)
+- [Google Adds Rust-Based DNS Parser into Pixel 10 Modem to Enhance Security](https://thehackernews.com/2026/04/google-adds-rust-based-dns-parser-into.html) - *The Hacker News* (2026-04-14)
+- [AI-Driven Pushpaganda Scam Exploits Google Discover to Spread Scareware and Ad Fraud](https://thehackernews.com/2026/04/ai-driven-pushpaganda-scam-exploits.html) - *The Hacker News* (2026-04-14)
+- [How Hackers Are Thinking About AI](https://www.schneier.com/blog/archives/2026/04/how-hackers-are-thinking-about-ai.html) - *Schneier on Security* (2026-04-14)
 - [On Anthropic’s Mythos Preview and Project Glasswing](https://www.schneier.com/blog/archives/2026/04/on-anthropics-mythos-preview-and-project-glasswing.html) - *Schneier on Security* (2026-04-13)
-- [FBI and Indonesian Police Dismantle W3LL Phishing Network Behind $20M Fraud Attempts](https://thehackernews.com/2026/04/fbi-and-indonesian-police-dismantle.html) - *The Hacker News* (2026-04-13)
 - [AI Chatbots and Trust](https://www.schneier.com/blog/archives/2026/04/ai-chatbots-and-trust.html) - *Schneier on Security* (2026-04-13)
-- [Friday Squid Blogging: Squid Overfishing in the South Pacific](https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-squid-overfishing-in-the-south-pacific.html) - *Schneier on Security* (2026-04-10)
-- [Sen. Sanders Talks to Claude About AI and Privacy](https://www.schneier.com/blog/archives/2026/04/sen-sanders-talks-to-claude-about-ai-and-privacy.html) - *Schneier on Security* (2026-04-10)
-- [On Microsoft’s Lousy Cloud Security](https://www.schneier.com/blog/archives/2026/04/on-microsofts-lousy-cloud-security.html) - *Schneier on Security* (2026-04-09)
 
 ## Databases/Storage
 
+- [Vibhor Kumar: AI-Ready PostgreSQL 18 Is Out: Why AI Applications Win or Lose at the Seams](https://postgr.es/p/8zI) - *Planet PostgreSQL* (2026-04-14)
+- [New Research Reveals Overcoming Legacy Tech Issues Key to AI Success](https://www.mongodb.com/company/blog/innovation/new-research-reveals-overcoming-legacy-tech-issues-key-ai-success) - *MongoDB | Blog* (2026-04-14)
+- [Improving storage with additional storage volumes in Amazon RDS for SQL Server](https://aws.amazon.com/blogs/database/improving-storage-with-additional-storage-volumes-in-amazon-rds-for-sql-server/) - *AWS Database Blog* (2026-04-14)
+- [Accelerate database migration to Amazon Aurora DSQL with Kiro and Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/database/accelerate-database-migration-to-amazon-aurora-dsql-with-kiro-and-amazon-bedrock-agentcore/) - *AWS Database Blog* (2026-04-14)
 - [Gabriele Bartolini: Owning the pipe: physical replication, cloud neutrality, and the escape from DBaaS lock-in](https://postgr.es/p/8zD) - *Planet PostgreSQL* (2026-04-14)
 - [David Wheeler: pg_clickhouse 0.2.0](https://postgr.es/p/8wn) - *Planet PostgreSQL* (2026-04-13)
 - [Options for changing AWS KMS encryption key for Amazon RDS databases](https://aws.amazon.com/blogs/database/options-for-changing-aws-kms-encryption-key-for-amazon-rds-databases/) - *AWS Database Blog* (2026-04-13)
 - [Connecting .NET Lambda to Amazon Aurora PostgreSQL via RDS Proxy](https://aws.amazon.com/blogs/database/connecting-net-lambda-to-amazon-aurora-postgresql-via-rds-proxy/) - *AWS Database Blog* (2026-04-13)
 - [Cornelia Biacsics: Contributions for week 14, 2026](https://postgr.es/p/8wl) - *Planet PostgreSQL* (2026-04-13)
 - [Richard Yen: Understanding PostgreSQL Wait Events](https://postgr.es/p/8wm) - *Planet PostgreSQL* (2026-04-13)
-- [Jeremy Schneider: Zero autovacuum_cost_delay, Write Storms, and You](https://postgr.es/p/8wk) - *Planet PostgreSQL* (2026-04-13)
-- [How to build unified JSON search solutions in AWS](https://aws.amazon.com/blogs/database/how-to-build-unified-json-search-solutions-in-aws/) - *AWS Database Blog* (2026-04-08)
-- [Monitor custom database metrics in Amazon RDS for SQL Server using Amazon CloudWatch](https://aws.amazon.com/blogs/database/monitor-custom-database-metrics-in-amazon-rds-for-sql-server-using-amazon-cloudwatch/) - *AWS Database Blog* (2026-04-07)
-- [PostgreSQL logical replication: How to replicate only the data that you need](https://aws.amazon.com/blogs/database/postgresql-logical-replication-how-to-replicate-only-the-data-that-you-need/) - *AWS Database Blog* (2026-04-07)
 
 ## Networking
 
-- [Curious about quantum? Check out training options from ISC2, IBM, AWS and more](https://www.networkworld.com/article/4157986/curious-about-quantum-check-out-training-options-from-isc2-ibm-aws-and-more.html) - *12 quantum training courses from ISC2, IBM, AWS and more | Network World* (2026-04-14)
-- [Fixing encryption isn’t enough. Quantum developments put focus on authentication](https://www.networkworld.com/article/4158139/fixing-encryption-isnt-enough-quantum-developments-put-focus-on-authentication.html) - *12 quantum training courses from ISC2, IBM, AWS and more | Network World* (2026-04-14)
-- [Linux 7.0 debuts with some big changes for networking](https://www.networkworld.com/article/4158187/linux-7-0-debuts-with-some-big-changes-for-networking.html) - *12 quantum training courses from ISC2, IBM, AWS and more | Network World* (2026-04-14)
-- [Intel: Latest news and insights](https://www.networkworld.com/article/4021442/intel-latest-news-and-insights.html) - *12 quantum training courses from ISC2, IBM, AWS and more | Network World* (2026-04-13)
-- [AI demand is so high, AWS customers are trying to buy out its entire capacity](https://www.networkworld.com/article/4157477/ai-demand-is-so-high-aws-customers-are-trying-to-buy-out-its-entire-capacity.html) - *12 quantum training courses from ISC2, IBM, AWS and more | Network World* (2026-04-11)
+- [Satellite backhaul service Globalstar has a new, rich owner amid challenging market conditions](https://www.networkworld.com/article/4158908/satellite-backhaul-service-globalstar-has-a-new-rich-owner-amid-challenging-market-conditions.html) - *Satellite backhaul service Globalstar has a new, rich owner amid challenging market conditions  | Network World* (2026-04-15)
+- [Cisco just made two moves to own the AI infrastructure stack](https://www.networkworld.com/article/4158694/cisco-just-made-two-moves-to-own-the-ai-infrastructure-stack.html) - *Satellite backhaul service Globalstar has a new, rich owner amid challenging market conditions  | Network World* (2026-04-14)
+- [Data centers are moving inland, away from some traditional locations](https://www.networkworld.com/article/4158559/data-centers-are-moving-inland-away-from-some-traditional-locations.html) - *Satellite backhaul service Globalstar has a new, rich owner amid challenging market conditions  | Network World* (2026-04-14)
+- [2026 network outage report and internet health check](https://www.networkworld.com/article/4113326/2026-network-outage-report-and-internet-health-check.html) - *Satellite backhaul service Globalstar has a new, rich owner amid challenging market conditions  | Network World* (2026-04-14)
+- [DNS security is often inadequate, and network engineers should get more involved](https://www.networkworld.com/article/4158134/dns-security-is-often-inadequate-and-network-engineers-should-get-more-involved.html) - *Satellite backhaul service Globalstar has a new, rich owner amid challenging market conditions  | Network World* (2026-04-14)
 
 ## Computing
 
-- [Retro Rewind re-creates the glorious drudgery of working a '90s video store](https://arstechnica.com/gaming/2026/04/retro-rewind-re-creates-the-glorious-drudgery-of-working-a-90s-video-store/) - *Ars Technica - All content* (2026-04-13)
-- [Measles takes a plane to Idaho, which has worst vaccination rate in US](https://arstechnica.com/health/2026/04/airport-measles-case-reported-in-idaho-state-with-lowest-vaccination-rate/) - *Ars Technica - All content* (2026-04-13)
-- [Google shoehorned Rust into Pixel 10 modem to make legacy code safer](https://arstechnica.com/gadgets/2026/04/google-shoehorned-rust-into-pixel-10-modem-to-make-legacy-code-safer/) - *Ars Technica - All content* (2026-04-13)
-- [NZXT agrees to let customers keep their rental PCs in class-action settlement](https://arstechnica.com/gadgets/2026/04/nzxt-agrees-to-3-45-million-settlement-over-controversial-rental-pc-program/) - *Ars Technica - All content* (2026-04-13)
-- [Your tech support company runs scams. Stop—or disguise with more fraud?](https://arstechnica.com/tech-policy/2026/04/your-tech-support-company-runs-scams-stop-or-disguise-with-more-fraud/) - *Ars Technica - All content* (2026-04-13)
+- [Ukraine’s military robot surge aims to offset drone risks to humans](https://arstechnica.com/ai/2026/04/ukraines-military-robot-surge-aims-to-offset-drone-risks-to-humans/) - *Ars Technica - All content* (2026-04-14)
+- [Sony killing features for antenna, set-top box users of Bravia smart TVs in May](https://arstechnica.com/gadgets/2026/04/sony-killing-features-for-antenna-set-top-box-users-of-bravia-smart-tvs-in-may/) - *Ars Technica - All content* (2026-04-14)
+- [Americans ask AI for health care. Hospitals think the answer is more chatbots.](https://arstechnica.com/health/2026/04/americans-ask-ai-for-health-care-hospitals-think-the-answer-is-more-chatbots/) - *Ars Technica - All content* (2026-04-14)
+- [Two-year-old Surface PCs get $300 price hikes as sub-$1,000 models go away](https://arstechnica.com/gadgets/2026/04/two-year-old-surface-pcs-get-300-price-hikes-as-sub-1000-models-go-away/) - *Ars Technica - All content* (2026-04-14)
+- [Apple chooses Amazon satellites for iPhone, years after rejecting Starlink offer](https://arstechnica.com/tech-policy/2026/04/amazon-to-merge-with-globalstar-become-iphones-primary-satellite-provider/) - *Ars Technica - All content* (2026-04-14)
 
 ## AI/Models/RL
 
+- [Trusted access for the next era of cyber defense](https://openai.com/index/scaling-trusted-access-for-cyber-defense) - *OpenAI News* (2026-04-14)
 - [Towards developing future-ready skills with generative AI](https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai/) - *The latest research from Google* (2026-04-13)
+- [Gemini Robotics-ER 1.6: Powering real-world robotics tasks through enhanced embodied reasoning](https://deepmind.google/blog/gemini-robotics-er-1-6/) - *Google DeepMind News* (2026-04-13)
 - [Enterprises power agentic workflows in Cloudflare Agent Cloud with OpenAI](https://openai.com/index/cloudflare-openai-agent-cloud) - *OpenAI News* (2026-04-13)
-- [ChatGPT for operations teams](https://openai.com/academy/operations) - *OpenAI News* (2026-04-10)
-- [Applications of AI at OpenAI](https://openai.com/academy/applications-of-ai) - *OpenAI News* (2026-04-10)
 - [ChatGPT for finance teams](https://openai.com/academy/finance) - *OpenAI News* (2026-04-10)
-- [Brainstorming with ChatGPT](https://openai.com/academy/brainstorming) - *OpenAI News* (2026-04-10)
+- [ChatGPT for marketing teams](https://openai.com/academy/marketing) - *OpenAI News* (2026-04-10)
+- [Getting started with ChatGPT](https://openai.com/academy/getting-started) - *OpenAI News* (2026-04-10)
 - [ConvApparel: Measuring and bridging the realism gap in user simulators](https://research.google/blog/convapparel-measuring-and-bridging-the-realism-gap-in-user-simulators/) - *The latest research from Google* (2026-04-09)
 - [Waypoint-1.5: Higher-Fidelity Interactive Worlds for Everyday GPUs](https://huggingface.co/blog/waypoint-1-5) - *Hugging Face - Blog* (2026-04-09)
 - [Multimodal Embedding & Reranker Models with Sentence Transformers](https://huggingface.co/blog/multimodal-sentence-transformers) - *Hugging Face - Blog* (2026-04-09)
-- [Improving the academic workflow: Introducing two AI agents for better figures and peer review](https://research.google/blog/improving-the-academic-workflow-introducing-two-ai-agents-for-better-figures-and-peer-review/) - *The latest research from Google* (2026-04-08)
 
 ## AI Infra
 
-- [How to build effective reward functions with AWS Lambda for Amazon Nova model customization](https://aws.amazon.com/blogs/machine-learning/how-to-build-effective-reward-functions-with-aws-lambda-for-amazon-nova-model-customization/) - *Artificial Intelligence* (2026-04-13)
-- [Understanding Amazon Bedrock model lifecycle](https://aws.amazon.com/blogs/machine-learning/understanding-amazon-bedrock-model-lifecycle/) - *Artificial Intelligence* (2026-04-09)
-- [The future of managing agents at scale: AWS Agent Registry now in preview](https://aws.amazon.com/blogs/machine-learning/the-future-of-managing-agents-at-scale-aws-agent-registry-now-in-preview/) - *Artificial Intelligence* (2026-04-09)
-- [Embed a live AI browser agent in your React app with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/embed-a-live-ai-browser-agent-in-your-react-app-with-amazon-bedrock-agentcore/) - *Artificial Intelligence* (2026-04-09)
-- [Introducing stateful MCP client capabilities on Amazon Bedrock AgentCore Runtime](https://aws.amazon.com/blogs/machine-learning/introducing-stateful-mcp-client-capabilities-on-amazon-bedrock-agentcore-runtime/) - *Artificial Intelligence* (2026-04-09)
+- [Navigating the generative AI journey: The Path-to-Value framework from AWS](https://aws.amazon.com/blogs/machine-learning/navigating-the-generative-ai-journey-the-path-to-value-framework-from-aws/) - *Artificial Intelligence* (2026-04-14)
+- [Use-case based deployments on SageMaker JumpStart](https://aws.amazon.com/blogs/machine-learning/use-case-based-deployments-on-sagemaker-jumpstart/) - *Artificial Intelligence* (2026-04-14)
+- [Best practices to run inference on Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/best-practices-to-run-inference-on-amazon-sagemaker-hyperpod/) - *Artificial Intelligence* (2026-04-14)
+- [How Guidesly built AI-generated trip reports for outdoor guides on AWS](https://aws.amazon.com/blogs/machine-learning/how-guidesly-built-ai-generated-trip-reports-for-outdoor-guides-on-aws/) - *Artificial Intelligence* (2026-04-14)
+- [Spring AI SDK for Amazon Bedrock AgentCore is now Generally Available](https://aws.amazon.com/blogs/machine-learning/spring-ai-sdk-for-amazon-bedrock-agentcore-is-now-generally-available/) - *Artificial Intelligence* (2026-04-14)
 
