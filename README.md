@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-04-18 08:53:08 UTC
+Automated tech news updates. Last updated: 2026-04-19 08:56:06 UTC
 
 ## Software Architecture
 
@@ -66,11 +66,11 @@ Automated tech news updates. Last updated: 2026-04-18 08:53:08 UTC
 
 ## Computing
 
+- [Great white sharks are overheating](https://arstechnica.com/science/2026/04/great-white-sharks-are-overheating/) - *Ars Technica - All content* (2026-04-18)
 - [US-sanctioned currency exchange says $15 million heist done by "unfriendly states"](https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/) - *Ars Technica - All content* (2026-04-17)
 - [Man with @ihackedthegovernment Instagram account tells judge, “I made a mistake"](https://arstechnica.com/tech-policy/2026/04/man-with-ihackedthegovernment-instagram-account-tells-judge-i-made-a-mistake/) - *Ars Technica - All content* (2026-04-17)
 - [Trump picks qualified, normal health leader to head CDC; experts still cautious](https://arstechnica.com/health/2026/04/trump-picks-qualified-normal-health-leader-to-head-cdc-experts-still-cautious/) - *Ars Technica - All content* (2026-04-17)
 - [$25,000 buys plenty of used EVs: Here are some options](https://arstechnica.com/cars/2026/04/25000-buys-plenty-of-used-evs-here-are-some-options/) - *Ars Technica - All content* (2026-04-17)
-- [Satellite and drone images reveal big delays in US data center construction](https://arstechnica.com/ai/2026/04/construction-delays-hit-40-of-us-data-centers-planned-for-2026/) - *Ars Technica - All content* (2026-04-17)
 
 ## AI/Models/RL
 
