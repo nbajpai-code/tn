@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-04-19 08:56:06 UTC
+Automated tech news updates. Last updated: 2026-04-20 09:59:28 UTC
 
 ## Software Architecture
 
@@ -32,25 +32,25 @@ Automated tech news updates. Last updated: 2026-04-19 08:56:06 UTC
 
 ## Security
 
+- [Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems](https://thehackernews.com/2026/04/researchers-detect-zionsiphon-malware.html) - *The Hacker News* (2026-04-20)
+- [Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials](https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html) - *The Hacker News* (2026-04-20)
 - [[Webinar] Eliminate Ghost Identities Before They Expose Your Enterprise Data](https://thehackernews.com/2026/04/webinar-find-and-eliminate-orphaned-non.html) - *The Hacker News* (2026-04-18)
 - [$13.74M Hack Shuts Down Sanctioned Grinex Exchange After Intelligence Claims](https://thehackernews.com/2026/04/1374m-hack-shuts-down-sanctioned-grinex.html) - *The Hacker News* (2026-04-18)
 - [Mirai Variant Nexcorium Exploits CVE-2024-3721 to Hijack TBK DVRs for DDoS Botnet](https://thehackernews.com/2026/04/mirai-variant-nexcorium-exploits-cve.html) - *The Hacker News* (2026-04-18)
 - [Friday Squid Blogging: New Giant Squid Video](https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-new-giant-squid-video-2.html) - *Schneier on Security* (2026-04-17)
-- [Three Microsoft Defender Zero-Days Actively Exploited; Two Still Unpatched](https://thehackernews.com/2026/04/three-microsoft-defender-zero-days.html) - *The Hacker News* (2026-04-17)
 - [Mythos and Cybersecurity](https://www.schneier.com/blog/archives/2026/04/mythos-and-cybersecurity.html) - *Schneier on Security* (2026-04-17)
-- [Google Blocks 8.3B Policy-Violating Ads in 2025, Launches Android 17 Privacy Overhaul](https://thehackernews.com/2026/04/google-blocks-83b-policy-violating-ads.html) - *The Hacker News* (2026-04-17)
 - [Human Trust of AI Agents](https://www.schneier.com/blog/archives/2026/04/human-trust-of-ai-agents.html) - *Schneier on Security* (2026-04-16)
 - [Defense in Depth, Medieval Style](https://www.schneier.com/blog/archives/2026/04/defense-in-depth-medieval-style.html) - *Schneier on Security* (2026-04-15)
 - [Patch Tuesday, April 2026 Edition](https://krebsonsecurity.com/2026/04/patch-tuesday-april-2026-edition/) - *Krebs on Security* (2026-04-14)
 
 ## Databases/Storage
 
+- [Chao Li: Understanding PostgreSQL REPACK Through repack.c](https://postgr.es/p/8Uj) - *Planet PostgreSQL* (2026-04-20)
+- [Cornelia Biacsics: Contributions for week 15, 2026](https://postgr.es/p/8Ui) - *Planet PostgreSQL* (2026-04-20)
 - [Radim Marek: PostgreSQL MVCC, Byte by byte](https://postgr.es/p/8Kk) - *Planet PostgreSQL* (2026-04-17)
 - [Shaun Thomas: Enforcing Constraints Across Postgres Partitions](https://postgr.es/p/8Kl) - *Planet PostgreSQL* (2026-04-17)
 - [Build resilient Kerberos authentication for Aurora Global Database without joining Active Directory domain](https://aws.amazon.com/blogs/database/build-resilient-kerberos-authentication-for-aurora-global-database-without-joining-active-directory-domain/) - *AWS Database Blog* (2026-04-16)
 - [Bruce Momjian: Postgres 19 Release Notes](https://postgr.es/p/8DI) - *Planet PostgreSQL* (2026-04-15)
-- [Hubert 'depesz' Lubaczewski: Waiting for PostgreSQL 19 – Online enabling and disabling of data checksums](https://postgr.es/p/8D2) - *Planet PostgreSQL* (2026-04-15)
-- [Tudor Golubenco: Introducing Xata OSS: Postgres platform with branching, now Apache 2.0](https://postgr.es/p/8C_) - *Planet PostgreSQL* (2026-04-15)
 - [New Research Reveals Overcoming Legacy Tech Issues Key to AI Success](https://www.mongodb.com/company/blog/innovation/new-research-reveals-overcoming-legacy-tech-issues-key-ai-success) - *MongoDB | Blog* (2026-04-14)
 - [Improving storage with additional storage volumes in Amazon RDS for SQL Server](https://aws.amazon.com/blogs/database/improving-storage-with-additional-storage-volumes-in-amazon-rds-for-sql-server/) - *AWS Database Blog* (2026-04-14)
 - [Accelerate database migration to Amazon Aurora DSQL with Kiro and Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/database/accelerate-database-migration-to-amazon-aurora-dsql-with-kiro-and-amazon-bedrock-agentcore/) - *AWS Database Blog* (2026-04-14)
@@ -66,11 +66,11 @@ Automated tech news updates. Last updated: 2026-04-19 08:56:06 UTC
 
 ## Computing
 
+- [Blue Origin's rocket reuse achievement marred by upper stage failure](https://arstechnica.com/space/2026/04/errant-upper-stage-spoils-blue-origins-success-in-reusing-new-glenn-booster/) - *Ars Technica - All content* (2026-04-19)
+- [I’ve fired one of America’s most powerful lasers—here’s what a shot day looks like](https://arstechnica.com/science/2026/04/ive-fired-one-of-americas-most-powerful-lasers-heres-what-a-shot-day-looks-like/) - *Ars Technica - All content* (2026-04-19)
 - [Great white sharks are overheating](https://arstechnica.com/science/2026/04/great-white-sharks-are-overheating/) - *Ars Technica - All content* (2026-04-18)
 - [US-sanctioned currency exchange says $15 million heist done by "unfriendly states"](https://arstechnica.com/security/2026/04/russia-friendly-exchange-says-western-special-service-behind-15-million-cyberattack/) - *Ars Technica - All content* (2026-04-17)
 - [Man with @ihackedthegovernment Instagram account tells judge, “I made a mistake"](https://arstechnica.com/tech-policy/2026/04/man-with-ihackedthegovernment-instagram-account-tells-judge-i-made-a-mistake/) - *Ars Technica - All content* (2026-04-17)
-- [Trump picks qualified, normal health leader to head CDC; experts still cautious](https://arstechnica.com/health/2026/04/trump-picks-qualified-normal-health-leader-to-head-cdc-experts-still-cautious/) - *Ars Technica - All content* (2026-04-17)
-- [$25,000 buys plenty of used EVs: Here are some options](https://arstechnica.com/cars/2026/04/25000-buys-plenty-of-used-evs-here-are-some-options/) - *Ars Technica - All content* (2026-04-17)
 
 ## AI/Models/RL
 
