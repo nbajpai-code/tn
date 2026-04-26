@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-04-25 08:54:44 UTC
+Automated tech news updates. Last updated: 2026-04-26 09:02:30 UTC
 
 ## Software Architecture
 
@@ -33,12 +33,12 @@ Automated tech news updates. Last updated: 2026-04-25 08:54:44 UTC
 
 ## Security
 
+- [Researchers Uncover Pre-Stuxnet ‘fast16’ Malware Targeting Engineering Software](https://thehackernews.com/2026/04/researchers-uncover-pre-stuxnet-fast16.html) - *The Hacker News* (2026-04-25)
 - [CISA Adds 4 Exploited Flaws to KEV, Sets May 2026 Federal Deadline](https://thehackernews.com/2026/04/cisa-adds-4-exploited-flaws-to-kev-sets.html) - *The Hacker News* (2026-04-25)
 - [Friday Squid Blogging: How Squid Survived Extinction Events](https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-how-squid-survived-extinction-events.html) - *Schneier on Security* (2026-04-24)
 - [FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches](https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html) - *The Hacker News* (2026-04-24)
 - [NASA Employees Duped in Chinese Phishing Scheme Targeting U.S. Defense Software](https://thehackernews.com/2026/04/nasa-employees-duped-in-chinese.html) - *The Hacker News* (2026-04-24)
 - [Bridging the AI Agent Authority Gap: Continuous Observability as the Decision Engine](https://thehackernews.com/2026/04/bridging-ai-agent-authority-gap.html) - *The Hacker News* (2026-04-24)
-- [26 FakeWallet Apps Found on Apple App Store Targeting Crypto Seed Phrases](https://thehackernews.com/2026/04/26-fakewallet-apps-found-on-apple-app.html) - *The Hacker News* (2026-04-24)
 - [Hiding Bluetooth Trackers in Mail](https://www.schneier.com/blog/archives/2026/04/hiding-bluetooth-trackers-in-mail.html) - *Schneier on Security* (2026-04-24)
 - [FBI Extracts Deleted Signal Messages from iPhone Notification Database](https://www.schneier.com/blog/archives/2026/04/fbi-extracts-deleted-signal-messages-from-iphone-notification-database.html) - *Schneier on Security* (2026-04-23)
 - [ICE Uses Graphite Spyware](https://www.schneier.com/blog/archives/2026/04/ice-uses-graphite-spyware.html) - *Schneier on Security* (2026-04-22)
@@ -46,11 +46,11 @@ Automated tech news updates. Last updated: 2026-04-25 08:54:44 UTC
 
 ## Databases/Storage
 
+- [Christophe Pettus: All Your GUCs in a Row: archive_command](https://postgr.es/p/9d1) - *Planet PostgreSQL* (2026-04-26)
 - [Christophe Pettus: All your GUCs in a Row: archive_cleanup_command](https://postgr.es/p/99A) - *Planet PostgreSQL* (2026-04-25)
 - [Christophe Pettus: Postgres Goes to the Lake, Two Ways](https://postgr.es/p/969) - *Planet PostgreSQL* (2026-04-24)
 - [Christophe Pettus: Huge Pages, End to End](https://postgr.es/p/968) - *Planet PostgreSQL* (2026-04-24)
 - [Shaun Thomas: The Scaling Ceiling: When One Postgres Instance Tries to Be Everything](https://postgr.es/p/96b) - *Planet PostgreSQL* (2026-04-24)
-- [Rhys Stewart: Finding the centre of Jamaica.](https://postgr.es/p/96a) - *Planet PostgreSQL* (2026-04-24)
 - [Best practices and architecture patterns for cross-account sharing in Oracle Database@AWS](https://aws.amazon.com/blogs/database/best-practices-and-architecture-patterns-for-cross-account-sharing-in-oracle-databaseaws/) - *AWS Database Blog* (2026-04-23)
 - [7 tips to optimize Azure Cosmos DB costs for AI and agentic workloads](https://devblogs.microsoft.com/cosmosdb/7-tips-to-optimize-azure-cosmos-db-costs-for-ai-and-agentic-workloads/) - *Azure Cosmos DB Blog* (2026-04-22)
 - [AWS purpose-built database recovery: A guide to business continuity and disaster recovery strategies](https://aws.amazon.com/blogs/database/aws-purpose-built-database-recovery-a-guide-to-business-continuity-and-disaster-recovery-strategies/) - *AWS Database Blog* (2026-04-22)
@@ -67,11 +67,11 @@ Automated tech news updates. Last updated: 2026-04-25 08:54:44 UTC
 
 ## Computing
 
+- [Artemis II broke Fred Haise's distance record, but he is happy to pass it on](https://arstechnica.com/science/2026/04/artemis-ii-broke-fred-haises-distance-record-but-he-is-happy-to-pass-it-on/) - *Ars Technica - All content* (2026-04-25)
+- [Palantir employees are talking about company's "descent into fascism"](https://arstechnica.com/tech-policy/2026/04/palantir-employees-are-talking-about-companys-descent-into-fascism/) - *Ars Technica - All content* (2026-04-25)
 - [This is who's developing Golden Dome's orbital interceptors—if they're ever built](https://arstechnica.com/space/2026/04/this-is-whos-developing-golden-domes-orbital-interceptors-if-theyre-ever-built/) - *Ars Technica - All content* (2026-04-25)
 - [Google will invest as much as $40 billion in Anthropic](https://arstechnica.com/ai/2026/04/google-will-invest-as-much-as-40-billion-in-anthropic/) - *Ars Technica - All content* (2026-04-24)
 - [Europe—not US—first to authorize Moderna's combo mRNA flu-COVID vaccine](https://arstechnica.com/health/2026/04/europe-not-us-first-to-authorize-modernas-combo-mrna-flu-covid-vaccine/) - *Ars Technica - All content* (2026-04-24)
-- [FCC: Router ban includes portable hotspots, but not phones with hotspot features](https://arstechnica.com/tech-policy/2026/04/fcc-says-ban-on-foreign-made-routers-includes-portable-wi-fi-hotspots/) - *Ars Technica - All content* (2026-04-24)
-- [Why are top university websites serving porn? It comes down to shoddy housekeeping.](https://arstechnica.com/security/2026/04/why-are-top-university-websites-serving-porn-it-comes-down-to-shoddy-housekeeping/) - *Ars Technica - All content* (2026-04-24)
 
 ## AI/Models/RL
 
