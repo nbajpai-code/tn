@@ -1,14 +1,13 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-04-26 09:02:30 UTC
+Automated tech news updates. Last updated: 2026-04-27 10:17:16 UTC
 
 ## Software Architecture
 
 - [Cloudflare Sandboxes Reach General Availability, Giving AI Agents Persistent Isolated Environments](https://www.infoq.com/news/2026/04/cloudflare-sandboxes-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-04-22)
 - [Article: When a Cloud Region Fails: Rethinking High Availability in a Geopolitically Unstable World](https://www.infoq.com/articles/sovereign-fault-domains-cloud-resilience/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-04-22)
 - [Presentation: Event-Driven Patterns for Cloud-Native Banking - What Works, What Hurts?](https://www.infoq.com/presentations/patterns-payment-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-04-20)
-- [Article: Building Production-Ready tRPC APIs: The TypeScript Alternative to Apollo Federation](https://www.infoq.com/articles/building-trpc-api-typescript/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-04-20)
-- [Podcast: Engineering Stable, Secure and Scalable Platforms: A Conversation with Matthew Liste](https://www.infoq.com/podcasts/engineering-stable-secure-scalable-platforms/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-04-20)
+- [Podcast: Engineering Stable, Secure and Scalable Platforms: a Conversation with Matthew Liste](https://www.infoq.com/podcasts/engineering-stable-secure-scalable-platforms/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-04-20)
 
 ## Cloud Computing
 
@@ -33,12 +32,12 @@ Automated tech news updates. Last updated: 2026-04-26 09:02:30 UTC
 
 ## Security
 
+- [Fake CAPTCHA IRSF Scam and 120 Keitaro Campaigns Drive Global SMS, Crypto Fraud](https://thehackernews.com/2026/04/fake-captcha-irsf-scam-and-120-keitaro.html) - *The Hacker News* (2026-04-27)
 - [Researchers Uncover Pre-Stuxnet ‘fast16’ Malware Targeting Engineering Software](https://thehackernews.com/2026/04/researchers-uncover-pre-stuxnet-fast16.html) - *The Hacker News* (2026-04-25)
 - [CISA Adds 4 Exploited Flaws to KEV, Sets May 2026 Federal Deadline](https://thehackernews.com/2026/04/cisa-adds-4-exploited-flaws-to-kev-sets.html) - *The Hacker News* (2026-04-25)
 - [Friday Squid Blogging: How Squid Survived Extinction Events](https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-how-squid-survived-extinction-events.html) - *Schneier on Security* (2026-04-24)
 - [FIRESTARTER Backdoor Hit Federal Cisco Firepower Device, Survives Security Patches](https://thehackernews.com/2026/04/firestarter-backdoor-hit-federal-cisco.html) - *The Hacker News* (2026-04-24)
 - [NASA Employees Duped in Chinese Phishing Scheme Targeting U.S. Defense Software](https://thehackernews.com/2026/04/nasa-employees-duped-in-chinese.html) - *The Hacker News* (2026-04-24)
-- [Bridging the AI Agent Authority Gap: Continuous Observability as the Decision Engine](https://thehackernews.com/2026/04/bridging-ai-agent-authority-gap.html) - *The Hacker News* (2026-04-24)
 - [Hiding Bluetooth Trackers in Mail](https://www.schneier.com/blog/archives/2026/04/hiding-bluetooth-trackers-in-mail.html) - *Schneier on Security* (2026-04-24)
 - [FBI Extracts Deleted Signal Messages from iPhone Notification Database](https://www.schneier.com/blog/archives/2026/04/fbi-extracts-deleted-signal-messages-from-iphone-notification-database.html) - *Schneier on Security* (2026-04-23)
 - [ICE Uses Graphite Spyware](https://www.schneier.com/blog/archives/2026/04/ice-uses-graphite-spyware.html) - *Schneier on Security* (2026-04-22)
@@ -46,11 +45,11 @@ Automated tech news updates. Last updated: 2026-04-26 09:02:30 UTC
 
 ## Databases/Storage
 
+- [Christophe Pettus: All Your GUCs in a Row: archive_library](https://postgr.es/p/9gs) - *Planet PostgreSQL* (2026-04-27)
 - [Christophe Pettus: All Your GUCs in a Row: archive_command](https://postgr.es/p/9d1) - *Planet PostgreSQL* (2026-04-26)
 - [Christophe Pettus: All your GUCs in a Row: archive_cleanup_command](https://postgr.es/p/99A) - *Planet PostgreSQL* (2026-04-25)
-- [Christophe Pettus: Postgres Goes to the Lake, Two Ways](https://postgr.es/p/969) - *Planet PostgreSQL* (2026-04-24)
 - [Christophe Pettus: Huge Pages, End to End](https://postgr.es/p/968) - *Planet PostgreSQL* (2026-04-24)
-- [Shaun Thomas: The Scaling Ceiling: When One Postgres Instance Tries to Be Everything](https://postgr.es/p/96b) - *Planet PostgreSQL* (2026-04-24)
+- [Christophe Pettus: Postgres Goes to the Lake, Two Ways](https://postgr.es/p/969) - *Planet PostgreSQL* (2026-04-24)
 - [Best practices and architecture patterns for cross-account sharing in Oracle Database@AWS](https://aws.amazon.com/blogs/database/best-practices-and-architecture-patterns-for-cross-account-sharing-in-oracle-databaseaws/) - *AWS Database Blog* (2026-04-23)
 - [7 tips to optimize Azure Cosmos DB costs for AI and agentic workloads](https://devblogs.microsoft.com/cosmosdb/7-tips-to-optimize-azure-cosmos-db-costs-for-ai-and-agentic-workloads/) - *Azure Cosmos DB Blog* (2026-04-22)
 - [AWS purpose-built database recovery: A guide to business continuity and disaster recovery strategies](https://aws.amazon.com/blogs/database/aws-purpose-built-database-recovery-a-guide-to-business-continuity-and-disaster-recovery-strategies/) - *AWS Database Blog* (2026-04-22)
@@ -67,24 +66,24 @@ Automated tech news updates. Last updated: 2026-04-26 09:02:30 UTC
 
 ## Computing
 
+- [Strange New Worlds S4 teaser strikes a more serious tone](https://arstechnica.com/culture/2026/04/strange-new-worlds-s4-teaser-strikes-a-more-serious-tone/) - *Ars Technica - All content* (2026-04-26)
+- [Prime Video drops full trailer for Spider-Noir](https://arstechnica.com/culture/2026/04/prime-video-drops-full-trailer-for-spider-noir/) - *Ars Technica - All content* (2026-04-26)
+- [New robotic control software avoids jamming their joints](https://arstechnica.com/science/2026/04/kinematic-intelligence-helps-robots-learn-their-limits/) - *Ars Technica - All content* (2026-04-26)
 - [Artemis II broke Fred Haise's distance record, but he is happy to pass it on](https://arstechnica.com/science/2026/04/artemis-ii-broke-fred-haises-distance-record-but-he-is-happy-to-pass-it-on/) - *Ars Technica - All content* (2026-04-25)
 - [Palantir employees are talking about company's "descent into fascism"](https://arstechnica.com/tech-policy/2026/04/palantir-employees-are-talking-about-companys-descent-into-fascism/) - *Ars Technica - All content* (2026-04-25)
-- [This is who's developing Golden Dome's orbital interceptors—if they're ever built](https://arstechnica.com/space/2026/04/this-is-whos-developing-golden-domes-orbital-interceptors-if-theyre-ever-built/) - *Ars Technica - All content* (2026-04-25)
-- [Google will invest as much as $40 billion in Anthropic](https://arstechnica.com/ai/2026/04/google-will-invest-as-much-as-40-billion-in-anthropic/) - *Ars Technica - All content* (2026-04-24)
-- [Europe—not US—first to authorize Moderna's combo mRNA flu-COVID vaccine](https://arstechnica.com/health/2026/04/europe-not-us-first-to-authorize-modernas-combo-mrna-flu-covid-vaccine/) - *Ars Technica - All content* (2026-04-24)
 
 ## AI/Models/RL
 
+- [Announcing our partnership with the Republic of Korea](https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/) - *Google DeepMind News* (2026-04-27)
+- [Our principles](https://openai.com/index/our-principles) - *OpenAI News* (2026-04-26)
 - [DeepSeek-V4: a million-token context that agents can actually use](https://huggingface.co/blog/deepseekv4) - *Hugging Face - Blog* (2026-04-24)
 - [Introducing GPT-5.5](https://openai.com/index/introducing-gpt-5-5) - *OpenAI News* (2026-04-23)
 - [GPT-5.5 System Card](https://openai.com/index/gpt-5-5-system-card) - *OpenAI News* (2026-04-23)
-- [Automations](https://openai.com/academy/codex-automations) - *OpenAI News* (2026-04-23)
-- [Top 10 uses for Codex at work](https://openai.com/academy/top-10-use-cases-codex-for-work) - *OpenAI News* (2026-04-23)
 - [Plugins and skills](https://openai.com/academy/codex-plugins-and-skills) - *OpenAI News* (2026-04-23)
+- [What is Codex?](https://openai.com/academy/what-is-codex) - *OpenAI News* (2026-04-23)
 - [How to Use Transformers.js in a Chrome Extension](https://huggingface.co/blog/transformersjs-chrome-extension) - *Hugging Face - Blog* (2026-04-23)
 - [It's all about the angle: Your photos, re-composed](https://research.google/blog/its-all-about-the-angle-your-photos-re-composed/) - *The latest research from Google* (2026-04-22)
 - [Gemma 4 VLA Demo on Jetson Orin Nano Super](https://huggingface.co/blog/nvidia/gemma4) - *Hugging Face - Blog* (2026-04-22)
-- [Decoupled DiLoCo: A new frontier for resilient, distributed AI training](https://deepmind.google/blog/decoupled-diloco/) - *Google DeepMind News* (2026-04-22)
 
 ## AI Infra
 
