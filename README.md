@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-05-01 09:46:51 UTC
+Automated tech news updates. Last updated: 2026-05-02 09:07:25 UTC
 
 ## Software Architecture
 
@@ -33,48 +33,49 @@ Automated tech news updates. Last updated: 2026-05-01 09:46:51 UTC
 
 ## Security
 
-- [Poisoned Ruby Gems and Go Modules Exploit CI Pipelines for Credential Theft](https://thehackernews.com/2026/05/poisoned-ruby-gems-and-go-modules.html) - *The Hacker News* (2026-05-01)
-- [PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials](https://thehackernews.com/2026/04/pytorch-lightning-compromised-in-pypi.html) - *The Hacker News* (2026-04-30)
+- [Trellix Confirms Source Code Breach With Unauthorized Repository Access](https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html) - *The Hacker News* (2026-05-02)
+- [30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign](https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html) - *The Hacker News* (2026-05-01)
+- [Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks](https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html) - *The Hacker News* (2026-05-01)
+- [China-Linked Hackers Target Asian Governments, NATO State, Journalists, and Activists](https://thehackernews.com/2026/05/china-linked-hackers-target-asian.html) - *The Hacker News* (2026-05-01)
+- [A Ransomware Negotiator Was Working for a Ransomware Gang](https://www.schneier.com/blog/archives/2026/05/a-ransomware-negotiator-was-working-for-a-ransomware-gang.html) - *Schneier on Security* (2026-05-01)
+- [Top Five Sales Challenges Costing MSPs Cybersecurity Revenue](https://thehackernews.com/2026/05/top-five-sales-challenges-costing-msps.html) - *The Hacker News* (2026-05-01)
 - [Anti-DDoS Firm Heaped Attacks on Brazilian ISPs](https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/) - *Krebs on Security* (2026-04-30)
-- [ThreatsDay Bulletin: SMS Blaster Busts, OpenEMR Flaws, 600K Roblox Hacks and 25 More Stories](https://thehackernews.com/2026/04/threatsday-bulletin-sms-blaster-busts.html) - *The Hacker News* (2026-04-30)
-- [New Python Backdoor Uses Tunneling Service to Steal Browser and Cloud Credentials](https://thehackernews.com/2026/04/new-python-backdoor-uses-tunneling.html) - *The Hacker News* (2026-04-30)
-- [EtherRAT Distribution Spoofing Administrative Tools via GitHub Facades](https://thehackernews.com/2026/04/etherrat-distribution-spoofing.html) - *The Hacker News* (2026-04-30)
 - [Fast16 Malware](https://www.schneier.com/blog/archives/2026/04/fast16-malware.html) - *Schneier on Security* (2026-04-30)
 - [Claude Mythos Has Found 271 Zero-Days in Firefox](https://www.schneier.com/blog/archives/2026/04/claude-mythos-has-found-271-zero-days-in-firefox.html) - *Schneier on Security* (2026-04-29)
 - [What Anthropic’s Mythos Means for the Future of Cybersecurity](https://www.schneier.com/blog/archives/2026/04/what-anthropics-mythos-means-for-the-future-of-cybersecurity.html) - *Schneier on Security* (2026-04-28)
-- [Medieval Encrypted Letter Decoded](https://www.schneier.com/blog/archives/2026/04/medieval-encrypted-letter-decoded.html) - *Schneier on Security* (2026-04-27)
 
 ## Databases/Storage
 
+- [Christophe Pettus: All Your GUCs in a Row: autovacuum](https://postgr.es/p/9hj) - *Planet PostgreSQL* (2026-05-02)
+- [Introducing langchain-azure-cosmosdb: Build Agentic Apps and RAG with One Database](https://devblogs.microsoft.com/cosmosdb/langchain-azure-cosmos-db-agents-rag/) - *Azure Cosmos DB Blog* (2026-05-01)
+- [Christophe Pettus: Two Hundred and Twelve Things](https://postgr.es/p/9hi) - *Planet PostgreSQL* (2026-05-01)
+- [Christophe Pettus: pgxbackup: Continuity Support for pgBackRest](https://postgr.es/p/9hg) - *Planet PostgreSQL* (2026-05-01)
+- [Shaun Thomas: It Depends: Using Session Variables in Postgres](https://postgr.es/p/9hh) - *Planet PostgreSQL* (2026-05-01)
 - [Henrietta Dombrovskaya: PG DATA 2026. The talks I am most excited about. Part 2](https://postgr.es/p/9hf) - *Planet PostgreSQL* (2026-05-01)
-- [Christophe Pettus: All Your GUCs in a Row: authentication_timeout](https://postgr.es/p/9he) - *Planet PostgreSQL* (2026-05-01)
-- [Christophe Pettus: On pgvectorscale, and Hybrid Search Without an Elasticsearch Sidecar](https://postgr.es/p/9hd) - *Planet PostgreSQL* (2026-04-30)
-- [Paolo Melchiorre: Posette 2026](https://postgr.es/p/9hc) - *Planet PostgreSQL* (2026-04-30)
-- [Vibhor Kumar: The Calm Platform Test: Is Your PostgreSQL Strategy Enterprise-Ready?](https://postgr.es/p/9hb) - *Planet PostgreSQL* (2026-04-30)
 - [Announcing the Private Preview of Cosmos DB Azure RBAC Integration](https://devblogs.microsoft.com/cosmosdb/announcing-the-private-preview-of-cosmos-db-azure-rbac-integration/) - *Azure Cosmos DB Blog* (2026-04-29)
 - [Azure DocumentDB (with MongoDB compatibility) for Banking: A Modern Customer 360 Approach](https://devblogs.microsoft.com/cosmosdb/azure-documentdb-with-mongodb-compatibility-for-banking-a-modern-customer-360-approach/) - *Azure Cosmos DB Blog* (2026-04-29)
 - [Timestream for InfluxDB 3 workload analysis and best practices](https://aws.amazon.com/blogs/database/timestream-for-influxdb-3-workload-analysis-and-best-practices/) - *AWS Database Blog* (2026-04-29)
 - [Features and workflows with Amazon Timestream for InfluxDB 3](https://aws.amazon.com/blogs/database/features-and-workflows-with-amazon-timestream-for-influxdb-3/) - *AWS Database Blog* (2026-04-29)
-- [Building agentic AI for Amazon RDS for SQL Server with Strands and AgentCore](https://aws.amazon.com/blogs/database/building-agentic-ai-for-amazon-rds-for-sql-server-with-strands-and-agentcore/) - *AWS Database Blog* (2026-04-29)
 
 ## Networking
 
-- [When 170,000 people show up: Network refresh readies Churchill Downs for Kentucky Derby](https://www.networkworld.com/article/4165867/when-170000-people-show-up-network-refresh-readies-churchill-downs-for-kentucky-derby.html) - *When 170,000 people show up: Network refresh readies Churchill Downs for Kentucky Derby | Network World* (2026-05-01)
-- [Network jobs watch: Hiring, skills and certification trends](https://www.networkworld.com/article/2093749/network-jobs-watch-hiring-skills-and-certification-trends.html) - *When 170,000 people show up: Network refresh readies Churchill Downs for Kentucky Derby | Network World* (2026-04-30)
-- [IT certification pay surges as noncertified skills slump](https://www.networkworld.com/article/4165731/it-certification-pay-surges-as-noncertified-skills-slump.html) - *When 170,000 people show up: Network refresh readies Churchill Downs for Kentucky Derby | Network World* (2026-04-30)
-- [QuEra claims quantum error correction breakthrough with 2-to-1 qubit ratio](https://www.networkworld.com/article/4165592/quera-claims-quantum-error-correction-breakthrough-with-2-to-1-qubit-ratio.html) - *When 170,000 people show up: Network refresh readies Churchill Downs for Kentucky Derby | Network World* (2026-04-30)
-- [HPE expands ProLiant line with rugged edge servers](https://www.networkworld.com/article/4165508/hpe-expands-proliant-line-with-rugged-edge-servers.html) - *When 170,000 people show up: Network refresh readies Churchill Downs for Kentucky Derby | Network World* (2026-04-30)
+- [Extreme Networks: Memory advantage, Wi-Fi 7 and competitive flux drive momentum](https://www.networkworld.com/article/4166094/extreme-networks-memory-advantage-wi-fi-7-and-competitive-flux-drive-momentum.html) - *Extreme Networks: Memory advantage, Wi-Fi 7 and competitive flux drive momentum | Network World* (2026-05-01)
+- [Scenes from the great data center revolt](https://www.networkworld.com/article/4166062/scenes-from-the-great-data-center-revolt.html) - *Extreme Networks: Memory advantage, Wi-Fi 7 and competitive flux drive momentum | Network World* (2026-05-01)
+- [Enterprise Spotlight: Transforming software development with AI](https://www.networkworld.com/article/4164498/enterprise-spotlight-transforming-software-development-with-ai-4.html) - *Extreme Networks: Memory advantage, Wi-Fi 7 and competitive flux drive momentum | Network World* (2026-05-01)
+- [When 170,000 people show up: Network refresh readies Churchill Downs for Kentucky Derby](https://www.networkworld.com/article/4165867/when-170000-people-show-up-network-refresh-readies-churchill-downs-for-kentucky-derby.html) - *Extreme Networks: Memory advantage, Wi-Fi 7 and competitive flux drive momentum | Network World* (2026-05-01)
+- [Network jobs watch: Hiring, skills and certification trends](https://www.networkworld.com/article/2093749/network-jobs-watch-hiring-skills-and-certification-trends.html) - *Extreme Networks: Memory advantage, Wi-Fi 7 and competitive flux drive momentum | Network World* (2026-04-30)
 
 ## Computing
 
-- [Trump nominates Fox News doctor to be the next surgeon general](https://arstechnica.com/health/2026/04/trump-nominates-fox-news-doctor-to-be-the-next-surgeon-general/) - *Ars Technica - All content* (2026-04-30)
-- [US falls below Ukraine in press freedom as global autocracy takes hold](https://arstechnica.com/tech-policy/2026/04/us-falls-below-ukraine-in-press-freedom-as-global-autocracy-takes-hold/) - *Ars Technica - All content* (2026-04-30)
-- [Russia cloaks launch schedule after spaceport falls in Ukraine's sights](https://arstechnica.com/space/2026/04/russian-cloaks-launch-schedule-after-spaceport-falls-in-ukraines-sights/) - *Ars Technica - All content* (2026-04-30)
-- [Elon Musk's 7 biggest stumbles on the stand at OpenAI trial](https://arstechnica.com/tech-policy/2026/04/elon-musks-7-biggest-stumbles-on-the-stand-at-openai-trial/) - *Ars Technica - All content* (2026-04-30)
-- [The most severe Linux threat to surface in years catches the world flat-footed](https://arstechnica.com/security/2026/04/as-the-most-severe-linux-threat-in-years-surfaces-the-world-scrambles/) - *Ars Technica - All content* (2026-04-30)
+- [Study: AI models that consider user's feeling are more likely to make errors](https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/) - *Ars Technica - All content* (2026-05-01)
+- [The RAMpocalypse has bought Microsoft valuable time in the fight against SteamOS](https://arstechnica.com/gaming/2026/05/the-rampocalypse-has-bought-microsoft-valuable-time-in-the-fight-against-steamos/) - *Ars Technica - All content* (2026-05-01)
+- [Man dies covered in necrotic lesions after amoebas eat him alive](https://arstechnica.com/health/2026/05/amoebas-eat-man-alive-over-months-in-puzzling-ultra-rare-cautionary-tale/) - *Ars Technica - All content* (2026-05-01)
+- [Ubuntu infrastructure has been down for more than a day](https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/) - *Ars Technica - All content* (2026-05-01)
+- [Senators ban themselves from prediction markets after candidates bet on own races](https://arstechnica.com/tech-policy/2026/05/senators-ban-themselves-from-prediction-markets-after-candidates-bet-on-own-races/) - *Ars Technica - All content* (2026-05-01)
 
 ## AI/Models/RL
 
+- [Catalyzing scientific impact through global partnerships and open resources](https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources/) - *The latest research from Google* (2026-05-01)
 - [Enabling a new model for healthcare with AI co-clinician](https://deepmind.google/blog/ai-co-clinician/) - *Google DeepMind News* (2026-04-30)
 - [Introducing Advanced Account Security](https://openai.com/index/advanced-account-security) - *OpenAI News* (2026-04-30)
 - [Four ways Google Research scientists have been using Empirical Research Assistance](https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance/) - *The latest research from Google* (2026-04-29)
@@ -84,13 +85,12 @@ Automated tech news updates. Last updated: 2026-05-01 09:46:51 UTC
 - [Building the compute infrastructure for the Intelligence Age](https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age) - *OpenAI News* (2026-04-29)
 - [Cybersecurity in the Intelligence Age](https://openai.com/index/cybersecurity-in-the-intelligence-age) - *OpenAI News* (2026-04-29)
 - [DeepInfra on Hugging Face Inference Providers 🔥](https://huggingface.co/blog/inference-providers-deepinfra) - *Hugging Face - Blog* (2026-04-29)
-- [Introducing NVIDIA Nemotron 3 Nano Omni: Long-Context Multimodal Intelligence for Documents, Audio and Video Agents](https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence) - *Hugging Face - Blog* (2026-04-28)
 
 ## AI Infra
 
+- [AWS Transform now automates BI migration to Amazon Quick in days](https://aws.amazon.com/blogs/machine-learning/aws-transform-now-automates-bi-migration-to-amazon-quick-in-days/) - *Artificial Intelligence* (2026-05-01)
 - [Reinforcement fine-tuning with LLM-as-a-judge](https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-with-llm-as-a-judge/) - *Artificial Intelligence* (2026-04-30)
 - [AWS Generative AI Model Agility Solution: A comprehensive guide to migrating LLMs for generative AI production](https://aws.amazon.com/blogs/machine-learning/aws-generative-ai-model-agility-solution-a-comprehensive-guide-to-migrating-llms-for-generative-ai-production/) - *Artificial Intelligence* (2026-04-30)
 - [Sun Finance automates ID extraction and fraud detection with generative AI on AWS](https://aws.amazon.com/blogs/machine-learning/sun-finance-automates-id-extraction-and-fraud-detection-with-generative-ai-on-aws/) - *Artificial Intelligence* (2026-04-30)
 - [Unleashing Agentic AI Analytics on Amazon SageMaker with Amazon Athena and Amazon Quick](https://aws.amazon.com/blogs/machine-learning/unleashing-agentic-ai-analytics-on-amazon-sagemaker-with-amazon-athena-and-amazon-quick/) - *Artificial Intelligence* (2026-04-30)
-- [Configuring Amazon Bedrock AgentCore Gateway for secure access to private resources](https://aws.amazon.com/blogs/machine-learning/configuring-amazon-bedrock-agentcore-gateway-for-secure-access-to-private-resources/) - *Artificial Intelligence* (2026-04-30)
 
