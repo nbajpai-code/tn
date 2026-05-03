@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-05-02 09:07:25 UTC
+Automated tech news updates. Last updated: 2026-05-03 09:22:20 UTC
 
 ## Software Architecture
 
@@ -20,6 +20,7 @@ Automated tech news updates. Last updated: 2026-05-02 09:07:25 UTC
 
 ## Kubernetes
 
+- [Kubernetes v1.36: Pod-Level Resource Managers (Alpha)](https://kubernetes.io/blog/2026/05/01/kubernetes-v1-36-feature-pod-level-resource-managers-alpha/) - *Kubernetes Blog* (2026-05-01)
 - [AI sandboxing is having its Kubernetes moment](https://www.cncf.io/blog/2026/04/30/ai-sandboxing-is-having-its-kubernetes-moment/) - *Blog – Cloud Native Computing Foundation* (2026-04-30)
 - [Kubernetes v1.36: In-Place Vertical Scaling for Pod-Level Resources Graduates to Beta](https://kubernetes.io/blog/2026/04/30/kubernetes-v1-36-inplace-pod-level-resources-beta/) - *Kubernetes Blog* (2026-04-30)
 - [Kubernetes v1.36: Tiered Memory Protection with Memory QoS](https://kubernetes.io/blog/2026/04/29/kubernetes-v1-36-memory-qos-tiered-protection/) - *Kubernetes Blog* (2026-04-29)
@@ -27,18 +28,17 @@ Automated tech news updates. Last updated: 2026-05-02 09:07:25 UTC
 - [Kubernetes v1.36: Staleness Mitigation and Observability for Controllers](https://kubernetes.io/blog/2026/04/28/kubernetes-v1-36-staleness-mitigation-for-controllers/) - *Kubernetes Blog* (2026-04-28)
 - [Kubernetes v1.36: Mutable Pod Resources for Suspended Jobs (beta)](https://kubernetes.io/blog/2026/04/27/kubernetes-v1-36-mutable-pod-resources-for-suspended-jobs/) - *Kubernetes Blog* (2026-04-27)
 - [Kubernetes for platform teams: Leveraging k0s and k0rdent](https://www.cncf.io/blog/2026/04/27/kubernetes-for-platform-teams-leveraging-k0s-and-k0rdent/) - *Blog – Cloud Native Computing Foundation* (2026-04-27)
-- [Kubernetes v1.36: Fine-Grained Kubelet API Authorization Graduates to GA](https://kubernetes.io/blog/2026/04/24/kubernetes-v1-36-fine-grained-kubelet-authorization-ga/) - *Kubernetes Blog* (2026-04-24)
 - [From Ingress NGINX to Higress: migrating 60+ resources in 30 minutes with AI](https://www.cncf.io/blog/2026/04/23/from-ingress-nginx-to-higress-migrating-60-resources-in-30-minutes-with-ai/) - *Blog – Cloud Native Computing Foundation* (2026-04-23)
 - [Auto-diagnosing Kubernetes alerts with HolmesGPT and CNCF tools](https://www.cncf.io/blog/2026/04/21/auto-diagnosing-kubernetes-alerts-with-holmesgpt-and-cncf-tools/) - *Blog – Cloud Native Computing Foundation* (2026-04-21)
 
 ## Security
 
+- [CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV](https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html) - *The Hacker News* (2026-05-03)
 - [Trellix Confirms Source Code Breach With Unauthorized Repository Access](https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html) - *The Hacker News* (2026-05-02)
 - [30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign](https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html) - *The Hacker News* (2026-05-01)
 - [Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks](https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html) - *The Hacker News* (2026-05-01)
 - [China-Linked Hackers Target Asian Governments, NATO State, Journalists, and Activists](https://thehackernews.com/2026/05/china-linked-hackers-target-asian.html) - *The Hacker News* (2026-05-01)
 - [A Ransomware Negotiator Was Working for a Ransomware Gang](https://www.schneier.com/blog/archives/2026/05/a-ransomware-negotiator-was-working-for-a-ransomware-gang.html) - *Schneier on Security* (2026-05-01)
-- [Top Five Sales Challenges Costing MSPs Cybersecurity Revenue](https://thehackernews.com/2026/05/top-five-sales-challenges-costing-msps.html) - *The Hacker News* (2026-05-01)
 - [Anti-DDoS Firm Heaped Attacks on Brazilian ISPs](https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/) - *Krebs on Security* (2026-04-30)
 - [Fast16 Malware](https://www.schneier.com/blog/archives/2026/04/fast16-malware.html) - *Schneier on Security* (2026-04-30)
 - [Claude Mythos Has Found 271 Zero-Days in Firefox](https://www.schneier.com/blog/archives/2026/04/claude-mythos-has-found-271-zero-days-in-firefox.html) - *Schneier on Security* (2026-04-29)
@@ -46,12 +46,12 @@ Automated tech news updates. Last updated: 2026-05-02 09:07:25 UTC
 
 ## Databases/Storage
 
+- [Christophe Pettus: All Your GUCs in a Row: autovacuum_analyze_scale_factor and autovacuum_analyze_threshold](https://postgr.es/p/9hl) - *Planet PostgreSQL* (2026-05-03)
+- [Christophe Pettus: wal_sender_shutdown_timeout: Now Actually a Timeout](https://postgr.es/p/9hk) - *Planet PostgreSQL* (2026-05-02)
 - [Christophe Pettus: All Your GUCs in a Row: autovacuum](https://postgr.es/p/9hj) - *Planet PostgreSQL* (2026-05-02)
 - [Introducing langchain-azure-cosmosdb: Build Agentic Apps and RAG with One Database](https://devblogs.microsoft.com/cosmosdb/langchain-azure-cosmos-db-agents-rag/) - *Azure Cosmos DB Blog* (2026-05-01)
 - [Christophe Pettus: Two Hundred and Twelve Things](https://postgr.es/p/9hi) - *Planet PostgreSQL* (2026-05-01)
 - [Christophe Pettus: pgxbackup: Continuity Support for pgBackRest](https://postgr.es/p/9hg) - *Planet PostgreSQL* (2026-05-01)
-- [Shaun Thomas: It Depends: Using Session Variables in Postgres](https://postgr.es/p/9hh) - *Planet PostgreSQL* (2026-05-01)
-- [Henrietta Dombrovskaya: PG DATA 2026. The talks I am most excited about. Part 2](https://postgr.es/p/9hf) - *Planet PostgreSQL* (2026-05-01)
 - [Announcing the Private Preview of Cosmos DB Azure RBAC Integration](https://devblogs.microsoft.com/cosmosdb/announcing-the-private-preview-of-cosmos-db-azure-rbac-integration/) - *Azure Cosmos DB Blog* (2026-04-29)
 - [Azure DocumentDB (with MongoDB compatibility) for Banking: A Modern Customer 360 Approach](https://devblogs.microsoft.com/cosmosdb/azure-documentdb-with-mongodb-compatibility-for-banking-a-modern-customer-360-approach/) - *Azure Cosmos DB Blog* (2026-04-29)
 - [Timestream for InfluxDB 3 workload analysis and best practices](https://aws.amazon.com/blogs/database/timestream-for-influxdb-3-workload-analysis-and-best-practices/) - *AWS Database Blog* (2026-04-29)
@@ -67,11 +67,11 @@ Automated tech news updates. Last updated: 2026-05-02 09:07:25 UTC
 
 ## Computing
 
+- [Research roundup: 6 cool science stories we almost missed](https://arstechnica.com/science/2026/05/research-roundup-6-cool-science-stories-we-almost-missed-4/) - *Ars Technica - All content* (2026-05-02)
+- [Infrasound waves stop kitchen fires, but can they replace sprinklers?](https://arstechnica.com/gadgets/2026/05/startup-says-sound-waves-can-replace-fire-sprinklers-experts-arent-so-sure/) - *Ars Technica - All content* (2026-05-02)
 - [Study: AI models that consider user's feeling are more likely to make errors](https://arstechnica.com/ai/2026/05/study-ai-models-that-consider-users-feeling-are-more-likely-to-make-errors/) - *Ars Technica - All content* (2026-05-01)
 - [The RAMpocalypse has bought Microsoft valuable time in the fight against SteamOS](https://arstechnica.com/gaming/2026/05/the-rampocalypse-has-bought-microsoft-valuable-time-in-the-fight-against-steamos/) - *Ars Technica - All content* (2026-05-01)
 - [Man dies covered in necrotic lesions after amoebas eat him alive](https://arstechnica.com/health/2026/05/amoebas-eat-man-alive-over-months-in-puzzling-ultra-rare-cautionary-tale/) - *Ars Technica - All content* (2026-05-01)
-- [Ubuntu infrastructure has been down for more than a day](https://arstechnica.com/security/2026/05/ubuntu-infrastructure-has-been-down-for-more-than-a-day/) - *Ars Technica - All content* (2026-05-01)
-- [Senators ban themselves from prediction markets after candidates bet on own races](https://arstechnica.com/tech-policy/2026/05/senators-ban-themselves-from-prediction-markets-after-candidates-bet-on-own-races/) - *Ars Technica - All content* (2026-05-01)
 
 ## AI/Models/RL
 
