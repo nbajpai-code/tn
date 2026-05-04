@@ -1,14 +1,13 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-05-03 09:22:20 UTC
+Automated tech news updates. Last updated: 2026-05-04 10:14:12 UTC
 
 ## Software Architecture
 
+- [Article: The DPoP Storage Paradox: Why Browser-Based Proof-of-Possession Remains an Unsolved Problem](https://www.infoq.com/articles/dpop-key-storage-unsolved-problem/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-04-30)
 - [Netflix Scales "Human Infrastructure" to Manage Global Live Operations](https://www.infoq.com/news/2026/04/netflix-live-human-ops-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-04-30)
 - [QCon San Francisco 2026: 12 Tracks Announced](https://www.infoq.com/news/2026/04/qconsf-2026-tracks-announced/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-04-27)
 - [Podcast: A Java Performance Quest: Taming Unsafe Code, Embracing Idiomatic Style & Debugging the Linux Kernel](https://www.infoq.com/podcasts/java-performance-quest/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-04-27)
-- [Cloudflare Sandboxes Reach General Availability, Giving AI Agents Persistent Isolated Environments](https://www.infoq.com/news/2026/04/cloudflare-sandboxes-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-04-22)
-- [Article: When a Cloud Region Fails: Rethinking High Availability in a Geopolitically Unstable World](https://www.infoq.com/articles/sovereign-fault-domains-cloud-resilience/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-04-22)
 
 ## Cloud Computing
 
@@ -33,25 +32,25 @@ Automated tech news updates. Last updated: 2026-05-03 09:22:20 UTC
 
 ## Security
 
+- [Hacking Polymarket](https://www.schneier.com/blog/archives/2026/05/hacking-polymarket.html) - *Schneier on Security* (2026-05-04)
+- [Global Crackdown Arrests 276, Shuts 9 Crypto Scam Centers, Seizes $701M](https://thehackernews.com/2026/05/global-crackdown-arrests-276-shuts-9.html) - *The Hacker News* (2026-05-04)
 - [CISA Adds Actively Exploited Linux Root Access Bug CVE-2026-31431 to KEV](https://thehackernews.com/2026/05/cisa-adds-actively-exploited-linux-root.html) - *The Hacker News* (2026-05-03)
 - [Trellix Confirms Source Code Breach With Unauthorized Repository Access](https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html) - *The Hacker News* (2026-05-02)
 - [30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign](https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html) - *The Hacker News* (2026-05-01)
 - [Cybercrime Groups Using Vishing and SSO Abuse in Rapid SaaS Extortion Attacks](https://thehackernews.com/2026/05/cybercrime-groups-using-vishing-and-sso.html) - *The Hacker News* (2026-05-01)
-- [China-Linked Hackers Target Asian Governments, NATO State, Journalists, and Activists](https://thehackernews.com/2026/05/china-linked-hackers-target-asian.html) - *The Hacker News* (2026-05-01)
 - [A Ransomware Negotiator Was Working for a Ransomware Gang](https://www.schneier.com/blog/archives/2026/05/a-ransomware-negotiator-was-working-for-a-ransomware-gang.html) - *Schneier on Security* (2026-05-01)
 - [Anti-DDoS Firm Heaped Attacks on Brazilian ISPs](https://krebsonsecurity.com/2026/04/anti-ddos-firm-heaped-attacks-on-brazilian-isps/) - *Krebs on Security* (2026-04-30)
 - [Fast16 Malware](https://www.schneier.com/blog/archives/2026/04/fast16-malware.html) - *Schneier on Security* (2026-04-30)
 - [Claude Mythos Has Found 271 Zero-Days in Firefox](https://www.schneier.com/blog/archives/2026/04/claude-mythos-has-found-271-zero-days-in-firefox.html) - *Schneier on Security* (2026-04-29)
-- [What Anthropic’s Mythos Means for the Future of Cybersecurity](https://www.schneier.com/blog/archives/2026/04/what-anthropics-mythos-means-for-the-future-of-cybersecurity.html) - *Schneier on Security* (2026-04-28)
 
 ## Databases/Storage
 
+- [Christophe Pettus: PgQue: Two Snapshots and a Diff](https://postgr.es/p/9ho) - *Planet PostgreSQL* (2026-05-04)
+- [Christophe Pettus: All Your GUCs in a Row: autovacuum_freeze_max_age](https://postgr.es/p/9hn) - *Planet PostgreSQL* (2026-05-04)
+- [Henrietta Dombrovskaya: PG DATA 2026. The talks I am most excited about. Part 3](https://postgr.es/p/9hm) - *Planet PostgreSQL* (2026-05-03)
 - [Christophe Pettus: All Your GUCs in a Row: autovacuum_analyze_scale_factor and autovacuum_analyze_threshold](https://postgr.es/p/9hl) - *Planet PostgreSQL* (2026-05-03)
 - [Christophe Pettus: wal_sender_shutdown_timeout: Now Actually a Timeout](https://postgr.es/p/9hk) - *Planet PostgreSQL* (2026-05-02)
-- [Christophe Pettus: All Your GUCs in a Row: autovacuum](https://postgr.es/p/9hj) - *Planet PostgreSQL* (2026-05-02)
 - [Introducing langchain-azure-cosmosdb: Build Agentic Apps and RAG with One Database](https://devblogs.microsoft.com/cosmosdb/langchain-azure-cosmos-db-agents-rag/) - *Azure Cosmos DB Blog* (2026-05-01)
-- [Christophe Pettus: Two Hundred and Twelve Things](https://postgr.es/p/9hi) - *Planet PostgreSQL* (2026-05-01)
-- [Christophe Pettus: pgxbackup: Continuity Support for pgBackRest](https://postgr.es/p/9hg) - *Planet PostgreSQL* (2026-05-01)
 - [Announcing the Private Preview of Cosmos DB Azure RBAC Integration](https://devblogs.microsoft.com/cosmosdb/announcing-the-private-preview-of-cosmos-db-azure-rbac-integration/) - *Azure Cosmos DB Blog* (2026-04-29)
 - [Azure DocumentDB (with MongoDB compatibility) for Banking: A Modern Customer 360 Approach](https://devblogs.microsoft.com/cosmosdb/azure-documentdb-with-mongodb-compatibility-for-banking-a-modern-customer-360-approach/) - *Azure Cosmos DB Blog* (2026-04-29)
 - [Timestream for InfluxDB 3 workload analysis and best practices](https://aws.amazon.com/blogs/database/timestream-for-influxdb-3-workload-analysis-and-best-practices/) - *AWS Database Blog* (2026-04-29)
