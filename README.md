@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-05-09 09:20:09 UTC
+Automated tech news updates. Last updated: 2026-05-10 09:38:58 UTC
 
 ## Software Architecture
 
@@ -46,12 +46,12 @@ Automated tech news updates. Last updated: 2026-05-09 09:20:09 UTC
 
 ## Databases/Storage
 
+- [Christophe Pettus: All Your GUCs in a Row: autovacuum_vacuum_scale_factor and autovacuum_vacuum_threshold](https://postgr.es/p/9iO) - *Planet PostgreSQL* (2026-05-10)
 - [Christophe Pettus: All Your GUCs in a Row: autovacuum_vacuum_max_threshold](https://postgr.es/p/9iN) - *Planet PostgreSQL* (2026-05-09)
 - [Christophe Pettus: A Field Guide to Alternative Storage Engines for PostgreSQL](https://postgr.es/p/9iL) - *Planet PostgreSQL* (2026-05-08)
 - [Christophe Pettus: pg_lake vs Lakebase: Two Very Different Things Called “Postgres + Lakehouse”](https://postgr.es/p/9iK) - *Planet PostgreSQL* (2026-05-08)
 - [Query billion-scale vectors with SQL: Integrating Amazon S3 Vectors and Aurora PostgreSQL](https://aws.amazon.com/blogs/database/query-billion-scale-vectors-with-sql-integrating-amazon-s3-vectors-and-aurora-postgresql/) - *AWS Database Blog* (2026-05-08)
 - [Shaun Thomas: No Compiler Required: Writing SQL-Only Postgres Extensions](https://postgr.es/p/9iJ) - *Planet PostgreSQL* (2026-05-08)
-- [Christophe Pettus: All Your GUCs in a Row: autovacuum_vacuum_insert_scale_factor and autovacuum_vacuum_insert_threshold](https://postgr.es/p/9iI) - *Planet PostgreSQL* (2026-05-08)
 - [Migrating data from an Amazon Aurora snapshot into Amazon Aurora DSQL](https://aws.amazon.com/blogs/database/migrating-data-from-an-amazon-aurora-snapshot-into-amazon-aurora-dsql/) - *AWS Database Blog* (2026-05-07)
 - [Announcing Valkey 9.0 for Amazon ElastiCache](https://aws.amazon.com/blogs/database/announcing-valkey-9-0-for-amazon-elasticache/) - *AWS Database Blog* (2026-05-07)
 - [Full-text, exact-match, range, and hybrid search on Amazon ElastiCache](https://aws.amazon.com/blogs/database/enhanced-search-for-amazon-elasticache/) - *AWS Database Blog* (2026-05-07)
@@ -67,15 +67,15 @@ Automated tech news updates. Last updated: 2026-05-09 09:20:09 UTC
 
 ## Computing
 
+- [The new Wild West of AI kids’ toys](https://arstechnica.com/ai/2026/05/the-new-wild-west-of-ai-kids-toys/) - *Ars Technica - All content* (2026-05-09)
 - [Manufacturing qubits that can move](https://arstechnica.com/science/2026/05/manufacturing-qubits-that-can-move/) - *Ars Technica - All content* (2026-05-08)
 - [Trump reportedly plans to fire FDA Commissioner Marty Makary](https://arstechnica.com/health/2026/05/trump-reportedly-plans-to-fire-fda-commissioner-marty-makary/) - *Ars Technica - All content* (2026-05-08)
 - [ABC refuses to capitulate to Trump admin, fights FCC probe into The View](https://arstechnica.com/tech-policy/2026/05/abc-fights-trump-fccs-attempt-to-control-content-of-broadcast-tv-shows/) - *Ars Technica - All content* (2026-05-08)
 - [Sony says "efficient" AI tools will lead to even more games flooding the market](https://arstechnica.com/gaming/2026/05/sony-says-efficient-ai-tools-will-lead-to-even-more-games-flooding-the-market/) - *Ars Technica - All content* (2026-05-08)
-- [The unprecedented and deadly cruise ship hantavirus outbreak, explained](https://arstechnica.com/health/2026/05/everything-you-need-to-know-about-the-hantavirus-cruise-ship-outbreak/) - *Ars Technica - All content* (2026-05-08)
 
 ## AI/Models/RL
 
-- [CyberSecQwen-4B: Why Defensive Cyber Needs Small, Specialized, Locally-Runnable Models](https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/cybersecqwen-4b) - *Hugging Face - Blog* (2026-05-08)
+- ["OncoAgent: A Dual-Tier Multi-Agent Framework for Privacy-Preserving Oncology Clinical Decision Support"](https://huggingface.co/blog/lablab-ai-amd-developer-hackathon/oncoagent-official-paper) - *Hugging Face - Blog* (2026-05-09)
 - [EMO: Pretraining mixture of experts for emergent modularity](https://huggingface.co/blog/allenai/emo) - *Hugging Face - Blog* (2026-05-08)
 - [Running Codex safely at OpenAI](https://openai.com/index/running-codex-safely) - *OpenAI News* (2026-05-08)
 - [Scaling Trusted Access for Cyber with GPT-5.5 and GPT-5.5-Cyber](https://openai.com/index/gpt-5-5-with-trusted-access-for-cyber) - *OpenAI News* (2026-05-07)
