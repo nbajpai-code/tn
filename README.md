@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-05-16 09:41:12 UTC
+Automated tech news updates. Last updated: 2026-05-17 09:47:32 UTC
 
 ## Software Architecture
 
@@ -32,24 +32,24 @@ Automated tech news updates. Last updated: 2026-05-16 09:41:12 UTC
 
 ## Security
 
+- [Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt](https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html) - *The Hacker News* (2026-05-17)
+- [Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming](https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html) - *The Hacker News* (2026-05-16)
 - [Friday Squid Blogging: Bigfin Squid](https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-bigfin-squid.html) - *Schneier on Security* (2026-05-16)
 - [Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access](https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html) - *The Hacker News* (2026-05-15)
 - [Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence](https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html) - *The Hacker News* (2026-05-15)
 - [Bypassing On-Camera Age-Verification Checks](https://www.schneier.com/blog/archives/2026/05/bypassing-on-camera-age-verification-checks.html) - *Schneier on Security* (2026-05-15)
 - [What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface](https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html) - *The Hacker News* (2026-05-15)
-- [TanStack Supply Chain Attack Hits Two OpenAI Employee Devices, Forces macOS Updates](https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html) - *The Hacker News* (2026-05-15)
-- [On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email](https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html) - *The Hacker News* (2026-05-15)
 - [Upcoming Speaking Engagements](https://www.schneier.com/blog/archives/2026/05/upcoming-speaking-engagements-56.html) - *Schneier on Security* (2026-05-14)
 - [How Dangerous Is Anthropic’s Mythos AI?](https://www.schneier.com/blog/archives/2026/05/how-dangerous-is-anthropics-mythos-ai.html) - *Schneier on Security* (2026-05-14)
 - [OpenAI’s GPT-5.5 is as Good as Mythos at Finding Security Vulnerabilities](https://www.schneier.com/blog/archives/2026/05/openais-gpt-5-5-is-as-good-as-mythos-at-finding-security-vulnerabilities.html) - *Schneier on Security* (2026-05-13)
 
 ## Databases/Storage
 
+- [Christophe Pettus: All Your GUCs in a Row: bgwriter_lru_maxpages and bgwriter_lru_multiplier](https://postgr.es/p/9jk) - *Planet PostgreSQL* (2026-05-17)
 - [Christophe Pettus: All Your GUCs in a Row: bgwriter_delay and bgwriter_flush_after](https://postgr.es/p/9jj) - *Planet PostgreSQL* (2026-05-16)
 - [Christophe Pettus: Two Decades, Two RCEs: What pgcrypto Has Been Doing Since 2005](https://postgr.es/p/9ji) - *Planet PostgreSQL* (2026-05-15)
 - [Christophe Pettus: All Your GUCs in a Row: backtrace_functions](https://postgr.es/p/9jg) - *Planet PostgreSQL* (2026-05-15)
 - [Radim Marek: Welcome to ORDER BY jungle](https://postgr.es/p/9jh) - *Planet PostgreSQL* (2026-05-15)
-- [Christophe Pettus: Eleven CVEs Walk Into a Release](https://postgr.es/p/9jf) - *Planet PostgreSQL* (2026-05-14)
 - [Getting started with Change Data Capture in Amazon Aurora DSQL](https://aws.amazon.com/blogs/database/getting-started-with-change-data-capture-in-amazon-aurora-dsql/) - *AWS Database Blog* (2026-05-14)
 - [Upgrade strategies for Amazon RDS for MySQL 8.0 to 8.4](https://aws.amazon.com/blogs/database/upgrade-strategies-for-amazon-rds-for-mysql-8-0-to-8-4/) - *AWS Database Blog* (2026-05-14)
 - [Best practices for upgrading Amazon RDS for MySQL 8.0 to 8.4 with prechecks, Blue/Green, and rollback](https://aws.amazon.com/blogs/database/best-practices-for-upgrading-amazon-rds-for-mysql-8-0-to-8-4-with-prechecks-blue-green-and-rollback/) - *AWS Database Blog* (2026-05-14)
@@ -66,18 +66,18 @@ Automated tech news updates. Last updated: 2026-05-16 09:41:12 UTC
 
 ## Computing
 
+- [The US is betting on AI to catch insider trading in prediction markets](https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/) - *Ars Technica - All content* (2026-05-16)
 - [Russia pressures university students to become wartime drone pilots](https://arstechnica.com/gadgets/2026/05/russia-pressures-university-students-to-become-wartime-drone-pilots/) - *Ars Technica - All content* (2026-05-15)
 - [Anthropic’s $1.5B copyright settlement is getting messy as judge delays approval](https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/) - *Ars Technica - All content* (2026-05-15)
 - [US hantavirus case was false positive; outbreak cases drop from 11 to 10](https://arstechnica.com/health/2026/05/us-hantavirus-case-was-false-positive-outbreak-cases-drop-from-11-to-10/) - *Ars Technica - All content* (2026-05-15)
-- [Review: Good Omens finale sticks the landing](https://arstechnica.com/culture/2026/05/review-chaotically-uneven-good-omens-finale-still-conjures-up-old-magic/) - *Ars Technica - All content* (2026-05-15)
-- [Solar power production undercut by coal pollution](https://arstechnica.com/science/2026/05/solar-power-production-undercut-by-coal-pollution/) - *Ars Technica - All content* (2026-05-15)
+- [Review: Good Omens finale (mostly) sticks the landing](https://arstechnica.com/culture/2026/05/review-chaotically-uneven-good-omens-finale-still-conjures-up-old-magic/) - *Ars Technica - All content* (2026-05-15)
 
 ## AI/Models/RL
 
-- [How sales teams use Codex](https://openai.com/academy/codex-for-work/how-sales-teams-use-codex) - *OpenAI News* (2026-05-15)
+- [OpenAI and Malta partner to bring ChatGPT Plus to all citizens](https://openai.com/index/malta-chatgpt-plus-partnership) - *OpenAI News* (2026-05-16)
 - [How business operations teams use Codex](https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex) - *OpenAI News* (2026-05-15)
-- [How data science teams use Codex](https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex) - *OpenAI News* (2026-05-15)
 - [Databricks brings GPT-5.5 to enterprise agent workflows](https://openai.com/index/databricks) - *OpenAI News* (2026-05-15)
+- [How data science teams use Codex](https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex) - *OpenAI News* (2026-05-15)
 - [A new personal finance experience in ChatGPT](https://openai.com/index/personal-finance-chatgpt) - *OpenAI News* (2026-05-15)
 - [Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality](https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2) - *Hugging Face - Blog* (2026-05-14)
 - [Unlocking asynchronicity in continuous batching](https://huggingface.co/blog/continuous_async) - *Hugging Face - Blog* (2026-05-14)
