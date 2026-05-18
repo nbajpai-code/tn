@@ -1,13 +1,11 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-05-17 09:47:32 UTC
+Automated tech news updates. Last updated: 2026-05-18 11:44:37 UTC
 
 ## Software Architecture
 
-- [Applying Best Simple System for Now for Software Design](https://www.infoq.com/news/2026/05/best-simple-system-design/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-05-07)
-- [Article: Beyond the Benchmark: a Metrics-Driven Approach to Sustained iOS Performance on Real Devices](https://www.infoq.com/articles/metrics-driven-approach-ios-performance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-05-06)
-- [Presentation: How Netflix Shapes our Fleet for Efficiency and Reliability](https://www.infoq.com/presentations/strategy-workload-hardware/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-05-05)
-- [Article: Three Pillars of Platform Engineering: a Virtuous Cycle](https://www.infoq.com/articles/platform-reliability-cycle/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-05-05)
+- [Podcast: Context is the Key to the Agentic Architecture Revolution: A Conversation with Baruch Sadogursky](https://www.infoq.com/podcasts/context-key-agentic-architecture-revolution/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-05-18)
+- [Mini book: Architecting Autonomy: Decentralising Architecture Inside an Organization](https://www.infoq.com/minibooks/architecting-autonomy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-05-15)
 
 ## Cloud Computing
 
@@ -19,6 +17,7 @@ Automated tech news updates. Last updated: 2026-05-17 09:47:32 UTC
 
 ## Kubernetes
 
+- [What kubectl debug doesn’t tell you: The silent evidence gap](https://www.cncf.io/blog/2026/05/18/what-kubectl-debug-doesnt-tell-you-the-silent-evidence-gap/) - *Blog – Cloud Native Computing Foundation* (2026-05-18)
 - [Kubernetes v1.36: New Metric for Route Sync in the Cloud Controller Manager](https://kubernetes.io/blog/2026/05/15/ccm-new-metric-route-sync-total/) - *Kubernetes Blog* (2026-05-15)
 - [Kubernetes v1.36: Mixed Version Proxy Graduates to Beta](https://kubernetes.io/blog/2026/05/15/kubernetes-1-36-feature-mixed-version-proxy-beta/) - *Kubernetes Blog* (2026-05-15)
 - [Extending AI gateways with Rust: Custom transformations in agentgateway and kgateway](https://www.cncf.io/blog/2026/05/15/extending-ai-gateways-with-rust-custom-transformations-in-agentgateway-and-kgateway/) - *Blog – Cloud Native Computing Foundation* (2026-05-15)
@@ -28,28 +27,27 @@ Automated tech news updates. Last updated: 2026-05-17 09:47:32 UTC
 - [Building a cloud native platform from the ground up with Kairos, k0rdent, and bindy](https://www.cncf.io/blog/2026/05/13/building-a-cloud-native-platform-from-the-ground-up-with-kairos-k0rdent-and-bindy/) - *Blog – Cloud Native Computing Foundation* (2026-05-13)
 - [Kubernetes v1.36: PSI Metrics for Kubernetes Graduates to GA](https://kubernetes.io/blog/2026/05/12/kubernetes-v1-36-psi-metrics-ga/) - *Kubernetes Blog* (2026-05-12)
 - [A decade of governance: Cloud Custodian at 10 and its role in the agentic AI era](https://www.cncf.io/blog/2026/05/12/a-decade-of-governance-cloud-custodian-at-10-and-its-role-in-the-agentic-ai-era/) - *Blog – Cloud Native Computing Foundation* (2026-05-12)
-- [How to get engineering time back from Kubernetes upgrades](https://www.cncf.io/blog/2026/05/11/how-to-get-engineering-time-back-from-kubernetes-upgrades/) - *Blog – Cloud Native Computing Foundation* (2026-05-11)
 
 ## Security
 
-- [Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt](https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html) - *The Hacker News* (2026-05-17)
-- [Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming](https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html) - *The Hacker News* (2026-05-16)
+- [Developer Workstations Are Now Part of the Software Supply Chain](https://thehackernews.com/2026/05/developer-workstations-are-now-part-of.html) - *The Hacker News* (2026-05-18)
+- [Zero-Day Exploit Against Windows BitLocker](https://www.schneier.com/blog/archives/2026/05/zero-day-exploit-against-windows-bitlocker.html) - *Schneier on Security* (2026-05-18)
+- [Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, Privilege Escalation Flaws](https://thehackernews.com/2026/05/ivanti-fortinet-sap-vmware-n8n-patch.html) - *The Hacker News* (2026-05-18)
+- [MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems](https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html) - *The Hacker News* (2026-05-18)
+- [Four Malicious npm Packages Deliver Infostealers and Phantom Bot DDoS Malware](https://thehackernews.com/2026/05/four-malicious-npm-packages-deliver.html) - *The Hacker News* (2026-05-18)
+- [Pre-Stuxnet Fast16 Malware Tampered with Nuclear Weapons Simulations](https://thehackernews.com/2026/05/pre-stuxnet-fast16-malware-tampered.html) - *The Hacker News* (2026-05-18)
 - [Friday Squid Blogging: Bigfin Squid](https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-bigfin-squid.html) - *Schneier on Security* (2026-05-16)
-- [Turla Turns Kazuar Backdoor Into Modular P2P Botnet for Persistent Access](https://thehackernews.com/2026/05/turla-turns-kazuar-backdoor-into.html) - *The Hacker News* (2026-05-15)
-- [Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence](https://thehackernews.com/2026/05/four-openclaw-flaws-enable-data-theft.html) - *The Hacker News* (2026-05-15)
 - [Bypassing On-Camera Age-Verification Checks](https://www.schneier.com/blog/archives/2026/05/bypassing-on-camera-age-verification-checks.html) - *Schneier on Security* (2026-05-15)
-- [What 45 Days of Watching Your Own Tools Will Tell You About Your Real Attack Surface](https://thehackernews.com/2026/05/what-45-days-of-watching-your-own-tools.html) - *The Hacker News* (2026-05-15)
 - [Upcoming Speaking Engagements](https://www.schneier.com/blog/archives/2026/05/upcoming-speaking-engagements-56.html) - *Schneier on Security* (2026-05-14)
 - [How Dangerous Is Anthropic’s Mythos AI?](https://www.schneier.com/blog/archives/2026/05/how-dangerous-is-anthropics-mythos-ai.html) - *Schneier on Security* (2026-05-14)
-- [OpenAI’s GPT-5.5 is as Good as Mythos at Finding Security Vulnerabilities](https://www.schneier.com/blog/archives/2026/05/openais-gpt-5-5-is-as-good-as-mythos-at-finding-security-vulnerabilities.html) - *Schneier on Security* (2026-05-13)
 
 ## Databases/Storage
 
+- [Gabriele Bartolini: CloudNativePG and Crunchy PGO: an honest, opinionated comparison](https://postgr.es/p/9jm) - *Planet PostgreSQL* (2026-05-18)
+- [Christophe Pettus: All Your GUCs in a Row: block_size](https://postgr.es/p/9jl) - *Planet PostgreSQL* (2026-05-18)
 - [Christophe Pettus: All Your GUCs in a Row: bgwriter_lru_maxpages and bgwriter_lru_multiplier](https://postgr.es/p/9jk) - *Planet PostgreSQL* (2026-05-17)
 - [Christophe Pettus: All Your GUCs in a Row: bgwriter_delay and bgwriter_flush_after](https://postgr.es/p/9jj) - *Planet PostgreSQL* (2026-05-16)
 - [Christophe Pettus: Two Decades, Two RCEs: What pgcrypto Has Been Doing Since 2005](https://postgr.es/p/9ji) - *Planet PostgreSQL* (2026-05-15)
-- [Christophe Pettus: All Your GUCs in a Row: backtrace_functions](https://postgr.es/p/9jg) - *Planet PostgreSQL* (2026-05-15)
-- [Radim Marek: Welcome to ORDER BY jungle](https://postgr.es/p/9jh) - *Planet PostgreSQL* (2026-05-15)
 - [Getting started with Change Data Capture in Amazon Aurora DSQL](https://aws.amazon.com/blogs/database/getting-started-with-change-data-capture-in-amazon-aurora-dsql/) - *AWS Database Blog* (2026-05-14)
 - [Upgrade strategies for Amazon RDS for MySQL 8.0 to 8.4](https://aws.amazon.com/blogs/database/upgrade-strategies-for-amazon-rds-for-mysql-8-0-to-8-4/) - *AWS Database Blog* (2026-05-14)
 - [Best practices for upgrading Amazon RDS for MySQL 8.0 to 8.4 with prechecks, Blue/Green, and rollback](https://aws.amazon.com/blogs/database/best-practices-for-upgrading-amazon-rds-for-mysql-8-0-to-8-4-with-prechecks-blue-green-and-rollback/) - *AWS Database Blog* (2026-05-14)
@@ -66,19 +64,19 @@ Automated tech news updates. Last updated: 2026-05-17 09:47:32 UTC
 
 ## Computing
 
+- [A revolutionary cancer treatment could transform autoimmune disease](https://arstechnica.com/science/2026/05/a-revolutionary-cancer-treatment-could-transform-autoimmune-disease/) - *Ars Technica - All content* (2026-05-17)
 - [The US is betting on AI to catch insider trading in prediction markets](https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/) - *Ars Technica - All content* (2026-05-16)
 - [Russia pressures university students to become wartime drone pilots](https://arstechnica.com/gadgets/2026/05/russia-pressures-university-students-to-become-wartime-drone-pilots/) - *Ars Technica - All content* (2026-05-15)
 - [Anthropic’s $1.5B copyright settlement is getting messy as judge delays approval](https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/) - *Ars Technica - All content* (2026-05-15)
 - [US hantavirus case was false positive; outbreak cases drop from 11 to 10](https://arstechnica.com/health/2026/05/us-hantavirus-case-was-false-positive-outbreak-cases-drop-from-11-to-10/) - *Ars Technica - All content* (2026-05-15)
-- [Review: Good Omens finale (mostly) sticks the landing](https://arstechnica.com/culture/2026/05/review-chaotically-uneven-good-omens-finale-still-conjures-up-old-magic/) - *Ars Technica - All content* (2026-05-15)
 
 ## AI/Models/RL
 
 - [OpenAI and Malta partner to bring ChatGPT Plus to all citizens](https://openai.com/index/malta-chatgpt-plus-partnership) - *OpenAI News* (2026-05-16)
-- [How business operations teams use Codex](https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex) - *OpenAI News* (2026-05-15)
-- [Databricks brings GPT-5.5 to enterprise agent workflows](https://openai.com/index/databricks) - *OpenAI News* (2026-05-15)
-- [How data science teams use Codex](https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex) - *OpenAI News* (2026-05-15)
 - [A new personal finance experience in ChatGPT](https://openai.com/index/personal-finance-chatgpt) - *OpenAI News* (2026-05-15)
+- [How data science teams use Codex](https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex) - *OpenAI News* (2026-05-15)
+- [Databricks brings GPT-5.5 to enterprise agent workflows](https://openai.com/index/databricks) - *OpenAI News* (2026-05-15)
+- [How sales teams use Codex](https://openai.com/academy/codex-for-work/how-sales-teams-use-codex) - *OpenAI News* (2026-05-15)
 - [Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality](https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2) - *Hugging Face - Blog* (2026-05-14)
 - [Unlocking asynchronicity in continuous batching](https://huggingface.co/blog/continuous_async) - *Hugging Face - Blog* (2026-05-14)
 - [Building Blocks for Foundation Model Training and Inference on AWS](https://huggingface.co/blog/amazon/foundation-model-building-blocks) - *Hugging Face - Blog* (2026-05-11)
