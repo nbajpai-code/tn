@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-05-18 11:44:37 UTC
+Automated tech news updates. Last updated: 2026-05-19 11:18:54 UTC
 
 ## Software Architecture
 
@@ -17,6 +17,7 @@ Automated tech news updates. Last updated: 2026-05-18 11:44:37 UTC
 
 ## Kubernetes
 
+- [Automating Confidential Containers (CoCo) infrastructure with Kyverno](https://www.cncf.io/blog/2026/05/19/automating-confidential-containers-coco-infrastructure-with-kyverno/) - *Blog – Cloud Native Computing Foundation* (2026-05-19)
 - [What kubectl debug doesn’t tell you: The silent evidence gap](https://www.cncf.io/blog/2026/05/18/what-kubectl-debug-doesnt-tell-you-the-silent-evidence-gap/) - *Blog – Cloud Native Computing Foundation* (2026-05-18)
 - [Kubernetes v1.36: New Metric for Route Sync in the Cloud Controller Manager](https://kubernetes.io/blog/2026/05/15/ccm-new-metric-route-sync-total/) - *Kubernetes Blog* (2026-05-15)
 - [Kubernetes v1.36: Mixed Version Proxy Graduates to Beta](https://kubernetes.io/blog/2026/05/15/kubernetes-1-36-feature-mixed-version-proxy-beta/) - *Kubernetes Blog* (2026-05-15)
@@ -26,68 +27,67 @@ Automated tech news updates. Last updated: 2026-05-18 11:44:37 UTC
 - [Kubernetes v1.36: Advancing Workload-Aware Scheduling](https://kubernetes.io/blog/2026/05/13/kubernetes-v1-36-advancing-workload-aware-scheduling/) - *Kubernetes Blog* (2026-05-13)
 - [Building a cloud native platform from the ground up with Kairos, k0rdent, and bindy](https://www.cncf.io/blog/2026/05/13/building-a-cloud-native-platform-from-the-ground-up-with-kairos-k0rdent-and-bindy/) - *Blog – Cloud Native Computing Foundation* (2026-05-13)
 - [Kubernetes v1.36: PSI Metrics for Kubernetes Graduates to GA](https://kubernetes.io/blog/2026/05/12/kubernetes-v1-36-psi-metrics-ga/) - *Kubernetes Blog* (2026-05-12)
-- [A decade of governance: Cloud Custodian at 10 and its role in the agentic AI era](https://www.cncf.io/blog/2026/05/12/a-decade-of-governance-cloud-custodian-at-10-and-its-role-in-the-agentic-ai-era/) - *Blog – Cloud Native Computing Foundation* (2026-05-12)
 
 ## Security
 
-- [Developer Workstations Are Now Part of the Software Supply Chain](https://thehackernews.com/2026/05/developer-workstations-are-now-part-of.html) - *The Hacker News* (2026-05-18)
+- [Laurie Anderson Is Quoting Me](https://www.schneier.com/blog/archives/2026/05/laurie-anderson-is-quoting-me.html) - *Schneier on Security* (2026-05-19)
+- [SEPPMail Secure E-Mail Gateway Vulnerabilities Enable RCE and Mail Traffic Access](https://thehackernews.com/2026/05/seppmail-secure-e-mail-gateway.html) - *The Hacker News* (2026-05-19)
+- [Compromised Nx Console 18.95.0 Targeted VS Code Developers with Credential Stealer](https://thehackernews.com/2026/05/compromised-nx-console-18950-targeted.html) - *The Hacker News* (2026-05-19)
+- [Popular GitHub Action Tags Redirected to Imposter Commit to Steal CI/CD Credentials](https://thehackernews.com/2026/05/github-actions-supply-chain-attack.html) - *The Hacker News* (2026-05-19)
+- [Mini Shai-Hulud Pushes Malicious AntV npm Packages via Compromised Maintainer Account](https://thehackernews.com/2026/05/mini-shai-hulud-pushes-malicious-antv.html) - *The Hacker News* (2026-05-19)
+- [CISA Admin Leaked AWS GovCloud Keys on Github](https://krebsonsecurity.com/2026/05/cisa-admin-leaked-aws-govcloud-keys-on-github/) - *Krebs on Security* (2026-05-18)
+- [INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests](https://thehackernews.com/2026/05/interpol-operation-ramz-disrupts-mena.html) - *The Hacker News* (2026-05-18)
 - [Zero-Day Exploit Against Windows BitLocker](https://www.schneier.com/blog/archives/2026/05/zero-day-exploit-against-windows-bitlocker.html) - *Schneier on Security* (2026-05-18)
-- [Ivanti, Fortinet, SAP, VMware, n8n Patch RCE, SQL Injection, Privilege Escalation Flaws](https://thehackernews.com/2026/05/ivanti-fortinet-sap-vmware-n8n-patch.html) - *The Hacker News* (2026-05-18)
-- [MiniPlasma Windows 0-Day Enables SYSTEM Privilege Escalation on Fully Patched Systems](https://thehackernews.com/2026/05/miniplasma-windows-0-day-enables-system.html) - *The Hacker News* (2026-05-18)
-- [Four Malicious npm Packages Deliver Infostealers and Phantom Bot DDoS Malware](https://thehackernews.com/2026/05/four-malicious-npm-packages-deliver.html) - *The Hacker News* (2026-05-18)
-- [Pre-Stuxnet Fast16 Malware Tampered with Nuclear Weapons Simulations](https://thehackernews.com/2026/05/pre-stuxnet-fast16-malware-tampered.html) - *The Hacker News* (2026-05-18)
 - [Friday Squid Blogging: Bigfin Squid](https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-bigfin-squid.html) - *Schneier on Security* (2026-05-16)
 - [Bypassing On-Camera Age-Verification Checks](https://www.schneier.com/blog/archives/2026/05/bypassing-on-camera-age-verification-checks.html) - *Schneier on Security* (2026-05-15)
-- [Upcoming Speaking Engagements](https://www.schneier.com/blog/archives/2026/05/upcoming-speaking-engagements-56.html) - *Schneier on Security* (2026-05-14)
-- [How Dangerous Is Anthropic’s Mythos AI?](https://www.schneier.com/blog/archives/2026/05/how-dangerous-is-anthropics-mythos-ai.html) - *Schneier on Security* (2026-05-14)
 
 ## Databases/Storage
 
+- [Christophe Pettus: All Your GUCs in a Row: bonjour and bonjour_name](https://postgr.es/p/9js) - *Planet PostgreSQL* (2026-05-19)
+- [Vibhor Kumar: Beyond Vector Search: Why PostgreSQL Could Become the Memory Layer for Enterprise AI Systems](https://postgr.es/p/9jr) - *Planet PostgreSQL* (2026-05-18)
+- [Henrietta Dombrovskaya: I think AI can actually help me…](https://postgr.es/p/9jq) - *Planet PostgreSQL* (2026-05-18)
+- [Building an AI-powered grid investigation agent with Aurora DSQL and Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/database/building-an-ai-powered-grid-investigation-agent-with-aurora-dsql-and-amazon-bedrock-agentcore/) - *AWS Database Blog* (2026-05-18)
+- [Improving generative AI accuracy with vector and graph search hybrid queries](https://aws.amazon.com/blogs/database/improving-generative-ai-accuracy-with-vector-and-graph-search-hybrid-queries/) - *AWS Database Blog* (2026-05-18)
+- [Christophe Pettus: PostgreSQL 19 Beta: The Four Features You’ll Actually Feel](https://postgr.es/p/9jp) - *Planet PostgreSQL* (2026-05-18)
 - [Gabriele Bartolini: CloudNativePG and Crunchy PGO: an honest, opinionated comparison](https://postgr.es/p/9jm) - *Planet PostgreSQL* (2026-05-18)
-- [Christophe Pettus: All Your GUCs in a Row: block_size](https://postgr.es/p/9jl) - *Planet PostgreSQL* (2026-05-18)
-- [Christophe Pettus: All Your GUCs in a Row: bgwriter_lru_maxpages and bgwriter_lru_multiplier](https://postgr.es/p/9jk) - *Planet PostgreSQL* (2026-05-17)
-- [Christophe Pettus: All Your GUCs in a Row: bgwriter_delay and bgwriter_flush_after](https://postgr.es/p/9jj) - *Planet PostgreSQL* (2026-05-16)
-- [Christophe Pettus: Two Decades, Two RCEs: What pgcrypto Has Been Doing Since 2005](https://postgr.es/p/9ji) - *Planet PostgreSQL* (2026-05-15)
 - [Getting started with Change Data Capture in Amazon Aurora DSQL](https://aws.amazon.com/blogs/database/getting-started-with-change-data-capture-in-amazon-aurora-dsql/) - *AWS Database Blog* (2026-05-14)
 - [Upgrade strategies for Amazon RDS for MySQL 8.0 to 8.4](https://aws.amazon.com/blogs/database/upgrade-strategies-for-amazon-rds-for-mysql-8-0-to-8-4/) - *AWS Database Blog* (2026-05-14)
 - [Best practices for upgrading Amazon RDS for MySQL 8.0 to 8.4 with prechecks, Blue/Green, and rollback](https://aws.amazon.com/blogs/database/best-practices-for-upgrading-amazon-rds-for-mysql-8-0-to-8-4-with-prechecks-blue-green-and-rollback/) - *AWS Database Blog* (2026-05-14)
-- [How HotelTrader cut inter-AZ cost 95% and latency by 49% with Valkey GLIDE on Amazon ElastiCache](https://aws.amazon.com/blogs/database/how-hoteltrader-cut-inter-az-cost-95-and-latency-by-49-with-valkey-glide-on-amazon-elasticache/) - *AWS Database Blog* (2026-05-13)
-- [Zero-downtime DynamoDB construct migration: from Table to TableV2 with cdk orphan](https://aws.amazon.com/blogs/database/zero-downtime-dynamodb-construct-migration-from-table-to-tablev2-with-cdk-orphan/) - *AWS Database Blog* (2026-05-13)
 
 ## Networking
 
-- [Cisco warns of an actively exploited SD-WAN flaw with max severity](https://www.networkworld.com/article/4171702/cisco-warns-of-an-actively-exploited-sd-wan-flaw-with-max-severity-2.html) - *Cisco warns of an actively exploited SD-WAN flaw with max severity | Network World* (2026-05-15)
-- [Digital twins reshape network and data center management](https://www.networkworld.com/article/4159988/ai-and-digital-twins-reshape-network-and-data-center-management.html) - *Cisco warns of an actively exploited SD-WAN flaw with max severity | Network World* (2026-05-15)
-- [Network outages, power failures strain data center resiliency](https://www.networkworld.com/article/4171277/network-outages-power-failures-strain-data-center-resiliency.html) - *Cisco warns of an actively exploited SD-WAN flaw with max severity | Network World* (2026-05-14)
-- [Five takeaways from Cisco’s blowout quarter and what it means to customers](https://www.networkworld.com/article/4171255/five-takeaways-from-ciscos-blowout-quarter-and-what-it-means-to-customers.html) - *Cisco warns of an actively exploited SD-WAN flaw with max severity | Network World* (2026-05-14)
-- [Cisco to cut nearly 4,000 jobs despite strong growth in AI, enterprise networking](https://www.networkworld.com/article/4171043/cisco-to-cut-nearly-4000-jobs-despite-strong-growth-in-ai-enterprise-networking.html) - *Cisco warns of an actively exploited SD-WAN flaw with max severity | Network World* (2026-05-14)
+- [How AI is transforming network incident response (and where it still falls short)](https://www.networkworld.com/article/4172562/how-ai-is-transforming-network-incident-response-and-where-it-still-falls-short.html) - *How AI is transforming network incident response (and where it still falls short) | Network World* (2026-05-19)
+- [NetOps teams look to AI to automate Day 2 operations](https://www.networkworld.com/article/4172391/netops-teams-look-to-ai-to-automate-day-2-operations.html) - *How AI is transforming network incident response (and where it still falls short) | Network World* (2026-05-18)
+- [Cisco warns of an actively exploited SD-WAN flaw with max severity](https://www.networkworld.com/article/4171702/cisco-warns-of-an-actively-exploited-sd-wan-flaw-with-max-severity-2.html) - *How AI is transforming network incident response (and where it still falls short) | Network World* (2026-05-15)
+- [Digital twins reshape network and data center management](https://www.networkworld.com/article/4159988/ai-and-digital-twins-reshape-network-and-data-center-management.html) - *How AI is transforming network incident response (and where it still falls short) | Network World* (2026-05-15)
+- [Network outages, power failures strain data center resiliency](https://www.networkworld.com/article/4171277/network-outages-power-failures-strain-data-center-resiliency.html) - *How AI is transforming network incident response (and where it still falls short) | Network World* (2026-05-14)
 
 ## Computing
 
-- [A revolutionary cancer treatment could transform autoimmune disease](https://arstechnica.com/science/2026/05/a-revolutionary-cancer-treatment-could-transform-autoimmune-disease/) - *Ars Technica - All content* (2026-05-17)
-- [The US is betting on AI to catch insider trading in prediction markets](https://arstechnica.com/tech-policy/2026/05/the-us-is-betting-on-ai-to-catch-insider-trading-in-prediction-markets/) - *Ars Technica - All content* (2026-05-16)
-- [Russia pressures university students to become wartime drone pilots](https://arstechnica.com/gadgets/2026/05/russia-pressures-university-students-to-become-wartime-drone-pilots/) - *Ars Technica - All content* (2026-05-15)
-- [Anthropic’s $1.5B copyright settlement is getting messy as judge delays approval](https://arstechnica.com/tech-policy/2026/05/authors-fight-for-higher-payouts-from-anthropics-1-5b-copyright-settlement/) - *Ars Technica - All content* (2026-05-15)
-- [US hantavirus case was false positive; outbreak cases drop from 11 to 10](https://arstechnica.com/health/2026/05/us-hantavirus-case-was-false-positive-outbreak-cases-drop-from-11-to-10/) - *Ars Technica - All content* (2026-05-15)
+- [Ebola outbreak: WHO declares emergency, US restricts travel, American infected](https://arstechnica.com/health/2026/05/ebola-outbreak-who-declares-emergency-us-restricts-travel-american-infected/) - *Ars Technica - All content* (2026-05-18)
+- [Legal fail: Don’t use AI to sue Facebook users for calling you a bad date](https://arstechnica.com/tech-policy/2026/05/legal-fail-dont-use-ai-to-sue-facebook-users-for-calling-you-a-bad-date/) - *Ars Technica - All content* (2026-05-18)
+- [One Mars spacecraft, two senators, and a cloud of questions](https://arstechnica.com/space/2026/05/one-mars-spacecraft-two-senators-and-a-cloud-of-questions/) - *Ars Technica - All content* (2026-05-18)
+- [Australian Aboriginals cared for a dingo's grave for decades](https://arstechnica.com/science/2026/05/1000-year-old-burial-reveals-close-bonds-between-people-and-dingoes/) - *Ars Technica - All content* (2026-05-18)
+- [Elon Musk took too long to sue OpenAI, jury unanimously agrees](https://arstechnica.com/tech-policy/2026/05/elon-musk-loses-trial-accusing-sam-altman-openai-of-stealing-a-charity/) - *Ars Technica - All content* (2026-05-18)
 
 ## AI/Models/RL
 
+- [Fine-Tuning NVIDIA Cosmos Predict 2.5 with LoRA/DoRA for Robot Video Generation](https://huggingface.co/blog/nvidia/cosmos-fine-tuning-for-robot-video-generation) - *Hugging Face - Blog* (2026-05-18)
+- [PaddleOCR 3.5: Running OCR and Document Parsing Tasks with a Transformers Backend](https://huggingface.co/blog/PaddlePaddle/paddleocr-transformers) - *Hugging Face - Blog* (2026-05-18)
+- [The Open Agent Leaderboard](https://huggingface.co/blog/ibm-research/open-agent-leaderboard) - *Hugging Face - Blog* (2026-05-18)
+- [OpenAI and Dell partner to bring Codex to hybrid and on-premise enterprise environments](https://openai.com/index/dell-codex-enterprise-partnership) - *OpenAI News* (2026-05-18)
 - [OpenAI and Malta partner to bring ChatGPT Plus to all citizens](https://openai.com/index/malta-chatgpt-plus-partnership) - *OpenAI News* (2026-05-16)
 - [A new personal finance experience in ChatGPT](https://openai.com/index/personal-finance-chatgpt) - *OpenAI News* (2026-05-15)
-- [How data science teams use Codex](https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex) - *OpenAI News* (2026-05-15)
-- [Databricks brings GPT-5.5 to enterprise agent workflows](https://openai.com/index/databricks) - *OpenAI News* (2026-05-15)
 - [How sales teams use Codex](https://openai.com/academy/codex-for-work/how-sales-teams-use-codex) - *OpenAI News* (2026-05-15)
+- [How business operations teams use Codex](https://openai.com/academy/codex-for-work/how-business-operations-teams-use-codex) - *OpenAI News* (2026-05-15)
 - [Granite Embedding Multilingual R2: Open Apache 2.0 Multilingual Embeddings with 32K Context — Best Sub-100M Retrieval Quality](https://huggingface.co/blog/ibm-granite/granite-embedding-multilingual-r2) - *Hugging Face - Blog* (2026-05-14)
 - [Unlocking asynchronicity in continuous batching](https://huggingface.co/blog/continuous_async) - *Hugging Face - Blog* (2026-05-14)
-- [Building Blocks for Foundation Model Training and Inference on AWS](https://huggingface.co/blog/amazon/foundation-model-building-blocks) - *Hugging Face - Blog* (2026-05-11)
-- [EMO: Pretraining mixture of experts for emergent modularity](https://huggingface.co/blog/allenai/emo) - *Hugging Face - Blog* (2026-05-08)
-- [vLLM V0 to V1: Correctness Before Corrections in RL](https://huggingface.co/blog/ServiceNow-AI/correctness-before-corrections) - *Hugging Face - Blog* (2026-05-06)
 
 ## AI Infra
 
+- [Prompting Amazon Nova 2 for content moderation](https://aws.amazon.com/blogs/machine-learning/prompting-amazon-nova-2-for-content-moderation/) - *Artificial Intelligence* (2026-05-18)
+- [Aderant transforms cloud operations with Amazon Quick](https://aws.amazon.com/blogs/machine-learning/aderant-transforms-cloud-operations-with-amazon-quick/) - *Artificial Intelligence* (2026-05-18)
+- [Integrate Atlassian Confluence Cloud with Amazon Quick](https://aws.amazon.com/blogs/machine-learning/integrate-atlassian-confluence-cloud-with-amazon-quick/) - *Artificial Intelligence* (2026-05-18)
+- [Build custom code-based evaluators in Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-custom-code-based-evaluators-in-amazon-bedrock-agentcore/) - *Artificial Intelligence* (2026-05-18)
 - [Restrict access to sensitive documents in your Amazon Quick knowledge bases for Amazon S3](https://aws.amazon.com/blogs/machine-learning/restrict-access-to-sensitive-documents-in-your-amazon-quick-knowledge-bases-for-amazon-s3/) - *Artificial Intelligence* (2026-05-15)
-- [Improve bot accuracy with Amazon Lex Assisted NLU](https://aws.amazon.com/blogs/machine-learning/improve-bot-accuracy-with-amazon-lex-assisted-nlu/) - *Artificial Intelligence* (2026-05-14)
-- [Real-time voice agents with Stream Vision Agents and Amazon Nova 2 Sonic](https://aws.amazon.com/blogs/machine-learning/real-time-voice-agents-with-stream-vision-agents-and-amazon-nova-2-sonic/) - *Artificial Intelligence* (2026-05-14)
-- [From siloed data to unified insights: Cross-account Athena Access for Amazon Quick](https://aws.amazon.com/blogs/machine-learning/from-siloed-data-to-unified-insights-cross-account-athena-access-for-amazon-quick/) - *Artificial Intelligence* (2026-05-14)
-- [Control where your AI agents can browse with Chrome enterprise policies on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/control-where-your-ai-agents-can-browse-with-chrome-enterprise-policies-on-amazon-bedrock-agentcore/) - *Artificial Intelligence* (2026-05-14)
 
