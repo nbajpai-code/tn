@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-05-23 09:55:01 UTC
+Automated tech news updates. Last updated: 2026-05-24 09:55:41 UTC
 
 ## Software Architecture
 
@@ -32,14 +32,14 @@ Automated tech news updates. Last updated: 2026-05-23 09:55:01 UTC
 
 ## Security
 
+- [npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks](https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html) - *The Hacker News* (2026-05-23)
+- [Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware](https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html) - *The Hacker News* (2026-05-23)
+- [Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software](https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html) - *The Hacker News* (2026-05-23)
+- [Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer](https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html) - *The Hacker News* (2026-05-23)
 - [LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root](https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html) - *The Hacker News* (2026-05-23)
-- [Drupal Core SQL Injection Bug Actively Exploited, Added to CISA KEV](https://thehackernews.com/2026/05/drupal-core-sql-injection-bug-actively.html) - *The Hacker News* (2026-05-23)
 - [Friday Squid Blogging: Regulating Squid Fishing in the South Pacific](https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-regulating-squid-fishing-in-the-south-pacific.html) - *Schneier on Security* (2026-05-22)
-- [First VPN Dismantled in Global Takedown Over Use by 25 Ransomware Groups](https://thehackernews.com/2026/05/first-vpn-dismantled-in-global-takedown.html) - *The Hacker News* (2026-05-22)
 - [Lawmakers Demand Answers as CISA Tries to Contain Data Leak](https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/) - *Krebs on Security* (2026-05-22)
-- [Ghostwriter Targets Ukraine Government Entities with Prometheus Phishing Malware](https://thehackernews.com/2026/05/ghostwriter-targets-ukraine-government.html) - *The Hacker News* (2026-05-22)
 - [CISA Security Leak](https://www.schneier.com/blog/archives/2026/05/cisa-security-leak.html) - *Schneier on Security* (2026-05-22)
-- [Megalodon GitHub Attack Targets 5,561 Repos with Malicious CI/CD Workflows](https://thehackernews.com/2026/05/megalodon-github-attack-targets-5561.html) - *The Hacker News* (2026-05-22)
 - [Alleged Kimwolf Botmaster ‘Dort’ Arrested, Charged in U.S. and Canada](https://krebsonsecurity.com/2026/05/alleged-kimwolf-botmaster-dort-arrested-charged-in-u-s-and-canada/) - *Krebs on Security* (2026-05-21)
 - [macOS Kernel Memory Corruption Exploit](https://www.schneier.com/blog/archives/2026/05/macos-kernel-memory-corruption-exploit.html) - *Schneier on Security* (2026-05-21)
 
@@ -66,11 +66,11 @@ Automated tech news updates. Last updated: 2026-05-23 09:55:01 UTC
 
 ## Computing
 
+- [SpaceX's Starship V3—still a work in progress—mostly successful on first flight](https://arstechnica.com/space/2026/05/spacexs-starship-v3-still-a-work-in-progress-mostly-successful-on-first-flight/) - *Ars Technica - All content* (2026-05-23)
+- [Two space shuttle-era spacewalkers enter Astronaut Hall of Fame](https://arstechnica.com/space/2026/05/two-space-shuttle-era-spacewalkers-enter-astronaut-hall-of-fame/) - *Ars Technica - All content* (2026-05-23)
+- [China’s shark finning could lead to US seafood sanctions](https://arstechnica.com/tech-policy/2026/05/chinas-shark-finning-could-lead-to-us-seafood-sanctions/) - *Ars Technica - All content* (2026-05-23)
 - [Four Russian satellites are now within striking distance of an ICEYE radarsat](https://arstechnica.com/space/2026/05/a-satellite-company-supporting-ukraine-appears-to-be-in-russias-crosshairs/) - *Ars Technica - All content* (2026-05-22)
 - [Ebola outbreak now third largest recorded and "spreading rapidly"](https://arstechnica.com/health/2026/05/ebola-outbreak-now-third-largest-recorded-and-spreading-rapidly/) - *Ars Technica - All content* (2026-05-22)
-- [First-generation Chromecast users stressed by devices suddenly failing](https://arstechnica.com/gadgets/2026/05/original-chromecast-lives-devices-back-on-after-mysteriously-breaking-this-week/) - *Ars Technica - All content* (2026-05-22)
-- [Trump FCC asks public to comment on whether ABC's The View is a news show](https://arstechnica.com/tech-policy/2026/05/trump-fcc-asks-public-to-comment-on-whether-abcs-the-view-is-a-news-show/) - *Ars Technica - All content* (2026-05-22)
-- [US scrambles to stop Internet users re-creating dead pilots’ voices](https://arstechnica.com/ai/2026/05/ai-users-re-create-dead-pilots-voices-from-crash-investigation-docs/) - *Ars Technica - All content* (2026-05-22)
 
 ## AI/Models/RL
 
