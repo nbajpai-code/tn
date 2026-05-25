@@ -1,12 +1,12 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-05-24 09:55:41 UTC
+Automated tech news updates. Last updated: 2026-05-25 11:53:25 UTC
 
 ## Software Architecture
 
 - [How Platform Engineering Using Golden Bricks Can Enable Fast and Smooth Delivery](https://www.infoq.com/news/2026/05/platform-golden-bricks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-05-21)
 - [Agoda Builds Multimodal Content System to Bridge Images and Reviews in Travel Discovery](https://www.infoq.com/news/2026/05/agoda-multimodal-content-system/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-05-19)
-- [Podcast: Context is the Key to the Agentic Architecture Revolution: A Conversation with Baruch Sadogursky](https://www.infoq.com/podcasts/context-key-agentic-architecture-revolution/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-05-18)
+- [Podcast: Context is the Key to the Agentic Architecture Revolution: a Conversation with Baruch Sadogursky](https://www.infoq.com/podcasts/context-key-agentic-architecture-revolution/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-05-18)
 - [Mini book: Architecting Autonomy: Decentralising Architecture Inside an Organization](https://www.infoq.com/minibooks/architecting-autonomy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-05-15)
 
 ## Cloud Computing
@@ -19,12 +19,12 @@ Automated tech news updates. Last updated: 2026-05-24 09:55:41 UTC
 
 ## Kubernetes
 
+- [Why Kubernetes policy enforcement happens too late—and what to do about it](https://www.cncf.io/blog/2026/05/25/why-kubernetes-policy-enforcement-happens-too-late-and-what-to-do-about-it/) - *Blog – Cloud Native Computing Foundation* (2026-05-25)
+- [Zero-Downtime migration from ingress NGINX to Envoy Gateway](https://www.cncf.io/blog/2026/05/25/zero-downtime-migration-from-ingress-nginx-to-envoy-gateway/) - *Blog – Cloud Native Computing Foundation* (2026-05-25)
 - [Designing end-to-end ingress request tracing for multi-tenant SaaS platforms](https://www.cncf.io/blog/2026/05/22/designing-end-to-end-ingress-request-tracing-for-multi-tenant-saas-platforms/) - *Blog – Cloud Native Computing Foundation* (2026-05-22)
 - [Aamchi Mumbai: A KubeCon + CloudNativeCon field guide](https://www.cncf.io/blog/2026/05/21/aamchi-mumbai-a-kubecon-cloudnativecon-field-guide/) - *Blog – Cloud Native Computing Foundation* (2026-05-21)
 - [How NetEase Games achieved 30-second LLM cold starts on Kubernetes](https://www.cncf.io/blog/2026/05/21/how-netease-games-achieved-30-second-llm-cold-starts-on-kubernetes/) - *Blog – Cloud Native Computing Foundation* (2026-05-21)
-- [Introducing Prempti: Policy and visibility for AI coding agents](https://www.cncf.io/blog/2026/05/20/introducing-prempti-policy-and-visibility-for-ai-coding-agents/) - *Blog – Cloud Native Computing Foundation* (2026-05-20)
 - [Announcing etcd 3.7.0-beta.0](https://kubernetes.io/blog/2026/05/20/etcd-370-beta/) - *Kubernetes Blog* (2026-05-20)
-- [Automating Confidential Containers (CoCo) infrastructure with Kyverno](https://www.cncf.io/blog/2026/05/19/automating-confidential-containers-coco-infrastructure-with-kyverno/) - *Blog – Cloud Native Computing Foundation* (2026-05-19)
 - [Kubernetes v1.36: New Metric for Route Sync in the Cloud Controller Manager](https://kubernetes.io/blog/2026/05/15/ccm-new-metric-route-sync-total/) - *Kubernetes Blog* (2026-05-15)
 - [Kubernetes v1.36: Mixed Version Proxy Graduates to Beta](https://kubernetes.io/blog/2026/05/15/kubernetes-1-36-feature-mixed-version-proxy-beta/) - *Kubernetes Blog* (2026-05-15)
 - [Kubernetes v1.36: Deprecation and removal of Service ExternalIPs](https://kubernetes.io/blog/2026/05/14/kubernetes-v1-36-deprecation-and-removal-of-service-externalips/) - *Kubernetes Blog* (2026-05-14)
@@ -32,11 +32,11 @@ Automated tech news updates. Last updated: 2026-05-24 09:55:41 UTC
 
 ## Security
 
+- [Lazarus Deploys RemotePE Memory-Only RAT Against Financial and Crypto Firms](https://thehackernews.com/2026/05/lazarus-deploys-remotepe-memory-only.html) - *The Hacker News* (2026-05-25)
+- [TrapDoor Supply Chain Attack Spreads Credential-Stealing Malware via npm, PyPI, and CratesIO](https://thehackernews.com/2026/05/trapdoor-supply-chain-attack-spreads.html) - *The Hacker News* (2026-05-25)
 - [npm Adds 2FA-Gated Publishing and Package Install Controls Against Supply Chain Attacks](https://thehackernews.com/2026/05/npm-adds-2fa-gated-publishing-and.html) - *The Hacker News* (2026-05-23)
 - [Packagist Supply Chain Attack Infects 8 Packages Using GitHub-Hosted Linux Malware](https://thehackernews.com/2026/05/packagist-supply-chain-attack-infects-8.html) - *The Hacker News* (2026-05-23)
 - [Claude Mythos AI Finds 10,000 High-Severity Flaws in Widely Used Software](https://thehackernews.com/2026/05/claude-mythos-ai-finds-10000-high.html) - *The Hacker News* (2026-05-23)
-- [Laravel-Lang PHP Packages Compromised to Deliver Cross-Platform Credential Stealer](https://thehackernews.com/2026/05/laravel-lang-php-packages-compromised.html) - *The Hacker News* (2026-05-23)
-- [LiteSpeed cPanel Plugin CVE-2026-48172 Exploited to Run Scripts as Root](https://thehackernews.com/2026/05/litespeed-cpanel-plugin-cve-2026-48172.html) - *The Hacker News* (2026-05-23)
 - [Friday Squid Blogging: Regulating Squid Fishing in the South Pacific](https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-regulating-squid-fishing-in-the-south-pacific.html) - *Schneier on Security* (2026-05-22)
 - [Lawmakers Demand Answers as CISA Tries to Contain Data Leak](https://krebsonsecurity.com/2026/05/lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak/) - *Krebs on Security* (2026-05-22)
 - [CISA Security Leak](https://www.schneier.com/blog/archives/2026/05/cisa-security-leak.html) - *Schneier on Security* (2026-05-22)
@@ -45,11 +45,11 @@ Automated tech news updates. Last updated: 2026-05-24 09:55:41 UTC
 
 ## Databases/Storage
 
-- [Christophe Pettus: All Your GUCs in a Row: checkpoint_flush_after and checkpoint_warning](https://postgr.es/p/9jK) - *Planet PostgreSQL* (2026-05-23)
-- [Christophe Pettus: pgvector 0.8.2 and the Trouble With Parallel HNSW](https://postgr.es/p/9jJ) - *Planet PostgreSQL* (2026-05-22)
-- [Umair Shahid: Long-running transactions, job queues, and the cascade that wreaks havoc](https://postgr.es/p/9jH) - *Planet PostgreSQL* (2026-05-22)
-- [Shaun Thomas: Why Postgres Lacks Transparent Data Encryption](https://postgr.es/p/9jI) - *Planet PostgreSQL* (2026-05-22)
-- [Christophe Pettus: All Your GUCs in a Row: checkpoint_timeout and checkpoint_completion_target](https://postgr.es/p/9jG) - *Planet PostgreSQL* (2026-05-22)
+- [Christophe Pettus: All Your GUCs in a Row: client_connection_check_interval](https://postgr.es/p/9jR) - *Planet PostgreSQL* (2026-05-25)
+- [Christophe Pettus: A Correction: Snowflake Postgres Is Just Postgres](https://postgr.es/p/9jN) - *Planet PostgreSQL* (2026-05-24)
+- [Radim Marek: TOAST: Where PostgreSQL hides big values](https://postgr.es/p/9jM) - *Planet PostgreSQL* (2026-05-24)
+- [Andrei Lepikhov: On Polymorphic Associations in Postgres](https://postgr.es/p/9jL) - *Planet PostgreSQL* (2026-05-24)
+- [Christophe Pettus: All Your GUCs in a Row: client_encoding](https://postgr.es/p/9jP) - *Planet PostgreSQL* (2026-05-24)
 - [Amazon Aurora MySQL 8.4 is now generally available](https://aws.amazon.com/blogs/database/amazon-aurora-mysql-8-4-is-now-generally-available/) - *AWS Database Blog* (2026-05-21)
 - [Knowing when new open source database engine versions release on Amazon Aurora and Amazon RDS](https://aws.amazon.com/blogs/database/knowing-when-new-open-source-database-engine-versions-release-on-amazon-aurora-and-amazon-rds/) - *AWS Database Blog* (2026-05-21)
 - [Best practices for Amazon DynamoDB Global Tables – Part 3: Validating regional resilience with AWS Fault Injection Service](https://aws.amazon.com/blogs/database/best-practices-for-amazon-dynamodb-global-tables-part-3-validating-regional-resilience-with-aws-fault-injection-service/) - *AWS Database Blog* (2026-05-20)
@@ -66,11 +66,11 @@ Automated tech news updates. Last updated: 2026-05-24 09:55:41 UTC
 
 ## Computing
 
+- [Whatever the mirror test tells us, beluga whales pass it](https://arstechnica.com/science/2026/05/belugas-may-pass-the-mirror-test-but-does-the-mirror-test-still-pass/) - *Ars Technica - All content* (2026-05-24)
 - [SpaceX's Starship V3—still a work in progress—mostly successful on first flight](https://arstechnica.com/space/2026/05/spacexs-starship-v3-still-a-work-in-progress-mostly-successful-on-first-flight/) - *Ars Technica - All content* (2026-05-23)
 - [Two space shuttle-era spacewalkers enter Astronaut Hall of Fame](https://arstechnica.com/space/2026/05/two-space-shuttle-era-spacewalkers-enter-astronaut-hall-of-fame/) - *Ars Technica - All content* (2026-05-23)
 - [China’s shark finning could lead to US seafood sanctions](https://arstechnica.com/tech-policy/2026/05/chinas-shark-finning-could-lead-to-us-seafood-sanctions/) - *Ars Technica - All content* (2026-05-23)
 - [Four Russian satellites are now within striking distance of an ICEYE radarsat](https://arstechnica.com/space/2026/05/a-satellite-company-supporting-ukraine-appears-to-be-in-russias-crosshairs/) - *Ars Technica - All content* (2026-05-22)
-- [Ebola outbreak now third largest recorded and "spreading rapidly"](https://arstechnica.com/health/2026/05/ebola-outbreak-now-third-largest-recorded-and-spreading-rapidly/) - *Ars Technica - All content* (2026-05-22)
 
 ## AI/Models/RL
 
