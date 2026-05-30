@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-05-29 11:30:32 UTC
+Automated tech news updates. Last updated: 2026-05-30 10:01:10 UTC
 
 ## Software Architecture
 
@@ -32,24 +32,24 @@ Automated tech news updates. Last updated: 2026-05-29 11:30:32 UTC
 
 ## Security
 
+- [PAN-OS GlobalProtect Authentication Bypass (CVE-2026-0257) Under Active Exploitation](https://thehackernews.com/2026/05/pan-os-globalprotect-authentication.html) - *The Hacker News* (2026-05-30)
+- [Friday Squid Blogging: Another Squid](https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-another-squid.html) - *Schneier on Security* (2026-05-29)
+- [ChatGPhish Vulnerability Turns ChatGPT Web Summaries Into a Phishing Surface](https://thehackernews.com/2026/05/chatgphish-vulnerability-turns-chatgpt.html) - *The Hacker News* (2026-05-29)
+- [Attackers Use LLM Agent for Post-Exploitation After Marimo CVE-2026-39987 Exploit](https://thehackernews.com/2026/05/attackers-use-llm-agent-for-post.html) - *The Hacker News* (2026-05-29)
+- [New Russia-Linked GREYVIBE Targets Ukraine with AI-Powered Cyberattacks](https://thehackernews.com/2026/05/new-russian-linked-greyvibe-targets.html) - *The Hacker News* (2026-05-29)
 - [Chilling Effects](https://www.schneier.com/blog/archives/2026/05/chilling-effects.html) - *Schneier on Security* (2026-05-29)
 - [What 2,000 Exposed Vibe-Coded Apps Reveal About the Limits of Most Security Stacks](https://thehackernews.com/2026/05/what-2000-exposed-vibe-coded-apps.html) - *The Hacker News* (2026-05-29)
-- [Malicious Sicoob NuGet Steals Banking Credentials as npm Packages Target Cloud Secrets](https://thehackernews.com/2026/05/malicious-sicoob-nuget-steals-banking.html) - *The Hacker News* (2026-05-29)
-- [Kimsuky Deploys HTTPSpy, Expands Arsenal with HelloDoor and VS Code Tunnels](https://thehackernews.com/2026/05/kimsuky-deploys-httpspy-expands-arsenal.html) - *The Hacker News* (2026-05-29)
-- [Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code](https://thehackernews.com/2026/05/critical-gogs-rce-vulnerability-lets.html) - *The Hacker News* (2026-05-28)
-- [Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer](https://thehackernews.com/2026/05/threat-actors-exploit-critical.html) - *The Hacker News* (2026-05-28)
 - [FBI’s 2025 Internet Crime Report](https://www.schneier.com/blog/archives/2026/05/fbis-2025-internet-crime-report.html) - *Schneier on Security* (2026-05-27)
 - [Identifying People Using Wi-Fi Routers](https://www.schneier.com/blog/archives/2026/05/identifying-people-using-wi-fi-routers.html) - *Schneier on Security* (2026-05-26)
 - [Netherlands Seizes 800 Servers, Arrests 2 for Aiding Cyberattacks](https://krebsonsecurity.com/2026/05/netherlands-seizes-800-servers-arrests-2-for-aiding-cyberattacks/) - *Krebs on Security* (2026-05-25)
-- [Friday Squid Blogging: Regulating Squid Fishing in the South Pacific](https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-regulating-squid-fishing-in-the-south-pacific.html) - *Schneier on Security* (2026-05-22)
 
 ## Databases/Storage
 
+- [Christophe Pettus: All Your GUCs in a Row: compute_query_id](https://postgr.es/p/9kR) - *Planet PostgreSQL* (2026-05-30)
+- [Christophe Pettus: Open-Source TDE for PostgreSQL: What pg_tde Is, and Whether You Need It](https://postgr.es/p/9kM) - *Planet PostgreSQL* (2026-05-29)
 - [Floor Drees: PGConf.dev 2026: Our team’s sessions, working groups, and key takeaways](https://postgr.es/p/9kL) - *Planet PostgreSQL* (2026-05-29)
 - [Christophe Pettus: All Your GUCs in a Row: commit_timestamp_buffers](https://postgr.es/p/9kK) - *Planet PostgreSQL* (2026-05-29)
 - [Stefan Fercot: Memories from PGConf.dev 2026](https://postgr.es/p/9kJ) - *Planet PostgreSQL* (2026-05-28)
-- [Christophe Pettus: Twenty Years, Three CVEs, One AI](https://postgr.es/p/9kI) - *Planet PostgreSQL* (2026-05-28)
-- [Vibhor Kumar: Postgres as an Execution Environment for AI: Failure Modes, Hooks, and the ORBIT Framework](https://postgr.es/p/9kG) - *Planet PostgreSQL* (2026-05-28)
 - [Guide your Amazon Aurora MySQL migration with Kiro powers](https://aws.amazon.com/blogs/database/guide-your-amazon-aurora-mysql-migration-with-kiro-powers/) - *AWS Database Blog* (2026-05-28)
 - [AI-native, full-stack web apps with Vercel and AWS Databases](https://aws.amazon.com/blogs/database/ai-native-full-stack-web-apps-with-vercel-and-aws-databases/) - *AWS Database Blog* (2026-05-27)
 - [I’m Starting a New Cosmos DB App. What Security Do I Actually Need?](https://devblogs.microsoft.com/cosmosdb/im-starting-a-new-cosmos-db-app-what-security-do-i-actually-need/) - *Azure Cosmos DB Blog* (2026-05-27)
@@ -58,38 +58,38 @@ Automated tech news updates. Last updated: 2026-05-29 11:30:32 UTC
 
 ## Networking
 
-- [Zero trust isn’t broken, but most companies are doing it wrong](https://www.networkworld.com/article/4176471/zero-trust-isnt-broken-but-most-companies-are-doing-it-wrong.html) - *Zero trust isn’t broken, but most companies are doing it wrong | Network World* (2026-05-27)
-- [As AI datacenter memory becomes hot commodity, SK Hynix makes it cooler](https://www.networkworld.com/article/4177750/as-ai-datacenter-memory-becomes-hot-commodity-sk-hynix-makes-it-cooler.html) - *Zero trust isn’t broken, but most companies are doing it wrong | Network World* (2026-05-27)
-- [Cisco research finds standard AI safety benchmarks miss the real threat](https://www.networkworld.com/article/4177648/cisco-research-finds-standard-ai-safety-benchmarks-miss-the-real-threat.html) - *Zero trust isn’t broken, but most companies are doing it wrong | Network World* (2026-05-27)
-- [Cisco redefines ‘job-ready’ for network engineers with its certification overhaul](https://www.networkworld.com/article/4176494/cisco-redefines-job-ready-for-network-engineers-with-its-certification-overhaul.html) - *Zero trust isn’t broken, but most companies are doing it wrong | Network World* (2026-05-26)
-- [2026 network outage report and internet health check](https://www.networkworld.com/article/4113326/2026-network-outage-report-and-internet-health-check.html) - *Zero trust isn’t broken, but most companies are doing it wrong | Network World* (2026-05-26)
+- [Cisco: Latest news and insights](https://www.networkworld.com/article/3523958/cisco-latest-news-and-insights.html) - *Cisco: Latest news and insights | Network World* (2026-05-29)
+- [Meta considers becoming a hyperscaler](https://www.networkworld.com/article/4178809/meta-considers-becoming-a-hyperscaler.html) - *Cisco: Latest news and insights | Network World* (2026-05-29)
+- [Zero trust isn’t broken, but most companies are doing it wrong](https://www.networkworld.com/article/4176471/zero-trust-isnt-broken-but-most-companies-are-doing-it-wrong.html) - *Cisco: Latest news and insights | Network World* (2026-05-27)
+- [As AI datacenter memory becomes hot commodity, SK Hynix makes it cooler](https://www.networkworld.com/article/4177750/as-ai-datacenter-memory-becomes-hot-commodity-sk-hynix-makes-it-cooler.html) - *Cisco: Latest news and insights | Network World* (2026-05-27)
+- [Cisco research finds standard AI safety benchmarks miss the real threat](https://www.networkworld.com/article/4177648/cisco-research-finds-standard-ai-safety-benchmarks-miss-the-real-threat.html) - *Cisco: Latest news and insights | Network World* (2026-05-27)
 
 ## Computing
 
-- [The most spectacular rocket explosion since N1 just happened in Florida](https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/) - *Ars Technica - All content* (2026-05-29)
-- [2027 Audi RS5 first drive: A performance PHEV with split personalities](https://arstechnica.com/cars/2026/05/2027-audi-rs5-first-drive-a-performance-phev-with-split-personalities/) - *Ars Technica - All content* (2026-05-28)
-- [LLMs believe false statements even after explicit warnings that they're false](https://arstechnica.com/ai/2026/05/llms-believe-false-statements-even-after-explicit-warnings-that-theyre-false/) - *Ars Technica - All content* (2026-05-28)
-- [Fed up with vibe coders, dev sneaks data-nuking prompt injection into their code](https://arstechnica.com/security/2026/05/fed-up-with-vibe-coders-dev-sneaks-data-nuking-prompt-injection-into-their-code/) - *Ars Technica - All content* (2026-05-28)
-- [US healthcare still stupidly expensive, with pathetic outcomes, study finds](https://arstechnica.com/health/2026/05/us-healthcare-still-stupidly-expensive-with-pathetic-outcomes-study-finds/) - *Ars Technica - All content* (2026-05-28)
+- [Proposed new US funding rules: We can cancel any grant at any time](https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/) - *Ars Technica - All content* (2026-05-29)
+- [Kenyan court blocks Trump admin from dumping Ebola-exposed Americans there](https://arstechnica.com/health/2026/05/kenyan-court-blocks-trump-admin-from-dumping-ebola-exposed-americans-there/) - *Ars Technica - All content* (2026-05-29)
+- [Botnet of more than 17 million devices dismantled](https://arstechnica.com/security/2026/05/botnet-of-more-than-17-million-devices-dismantled/) - *Ars Technica - All content* (2026-05-29)
+- [Analysis of Texas measles outbreak shows just how dangerous virus is](https://arstechnica.com/health/2026/05/analysis-of-texas-measles-outbreak-shows-just-how-dangerous-virus-is/) - *Ars Technica - All content* (2026-05-29)
+- [House of the Dragon S3 trailer revels in dragons, fire, and blood](https://arstechnica.com/culture/2026/05/house-of-the-dragon-s3-trailer-revels-in-dragons-fire-and-blood/) - *Ars Technica - All content* (2026-05-29)
 
 ## AI/Models/RL
 
+- [Boston Children’s uses AI to unlock new diagnoses](https://openai.com/index/boston-childrens-hospital) - *OpenAI News* (2026-05-29)
+- [How Braintrust turns customer requests into code with Codex](https://openai.com/index/braintrust) - *OpenAI News* (2026-05-29)
 - [Strengthening societal resilience with Rosalind Biodefense](https://openai.com/index/strengthening-societal-resilience-with-rosalind-biodefense) - *OpenAI News* (2026-05-29)
+- [A shared playbook for trustworthy third party evaluations](https://openai.com/index/trustworthy-third-party-evaluations-foundations) - *OpenAI News* (2026-05-29)
 - [Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler](https://huggingface.co/blog/torch-profiler) - *Hugging Face - Blog* (2026-05-29)
 - [A New Era of Innovation: Google Research at I/O 2026](https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026/) - *The latest research from Google* (2026-05-28)
 - [How Endava builds an agentic organization with Codex](https://openai.com/index/endava) - *OpenAI News* (2026-05-28)
-- [OpenAI’s Frontier Governance Framework](https://openai.com/index/openai-frontier-governance-framework) - *OpenAI News* (2026-05-28)
-- [MUFG aims to become AI-native with OpenAI](https://openai.com/index/mufg) - *OpenAI News* (2026-05-28)
 - [ITBench-AA: Frontier Models Score Below 50% on the First Benchmark for Agentic Enterprise IT Tasks — by Artificial Analysis and IBM](https://huggingface.co/blog/ibm-research/itbench-aa) - *Hugging Face - Blog* (2026-05-27)
 - [Private analytics via zero-trust aggregation](https://research.google/blog/private-analytics-via-zero-trust-aggregation/) - *The latest research from Google* (2026-05-27)
-- [Cisco and OpenAI redefine enterprise engineering with Codex](https://openai.com/index/cisco) - *OpenAI News* (2026-05-27)
 - [Reachy Mini goes fully local](https://huggingface.co/blog/local-reachy-mini-conversation) - *Hugging Face - Blog* (2026-05-27)
 
 ## AI Infra
 
+- [Comprehensive observability for Amazon SageMaker AI LLM inference: From GPU utilization to LLM quality](https://aws.amazon.com/blogs/machine-learning/comprehensive-observability-for-amazon-sagemaker-ai-llm-inference-from-gpu-utilization-to-llm-quality/) - *Artificial Intelligence* (2026-05-29)
 - [Training Azerbaijani language models on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/training-azerbaijani-language-models-on-amazon-sagemaker-ai/) - *Artificial Intelligence* (2026-05-28)
 - [Build a custom portal with embedded Amazon SageMaker AI MLflow Apps](https://aws.amazon.com/blogs/machine-learning/build-a-custom-portal-with-embedded-amazon-sagemaker-ai-mlflow-apps/) - *Artificial Intelligence* (2026-05-28)
 - [Streamline external access to Amazon SageMaker MLflow using a REST API proxy](https://aws.amazon.com/blogs/machine-learning/streamline-external-access-to-amazon-sagemaker-mlflow-using-a-rest-api-proxy/) - *Artificial Intelligence* (2026-05-28)
 - [Evaluating Deep Agents using LangSmith on AWS](https://aws.amazon.com/blogs/machine-learning/evaluating-deep-agents-using-langsmith-on-aws/) - *Artificial Intelligence* (2026-05-28)
-- [Build a test suite that grows with your agent with dataset management in Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-a-test-suite-that-grows-with-your-agent-with-dataset-management-in-amazon-bedrock-agentcore/) - *Artificial Intelligence* (2026-05-28)
 
