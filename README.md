@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-05-30 10:01:10 UTC
+Automated tech news updates. Last updated: 2026-05-31 10:16:37 UTC
 
 ## Software Architecture
 
@@ -45,11 +45,11 @@ Automated tech news updates. Last updated: 2026-05-30 10:01:10 UTC
 
 ## Databases/Storage
 
+- [Christophe Pettus: All Your GUCs in a Row: config_file](https://postgr.es/p/9kS) - *Planet PostgreSQL* (2026-05-31)
 - [Christophe Pettus: All Your GUCs in a Row: compute_query_id](https://postgr.es/p/9kR) - *Planet PostgreSQL* (2026-05-30)
 - [Christophe Pettus: Open-Source TDE for PostgreSQL: What pg_tde Is, and Whether You Need It](https://postgr.es/p/9kM) - *Planet PostgreSQL* (2026-05-29)
 - [Floor Drees: PGConf.dev 2026: Our team’s sessions, working groups, and key takeaways](https://postgr.es/p/9kL) - *Planet PostgreSQL* (2026-05-29)
 - [Christophe Pettus: All Your GUCs in a Row: commit_timestamp_buffers](https://postgr.es/p/9kK) - *Planet PostgreSQL* (2026-05-29)
-- [Stefan Fercot: Memories from PGConf.dev 2026](https://postgr.es/p/9kJ) - *Planet PostgreSQL* (2026-05-28)
 - [Guide your Amazon Aurora MySQL migration with Kiro powers](https://aws.amazon.com/blogs/database/guide-your-amazon-aurora-mysql-migration-with-kiro-powers/) - *AWS Database Blog* (2026-05-28)
 - [AI-native, full-stack web apps with Vercel and AWS Databases](https://aws.amazon.com/blogs/database/ai-native-full-stack-web-apps-with-vercel-and-aws-databases/) - *AWS Database Blog* (2026-05-27)
 - [I’m Starting a New Cosmos DB App. What Security Do I Actually Need?](https://devblogs.microsoft.com/cosmosdb/im-starting-a-new-cosmos-db-app-what-security-do-i-actually-need/) - *Azure Cosmos DB Blog* (2026-05-27)
@@ -66,11 +66,11 @@ Automated tech news updates. Last updated: 2026-05-30 10:01:10 UTC
 
 ## Computing
 
+- [Grifters, cynics, and true believers: The family tree of vaccine opponents](https://arstechnica.com/science/2026/05/grifters-cynics-and-true-believers-the-family-tree-of-vaccine-opponents/) - *Ars Technica - All content* (2026-05-30)
+- [Environmentalists turn out in force to oppose Trump coal ash rollbacks](https://arstechnica.com/tech-policy/2026/05/environmentalists-turn-out-in-force-to-oppose-trump-coal-ash-rollbacks/) - *Ars Technica - All content* (2026-05-30)
 - [Proposed new US funding rules: We can cancel any grant at any time](https://arstechnica.com/science/2026/05/the-office-of-management-and-budget-tries-again-to-cripple-us-science/) - *Ars Technica - All content* (2026-05-29)
 - [Kenyan court blocks Trump admin from dumping Ebola-exposed Americans there](https://arstechnica.com/health/2026/05/kenyan-court-blocks-trump-admin-from-dumping-ebola-exposed-americans-there/) - *Ars Technica - All content* (2026-05-29)
 - [Botnet of more than 17 million devices dismantled](https://arstechnica.com/security/2026/05/botnet-of-more-than-17-million-devices-dismantled/) - *Ars Technica - All content* (2026-05-29)
-- [Analysis of Texas measles outbreak shows just how dangerous virus is](https://arstechnica.com/health/2026/05/analysis-of-texas-measles-outbreak-shows-just-how-dangerous-virus-is/) - *Ars Technica - All content* (2026-05-29)
-- [House of the Dragon S3 trailer revels in dragons, fire, and blood](https://arstechnica.com/culture/2026/05/house-of-the-dragon-s3-trailer-revels-in-dragons-fire-and-blood/) - *Ars Technica - All content* (2026-05-29)
 
 ## AI/Models/RL
 
