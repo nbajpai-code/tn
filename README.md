@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-06-02 12:04:30 UTC
+Automated tech news updates. Last updated: 2026-06-03 12:42:04 UTC
 
 ## Software Architecture
 
@@ -9,11 +9,11 @@ Automated tech news updates. Last updated: 2026-06-02 12:04:30 UTC
 
 ## Cloud Computing
 
+- [Automating contract intelligence with Doczy.ai™ on AWS](https://aws.amazon.com/blogs/architecture/automating-contract-intelligence-with-doczy-ai-on-aws/) - *AWS Architecture Blog* (2026-06-02)
 - [Scaling oncology patient support: How New York Cancer and Blood Specialists transformed customer experience with AWS and Pronetx, now part of Caylent](https://aws.amazon.com/blogs/architecture/scaling-oncology-patient-support-how-new-york-cancer-and-blood-specialists-transformed-customer-experience-with-aws-and-pronetx-now-part-of-caylent/) - *AWS Architecture Blog* (2026-06-01)
 - [Building a scalable user search layer on top of Amazon Cognito](https://aws.amazon.com/blogs/architecture/building-a-scalable-user-search-layer-on-top-of-amazon-cognito/) - *AWS Architecture Blog* (2026-06-01)
 - [Cyber resilience on AWS: A reference approach for recovery from ransomware and destructive events](https://aws.amazon.com/blogs/architecture/cyber-resilience-on-aws-a-reference-approach-for-recovery-from-ransomware-and-destructive-events/) - *AWS Architecture Blog* (2026-05-20)
 - [How ALS GeoAnalytics LITHOLENS ™ revolutionizes core logging through machine learning with Amazon EKS](https://aws.amazon.com/blogs/architecture/how-als-geoanalytics-litholens-revolutionizes-core-logging-through-machine-learning-with-amazon-eks/) - *AWS Architecture Blog* (2026-05-19)
-- [How Synthesia optimizes generative AI video inference on Amazon EC2 G7e instances](https://aws.amazon.com/blogs/architecture/how-synthesia-optimizes-generative-ai-video-inference-on-amazon-ec2-g7e-instances/) - *AWS Architecture Blog* (2026-05-19)
 
 ## Kubernetes
 
@@ -30,64 +30,64 @@ Automated tech news updates. Last updated: 2026-06-02 12:04:30 UTC
 
 ## Security
 
+- [Shrinking the IAM Attack Surface through Identity Visibility and Intelligence Platforms (IVIP)](https://thehackernews.com/2026/06/shrinking-iam-attack-surface-through.html) - *The Hacker News* (2026-06-03)
+- [Beyond the Zero-Day: See Your Network Like an Attacker | Webinar with HD Moore](https://thehackernews.com/2026/06/beyond-zero-day-see-your-network-like.html) - *The Hacker News* (2026-06-03)
+- [AI Used to Decrypt Medieval Ciphers](https://www.schneier.com/blog/archives/2026/06/ai-used-to-decrypt-medieval-ciphers.html) - *Schneier on Security* (2026-06-03)
+- [Unpatched Windows Search URI Vulnerability Lets Attackers Steal NTLMv2 Hashes](https://thehackernews.com/2026/06/unpatched-windows-search-uri.html) - *The Hacker News* (2026-06-03)
+- [New HTTP/2 Bomb Vulnerability Allows Remote DoS on NGINX, Apache, IIS, Envoy & Cloudflare](https://thehackernews.com/2026/06/new-http2-bomb-vulnerability-allows.html) - *The Hacker News* (2026-06-03)
+- [Weedhack Attacks Minecraft Users, CountLoader Hits 86K, Miners Spread via Pirated Content](https://thehackernews.com/2026/06/weedhack-attacks-minecraft-users.html) - *The Hacker News* (2026-06-03)
 - [The Intersection of Encryption and AI](https://www.schneier.com/blog/archives/2026/06/the-intersection-of-encryption-and-ai.html) - *Schneier on Security* (2026-06-02)
 - [Microsoft Threatening Security Researcher](https://www.schneier.com/blog/archives/2026/06/microsoft-threatening-security-researcher.html) - *Schneier on Security* (2026-06-02)
-- [How Leading Organizations Are Turning EDR Into Operational Resilience](https://thehackernews.com/2026/06/how-leading-organizations-are-turning.html) - *The Hacker News* (2026-06-02)
-- [Pakistan-Linked SideCopy Targets Afghanistan Finance Ministry with Xeno RAT](https://thehackernews.com/2026/06/pakistan-linked-sidecopy-targets.html) - *The Hacker News* (2026-06-02)
-- [Dashlane Discloses Brute-Force Attack, Encrypted Vaults of Fewer Than 20 Users Downloaded](https://thehackernews.com/2026/06/dashlane-discloses-brute-force-attack.html) - *The Hacker News* (2026-06-02)
-- [Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm](https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html) - *The Hacker News* (2026-06-01)
 - [Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts](https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/) - *Krebs on Security* (2026-06-01)
 - [Vulnerability Disclosure in the Age of AI](https://www.schneier.com/blog/archives/2026/06/vulnerability-disclosure-in-the-age-of-ai.html) - *Schneier on Security* (2026-06-01)
-- [⚡ Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More](https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html) - *The Hacker News* (2026-06-01)
-- [Friday Squid Blogging: Another Squid](https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-another-squid.html) - *Schneier on Security* (2026-05-29)
 
 ## Databases/Storage
 
-- [semab tariq: The Night Our Tables Wouldn’t Stop Growing](https://postgr.es/p/9l0) - *Planet PostgreSQL* (2026-06-02)
-- [Christophe Pettus: All Your GUCs in a Row: cpu_index_tuple_cost, cpu_operator_cost, and cpu_tuple_cost](https://postgr.es/p/9k_) - *Planet PostgreSQL* (2026-06-02)
-- [Accelerating developer productivity in the agentic AI era with Amazon Aurora PostgreSQL](https://aws.amazon.com/blogs/database/accelerating-developer-productivity-in-the-agentic-ai-era-with-amazon-aurora-postgresql/) - *AWS Database Blog* (2026-06-01)
-- [Christophe Pettus: SQL/PGQ in PostgreSQL 19: Graph Queries Without the Graph Database](https://postgr.es/p/9kW) - *Planet PostgreSQL* (2026-06-01)
-- [Cornelia Biacsics: Contributions for week 21, 2026](https://postgr.es/p/9kV) - *Planet PostgreSQL* (2026-06-01)
-- [Wim Bertels: PGConf.be 2026](https://postgr.es/p/9kU) - *Planet PostgreSQL* (2026-06-01)
-- [Guide your Amazon Aurora MySQL migration with Kiro powers](https://aws.amazon.com/blogs/database/guide-your-amazon-aurora-mysql-migration-with-kiro-powers/) - *AWS Database Blog* (2026-05-28)
-- [AI-native, full-stack web apps with Vercel and AWS Databases](https://aws.amazon.com/blogs/database/ai-native-full-stack-web-apps-with-vercel-and-aws-databases/) - *AWS Database Blog* (2026-05-27)
-- [I’m Starting a New Cosmos DB App. What Security Do I Actually Need?](https://devblogs.microsoft.com/cosmosdb/im-starting-a-new-cosmos-db-app-what-security-do-i-actually-need/) - *Azure Cosmos DB Blog* (2026-05-27)
-- [Real-time personalized recommendations with Amazon SageMaker and Amazon-managed Valkey](https://aws.amazon.com/blogs/database/real-time-personalized-recommendations-with-amazon-sagemaker-and-amazon-managed-valkey/) - *AWS Database Blog* (2026-05-27)
+- [Hans-Juergen Schoenig: Handling graphs with SQL/PGQ in PostgreSQL](https://postgr.es/p/9l7) - *Planet PostgreSQL* (2026-06-03)
+- [Radim Marek: pg_stat_statements: everything it can't](https://postgr.es/p/9l6) - *Planet PostgreSQL* (2026-06-03)
+- [Christophe Pettus: All Your GUCs in a Row: createrole_self_grant](https://postgr.es/p/9l4) - *Planet PostgreSQL* (2026-06-03)
+- [Radim Marek: pg_stat_statements: everything it tells you](https://postgr.es/p/9l3) - *Planet PostgreSQL* (2026-06-02)
+- [Announcing the Public Preview of Integrated Embeddings in Azure Cosmos DB: Build AI Apps With Embeddings That Stay in Sync](https://devblogs.microsoft.com/cosmosdb/announcing-the-public-preview-of-integrated-embeddings-in-azure-cosmos-db-build-ai-apps-with-embeddings-that-stay-in-sync/) - *Azure Cosmos DB Blog* (2026-06-02)
+- [Introducing OmniVec: An Open-Source Embedding Platform for AI Apps on Azure](https://devblogs.microsoft.com/cosmosdb/introducing-omnivec-an-open-source-embedding-platform-for-ai-apps-on-azure/) - *Azure Cosmos DB Blog* (2026-06-02)
+- [Azure Cosmos DB All Versions and Deletes Change Feed Mode is Now Generally Available](https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-all-versions-and-deletes-change-feed-mode-is-now-generally-available/) - *Azure Cosmos DB Blog* (2026-06-02)
+- [Change Partition Keys in Azure Cosmos DB is Now Generally Available](https://devblogs.microsoft.com/cosmosdb/change-partition-keys-in-azure-cosmos-db-is-now-generally-available/) - *Azure Cosmos DB Blog* (2026-06-02)
+- [Announcing the General Availability of Per Partition Automatic Failover for Azure Cosmos DB NoSQL](https://devblogs.microsoft.com/cosmosdb/announcing-the-general-availability-of-per-partition-automatic-failover-for-azure-cosmos-db-nosql/) - *Azure Cosmos DB Blog* (2026-06-02)
+- [Robert Haas: Hacking Workshop for June/July 2026](https://postgr.es/p/9l2) - *Planet PostgreSQL* (2026-06-02)
 
 ## Networking
 
-- [Attackers exploit Palo Alto GlobalProtect flaw days after disclosure](https://www.networkworld.com/article/4179853/attackers-exploit-palo-alto-globalprotect-flaw-days-after-disclosure-2.html) - *Attackers exploit Palo Alto GlobalProtect flaw days after disclosure | Network World* (2026-06-02)
-- [FTC broadens Microsoft probe to cloud, AI, and software bundling](https://www.networkworld.com/article/4179664/ftc-broadens-microsoft-probe-to-cloud-ai-and-software-bundling-2.html) - *Attackers exploit Palo Alto GlobalProtect flaw days after disclosure | Network World* (2026-06-02)
-- [Can Chinese memory maker CXMT help relieve the memory shortage?](https://www.networkworld.com/article/4179526/can-chinese-memory-maker-cxmt-help-relieve-the-memory-shortage.html) - *Attackers exploit Palo Alto GlobalProtect flaw days after disclosure | Network World* (2026-06-01)
-- [Broadcom, Samsung team for wireless SoC](https://www.networkworld.com/article/4179519/broadcom-samsung-team-for-wireless-soc.html) - *Attackers exploit Palo Alto GlobalProtect flaw days after disclosure | Network World* (2026-06-01)
-- [Intel focuses on power efficiency and cost with new chip designs](https://www.networkworld.com/article/4178385/intel-focuses-on-power-efficiency-and-cost-with-new-chip-designs.html) - *Attackers exploit Palo Alto GlobalProtect flaw days after disclosure | Network World* (2026-06-01)
+- [Netskope introduces AI Command Center to monitor and secure enterprise AI sprawl](https://www.networkworld.com/article/4180200/netskope-introduces-ai-command-center-to-monitor-and-secure-enterprise-ai-sprawl.html) - *Netskope introduces AI Command Center to monitor and secure enterprise AI sprawl | Network World* (2026-06-02)
+- [Cisco Live: The network is back, and AI rewrote the rules](https://www.networkworld.com/article/4179942/cisco-live-the-network-is-back-and-ai-rewrote-the-rules.html) - *Netskope introduces AI Command Center to monitor and secure enterprise AI sprawl | Network World* (2026-06-02)
+- [2026 network outage report and internet health check](https://www.networkworld.com/article/4113326/2026-network-outage-report-and-internet-health-check.html) - *Netskope introduces AI Command Center to monitor and secure enterprise AI sprawl | Network World* (2026-06-02)
+- [Cisco brings agentic ops platform and security overhaul to Cisco Live](https://www.networkworld.com/article/4179673/cisco-brings-agentic-ops-platform-and-security-overhaul-to-cisco-live.html) - *Netskope introduces AI Command Center to monitor and secure enterprise AI sprawl | Network World* (2026-06-02)
+- [Attackers exploit Palo Alto GlobalProtect flaw days after disclosure](https://www.networkworld.com/article/4179853/attackers-exploit-palo-alto-globalprotect-flaw-days-after-disclosure-2.html) - *Netskope introduces AI Command Center to monitor and secure enterprise AI sprawl | Network World* (2026-06-02)
 
 ## Computing
 
-- [AI costs how much? GitHub Copilot users react to new usage-based pricing system.](https://arstechnica.com/ai/2026/06/ai-costs-how-much-github-copilot-users-react-to-new-usage-based-pricing-system/) - *Ars Technica - All content* (2026-06-01)
-- [Why cats prefer silver vine to catnip and other May highlights](https://arstechnica.com/science/2026/06/research-roundup-7-cool-science-stories-we-almost-missed-4/) - *Ars Technica - All content* (2026-06-01)
-- [Moderna gets $50 million to develop mRNA Ebola vaccine against Bundibugyo](https://arstechnica.com/health/2026/06/moderna-gets-50-million-to-develop-mrna-ebola-vaccine-against-bundibugyo/) - *Ars Technica - All content* (2026-06-01)
-- [Hackers duped Meta AI support chatbot to steal celebrity Instagram accounts](https://arstechnica.com/ai/2026/06/meta-ai-support-chatbot-gave-hackers-access-to-notable-instagram-accounts/) - *Ars Technica - All content* (2026-06-01)
-- [Microsoft's Surface Laptop Ultra looks like its first true MacBook Pro competitor](https://arstechnica.com/gadgets/2026/06/microsoft-surface-laptop-ultra-will-be-among-the-first-nvidia-rtx-spark-arm-pcs/) - *Ars Technica - All content* (2026-06-01)
+- [How long will it take to rebuild Blue Origin's launch pad? We asked some SpaceX vets.](https://arstechnica.com/space/2026/06/how-long-will-it-take-to-rebuild-blue-origins-launch-pad-we-asked-some-spacex-vets/) - *Ars Technica - All content* (2026-06-03)
+- [Male bowerbirds prefer to dazzle females with bright human-made items](https://arstechnica.com/science/2026/06/male-bowerbirds-prefer-colorful-human-items-to-decorate-bowers/) - *Ars Technica - All content* (2026-06-02)
+- [Microsoft plans Linux tools and an RTX Spark desktop for Windows developers](https://arstechnica.com/gadgets/2026/06/microsoft-plans-linux-tools-and-an-rtx-spark-desktop-for-windows-developers/) - *Ars Technica - All content* (2026-06-02)
+- [Microsoft's Project Solara is an Android OS designed for agents instead of apps](https://arstechnica.com/gadgets/2026/06/microsofts-project-solara-is-an-android-os-designed-for-agents-instead-of-apps/) - *Ars Technica - All content* (2026-06-02)
+- [Amazon-owned Ring should pay Americans for scanning their faces, lawsuit says](https://arstechnica.com/tech-policy/2026/06/amazon-owned-ring-should-pay-americans-for-scanning-their-faces-lawsuit-says/) - *Ars Technica - All content* (2026-06-02)
 
 ## AI/Models/RL
 
+- [Holo3.1: Fast & Local Computer Use Agents](https://huggingface.co/blog/Hcompany/holo31) - *Hugging Face - Blog* (2026-06-02)
+- [Travelers deploys AI-powered claims countrywide with OpenAI](https://openai.com/index/travelers) - *OpenAI News* (2026-06-02)
+- [Codex for every role, tool, and workflow](https://openai.com/index/codex-for-every-role-tool-workflow) - *OpenAI News* (2026-06-02)
+- [Advancing youth safety and opportunity through global leadership](https://openai.com/index/advancing-youth-safety-and-opportunity-through-global-leadership) - *OpenAI News* (2026-06-02)
 - [Codex is becoming a productivity tool for everyone](https://openai.com/index/codex-for-knowledge-work) - *OpenAI News* (2026-06-02)
 - [Our views on AI policy and political advocacy](https://openai.com/index/our-views-on-ai-policy-and-political-advocacy) - *OpenAI News* (2026-06-01)
 - [Introducing Mellum2: A 12B Mixture-of-Experts Model by JetBrains](https://huggingface.co/blog/JetBrains/mellum2-launch) - *Hugging Face - Blog* (2026-06-01)
 - [Beyond LLMs: Why Scalable Enterprise AI Adoption Depends on Agent Logic](https://huggingface.co/blog/ibm-research/agent-logic-and-scalable-ai-adoption) - *Hugging Face - Blog* (2026-06-01)
-- [Building the infrastructure for the Intelligence Age in Michigan](https://openai.com/index/stargate-michigan-data-center) - *OpenAI News* (2026-06-01)
-- [OpenAI frontier models and Codex are now available on AWS](https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws) - *OpenAI News* (2026-06-01)
 - [Welcome NVIDIA Cosmos 3: The First Open Omni-model for Physical AI Reasoning and Action](https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai) - *Hugging Face - Blog* (2026-06-01)
-- [Boston Children’s uses AI to unlock new diagnoses](https://openai.com/index/boston-childrens-hospital) - *OpenAI News* (2026-05-29)
 - [Profiling in PyTorch (Part 1): A Beginner's Guide to torch.profiler](https://huggingface.co/blog/torch-profiler) - *Hugging Face - Blog* (2026-05-29)
-- [A New Era of Discovery: Google Research at I/O 2026](https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026/) - *The latest research from Google* (2026-05-28)
 
 ## AI Infra
 
+- [The art and science of hyperparameter optimization on Amazon Nova Forge](https://aws.amazon.com/blogs/machine-learning/the-art-and-science-of-hyperparameter-optimization-on-amazon-nova-forge/) - *Artificial Intelligence* (2026-06-02)
+- [Object detection with Amazon Nova 2 Lite](https://aws.amazon.com/blogs/machine-learning/object-detection-with-amazon-nova-2-lite/) - *Artificial Intelligence* (2026-06-02)
+- [How Baz improved its AI Agent Code Review accuracy using Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/how-baz-improved-its-ai-agent-code-review-accuracy-using-amazon-bedrock-agentcore/) - *Artificial Intelligence* (2026-06-02)
 - [Building a secure auth code flow setup using AgentCore Gateway with MCP clients](https://aws.amazon.com/blogs/machine-learning/building-a-secure-auth-code-flow-setup-using-agentcore-gateway-with-mcp-clients/) - *Artificial Intelligence* (2026-06-02)
 - [Reference your own AWS Secrets Manager secrets in Amazon Bedrock AgentCore Identity](https://aws.amazon.com/blogs/machine-learning/reference-your-own-aws-secrets-manager-secrets-in-amazon-bedrock-agentcore-identity/) - *Artificial Intelligence* (2026-06-01)
-- [Transforming rare cancer research with Amazon Quick: Integrating biomedical databases for breakthrough discoveries](https://aws.amazon.com/blogs/machine-learning/transforming-rare-cancer-research-with-amazon-quick-integrating-biomedical-databases-for-breakthrough-discoveries/) - *Artificial Intelligence* (2026-06-01)
-- [OpenAI models and Codex on Amazon Bedrock are now generally available](https://aws.amazon.com/blogs/machine-learning/openai-models-and-codex-on-amazon-bedrock-are-now-generally-available/) - *Artificial Intelligence* (2026-06-01)
-- [Extending MCP support for Amazon Bedrock AgentCore Gateway](https://aws.amazon.com/blogs/machine-learning/extending-mcp-support-for-amazon-bedrock-agentcore-gateway-2/) - *Artificial Intelligence* (2026-06-01)
 
