@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-06-05 11:29:02 UTC
+Automated tech news updates. Last updated: 2026-06-06 10:04:17 UTC
 
 ## Software Architecture
 
@@ -31,25 +31,25 @@ Automated tech news updates. Last updated: 2026-06-05 11:29:02 UTC
 
 ## Security
 
-- [Hackers Exploit Critical Everest Forms Pro WordPress Plugin Flaw to Take Over Sites](https://thehackernews.com/2026/06/hackers-exploit-critical-everest-forms.html) - *The Hacker News* (2026-06-05)
-- [FIFA World Cup 2026 Scams Are Already Live: Fake Sites, Banking Malware, and Stolen Logins](https://thehackernews.com/2026/06/fifa-world-cup-2026-scams-are-already.html) - *The Hacker News* (2026-06-05)
-- [PCPJack Hijacks 230 AWS, Google Cloud, and Azure Servers for Covert SMTP Relay Network](https://thehackernews.com/2026/06/pcpjack-hijacks-230-aws-google-cloud.html) - *The Hacker News* (2026-06-05)
-- [Cisco Patches CVE-2026-20230 in Unified CM as Exploit Code Goes Public](https://thehackernews.com/2026/06/cisco-patches-cve-2026-20230-in-unified.html) - *The Hacker News* (2026-06-04)
-- [Claude Code GitHub Action Flaw Let One Malicious Issue Hijack Repositories](https://thehackernews.com/2026/06/claude-code-github-action-flaw-let-one.html) - *The Hacker News* (2026-06-04)
+- [Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI](https://thehackernews.com/2026/06/free-apps-are-quietly-turning-smart-tvs.html) - *The Hacker News* (2026-06-06)
+- [CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog](https://thehackernews.com/2026/06/cisa-adds-actively-exploited-solarwinds.html) - *The Hacker News* (2026-06-06)
+- [AI Agent Uncovers 21 Zero-Days in FFmpeg; Chrome Patches Record 429 Bugs](https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html) - *The Hacker News* (2026-06-06)
+- [Miasma Worm Hits 73 Microsoft GitHub Repositories in Major Supply Chain Attack](https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html) - *The Hacker News* (2026-06-06)
+- [Cisco Catalyst SD-WAN Manager CVE-2026-20245 Flaw Actively Exploited – No Patch Available](https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-manager-cve-2026.html) - *The Hacker News* (2026-06-06)
+- [AI Worm](https://www.schneier.com/blog/archives/2026/06/ai-worm.html) - *Schneier on Security* (2026-06-05)
 - [Hacking Meta’s AI Chatbot](https://www.schneier.com/blog/archives/2026/06/hacking-metas-ai-chatbot.html) - *Schneier on Security* (2026-06-04)
 - [AI Used to Decrypt Medieval Ciphers](https://www.schneier.com/blog/archives/2026/06/ai-used-to-decrypt-medieval-ciphers.html) - *Schneier on Security* (2026-06-03)
 - [The Intersection of Encryption and AI](https://www.schneier.com/blog/archives/2026/06/the-intersection-of-encryption-and-ai.html) - *Schneier on Security* (2026-06-02)
 - [Microsoft Threatening Security Researcher](https://www.schneier.com/blog/archives/2026/06/microsoft-threatening-security-researcher.html) - *Schneier on Security* (2026-06-02)
-- [Hackers Used Meta’s AI Support Bot to Seize Instagram Accounts](https://krebsonsecurity.com/2026/06/hackers-used-metas-ai-support-bot-to-seize-instagram-accounts/) - *Krebs on Security* (2026-06-01)
 
 ## Databases/Storage
 
+- [Christophe Pettus: All Your GUCs in a Row: data_directory](https://postgr.es/p/9lq) - *Planet PostgreSQL* (2026-06-06)
+- [Andrew Atkinson: Beta Testing PostgreSQL With Docker](https://postgr.es/p/9lr) - *Planet PostgreSQL* (2026-06-05)
+- [Mark Wong: Acknowledged Individuals in the PostgreSQL Release Notes: 2026 Edition](https://postgr.es/p/9lp) - *Planet PostgreSQL* (2026-06-05)
+- [Shaun Thomas: Looking Forward to Postgres 19: Query Hints](https://postgr.es/p/9ln) - *Planet PostgreSQL* (2026-06-05)
 - [Christophe Pettus: All Your GUCs in a Row: data_checksums](https://postgr.es/p/9lc) - *Planet PostgreSQL* (2026-06-05)
 - [Understanding how backups work in Amazon Aurora](https://aws.amazon.com/blogs/database/understanding-how-backups-work-in-amazon-aurora/) - *AWS Database Blog* (2026-06-04)
-- [warda bibi: File Descriptors: The OS Limit That Takes Down PostgreSQL](https://postgr.es/p/9lb) - *Planet PostgreSQL* (2026-06-04)
-- [Stefan Fercot: Does pgBackRest work with pg_tde?](https://postgr.es/p/9la) - *Planet PostgreSQL* (2026-06-04)
-- [Christophe Pettus: All Your GUCs in a Row: cursor_tuple_fraction](https://postgr.es/p/9l9) - *Planet PostgreSQL* (2026-06-04)
-- [David Wheeler: pg_clickhouse 0.3.1: Now With More C](https://postgr.es/p/9l8) - *Planet PostgreSQL* (2026-06-03)
 - [Agentic Supplier Management with MongoDB Atlas, Voyage AI, and Multi-Modal Search](https://www.mongodb.com/company/blog/innovation/agentic-supplier-management-with-atlas-voyage-ai-multi-modal-search) - *MongoDB | Blog* (2026-06-03)
 - [Index types supported in Amazon Aurora PostgreSQL and Amazon RDS for PostgreSQL using extensions (Bloom, pg_trgm, and pg_bigm)](https://aws.amazon.com/blogs/database/index-types-supported-in-amazon-aurora-postgresql-and-amazon-rds-for-postgresql-using-extensions-bloom-pg_trgm-and-pg_bigm/) - *AWS Database Blog* (2026-06-03)
 - [Index types supported in Amazon Aurora PostgreSQL and Amazon RDS for PostgreSQL using extensions (SP-GiST, Btree_Gin and Btree_Gist)](https://aws.amazon.com/blogs/database/index-types-supported-in-amazon-aurora-postgresql-and-amazon-rds-for-postgresql-using-extensions-sp-gist-btree_gin-and-btree_gist/) - *AWS Database Blog* (2026-06-03)
@@ -57,22 +57,24 @@ Automated tech news updates. Last updated: 2026-06-05 11:29:02 UTC
 
 ## Networking
 
-- [Microsoft makes Linux developers feel more at home in Windows with Coreutils release](https://www.networkworld.com/article/4181366/microsoft-makes-linux-developers-feel-more-at-home-in-windows-with-coreutils-release-2.html) - *Microsoft makes Linux developers feel more at home in Windows with Coreutils release  | Network World* (2026-06-04)
-- [AMD ships second-gen Versal Prime accelerators](https://www.networkworld.com/article/4181351/amd-ships-second-gen-versal-prime-accelerators.html) - *Microsoft makes Linux developers feel more at home in Windows with Coreutils release  | Network World* (2026-06-04)
-- [CompTIA debuts AutoOps+ certification](https://www.networkworld.com/article/4180735/comptia-debuts-autoops-certification.html) - *Microsoft makes Linux developers feel more at home in Windows with Coreutils release  | Network World* (2026-06-04)
-- [Cisco sees quantum networking as the future of networking](https://www.networkworld.com/article/4180842/cisco-sees-quantum-networking-as-the-future-of-networking.html) - *Microsoft makes Linux developers feel more at home in Windows with Coreutils release  | Network World* (2026-06-03)
-- [Enterprise Spotlight: Rethinking cloud strategy in the age of AI](https://us.resources.networkworld.com/resources/form?placement_id=ac4f32bf-71a2-428b-83fb-34b7652c7e0d&brand_id=512&locale_id=1) - *Microsoft makes Linux developers feel more at home in Windows with Coreutils release  | Network World* (2026-06-03)
+- [New data center routing design cuts AWS networking energy costs by 40%, Amazon claims](https://www.networkworld.com/article/4181879/new-data-center-routing-design-cuts-aws-networking-energy-costs-by-40-amazon-claims.html) - *New data center routing design cuts AWS networking energy costs by 40%, Amazon claims | Network World* (2026-06-05)
+- [Cisco: Latest news and insights](https://www.networkworld.com/article/3523958/cisco-latest-news-and-insights.html) - *New data center routing design cuts AWS networking energy costs by 40%, Amazon claims | Network World* (2026-06-05)
+- [Network jobs watch: Hiring, skills and certification trends](https://www.networkworld.com/article/2093749/network-jobs-watch-hiring-skills-and-certification-trends.html) - *New data center routing design cuts AWS networking energy costs by 40%, Amazon claims | Network World* (2026-06-05)
+- [How Cisco IT cut observability costs by 86% and eliminated major network outages](https://www.networkworld.com/article/4181727/how-cisco-it-cut-observability-costs-by-86-and-eliminated-major-network-outages.html) - *New data center routing design cuts AWS networking energy costs by 40%, Amazon claims | Network World* (2026-06-05)
+- [Microsoft makes Linux developers feel more at home in Windows with Coreutils release](https://www.networkworld.com/article/4181366/microsoft-makes-linux-developers-feel-more-at-home-in-windows-with-coreutils-release-2.html) - *New data center routing design cuts AWS networking energy costs by 40%, Amazon claims | Network World* (2026-06-04)
 
 ## Computing
 
-- [The skeptic’s guide to humanoid robots going viral on the Internet](https://arstechnica.com/ai/2026/06/the-skeptics-guide-to-humanoid-robots-going-viral-on-the-internet/) - *Ars Technica - All content* (2026-06-04)
-- [AT&T and Verizon lose Supreme Court case over fines for selling location data](https://arstechnica.com/tech-policy/2026/06/att-and-verizon-lose-supreme-court-case-over-fines-for-selling-location-data/) - *Ars Technica - All content* (2026-06-04)
-- [These LLMs are the best at resisting Russian propaganda](https://arstechnica.com/ai/2026/06/these-llms-are-the-best-at-resisting-russian-propaganda/) - *Ars Technica - All content* (2026-06-04)
-- [Dashlane explains how attackers managed to download encrypted password vaults](https://arstechnica.com/security/2026/06/dashlane-explains-how-attackers-managed-to-download-encrypted-password-vaults/) - *Ars Technica - All content* (2026-06-04)
-- [Elon Musk tries again to escape FTC audits of X data handling](https://arstechnica.com/tech-policy/2026/06/elon-musk-tries-again-to-escape-ftc-audits-of-x-data-handling/) - *Ars Technica - All content* (2026-06-04)
+- [Baby botulism outbreak: FDA still doesn't know cause—or how to prevent it](https://arstechnica.com/health/2026/06/baby-botulism-outbreak-fda-still-doesnt-know-cause-or-how-to-prevent-it/) - *Ars Technica - All content* (2026-06-05)
+- [How a USB-connected speaker can infect a PC without ever being touched](https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/) - *Ars Technica - All content* (2026-06-05)
+- [Small modular nuclear reactor reaches criticality in first test](https://arstechnica.com/science/2026/06/first-us-test-of-modular-reactor-reaches-criticality/) - *Ars Technica - All content* (2026-06-05)
+- [The saga of the International Space Station air leak took a worrying turn Friday](https://arstechnica.com/space/2026/06/work-on-russias-leaky-space-station-module-causes-astronauts-to-take-shelter/) - *Ars Technica - All content* (2026-06-05)
+- [S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic](https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/) - *Ars Technica - All content* (2026-06-05)
 
 ## AI/Models/RL
 
+- [Thousand Token Wood: shipping a multi-agent economy on a 3B model](https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim) - *Hugging Face - Blog* (2026-06-05)
+- [Unlocking dependable responses with Gemini Enterprise Agent Platform’s Agentic RAG](https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag/) - *The latest research from Google* (2026-06-05)
 - [Towards passive heart health monitoring via smartphone camera](https://research.google/blog/towards-passive-heart-health-monitoring-via-smartphone-camera/) - *The latest research from Google* (2026-06-04)
 - [Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI](https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety) - *Hugging Face - Blog* (2026-06-04)
 - [EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios](https://huggingface.co/blog/ServiceNow-AI/eva-bench-data) - *Hugging Face - Blog* (2026-06-04)
@@ -81,8 +83,6 @@ Automated tech news updates. Last updated: 2026-06-05 11:29:02 UTC
 - [Biodefense in the Intelligence Age](https://openai.com/index/biodefense-in-the-intelligence-age) - *OpenAI News* (2026-06-04)
 - [Designing the hf CLI as an agent-optimized way to work with the Hub](https://huggingface.co/blog/hf-cli-for-agents) - *Hugging Face - Blog* (2026-06-04)
 - [The next chapter in flood resilience: Open sourcing Google’s hydrology framework](https://research.google/blog/the-next-chapter-in-flood-resilience-open-sourcing-googles-hydrology-framework/) - *The latest research from Google* (2026-06-03)
-- [Introducing new capabilities to GPT-Rosalind](https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind) - *OpenAI News* (2026-06-03)
-- [Direct Preference Optimization Beyond Chatbots](https://huggingface.co/blog/Dharma-AI/direct-preference-optimization-beyond-chatbots) - *Hugging Face - Blog* (2026-06-03)
 
 ## AI Infra
 
