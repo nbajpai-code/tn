@@ -1,11 +1,10 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-06-06 10:04:17 UTC
+Automated tech news updates. Last updated: 2026-06-07 10:30:15 UTC
 
 ## Software Architecture
 
-- [Article: Architectural Change Cases: A Practical Tool for Evolutionary Architectures](https://www.infoq.com/articles/architectural-change-cases/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-06-04)
-- [Podcast: Requirements Analysis for Architects: A Conversation with Sonya Natanzon](https://www.infoq.com/podcasts/requirements-analysis-architects/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-06-01)
+- [Podcast: Requirements Analysis for Architects: a Conversation with Sonya Natanzon](https://www.infoq.com/podcasts/requirements-analysis-architects/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-06-01)
 - [Article: Stragglers, Not Failures: How Adaptive Hedged Requests Reduce p99 Latency by 74 Percent](https://www.infoq.com/articles/adaptive-hedged-requests-p99-latency/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-05-28)
 
 ## Cloud Computing
@@ -31,11 +30,11 @@ Automated tech news updates. Last updated: 2026-06-06 10:04:17 UTC
 
 ## Security
 
+- [New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration](https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html) - *The Hacker News* (2026-06-06)
 - [Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI](https://thehackernews.com/2026/06/free-apps-are-quietly-turning-smart-tvs.html) - *The Hacker News* (2026-06-06)
 - [CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog](https://thehackernews.com/2026/06/cisa-adds-actively-exploited-solarwinds.html) - *The Hacker News* (2026-06-06)
 - [AI Agent Uncovers 21 Zero-Days in FFmpeg; Chrome Patches Record 429 Bugs](https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html) - *The Hacker News* (2026-06-06)
 - [Miasma Worm Hits 73 Microsoft GitHub Repositories in Major Supply Chain Attack](https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html) - *The Hacker News* (2026-06-06)
-- [Cisco Catalyst SD-WAN Manager CVE-2026-20245 Flaw Actively Exploited – No Patch Available](https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-manager-cve-2026.html) - *The Hacker News* (2026-06-06)
 - [AI Worm](https://www.schneier.com/blog/archives/2026/06/ai-worm.html) - *Schneier on Security* (2026-06-05)
 - [Hacking Meta’s AI Chatbot](https://www.schneier.com/blog/archives/2026/06/hacking-metas-ai-chatbot.html) - *Schneier on Security* (2026-06-04)
 - [AI Used to Decrypt Medieval Ciphers](https://www.schneier.com/blog/archives/2026/06/ai-used-to-decrypt-medieval-ciphers.html) - *Schneier on Security* (2026-06-03)
@@ -44,11 +43,11 @@ Automated tech news updates. Last updated: 2026-06-06 10:04:17 UTC
 
 ## Databases/Storage
 
+- [Christophe Pettus: All Your GUCs in a Row: data_directory_mode](https://postgr.es/p/9ls) - *Planet PostgreSQL* (2026-06-07)
 - [Christophe Pettus: All Your GUCs in a Row: data_directory](https://postgr.es/p/9lq) - *Planet PostgreSQL* (2026-06-06)
 - [Andrew Atkinson: Beta Testing PostgreSQL With Docker](https://postgr.es/p/9lr) - *Planet PostgreSQL* (2026-06-05)
 - [Mark Wong: Acknowledged Individuals in the PostgreSQL Release Notes: 2026 Edition](https://postgr.es/p/9lp) - *Planet PostgreSQL* (2026-06-05)
 - [Shaun Thomas: Looking Forward to Postgres 19: Query Hints](https://postgr.es/p/9ln) - *Planet PostgreSQL* (2026-06-05)
-- [Christophe Pettus: All Your GUCs in a Row: data_checksums](https://postgr.es/p/9lc) - *Planet PostgreSQL* (2026-06-05)
 - [Understanding how backups work in Amazon Aurora](https://aws.amazon.com/blogs/database/understanding-how-backups-work-in-amazon-aurora/) - *AWS Database Blog* (2026-06-04)
 - [Agentic Supplier Management with MongoDB Atlas, Voyage AI, and Multi-Modal Search](https://www.mongodb.com/company/blog/innovation/agentic-supplier-management-with-atlas-voyage-ai-multi-modal-search) - *MongoDB | Blog* (2026-06-03)
 - [Index types supported in Amazon Aurora PostgreSQL and Amazon RDS for PostgreSQL using extensions (Bloom, pg_trgm, and pg_bigm)](https://aws.amazon.com/blogs/database/index-types-supported-in-amazon-aurora-postgresql-and-amazon-rds-for-postgresql-using-extensions-bloom-pg_trgm-and-pg_bigm/) - *AWS Database Blog* (2026-06-03)
@@ -65,15 +64,15 @@ Automated tech news updates. Last updated: 2026-06-06 10:04:17 UTC
 
 ## Computing
 
+- [Scientists ejected from diabetes conference for distributing journal reprints](https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/) - *Ars Technica - All content* (2026-06-06)
+- [Some ancient microbes frozen with Ötzi the Iceman are still growing](https://arstechnica.com/science/2026/06/otzis-mummified-body-is-home-to-ancient-strains-of-yeast-and-bacteria/) - *Ars Technica - All content* (2026-06-06)
 - [Baby botulism outbreak: FDA still doesn't know cause—or how to prevent it](https://arstechnica.com/health/2026/06/baby-botulism-outbreak-fda-still-doesnt-know-cause-or-how-to-prevent-it/) - *Ars Technica - All content* (2026-06-05)
 - [How a USB-connected speaker can infect a PC without ever being touched](https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/) - *Ars Technica - All content* (2026-06-05)
 - [Small modular nuclear reactor reaches criticality in first test](https://arstechnica.com/science/2026/06/first-us-test-of-modular-reactor-reaches-criticality/) - *Ars Technica - All content* (2026-06-05)
-- [The saga of the International Space Station air leak took a worrying turn Friday](https://arstechnica.com/space/2026/06/work-on-russias-leaky-space-station-module-causes-astronauts-to-take-shelter/) - *Ars Technica - All content* (2026-06-05)
-- [S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic](https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/) - *Ars Technica - All content* (2026-06-05)
 
 ## AI/Models/RL
 
-- [Thousand Token Wood: shipping a multi-agent economy on a 3B model](https://huggingface.co/blog/build-small-hackathon/thousand-token-wood-sim) - *Hugging Face - Blog* (2026-06-05)
+- [Her · हेर — a detective for your Claude Code sessions](https://huggingface.co/blog/build-small-hackathon/her-blog) - *Hugging Face - Blog* (2026-06-07)
 - [Unlocking dependable responses with Gemini Enterprise Agent Platform’s Agentic RAG](https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag/) - *The latest research from Google* (2026-06-05)
 - [Towards passive heart health monitoring via smartphone camera](https://research.google/blog/towards-passive-heart-health-monitoring-via-smartphone-camera/) - *The latest research from Google* (2026-06-04)
 - [Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI](https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety) - *Hugging Face - Blog* (2026-06-04)
