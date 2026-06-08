@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-06-07 10:30:15 UTC
+Automated tech news updates. Last updated: 2026-06-08 12:31:05 UTC
 
 ## Software Architecture
 
@@ -17,11 +17,11 @@ Automated tech news updates. Last updated: 2026-06-07 10:30:15 UTC
 
 ## Kubernetes
 
+- [Benchmarking KubeVirt performance with virtbench](https://www.cncf.io/blog/2026/06/08/benchmarking-kubevirt-performance-with-virtbench/) - *Blog – Cloud Native Computing Foundation* (2026-06-08)
+- [Breaking free of a single datacenter: Practical geo-distributed AI operations with the k0smos platforms](https://www.cncf.io/blog/2026/06/08/breaking-free-of-a-single-datacenter-practical-geo-distributed-ai-operations-with-the-k0smos-platforms/) - *Blog – Cloud Native Computing Foundation* (2026-06-08)
 - [Identity and Access Management Whitepaper](https://www.cncf.io/blog/2026/06/04/identity-and-access-management-whitepaper/) - *Blog – Cloud Native Computing Foundation* (2026-06-04)
 - [Securing CI/CD for an open source project: Controlling who runs what](https://www.cncf.io/blog/2026/06/04/securing-ci-cd-for-an-open-source-project-controlling-who-runs-what/) - *Blog – Cloud Native Computing Foundation* (2026-06-04)
 - [Inspektor Gadget: Results from the first security audit](https://www.cncf.io/blog/2026/06/03/inspektor-gadget-results-from-the-first-security-audit/) - *Blog – Cloud Native Computing Foundation* (2026-06-03)
-- [Mumbai Maha Mahotsav – KubeCon + CloudNativeCon India edition](https://www.cncf.io/blog/2026/06/02/mumbai-maha-mahotsav-kubecon-cloudnativecon-india-edition/) - *Blog – Cloud Native Computing Foundation* (2026-06-02)
-- [Cloud native is now AI-native: Engineering production-ready AI](https://www.cncf.io/blog/2026/06/02/cloud-native-is-now-ai-native-engineering-production-ready-ai/) - *Blog – Cloud Native Computing Foundation* (2026-06-02)
 - [From Kubernetes Dashboard to Headlamp: Understanding the Transition](https://kubernetes.io/blog/2026/06/01/dashboard-to-headlamp/) - *Kubernetes Blog* (2026-06-01)
 - [Reconciling the Past: Correcting Records for Unfixed Kubernetes CVEs](https://kubernetes.io/blog/2026/05/26/reconciling-unfixed-kubernetes-cves/) - *Kubernetes Blog* (2026-05-26)
 - [Announcing etcd 3.7.0-beta.0](https://kubernetes.io/blog/2026/05/20/etcd-370-beta/) - *Kubernetes Blog* (2026-05-20)
@@ -30,24 +30,24 @@ Automated tech news updates. Last updated: 2026-06-07 10:30:15 UTC
 
 ## Security
 
+- [Anthropic’s Project Glasswing Update](https://www.schneier.com/blog/archives/2026/06/anthropics-project-glasswing-update.html) - *Schneier on Security* (2026-06-08)
+- [VerdantBamboo Deploys BSD Variant of BRICKSTORM on Linux Appliances](https://thehackernews.com/2026/06/verdantbamboo-deploys-bsd-variant-of.html) - *The Hacker News* (2026-06-08)
+- [UNC3753 Used Vishing and Physical Intrusions in U.S. Data Theft Extortion Campaign](https://thehackernews.com/2026/06/unc3753-used-vishing-and-physical.html) - *The Hacker News* (2026-06-08)
+- [VS Code Adds 2-Hour Extension Auto-Update Delay to Limit Supply Chain Attacks](https://thehackernews.com/2026/06/vs-code-adds-2-hour-extension-auto.html) - *The Hacker News* (2026-06-08)
 - [New ChatGPT Lockdown Mode Limits Tools That Could Enable Data Exfiltration](https://thehackernews.com/2026/06/new-chatgpt-lockdown-mode-limits-tools.html) - *The Hacker News* (2026-06-06)
 - [Free Apps Are Quietly Turning Smart TVs Into Web-Scraping Proxies for AI](https://thehackernews.com/2026/06/free-apps-are-quietly-turning-smart-tvs.html) - *The Hacker News* (2026-06-06)
-- [CISA Adds Actively Exploited SolarWinds Serv-U DoS Flaw to KEV Catalog](https://thehackernews.com/2026/06/cisa-adds-actively-exploited-solarwinds.html) - *The Hacker News* (2026-06-06)
-- [AI Agent Uncovers 21 Zero-Days in FFmpeg; Chrome Patches Record 429 Bugs](https://thehackernews.com/2026/06/ai-agent-uncovers-21-zero-days-in.html) - *The Hacker News* (2026-06-06)
-- [Miasma Worm Hits 73 Microsoft GitHub Repositories in Major Supply Chain Attack](https://thehackernews.com/2026/06/miasma-worm-hits-73-microsoft-github.html) - *The Hacker News* (2026-06-06)
 - [AI Worm](https://www.schneier.com/blog/archives/2026/06/ai-worm.html) - *Schneier on Security* (2026-06-05)
 - [Hacking Meta’s AI Chatbot](https://www.schneier.com/blog/archives/2026/06/hacking-metas-ai-chatbot.html) - *Schneier on Security* (2026-06-04)
 - [AI Used to Decrypt Medieval Ciphers](https://www.schneier.com/blog/archives/2026/06/ai-used-to-decrypt-medieval-ciphers.html) - *Schneier on Security* (2026-06-03)
 - [The Intersection of Encryption and AI](https://www.schneier.com/blog/archives/2026/06/the-intersection-of-encryption-and-ai.html) - *Schneier on Security* (2026-06-02)
-- [Microsoft Threatening Security Researcher](https://www.schneier.com/blog/archives/2026/06/microsoft-threatening-security-researcher.html) - *Schneier on Security* (2026-06-02)
 
 ## Databases/Storage
 
+- [Christophe Pettus: All Your GUCs in a Row: data_sync_retry](https://postgr.es/p/9lu) - *Planet PostgreSQL* (2026-06-08)
+- [Stefanie Janine Stölting: pgsql_tweaks Version 1.0.3 Released](https://postgr.es/p/9lv) - *Planet PostgreSQL* (2026-06-07)
 - [Christophe Pettus: All Your GUCs in a Row: data_directory_mode](https://postgr.es/p/9ls) - *Planet PostgreSQL* (2026-06-07)
 - [Christophe Pettus: All Your GUCs in a Row: data_directory](https://postgr.es/p/9lq) - *Planet PostgreSQL* (2026-06-06)
 - [Andrew Atkinson: Beta Testing PostgreSQL With Docker](https://postgr.es/p/9lr) - *Planet PostgreSQL* (2026-06-05)
-- [Mark Wong: Acknowledged Individuals in the PostgreSQL Release Notes: 2026 Edition](https://postgr.es/p/9lp) - *Planet PostgreSQL* (2026-06-05)
-- [Shaun Thomas: Looking Forward to Postgres 19: Query Hints](https://postgr.es/p/9ln) - *Planet PostgreSQL* (2026-06-05)
 - [Understanding how backups work in Amazon Aurora](https://aws.amazon.com/blogs/database/understanding-how-backups-work-in-amazon-aurora/) - *AWS Database Blog* (2026-06-04)
 - [Agentic Supplier Management with MongoDB Atlas, Voyage AI, and Multi-Modal Search](https://www.mongodb.com/company/blog/innovation/agentic-supplier-management-with-atlas-voyage-ai-multi-modal-search) - *MongoDB | Blog* (2026-06-03)
 - [Index types supported in Amazon Aurora PostgreSQL and Amazon RDS for PostgreSQL using extensions (Bloom, pg_trgm, and pg_bigm)](https://aws.amazon.com/blogs/database/index-types-supported-in-amazon-aurora-postgresql-and-amazon-rds-for-postgresql-using-extensions-bloom-pg_trgm-and-pg_bigm/) - *AWS Database Blog* (2026-06-03)
@@ -56,23 +56,23 @@ Automated tech news updates. Last updated: 2026-06-07 10:30:15 UTC
 
 ## Networking
 
-- [New data center routing design cuts AWS networking energy costs by 40%, Amazon claims](https://www.networkworld.com/article/4181879/new-data-center-routing-design-cuts-aws-networking-energy-costs-by-40-amazon-claims.html) - *New data center routing design cuts AWS networking energy costs by 40%, Amazon claims | Network World* (2026-06-05)
-- [Cisco: Latest news and insights](https://www.networkworld.com/article/3523958/cisco-latest-news-and-insights.html) - *New data center routing design cuts AWS networking energy costs by 40%, Amazon claims | Network World* (2026-06-05)
-- [Network jobs watch: Hiring, skills and certification trends](https://www.networkworld.com/article/2093749/network-jobs-watch-hiring-skills-and-certification-trends.html) - *New data center routing design cuts AWS networking energy costs by 40%, Amazon claims | Network World* (2026-06-05)
-- [How Cisco IT cut observability costs by 86% and eliminated major network outages](https://www.networkworld.com/article/4181727/how-cisco-it-cut-observability-costs-by-86-and-eliminated-major-network-outages.html) - *New data center routing design cuts AWS networking energy costs by 40%, Amazon claims | Network World* (2026-06-05)
-- [Microsoft makes Linux developers feel more at home in Windows with Coreutils release](https://www.networkworld.com/article/4181366/microsoft-makes-linux-developers-feel-more-at-home-in-windows-with-coreutils-release-2.html) - *New data center routing design cuts AWS networking energy costs by 40%, Amazon claims | Network World* (2026-06-04)
+- [Enterprise network teams are falling behind as AI raises the stakes](https://www.networkworld.com/article/4180943/enterprise-network-teams-are-falling-behind-as-ai-raises-the-stakes.html) - *Enterprise network teams are falling behind as AI raises the stakes | Network World* (2026-06-08)
+- [New data center routing design cuts AWS networking energy costs by 40%, Amazon claims](https://www.networkworld.com/article/4181879/new-data-center-routing-design-cuts-aws-networking-energy-costs-by-40-amazon-claims.html) - *Enterprise network teams are falling behind as AI raises the stakes | Network World* (2026-06-05)
+- [Cisco: Latest news and insights](https://www.networkworld.com/article/3523958/cisco-latest-news-and-insights.html) - *Enterprise network teams are falling behind as AI raises the stakes | Network World* (2026-06-05)
+- [Network jobs watch: Hiring, skills and certification trends](https://www.networkworld.com/article/2093749/network-jobs-watch-hiring-skills-and-certification-trends.html) - *Enterprise network teams are falling behind as AI raises the stakes | Network World* (2026-06-05)
+- [How Cisco IT cut observability costs by 86% and eliminated major network outages](https://www.networkworld.com/article/4181727/how-cisco-it-cut-observability-costs-by-86-and-eliminated-major-network-outages.html) - *Enterprise network teams are falling behind as AI raises the stakes | Network World* (2026-06-05)
 
 ## Computing
 
+- [The weather and climate science AI revolution isn’t revolutionary](https://arstechnica.com/science/2026/06/the-weather-and-climate-science-ai-revolution-isnt-revolutionary/) - *Ars Technica - All content* (2026-06-08)
+- [RIP Anthony Head: Our 10 favorite moments of Buffy's Giles](https://arstechnica.com/culture/2026/06/rip-anthony-head-our-10-favorite-moments-of-buffys-giles/) - *Ars Technica - All content* (2026-06-07)
+- [School shooting survivor sues AI gun detection firm after system failed to spot weapon](https://arstechnica.com/tech-policy/2026/06/school-shooting-survivor-sues-ai-gun-detection-firm-after-system-failed-to-spot-weapon/) - *Ars Technica - All content* (2026-06-07)
 - [Scientists ejected from diabetes conference for distributing journal reprints](https://arstechnica.com/science/2026/06/scientists-ejected-from-diabetes-conference-for-distributing-journal-reprints/) - *Ars Technica - All content* (2026-06-06)
 - [Some ancient microbes frozen with Ötzi the Iceman are still growing](https://arstechnica.com/science/2026/06/otzis-mummified-body-is-home-to-ancient-strains-of-yeast-and-bacteria/) - *Ars Technica - All content* (2026-06-06)
-- [Baby botulism outbreak: FDA still doesn't know cause—or how to prevent it](https://arstechnica.com/health/2026/06/baby-botulism-outbreak-fda-still-doesnt-know-cause-or-how-to-prevent-it/) - *Ars Technica - All content* (2026-06-05)
-- [How a USB-connected speaker can infect a PC without ever being touched](https://arstechnica.com/security/2026/06/highly-reviewed-speaker-can-be-hacked-over-the-air-to-infect-connected-devices/) - *Ars Technica - All content* (2026-06-05)
-- [Small modular nuclear reactor reaches criticality in first test](https://arstechnica.com/science/2026/06/first-us-test-of-modular-reactor-reaches-criticality/) - *Ars Technica - All content* (2026-06-05)
 
 ## AI/Models/RL
 
-- [Her · हेर — a detective for your Claude Code sessions](https://huggingface.co/blog/build-small-hackathon/her-blog) - *Hugging Face - Blog* (2026-06-07)
+- [Building Pakistan Notice Helper: A Small AI Tool for a Very Local Safety Problem](https://huggingface.co/blog/build-small-hackathon/building-pakistan-notice-helper) - *Hugging Face - Blog* (2026-06-08)
 - [Unlocking dependable responses with Gemini Enterprise Agent Platform’s Agentic RAG](https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag/) - *The latest research from Google* (2026-06-05)
 - [Towards passive heart health monitoring via smartphone camera](https://research.google/blog/towards-passive-heart-health-monitoring-via-smartphone-camera/) - *The latest research from Google* (2026-06-04)
 - [Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI](https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety) - *Hugging Face - Blog* (2026-06-04)
