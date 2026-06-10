@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-06-09 11:16:05 UTC
+Automated tech news updates. Last updated: 2026-06-10 11:38:59 UTC
 
 ## Software Architecture
 
@@ -12,11 +12,11 @@ Automated tech news updates. Last updated: 2026-06-09 11:16:05 UTC
 
 ## Cloud Computing
 
+- [Automate medical record digitization with Amazon Bedrock Data Automation and AWS HealthLake](https://aws.amazon.com/blogs/architecture/automate-medical-record-digitization-with-amazon-bedrock-data-automation-and-aws-healthlake/) - *AWS Architecture Blog* (2026-06-09)
 - [Align your architecture backlog with Tech Roadmap Prioritization (TRP)](https://aws.amazon.com/blogs/architecture/align-your-architecture-backlog-with-tech-roadmap-prioritization-trp/) - *AWS Architecture Blog* (2026-06-03)
 - [Building highly available Oracle databases with Amazon FSx for NetApp ONTAP](https://aws.amazon.com/blogs/architecture/building-highly-available-oracle-databases-with-amazon-fsx-for-netapp-ontap/) - *AWS Architecture Blog* (2026-06-03)
 - [Automating contract intelligence with Doczy.ai™ on AWS](https://aws.amazon.com/blogs/architecture/automating-contract-intelligence-with-doczy-ai-on-aws/) - *AWS Architecture Blog* (2026-06-02)
 - [Scaling oncology patient support: How New York Cancer and Blood Specialists transformed customer experience with AWS and Pronetx, now part of Caylent](https://aws.amazon.com/blogs/architecture/scaling-oncology-patient-support-how-new-york-cancer-and-blood-specialists-transformed-customer-experience-with-aws-and-pronetx-now-part-of-caylent/) - *AWS Architecture Blog* (2026-06-01)
-- [Building a scalable user search layer on top of Amazon Cognito](https://aws.amazon.com/blogs/architecture/building-a-scalable-user-search-layer-on-top-of-amazon-cognito/) - *AWS Architecture Blog* (2026-06-01)
 
 ## Kubernetes
 
@@ -33,64 +33,64 @@ Automated tech news updates. Last updated: 2026-06-09 11:16:05 UTC
 
 ## Security
 
-- [New FROST Attack Lets Websites Track What Sites and Apps You Open via SSD Timing](https://thehackernews.com/2026/06/new-frost-attack-lets-websites-track.html) - *The Hacker News* (2026-06-09)
-- [Hades PyPI Attack: 19 Packages Poisoned to Auto-Run Bun Credential Stealer](https://thehackernews.com/2026/06/hades-pypi-attack-19-packages-poisoned.html) - *The Hacker News* (2026-06-09)
-- [LiteLLM Flaw CVE-2026-42271 Exploited in the Wild, Chains to Unauthenticated RCE](https://thehackernews.com/2026/06/litellm-flaw-cve-2026-42271-exploited.html) - *The Hacker News* (2026-06-09)
-- [One-Character Linux Kernel Flaw Enables Local Root Access, Exploits Now Public](https://thehackernews.com/2026/06/one-character-linux-kernel-flaw-enables.html) - *The Hacker News* (2026-06-09)
-- [Meta Blocks NSO Group's New WhatsApp Phishing Attack, Files Contempt Order](https://thehackernews.com/2026/06/meta-blocks-nso-groups-new-whatsapp.html) - *The Hacker News* (2026-06-08)
+- [NSO Group Hacking WhatsApp Despite Court Order](https://www.schneier.com/blog/archives/2026/06/nso-group-hacking-whatsapp-despite-court-order.html) - *Schneier on Security* (2026-06-10)
+- [Your Automated Pentest Looks Clean. See What It Missed in This Expert Webinar](https://thehackernews.com/2026/06/your-automated-pentest-looks-clean-see.html) - *The Hacker News* (2026-06-10)
+- [Microsoft Patches Record 206 Flaws, Including Three Zero-Days and Critical RCE Bugs](https://thehackernews.com/2026/06/microsoft-patches-record-206-flaws.html) - *The Hacker News* (2026-06-10)
+- [Anthropic Releases Claude Fable 5, Its Most Powerful AI Yet, With Cyber Safeguards](https://thehackernews.com/2026/06/anthropic-releases-claude-fable-5-its.html) - *The Hacker News* (2026-06-10)
+- [ServiceNow Flaw Exploited to Gain Unauthorized Access to Customer Instances](https://thehackernews.com/2026/06/servicenow-flaw-exploited-to-gain.html) - *The Hacker News* (2026-06-10)
+- [Microsoft Defender RoguePlanet Zero-Day Grants SYSTEM Access on Updated Windows](https://thehackernews.com/2026/06/microsoft-defender-rogueplanet-zero-day.html) - *The Hacker News* (2026-06-10)
+- [A Record-Breaking Patch Tuesday for June 2026](https://krebsonsecurity.com/2026/06/a-record-breaking-patch-tuesday-for-june-2026/) - *Krebs on Security* (2026-06-09)
+- [GPS As a Key Distribution Platform](https://www.schneier.com/blog/archives/2026/06/gps-as-a-key-distribution-platform.html) - *Schneier on Security* (2026-06-09)
 - [Critical Zcash Vulnerability Found and Fixed](https://www.schneier.com/blog/archives/2026/06/critical-zcash-vulnerability-found-and-fixed.html) - *Schneier on Security* (2026-06-08)
 - [Anthropic’s Project Glasswing Update](https://www.schneier.com/blog/archives/2026/06/anthropics-project-glasswing-update.html) - *Schneier on Security* (2026-06-08)
-- [AI Worm](https://www.schneier.com/blog/archives/2026/06/ai-worm.html) - *Schneier on Security* (2026-06-05)
-- [Hacking Meta’s AI Chatbot](https://www.schneier.com/blog/archives/2026/06/hacking-metas-ai-chatbot.html) - *Schneier on Security* (2026-06-04)
-- [AI Used to Decrypt Medieval Ciphers](https://www.schneier.com/blog/archives/2026/06/ai-used-to-decrypt-medieval-ciphers.html) - *Schneier on Security* (2026-06-03)
 
 ## Databases/Storage
 
+- [Christophe Pettus: All Your GUCs in a Row: deadlock_timeout](https://postgr.es/p/9lC) - *Planet PostgreSQL* (2026-06-10)
+- [Building type-safe applications with Drizzle ORM in Aurora DSQL](https://aws.amazon.com/blogs/database/building-type-safe-applications-with-drizzle-orm-in-aurora-dsql/) - *AWS Database Blog* (2026-06-09)
+- [Pagination patterns in Amazon Aurora DSQL](https://aws.amazon.com/blogs/database/pagination-patterns-in-amazon-aurora-dsql/) - *AWS Database Blog* (2026-06-09)
 - [Cornelia Biacsics: Contributions for week 22, 2026](https://postgr.es/p/9lA) - *Planet PostgreSQL* (2026-06-09)
+- [Christoph Berg: PGConf.dev 2026 in Vancouver](https://postgr.es/p/9lB) - *Planet PostgreSQL* (2026-06-09)
 - [Christophe Pettus: All Your GUCs in a Row: DateStyle](https://postgr.es/p/9ly) - *Planet PostgreSQL* (2026-06-09)
 - [Stefanie Janine: My Three Top PostgeSQL 19 Features](https://postgr.es/p/9lz) - *Planet PostgreSQL* (2026-06-08)
-- [Vibhor Kumar: pg_background 2.0: Run SQL in the Background, Now Cleaner, Safer, and Ready for PostgreSQL 19](https://postgr.es/p/9lw) - *Planet PostgreSQL* (2026-06-08)
 - [Announcing Amazon RDS for Db2 12.1 with additional community edition](https://aws.amazon.com/blogs/database/announcing-amazon-rds-for-db2-12-1-with-additional-community-edition/) - *AWS Database Blog* (2026-06-08)
 - [Automate Oracle PL/SQL to PostgreSQL migration with Amazon Bedrock and Strands Agents](https://aws.amazon.com/blogs/database/automate-oracle-pl-sql-to-postgresql-migration-with-amazon-bedrock-and-strands-agents/) - *AWS Database Blog* (2026-06-08)
 - [Building Python applications with SQLAlchemy and Aurora DSQL](https://aws.amazon.com/blogs/database/building-python-applications-with-sqlalchemy-and-aurora-dsql/) - *AWS Database Blog* (2026-06-08)
-- [Oracle Database@AWS decoded: Determining the right fit for your Oracle workloads](https://aws.amazon.com/blogs/database/oracle-databaseaws-decoded-determining-the-right-fit-for-your-oracle-workloads/) - *AWS Database Blog* (2026-06-08)
-- [Christophe Pettus: How the Other Half Counts](https://postgr.es/p/9lx) - *Planet PostgreSQL* (2026-06-08)
-- [Understanding how backups work in Amazon Aurora](https://aws.amazon.com/blogs/database/understanding-how-backups-work-in-amazon-aurora/) - *AWS Database Blog* (2026-06-04)
 
 ## Networking
 
-- [Attackers exploiting unpatched Cisco SD-WAN flaw](https://www.networkworld.com/article/4182574/attackers-exploiting-unpatched-cisco-sd-wan-flaw-2.html) - *Attackers exploiting unpatched Cisco SD-WAN flaw | Network World* (2026-06-08)
-- [Enterprise network teams are falling behind as AI raises the stakes](https://www.networkworld.com/article/4180943/enterprise-network-teams-are-falling-behind-as-ai-raises-the-stakes.html) - *Attackers exploiting unpatched Cisco SD-WAN flaw | Network World* (2026-06-08)
-- [New data center routing design cuts AWS networking energy costs by 40%, Amazon claims](https://www.networkworld.com/article/4181879/new-data-center-routing-design-cuts-aws-networking-energy-costs-by-40-amazon-claims.html) - *Attackers exploiting unpatched Cisco SD-WAN flaw | Network World* (2026-06-05)
-- [Cisco: Latest news and insights](https://www.networkworld.com/article/3523958/cisco-latest-news-and-insights.html) - *Attackers exploiting unpatched Cisco SD-WAN flaw | Network World* (2026-06-05)
-- [Network jobs watch: Hiring, skills and certification trends](https://www.networkworld.com/article/2093749/network-jobs-watch-hiring-skills-and-certification-trends.html) - *Attackers exploiting unpatched Cisco SD-WAN flaw | Network World* (2026-06-05)
+- [AI power efficiency the target of Lotus Microsystems energy  advances](https://www.networkworld.com/article/4183119/ai-power-efficiency-the-target-of-lotus-microsystems-energy-advances.html) - *AI power efficiency the target of Lotus Microsystems energy  advances | Network World* (2026-06-09)
+- [Arista unveils 1.6T rack-scale switch family for AI infrastructure](https://www.networkworld.com/article/4183076/arista-unveils-1-6t-rack-scale-switch-family-for-ai-infrastructure.html) - *AI power efficiency the target of Lotus Microsystems energy  advances | Network World* (2026-06-09)
+- [Zscaler launches zero trust platform for agentic AI](https://www.networkworld.com/article/4182976/zscaler-launches-zero-trust-platform-for-agentic-ai.html) - *AI power efficiency the target of Lotus Microsystems energy  advances | Network World* (2026-06-09)
+- [AI inference moving to private clouds, Broadcom says](https://www.networkworld.com/article/4182967/ai-inference-moving-to-private-clouds-broadcom-says.html) - *AI power efficiency the target of Lotus Microsystems energy  advances | Network World* (2026-06-09)
+- [2026 network outage report and internet health check](https://www.networkworld.com/article/4113326/2026-network-outage-report-and-internet-health-check.html) - *AI power efficiency the target of Lotus Microsystems energy  advances | Network World* (2026-06-09)
 
 ## Computing
 
-- [FCC lifts looming deadline for Amazon Leo satellite broadband constellation](https://arstechnica.com/space/2026/06/fcc-lifts-looming-deadline-for-amazon-leo-satellite-broadband-constellation/) - *Ars Technica - All content* (2026-06-09)
-- [Tests suggest Russian satellites can jam GPS on a continental scale](https://arstechnica.com/space/2026/06/tests-suggest-russian-satellites-can-jam-gps-on-a-continental-scale/) - *Ars Technica - All content* (2026-06-08)
-- [macOS 27 requires Apple Silicon, as Apple draws down the Intel Mac era](https://arstechnica.com/gadgets/2026/06/macos-27-requires-apple-silicon-as-apple-draws-down-the-intel-mac-era/) - *Ars Technica - All content* (2026-06-08)
-- [iOS 27 and iPadOS 27 don't drop support for any iPhones—and just a few iPads](https://arstechnica.com/gadgets/2026/06/ios-27-and-ipados-27-dont-drop-support-for-any-iphones-and-just-a-few-ipads/) - *Ars Technica - All content* (2026-06-08)
-- [Meta alleges NSO violated spyware injunction with new WhatsApp attacks](https://arstechnica.com/tech-policy/2026/06/meta-alleges-nso-violated-spyware-injunction-with-new-whatsapp-attacks/) - *Ars Technica - All content* (2026-06-08)
+- [Starlink charges $10 monthly hardware fee in move away from one-time purchases](https://arstechnica.com/tech-policy/2026/06/starlink-takes-page-from-cable-firms-with-10-monthly-rental-fee-for-hardware/) - *Ars Technica - All content* (2026-06-09)
+- [Locked in heated rivalry with researcher, Microsoft fixes 0-day they disclosed](https://arstechnica.com/security/2026/06/locked-in-heated-rivalry-with-researcher-microsoft-fixes-0-day-they-disclosed/) - *Ars Technica - All content* (2026-06-09)
+- [Three key vital signs make up the "urban pulse" of a city](https://arstechnica.com/science/2026/06/study-how-to-take-the-urban-pulse-of-a-city/) - *Ars Technica - All content* (2026-06-09)
+- [Commonwealth Fusion makes the physics case for its 400 MW reactor](https://arstechnica.com/science/2026/06/__trashed-19/) - *Ars Technica - All content* (2026-06-09)
+- [Paramount accuses Netflix of "scorched-earth campaign" against WBD merger](https://arstechnica.com/tech-policy/2026/06/netflix-trying-to-poison-regulators-about-wbd-merger-paramount-lawyer-claims/) - *Ars Technica - All content* (2026-06-09)
 
 ## AI/Models/RL
 
-- [Multimedia Building Blocks](https://huggingface.co/blog/mishig/spaces-agents-md) - *Hugging Face - Blog* (2026-06-09)
-- [Confidential submission of draft S-1 to the SEC](https://openai.com/index/openai-submits-confidential-s-1) - *OpenAI News* (2026-06-08)
-- [Built to benefit everyone: our plan](https://openai.com/index/built-to-benefit-everyone-our-plan) - *OpenAI News* (2026-06-08)
-- [Introducing the OpenAI Economic Research Exchange](https://openai.com/index/economic-research-exchange) - *OpenAI News* (2026-06-08)
-- [The Open Source Community is backing OpenEnv for Agentic RL](https://huggingface.co/blog/openenv-agentic-rl) - *Hugging Face - Blog* (2026-06-08)
-- [Unlocking dependable responses with Gemini Enterprise Agent Platform’s Agentic RAG](https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag/) - *The latest research from Google* (2026-06-05)
-- [Towards passive heart health monitoring via smartphone camera](https://research.google/blog/towards-passive-heart-health-monitoring-via-smartphone-camera/) - *The latest research from Google* (2026-06-04)
-- [Nemotron 3.5 Content Safety: Customizable Multimodal Safety for Global Enterprise AI](https://huggingface.co/blog/nvidia/nemotron-3-5-content-safety) - *Hugging Face - Blog* (2026-06-04)
-- [EVA-Bench Data 2.0: 3 Domains, 121 Tools, 213 Scenarios](https://huggingface.co/blog/ServiceNow-AI/eva-bench-data) - *Hugging Face - Blog* (2026-06-04)
-- [How Endava is redesigning software delivery around AI agents](https://openai.com/index/endava-frontiers) - *OpenAI News* (2026-06-04)
+- [From data to decisions: how LSEG is scaling trusted AI](https://openai.com/index/lseg) - *OpenAI News* (2026-06-10)
+- [Can Voice Agents Handle Bilingual Customers? Benchmarking Frontier ASR on Code-Switched Speech](https://huggingface.co/blog/ServiceNow-AI/code-switching) - *Hugging Face - Blog* (2026-06-09)
+- [Introducing North Mini Code: Cohere’s First Model For Developers](https://huggingface.co/blog/CohereLabs/introducing-north-mini-code) - *Hugging Face - Blog* (2026-06-09)
+- [Fluid, natural voice translation with Gemini 3.5 Live Translate](https://deepmind.google/blog/fluid-natural-voice-translation-with-gemini-35-live-translate/) - *Google DeepMind News* (2026-06-09)
+- [Introducing Gemma 4 12B: a unified, encoder-free multimodal model](https://deepmind.google/blog/introducing-gemma-4-12b-a-unified-encoder-free-multimodal-model/) - *Google DeepMind News* (2026-06-09)
+- [Powering the future of robotics in Europe](https://deepmind.google/blog/powering-the-future-of-robotics-in-europe/) - *Google DeepMind News* (2026-06-09)
+- [How engineers at Nextdoor use Codex to build without limits](https://openai.com/index/nextdoor) - *OpenAI News* (2026-06-09)
+- [How an Agent Built a 3D Paris Gallery by Chaining Two Hugging Face Spaces](https://huggingface.co/blog/mishig/spaces-agents-md) - *Hugging Face - Blog* (2026-06-09)
+- [What Codex unlocks for Notion](https://openai.com/index/notion) - *OpenAI News* (2026-06-09)
+- [Industrial policy for the Intelligence Age](https://openai.com/index/industrial-policy-for-the-intelligence-age) - *OpenAI News* (2026-06-09)
 
 ## AI Infra
 
+- [Scale Robot Reinforcement Learning with NVIDIA Isaac Lab on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/scale-robot-reinforcement-learning-with-nvidia-isaac-lab-on-amazon-sagemaker-ai/) - *Artificial Intelligence* (2026-06-09)
+- [Hands-free first notice of loss: Using Strands Agents and Amazon Bedrock AgentCore Browser Tool for intelligent claims intake](https://aws.amazon.com/blogs/machine-learning/hands-free-first-notice-of-loss-using-strands-agents-and-amazon-bedrock-agentcore-browser-tool-for-intelligent-claims-intake/) - *Artificial Intelligence* (2026-06-09)
+- [Build an agentic incident triage assistant with Amazon Quick and New Relic](https://aws.amazon.com/blogs/machine-learning/build-an-agentic-incident-triage-assistant-with-amazon-quick-and-new-relic/) - *Artificial Intelligence* (2026-06-09)
 - [Unlocking AI flexibility in Europe: A guide to cross-region inference for EU data processing and model access](https://aws.amazon.com/blogs/machine-learning/unlocking-ai-flexibility-in-europe-a-guide-to-cross-region-inference-for-eu-data-processing-and-model-access/) - *Artificial Intelligence* (2026-06-08)
 - [It’s safe to close your laptop now: Hosting coding agents on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/its-safe-to-close-your-laptop-now-hosting-coding-agents-on-amazon-bedrock-agentcore/) - *Artificial Intelligence* (2026-06-08)
-- [Better decisions at scale: How mathematical optimization delivers where intuition fails](https://aws.amazon.com/blogs/machine-learning/better-decisions-at-scale-how-mathematical-optimization-delivers-where-intuition-fails/) - *Artificial Intelligence* (2026-06-08)
-- [End-to-end encrypted ML inference with Amazon SageMaker AI and FHE](https://aws.amazon.com/blogs/machine-learning/end-to-end-encrypted-ml-inference-with-amazon-sagemaker-ai-and-fhe/) - *Artificial Intelligence* (2026-06-08)
-- [Amazon Quick ARNs: Cross-account migration and namespace permissions](https://aws.amazon.com/blogs/machine-learning/amazon-quick-arns-cross-account-migration-and-namespace-permissions/) - *Artificial Intelligence* (2026-06-08)
 
