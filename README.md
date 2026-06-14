@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-06-13 10:29:58 UTC
+Automated tech news updates. Last updated: 2026-06-14 10:49:13 UTC
 
 ## Software Architecture
 
@@ -32,12 +32,12 @@ Automated tech news updates. Last updated: 2026-06-13 10:29:58 UTC
 
 ## Security
 
+- [Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication](https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html) - *The Hacker News* (2026-06-13)
 - [U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals](https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html) - *The Hacker News* (2026-06-13)
 - [Friday Squid Blogging: Squid-Inspired Fluid Pump](https://www.schneier.com/blog/archives/2026/06/friday-squid-blogging-squid-inspired-fluid-pump.html) - *Schneier on Security* (2026-06-12)
 - [Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit](https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html) - *The Hacker News* (2026-06-13)
 - [Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing](https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html) - *The Hacker News* (2026-06-13)
 - [China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade](https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html) - *The Hacker News* (2026-06-12)
-- [Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code](https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html) - *The Hacker News* (2026-06-12)
 - [Bernie Sanders’ AI Sovereign Wealth Fund Plan](https://www.schneier.com/blog/archives/2026/06/bernie-sanders-ai-sovereign-wealth-fund-plan.html) - *Schneier on Security* (2026-06-12)
 - [Enhanced License Plate Tracking](https://www.schneier.com/blog/archives/2026/06/enhanced-license-plate-tracking.html) - *Schneier on Security* (2026-06-11)
 - [Who Runs the Ransomware Group ‘The Gentlemen?’](https://krebsonsecurity.com/2026/06/who-runs-the-ransomware-group-the-gentlemen/) - *Krebs on Security* (2026-06-10)
@@ -45,11 +45,11 @@ Automated tech news updates. Last updated: 2026-06-13 10:29:58 UTC
 
 ## Databases/Storage
 
+- [Christophe Pettus: All Your GUCs in a Row: default_tablespace](https://postgr.es/p/9lP) - *Planet PostgreSQL* (2026-06-14)
 - [Gilles Darold: pg_kpart PostgreSQL extension](https://postgr.es/p/9lO) - *Planet PostgreSQL* (2026-06-13)
 - [Christophe Pettus: All Your GUCs in a Row: default_table_access_method](https://postgr.es/p/9lN) - *Planet PostgreSQL* (2026-06-13)
 - [semab tariq: When Patroni Silently Deletes Your Replication Slots](https://postgr.es/p/9lM) - *Planet PostgreSQL* (2026-06-12)
 - [Shaun Thomas: Looking Forward to Postgres 19: It's About Time](https://postgr.es/p/9lL) - *Planet PostgreSQL* (2026-06-12)
-- [Christophe Pettus: All Your GUCs in a Row: default_statistics_target](https://postgr.es/p/9lK) - *Planet PostgreSQL* (2026-06-12)
 - [Production-Ready Agents Need A Production-Ready Data Platform](https://www.mongodb.com/company/blog/innovation/production-ready-agents-need-production-ready-data-platform) - *MongoDB | Blog* (2026-06-11)
 - [Provision Oracle Database@AWS resources using Terraform](https://aws.amazon.com/blogs/database/provision-oracle-databaseaws-resources-using-terraform/) - *AWS Database Blog* (2026-06-11)
 - [Automate Amazon Aurora PostgreSQL major or minor version upgrade using AWS Systems Manager and Amazon EC2](https://aws.amazon.com/blogs/database/automate-amazon-aurora-postgresql-major-or-minor-version-upgrade-using-aws-systems-manager-and-amazon-ec2/) - *AWS Database Blog* (2026-06-10)
@@ -66,11 +66,11 @@ Automated tech news updates. Last updated: 2026-06-13 10:29:58 UTC
 
 ## Computing
 
+- [Review: Disclosure Day is big on action, light on ideas](https://arstechnica.com/culture/2026/06/review-disclosure-day-is-big-on-action-light-on-ideas/) - *Ars Technica - All content* (2026-06-13)
+- [Threads of underground fungal networks are long enough to reach beyond the Solar System](https://arstechnica.com/science/2026/06/threads-of-underground-fungal-networks-are-long-enough-to-reach-beyond-the-solar-system/) - *Ars Technica - All content* (2026-06-13)
 - [Anthropic shuts down Fable, Mythos models following Trump admin directive](https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive/) - *Ars Technica - All content* (2026-06-13)
 - [SpaceX is now a public company valued for its AI potential, so what comes next?](https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next/) - *Ars Technica - All content* (2026-06-12)
 - [PeopleSoft 0-day affecting hundreds of organizations steals gigabytes of data](https://arstechnica.com/security/2026/06/peoplesoft-0-day-affecting-hundreds-of-organizations-steals-gigabytes-of-data/) - *Ars Technica - All content* (2026-06-12)
-- [Controversial FISA spying law expires tonight. The spying will continue.](https://arstechnica.com/tech-policy/2026/06/controversial-fisa-spying-law-expires-tonight-the-spying-will-continue/) - *Ars Technica - All content* (2026-06-12)
-- [Here's what Jeff Bezos' new startup Prometheus will do](https://arstechnica.com/ai/2026/06/heres-what-jeff-bezos-new-startup-prometheus-will-do/) - *Ars Technica - All content* (2026-06-12)
 
 ## AI/Models/RL
 
