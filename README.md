@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-06-18 11:50:46 UTC
+Automated tech news updates. Last updated: 2026-06-19 12:06:23 UTC
 
 ## Software Architecture
 
@@ -33,29 +33,29 @@ Automated tech news updates. Last updated: 2026-06-18 11:50:46 UTC
 
 ## Security
 
+- [Anthropic’s Fable and the State of AI](https://www.schneier.com/blog/archives/2026/06/anthropics-fable-and-the-state-of-ai.html) - *Schneier on Security* (2026-06-19)
+- [Forget Data Leakage: Shadow AI's Real Threat Is Access Control](https://thehackernews.com/2026/06/forget-data-leakage-shadow-ais-real.html) - *The Hacker News* (2026-06-19)
+- [Salesforce Disables Klue App Integration After OAuth Token Abuse Exposes Customer Data](https://thehackernews.com/2026/06/salesforce-disables-klue-app.html) - *The Hacker News* (2026-06-19)
+- [Apple Patches Beats Studio Buds Flaw Letting Nearby Attackers Spy via Microphone](https://thehackernews.com/2026/06/apple-patches-beats-studio-buds-flaw.html) - *The Hacker News* (2026-06-19)
+- [‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm](https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/) - *Krebs on Security* (2026-06-18)
+- [F5 Patches Two Critical NGINX Open Source Flaws Enabling Remote Code Execution](https://thehackernews.com/2026/06/f5-patches-two-critical-nginx-open.html) - *The Hacker News* (2026-06-18)
+- [Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network](https://thehackernews.com/2026/06/orphaned-ai-agents-how-to-find-hidden.html) - *The Hacker News* (2026-06-18)
 - [Embedding Forbidden Text in Spyware to Discourage AI Analysis](https://www.schneier.com/blog/archives/2026/06/embedding-forbidden-text-in-spyware-to-discourage-ai-analysis.html) - *Schneier on Security* (2026-06-18)
-- [The Scripts on Your Checkout Page Are Now a PCI DSS Problem](https://thehackernews.com/2026/06/the-scripts-on-your-checkout-page-are.html) - *The Hacker News* (2026-06-18)
-- [Crypto Clipper Campaign Abuses Fake Reviews, AI Narrators, and VirusTotal Comments](https://thehackernews.com/2026/06/crypto-clipper-campaign-abuses-fake.html) - *The Hacker News* (2026-06-17)
-- [Microsoft Confirms RoguePlanet Defender Zero-Day, Says Patch is in Development](https://thehackernews.com/2026/06/microsoft-confirms-rogueplanet-defender_02022423645.html) - *The Hacker News* (2026-06-17)
-- [Junior Hacker Used Tailscale and OpenSSH to Keep Access After His C2 Went Offline](https://thehackernews.com/2026/06/junior-hacker-used-tailscale-and.html) - *The Hacker News* (2026-06-17)
-- [Adversarial Exposure Validation Turns Security Visibility into Confident Prioritization](https://thehackernews.com/2026/06/adversarial-exposure-validation-turns.html) - *The Hacker News* (2026-06-17)
 - [AI Use by the US Government](https://www.schneier.com/blog/archives/2026/06/ai-use-by-the-us-government.html) - *Schneier on Security* (2026-06-17)
 - [Flock Cameras Are Being Used for Stalking](https://www.schneier.com/blog/archives/2026/06/flock-cameras-are-being-used-for-stalking.html) - *Schneier on Security* (2026-06-16)
-- [The FCC Wants to Eliminate Burner Phones](https://www.schneier.com/blog/archives/2026/06/the-fcc-wants-to-eliminate-burner-phones.html) - *Schneier on Security* (2026-06-15)
-- [Upcoming Speaking Engagements](https://www.schneier.com/blog/archives/2026/06/upcoming-speaking-engagements-57.html) - *Schneier on Security* (2026-06-14)
 
 ## Databases/Storage
 
-- [Christophe Pettus: All Your GUCs in a Row: default_transaction_isolation and default_transaction_read_only](https://postgr.es/p/9me) - *Planet PostgreSQL* (2026-06-18)
+- [Shaun Thomas: Looking Forward to Postgres 19: Logically Sequenced](https://postgr.es/p/9mu) - *Planet PostgreSQL* (2026-06-19)
+- [Christophe Pettus: All Your GUCs in a Row: dynamic_library_path](https://postgr.es/p/9mr) - *Planet PostgreSQL* (2026-06-19)
+- [Lætitia AVROT: It's Not Magic, It's Method](https://postgr.es/p/9ms) - *Planet PostgreSQL* (2026-06-19)
+- [Stefanie Janine Stölting: pgsql_tweaks Version 1.0.4 Released](https://postgr.es/p/9mt) - *Planet PostgreSQL* (2026-06-18)
+- [Antony Pegg: Introducing ColdFront: Seamlessly Uniting OLTP, Analytics and AI Workloads on PostgreSQL](https://postgr.es/p/9mf) - *Planet PostgreSQL* (2026-06-18)
 - [PostgreSQL 18 on Amazon Aurora and Amazon RDS: Performance enhancements](https://aws.amazon.com/blogs/database/postgresql-18-on-amazon-aurora-and-amazon-rds-performance-enhancements/) - *AWS Database Blog* (2026-06-17)
 - [PostgreSQL 18 on Amazon Aurora and Amazon RDS: Security, monitoring, and developer enhancements](https://aws.amazon.com/blogs/database/postgresql-18-on-amazon-aurora-and-amazon-rds-security-monitoring-and-developer-enhancements/) - *AWS Database Blog* (2026-06-17)
 - [Deep dive into Amazon Aurora PostgreSQL lock analysis with CloudWatch Database Insights](https://aws.amazon.com/blogs/database/deep-dive-into-amazon-aurora-postgresql-lock-analysis-with-cloudwatch-database-insights/) - *AWS Database Blog* (2026-06-17)
 - [Azure Backup for Azure Cosmos DB Public Preview Adds Immutable Backups and Long-Term Retention](https://devblogs.microsoft.com/cosmosdb/azure-backup-for-azure-cosmos-db-public-preview-adds-immutable-backups-and-long-term-retention/) - *Azure Cosmos DB Blog* (2026-06-17)
-- [Vibhor Kumar: The AI Agent Layer: Architecture, Implementation, and the Future of Intelligent Enterprise Systems](https://postgr.es/p/9md) - *Planet PostgreSQL* (2026-06-17)
-- [Christophe Pettus: All Your GUCs in a Row: default_transaction_deferrable](https://postgr.es/p/9ma) - *Planet PostgreSQL* (2026-06-17)
-- [Qiaosheng Liu: Releasing pg_ducklake v1.0](https://postgr.es/p/9mc) - *Planet PostgreSQL* (2026-06-17)
 - [Converting an RDS for SQL Server instance from license included to Bring Your Own Media (BYOM)](https://aws.amazon.com/blogs/database/converting-an-rds-for-sql-server-instance-from-license-included-to-bring-your-own-media-byom/) - *AWS Database Blog* (2026-06-16)
-- [Similarweb’s migration from HBase to Amazon DynamoDB](https://aws.amazon.com/blogs/database/similarwebs-migration-from-hbase-to-amazon-dynamodb/) - *AWS Database Blog* (2026-06-16)
 
 ## Networking
 
@@ -67,30 +67,30 @@ Automated tech news updates. Last updated: 2026-06-18 11:50:46 UTC
 
 ## Computing
 
-- [Hulk, Punisher join Peter Parker in Spider-Man: Brand New Day trailer](https://arstechnica.com/culture/2026/06/hulk-punisher-join-peter-parker-in-spider-man-brand-new-day-trailer/) - *Ars Technica - All content* (2026-06-18)
-- [Second carcass-eating fly species cleared by FDA for maggot wound therapy](https://arstechnica.com/health/2026/06/second-carcass-eating-fly-species-cleared-by-fda-for-maggot-wound-therapy/) - *Ars Technica - All content* (2026-06-17)
-- [Sooner than expected? Useful quantum error correction promised for 2028.](https://arstechnica.com/science/2026/06/amazon-quera-promise-useful-quantum-error-correction-by-2028/) - *Ars Technica - All content* (2026-06-17)
-- [California says AT&T lied to FCC in attempt to shut off old phone network](https://arstechnica.com/tech-policy/2026/06/california-says-att-lied-to-fcc-in-attempt-to-shut-off-old-phone-network/) - *Ars Technica - All content* (2026-06-17)
-- [Massive breach spills credentials for thousands of sensitive networks](https://arstechnica.com/security/2026/06/massive-breach-spills-credentials-for-thousands-of-sensitive-networks/) - *Ars Technica - All content* (2026-06-17)
+- [As global warming threatens corals, scientists search for reefs that can take the heat](https://arstechnica.com/science/2026/06/as-global-warming-threatens-corals-scientists-search-for-reefs-that-can-take-the-heat/) - *Ars Technica - All content* (2026-06-19)
+- [A bold satellite rescue mission came together in record time, but will it work?](https://arstechnica.com/space/2026/06/a-bold-satellite-rescue-mission-came-together-in-record-time-but-will-it-work/) - *Ars Technica - All content* (2026-06-19)
+- [Microsoft discovers new lightweight backdoor that steals cryptocurrency](https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/) - *Ars Technica - All content* (2026-06-18)
+- [FDA advisors unanimously vote to approve Moderna's mRNA after agency drama](https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/) - *Ars Technica - All content* (2026-06-18)
+- [As China looms, Taiwan makes more drones for defense and the US military](https://arstechnica.com/ai/2026/06/as-china-looms-taiwan-makes-more-drones-for-defense-and-the-us-military/) - *Ars Technica - All content* (2026-06-18)
 
 ## AI/Models/RL
 
+- [MosaicLeaks: Can your research agent keep a secret?](https://huggingface.co/blog/ServiceNow/mosaicleaks) - *Hugging Face - Blog* (2026-06-18)
+- [New usage analytics and updated spend controls for enterprises](https://openai.com/index/chatgpt-enterprise-spend-controls) - *OpenAI News* (2026-06-18)
+- [Improving health intelligence in ChatGPT](https://openai.com/index/improving-health-intelligence-in-chatgpt) - *OpenAI News* (2026-06-18)
+- [Using AI to help physicians diagnose rare genetic diseases affecting children](https://openai.com/index/diagnose-rare-childhood-diseases) - *OpenAI News* (2026-06-18)
+- [Beyond LoRA: Can you beat the most popular fine-tuning technique?](https://huggingface.co/blog/peft-beyond-lora) - *Hugging Face - Blog* (2026-06-18)
+- [Is it agentic enough? Benchmarking open models on your own tooling](https://huggingface.co/blog/is-it-agentic-enough) - *Hugging Face - Blog* (2026-06-18)
 - [MolmoMotion: Language-guided 3D motion forecasting](https://huggingface.co/blog/allenai/molmomotion) - *Hugging Face - Blog* (2026-06-17)
 - [From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot](https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware) - *Hugging Face - Blog* (2026-06-17)
 - [A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry](https://openai.com/index/ai-chemist-improves-reaction) - *OpenAI News* (2026-06-17)
-- [GLM-5.2: Built for Long-Horizon Tasks](https://huggingface.co/blog/zai-org/glm-52-blog) - *Hugging Face - Blog* (2026-06-17)
 - [Introducing LifeSciBench](https://openai.com/index/introducing-life-sci-bench) - *OpenAI News* (2026-06-17)
-- [Agentic Resource Discovery: Let agents search](https://huggingface.co/blog/agentic-resource-discovery-launch) - *Hugging Face - Blog* (2026-06-17)
-- [Unlocking UK house-building with AI-accelerated planning](https://deepmind.google/blog/unlocking-uk-house-building-with-ai-accelerated-planning/) - *Google DeepMind News* (2026-06-16)
-- [From pixels to planning: Earth AI for nature restoration](https://research.google/blog/from-pixels-to-planning-earth-ai-for-nature-restoration/) - *The latest research from Google* (2026-06-16)
-- [Predicting model behavior before release by simulating deployment](https://openai.com/index/deployment-simulation) - *OpenAI News* (2026-06-16)
-- [Introducing the OpenAI Partner Network](https://openai.com/index/introducing-openai-partner-network) - *OpenAI News* (2026-06-14)
 
 ## AI Infra
 
+- [Monitor and debug generative AI inference with SageMaker detailed metrics and Insights dashboard on CloudWatch](https://aws.amazon.com/blogs/machine-learning/monitor-and-debug-generative-ai-inference-with-sagemaker-detailed-metrics-and-insights-dashboard-on-cloudwatch/) - *Artificial Intelligence* (2026-06-18)
+- [Amazon Bedrock AgentCore harness is now generally available: Go from idea to production-grade agent in minutes](https://aws.amazon.com/blogs/machine-learning/amazon-bedrock-agentcore-harness-is-now-generally-available-go-from-idea-to-production-grade-agent-in-minutes/) - *Artificial Intelligence* (2026-06-18)
 - [Amazon SageMaker AI Async Inference now supports inline request payloads](https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-async-inference-now-supports-inline-request-payloads/) - *Artificial Intelligence* (2026-06-17)
 - [Get back hours every day with autonomous agents in Amazon Quick](https://aws.amazon.com/blogs/machine-learning/get-back-hours-every-day-with-autonomous-agents-in-amazon-quick/) - *Artificial Intelligence* (2026-06-17)
 - [Context intelligence for your data and AI agents at scale](https://aws.amazon.com/blogs/machine-learning/context-intelligence-for-your-data-and-ai-agents-at-scale/) - *Artificial Intelligence* (2026-06-17)
-- [New in Amazon Bedrock AgentCore: Build agents with broader knowledge and continuous learning](https://aws.amazon.com/blogs/machine-learning/new-in-amazon-bedrock-agentcore-build-agents-with-broader-knowledge-and-continuous-learning/) - *Artificial Intelligence* (2026-06-17)
-- [Safeguard your agentic AI applications with the Amazon Bedrock Guardrails InvokeGuardrailChecks API](https://aws.amazon.com/blogs/machine-learning/safeguard-your-agentic-ai-applications-with-the-amazon-bedrock-guardrails-invokeguardrailchecks-api/) - *Artificial Intelligence* (2026-06-16)
 
