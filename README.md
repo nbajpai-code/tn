@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-06-20 10:32:38 UTC
+Automated tech news updates. Last updated: 2026-06-21 11:16:26 UTC
 
 ## Software Architecture
 
@@ -46,11 +46,11 @@ Automated tech news updates. Last updated: 2026-06-20 10:32:38 UTC
 
 ## Databases/Storage
 
+- [Regina Obe: Replacing pgAgent with pg_timetable: Part 1](https://postgr.es/p/9mC) - *Planet PostgreSQL* (2026-06-21)
+- [Christophe Pettus: All Your GUCs in a Row: effective_cache_size](https://postgr.es/p/9mB) - *Planet PostgreSQL* (2026-06-21)
+- [Andrei Lepikhov: Optimising Polymorphic Associations in PostgreSQL](https://postgr.es/p/9mA) - *Planet PostgreSQL* (2026-06-20)
 - [Christophe Pettus: All Your GUCs in a Row: dynamic_shared_memory_type](https://postgr.es/p/9mz) - *Planet PostgreSQL* (2026-06-20)
 - [Shaun Thomas: Looking Forward to Postgres 19: Logically Sequenced](https://postgr.es/p/9mu) - *Planet PostgreSQL* (2026-06-19)
-- [Christophe Pettus: All Your GUCs in a Row: dynamic_library_path](https://postgr.es/p/9mr) - *Planet PostgreSQL* (2026-06-19)
-- [Lætitia AVROT: It's Not Magic, It's Method](https://postgr.es/p/9ms) - *Planet PostgreSQL* (2026-06-19)
-- [Stefanie Janine Stölting: pgsql_tweaks Version 1.0.4 Released](https://postgr.es/p/9mt) - *Planet PostgreSQL* (2026-06-18)
 - [PostgreSQL 18 on Amazon Aurora and Amazon RDS: Performance enhancements](https://aws.amazon.com/blogs/database/postgresql-18-on-amazon-aurora-and-amazon-rds-performance-enhancements/) - *AWS Database Blog* (2026-06-17)
 - [PostgreSQL 18 on Amazon Aurora and Amazon RDS: Security, monitoring, and developer enhancements](https://aws.amazon.com/blogs/database/postgresql-18-on-amazon-aurora-and-amazon-rds-security-monitoring-and-developer-enhancements/) - *AWS Database Blog* (2026-06-17)
 - [Deep dive into Amazon Aurora PostgreSQL lock analysis with CloudWatch Database Insights](https://aws.amazon.com/blogs/database/deep-dive-into-amazon-aurora-postgresql-lock-analysis-with-cloudwatch-database-insights/) - *AWS Database Blog* (2026-06-17)
@@ -67,11 +67,11 @@ Automated tech news updates. Last updated: 2026-06-20 10:32:38 UTC
 
 ## Computing
 
+- [Review: Widow's Bay is a boldly original take on comedic horror](https://arstechnica.com/culture/2026/06/review-widows-bay-is-a-boldly-original-take-on-comedic-horror/) - *Ars Technica - All content* (2026-06-21)
+- [The UK will scan asylum-seekers’ faces for age checks—despite knowing the tech is flawed](https://arstechnica.com/tech-policy/2026/06/the-uk-will-scan-asylum-seekers-faces-for-age-checks-despite-knowing-the-tech-is-flawed/) - *Ars Technica - All content* (2026-06-20)
 - [Rocket Report: Rebuild begins at Blue Origin launch pad; Relativity targets Mars](https://arstechnica.com/space/2026/06/rocket-report-rebuild-begins-at-blue-origin-launch-pad-relativity-targets-mars/) - *Ars Technica - All content* (2026-06-19)
 - [As global warming threatens corals, scientists search for reefs that can take the heat](https://arstechnica.com/science/2026/06/as-global-warming-threatens-corals-scientists-search-for-reefs-that-can-take-the-heat/) - *Ars Technica - All content* (2026-06-19)
 - [A bold satellite rescue mission came together in record time, but will it work?](https://arstechnica.com/space/2026/06/a-bold-satellite-rescue-mission-came-together-in-record-time-but-will-it-work/) - *Ars Technica - All content* (2026-06-19)
-- [Microsoft discovers new lightweight backdoor that steals cryptocurrency](https://arstechnica.com/security/2026/06/microsoft-spots-new-self-propagating-malware-for-stealing-cryptocurrency/) - *Ars Technica - All content* (2026-06-18)
-- [FDA advisors unanimously vote to approve Moderna's mRNA after agency drama](https://arstechnica.com/health/2026/06/fda-advisors-unanimously-vote-to-approve-modernas-mrna-after-agency-drama/) - *Ars Technica - All content* (2026-06-18)
 
 ## AI/Models/RL
 
