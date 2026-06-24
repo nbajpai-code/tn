@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-06-23 11:17:20 UTC
+Automated tech news updates. Last updated: 2026-06-24 10:50:47 UTC
 
 ## Software Architecture
 
@@ -32,25 +32,25 @@ Automated tech news updates. Last updated: 2026-06-23 11:17:20 UTC
 
 ## Security
 
+- [DoJ Seizes Huione Cloud Account Tied to Cyber Scam Money Laundering](https://thehackernews.com/2026/06/doj-seizes-huione-cloud-account-tied-to.html) - *The Hacker News* (2026-06-24)
+- [Cisco Unified CM Flaw Exploited After PoC Reveals File-Write Path to Root](https://thehackernews.com/2026/06/cisco-unified-cm-flaw-exploited-after.html) - *The Hacker News* (2026-06-24)
+- [FortiBleed Targeted FortiGate Firewalls in 110 Million-Credential Harvesting Operation](https://thehackernews.com/2026/06/fortibleed-targeted-fortigate-firewalls.html) - *The Hacker News* (2026-06-23)
+- [Scattered Spider Hackers Plead Guilty on Day 1 of Trial](https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/) - *Krebs on Security* (2026-06-23)
+- [Fake AI Agent Skill Passed Security Scans and Reportedly Reached 26,000 Agents](https://thehackernews.com/2026/06/fake-ai-agent-skill-passed-security.html) - *The Hacker News* (2026-06-23)
+- [Trump Order Sets 2030 Deadline for Federal Post-Quantum Crypto Migration](https://thehackernews.com/2026/06/trump-order-sets-2030-deadline-for.html) - *The Hacker News* (2026-06-23)
 - [Anthropic’s Fable 5 Model Jailbroken Within Days](https://www.schneier.com/blog/archives/2026/06/anthropics-fable-5-model-jailbroken-within-days.html) - *Schneier on Security* (2026-06-23)
-- [Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT](https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html) - *The Hacker News* (2026-06-23)
-- [WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool](https://thehackernews.com/2026/06/whatsapp-vbscript-campaign-uses-fake.html) - *The Hacker News* (2026-06-23)
-- [OpenAI Expands Daybreak With GPT-5.5-Cyber to Help Defenders Patch Security Flaws](https://thehackernews.com/2026/06/openai-expands-daybreak-with-gpt-55.html) - *The Hacker News* (2026-06-23)
-- [ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack](https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html) - *The Hacker News* (2026-06-22)
-- [Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants](https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html) - *The Hacker News* (2026-06-22)
 - [Professional Athletes and Wearables](https://www.schneier.com/blog/archives/2026/06/professional-athletes-and-wearables.html) - *Schneier on Security* (2026-06-22)
 - [Friday Squid Blogging: Victims of Unregulated Squid Fishing](https://www.schneier.com/blog/archives/2026/06/friday-squid-blogging-victims-of-unregulated-squid-fishing.html) - *Schneier on Security* (2026-06-19)
 - [Anthropic’s Fable and the State of AI](https://www.schneier.com/blog/archives/2026/06/anthropics-fable-and-the-state-of-ai.html) - *Schneier on Security* (2026-06-19)
-- [‘Popa’ Botnet Linked to Publicly-Traded Israeli Firm](https://krebsonsecurity.com/2026/06/popa-botnet-linked-to-publicly-traded-israeli-firm/) - *Krebs on Security* (2026-06-18)
 
 ## Databases/Storage
 
+- [Jeremy Schneider: Happiness Hint: Alarm on Checkpoint Time](https://postgr.es/p/9ne) - *Planet PostgreSQL* (2026-06-24)
+- [Christophe Pettus: All Your GUCs in a Row: enable_indexscan and enable_bitmapscan](https://postgr.es/p/9nd) - *Planet PostgreSQL* (2026-06-24)
+- [David Wheeler: pg_clickhouse 0.3.2: Ready For Postgres 19](https://postgr.es/p/9nc) - *Planet PostgreSQL* (2026-06-23)
+- [Hans-Juergen Schoenig: Introducing pg_hardstorage: A New Community-Driven Approach to PostgreSQL Backup and Recovery](https://postgr.es/p/9nb) - *Planet PostgreSQL* (2026-06-23)
 - [Tomas Vondra: Some more thoughts on random_page_cost](https://postgr.es/p/9na) - *Planet PostgreSQL* (2026-06-23)
-- [Christophe Pettus: All Your GUCs in a Row: enable_async_append](https://postgr.es/p/9n9) - *Planet PostgreSQL* (2026-06-23)
-- [Christophe Pettus: waxsql: Wax Fruit for Your Query Planner](https://postgr.es/p/9mF) - *Planet PostgreSQL* (2026-06-22)
 - [How to Use Deep Agents with Azure Cosmos DB – Plan, act, and verify against operational data](https://devblogs.microsoft.com/cosmosdb/deep-agents-to-plan-act-verify-against-operational-data/) - *Azure Cosmos DB Blog* (2026-06-22)
-- [Richard Yen: pg_stats: How Postgres Internal Stats Work](https://postgr.es/p/9mG) - *Planet PostgreSQL* (2026-06-22)
-- [Cornelia Biacsics: Contributions for week 23 & 24, 2026](https://postgr.es/p/9mE) - *Planet PostgreSQL* (2026-06-22)
 - [PostgreSQL 18 on Amazon Aurora and Amazon RDS: Performance enhancements](https://aws.amazon.com/blogs/database/postgresql-18-on-amazon-aurora-and-amazon-rds-performance-enhancements/) - *AWS Database Blog* (2026-06-17)
 - [PostgreSQL 18 on Amazon Aurora and Amazon RDS: Security, monitoring, and developer enhancements](https://aws.amazon.com/blogs/database/postgresql-18-on-amazon-aurora-and-amazon-rds-security-monitoring-and-developer-enhancements/) - *AWS Database Blog* (2026-06-17)
 - [Deep dive into Amazon Aurora PostgreSQL lock analysis with CloudWatch Database Insights](https://aws.amazon.com/blogs/database/deep-dive-into-amazon-aurora-postgresql-lock-analysis-with-cloudwatch-database-insights/) - *AWS Database Blog* (2026-06-17)
@@ -58,38 +58,38 @@ Automated tech news updates. Last updated: 2026-06-23 11:17:20 UTC
 
 ## Networking
 
-- [China’s LineShine dethrones El Capitan as the world’s fastest supercomputer](https://www.networkworld.com/article/4188115/chinas-lineshine-dethrones-el-capitan-as-the-worlds-fastest-supercomputer.html) - *China's LineShine dethrones El Capitan as the world’s fastest supercomputer | Network World* (2026-06-23)
-- [Nvidia: Latest news and insights](https://www.networkworld.com/article/3562856/nvidia-latest-news-and-insights__trashed.html) - *China's LineShine dethrones El Capitan as the world’s fastest supercomputer | Network World* (2026-06-23)
-- [Dell launches AI server based on Nvidia Vera Rubin GPUs](https://www.networkworld.com/article/4188045/dell-unwraps-ai-server-based-on-nvidia-vera-rubin-gpus.html) - *China's LineShine dethrones El Capitan as the world’s fastest supercomputer | Network World* (2026-06-22)
-- [Nvidia unveils Vera Rubin platform targeting AI, HPC infrastructure](https://www.networkworld.com/article/4188058/nvidia-unveils-vera-rubin-platform-targeting-ai-hpc-infrastructure-customers.html) - *China's LineShine dethrones El Capitan as the world’s fastest supercomputer | Network World* (2026-06-22)
-- [What Bundesliga’s Captain tells us about AI-powered CX](https://www.networkworld.com/article/4187954/what-bundesligas-captain-tells-us-about-ai-powered-cx.html) - *China's LineShine dethrones El Capitan as the world’s fastest supercomputer | Network World* (2026-06-22)
+- [Upscale AI readies Skyhammer scale-up networking tech, raises new funding](https://www.networkworld.com/article/4188550/upscale-ai-readies-skyhammer-scale-up-networking-tech-raises-new-funding.html) - *Upscale AI readies Skyhammer scale-up networking tech, raises new funding | Network World* (2026-06-23)
+- [Rami Rahim’s message for network pros: Legacy networks can’t withstand rigors of AI](https://www.networkworld.com/article/4188404/rami-rahims-message-for-network-pros-legacy-networks-cant-withstand-rigors-of-ai.html) - *Upscale AI readies Skyhammer scale-up networking tech, raises new funding | Network World* (2026-06-23)
+- [2026 network outage report and internet health check](https://www.networkworld.com/article/4113326/2026-network-outage-report-and-internet-health-check.html) - *Upscale AI readies Skyhammer scale-up networking tech, raises new funding | Network World* (2026-06-23)
+- [China’s LineShine dethrones El Capitan as the world’s fastest supercomputer](https://www.networkworld.com/article/4188115/chinas-lineshine-dethrones-el-capitan-as-the-worlds-fastest-supercomputer.html) - *Upscale AI readies Skyhammer scale-up networking tech, raises new funding | Network World* (2026-06-23)
+- [Nvidia: Latest news and insights](https://www.networkworld.com/article/3562856/nvidia-latest-news-and-insights__trashed.html) - *Upscale AI readies Skyhammer scale-up networking tech, raises new funding | Network World* (2026-06-23)
 
 ## Computing
 
-- [With Starfall, SpaceX eyes an edge in global cargo delivery from orbit](https://arstechnica.com/space/2026/06/with-starfall-spacex-eyes-an-edge-in-global-cargo-delivery-from-orbit/) - *Ars Technica - All content* (2026-06-23)
-- [GM installs robots at flagship EV factory after laying off 1,300 workers](https://arstechnica.com/ai/2026/06/gm-installs-robots-at-flagship-ev-factory-after-laying-off-1300-workers/) - *Ars Technica - All content* (2026-06-22)
-- [Report: Kennedy Space Center not ready for era of super heavy rockets](https://arstechnica.com/space/2026/06/report-kennedy-space-center-not-ready-for-era-of-super-heavy-rockets/) - *Ars Technica - All content* (2026-06-22)
-- [Man used massage gun on his tired eyeballs. It went as well as you'd expect.](https://arstechnica.com/health/2026/06/man-used-massage-gun-on-his-tired-eyeballs-it-went-as-well-as-youd-expect/) - *Ars Technica - All content* (2026-06-22)
-- [Polymarket's viral videos showed people winning big, but the bets were fake](https://arstechnica.com/tech-policy/2026/06/polymarkets-viral-videos-showed-people-winning-big-but-the-bets-were-fake/) - *Ars Technica - All content* (2026-06-22)
+- [White House drastically shortens deadline for dropping quantum-vulnerable crypto](https://arstechnica.com/information-technology/2026/06/executive-order-bumps-up-deadline-to-move-off-quantum-vulnerable-crypto/) - *Ars Technica - All content* (2026-06-23)
+- [US's climate.gov site, taken down by Trump, relaunched by nonprofit](https://arstechnica.com/science/2026/06/uss-climate-gov-site-taken-down-by-trump-relaunched-by-nonprofit/) - *Ars Technica - All content* (2026-06-23)
+- [Odd police video shows drone removing knife from motionless suspect](https://arstechnica.com/gadgets/2026/06/police-tout-using-drone-to-disarm-incapacitated-person-in-nationwide-first/) - *Ars Technica - All content* (2026-06-23)
+- [Oracle’s 21,000 layoffs help drive its debt-fueled AI investments](https://arstechnica.com/ai/2026/06/oracles-21000-layoffs-help-drive-its-debt-fueled-ai-investments/) - *Ars Technica - All content* (2026-06-23)
+- [A curious crossover: The Toyota C-HR review](https://arstechnica.com/cars/2026/06/a-curious-crossover-the-toyota-c-hr-review/) - *Ars Technica - All content* (2026-06-23)
 
 ## AI/Models/RL
 
+- [How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery](https://openai.com/index/gpt-5-immunology-mystery) - *OpenAI News* (2026-06-23)
+- [Helping build shared standards for advanced AI](https://openai.com/index/helping-build-shared-standards-for-advanced-ai) - *OpenAI News* (2026-06-23)
+- [Build real agentic apps using CUGA: two dozen working examples on a lightweight harness](https://huggingface.co/blog/ibm-research/cuga-apps) - *Hugging Face - Blog* (2026-06-23)
 - [How Omio is building the future of conversational travel](https://openai.com/index/omio) - *OpenAI News* (2026-06-23)
 - [Shipping huggingface_hub every week with AI, open tools, and a human in the loop](https://huggingface.co/blog/huggingface-hub-release-ci) - *Hugging Face - Blog* (2026-06-23)
+- [Experimenting with the proposed Cross-Origin Storage API in Transformers.js](https://huggingface.co/blog/cross-origin-storage) - *Hugging Face - Blog* (2026-06-23)
 - [PP-OCRv6 on Hugging Face: 50-Language OCR from 1.5M to 34.5M Parameters](https://huggingface.co/blog/PaddlePaddle/pp-ocrv6) - *Hugging Face - Blog* (2026-06-22)
 - [Daybreak: Tools for securing every organization in the world](https://openai.com/index/daybreak-securing-the-world) - *OpenAI News* (2026-06-22)
 - [Patch the Planet: a Daybreak initiative to support open source maintainers](https://openai.com/index/patch-the-planet) - *OpenAI News* (2026-06-22)
-- [Codex-maxxing for long-running work](https://openai.com/index/codex-maxxing-long-running-work) - *OpenAI News* (2026-06-22)
 - [We got local models to triage the OpenClaw repo for FREE!*](https://huggingface.co/blog/local-models-pr-triage) - *Hugging Face - Blog* (2026-06-22)
-- [Samsung Electronics brings ChatGPT and Codex to employees](https://openai.com/index/samsung-electronics-chatgpt-codex-deployment) - *OpenAI News* (2026-06-21)
-- [MosaicLeaks: Can your research agent keep a secret?](https://huggingface.co/blog/ServiceNow/mosaicleaks) - *Hugging Face - Blog* (2026-06-18)
-- [Beyond LoRA: Can you beat the most popular fine-tuning technique?](https://huggingface.co/blog/peft-beyond-lora) - *Hugging Face - Blog* (2026-06-18)
 
 ## AI Infra
 
+- [Build a protein research copilot with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/build-a-protein-research-copilot-with-amazon-bedrock-agentcore/) - *Artificial Intelligence* (2026-06-23)
+- [Shared infrastructure, isolated tenants: Pool model multi-tenancy with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/shared-infrastructure-isolated-tenants-pool-model-multi-tenancy-with-amazon-bedrock-agentcore/) - *Artificial Intelligence* (2026-06-23)
 - [Building pay-per-intelligence for AI agents: How Ampersend uses Amazon Bedrock AgentCore Payments](https://aws.amazon.com/blogs/machine-learning/building-pay-per-intelligence-for-ai-agents-how-ampersend-uses-amazon-bedrock-agentcore-payments/) - *Artificial Intelligence* (2026-06-22)
 - [Embed the world: Multimodal AI for searchable aerial imagery at scale](https://aws.amazon.com/blogs/machine-learning/embed-the-world-multimodal-ai-for-searchable-aerial-imagery-at-scale/) - *Artificial Intelligence* (2026-06-22)
 - [Running ComfyUI workflows on Amazon SageMaker AI processing jobs](https://aws.amazon.com/blogs/machine-learning/running-comfyui-workflows-on-amazon-sagemaker-ai-processing-jobs/) - *Artificial Intelligence* (2026-06-22)
-- [Introducing Web Search on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/introducing-web-search-on-amazon-bedrock-agentcore/) - *Artificial Intelligence* (2026-06-19)
-- [Accelerate campaign workflow with insights from Adobe Marketing Agent for Amazon Quick](https://aws.amazon.com/blogs/machine-learning/accelerate-campaign-workflow-with-insights-from-adobe-marketing-agent-for-amazon-quick/) - *Artificial Intelligence* (2026-06-19)
 
