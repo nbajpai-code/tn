@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-06-26 10:52:33 UTC
+Automated tech news updates. Last updated: 2026-06-27 10:09:39 UTC
 
 ## Software Architecture
 
@@ -18,6 +18,9 @@ Automated tech news updates. Last updated: 2026-06-26 10:52:33 UTC
 
 ## Kubernetes
 
+- [Open source maintainership in the age of AI](https://kubernetes.io/blog/2026/06/26/open-source-maintainership-in-the-age-of-ai/) - *Kubernetes Blog* (2026-06-26)
+- [Security Profiles Operator v1: Stable APIs, Security Hardened, and Shaping Upstream Kubernetes](https://www.cncf.io/blog/2026/06/26/security-profiles-operator-v1-stable-apis-security-hardened-and-shaping-upstream-kubernetes/) - *Blog – Cloud Native Computing Foundation* (2026-06-26)
+- [Securing CI/CD for an open source project, part 3: Credentials, verification, and what’s next](https://www.cncf.io/blog/2026/06/26/securing-ci-cd-for-an-open-source-project-part-3-credentials-verification-and-whats-next/) - *Blog – Cloud Native Computing Foundation* (2026-06-26)
 - [Introducing the Cluster API plugin for Headlamp](https://kubernetes.io/blog/2026/06/25/headlamp-cluster-api-plugin/) - *Kubernetes Blog* (2026-06-25)
 - [Inspect Volcano workloads faster with Headlamp](https://kubernetes.io/blog/2026/06/25/visual-context-volcano-headlamp-plugin/) - *Kubernetes Blog* (2026-06-25)
 - [See your serverless: introducing the Headlamp plugin for Knative](https://kubernetes.io/blog/2026/06/25/headlamp-knative-plugin/) - *Kubernetes Blog* (2026-06-25)
@@ -25,54 +28,53 @@ Automated tech news updates. Last updated: 2026-06-26 10:52:33 UTC
 - [Spotlight on WG Device Management](https://kubernetes.io/blog/2026/06/24/wg-device-management-spotlight-2026/) - *Kubernetes Blog* (2026-06-24)
 - [From Awareness to Engineered Accessibility in Open Source](https://www.cncf.io/blog/2026/06/24/from-awareness-to-engineered-accessibility-in-open-source/) - *Blog – Cloud Native Computing Foundation* (2026-06-24)
 - [Agent Auth: A lawyer’s day in court](https://www.cncf.io/blog/2026/06/23/agent-auth-a-lawyers-day-in-court/) - *Blog – Cloud Native Computing Foundation* (2026-06-23)
-- [Building Jaeger’s ClickHouse backend: 8.6× compression on 10 million spans](https://www.cncf.io/blog/2026/06/23/building-jaegers-clickhouse-backend-8-6x-compression-on-10-million-spans/) - *Blog – Cloud Native Computing Foundation* (2026-06-23)
-- [Telemetry that matters: Designing sustainable, high-impact observability pipelines](https://www.cncf.io/blog/2026/06/22/telemetry-that-matters-designing-sustainable-high-impact-observability-pipelines/) - *Blog – Cloud Native Computing Foundation* (2026-06-22)
-- [Spotlight on SIG Storage](https://kubernetes.io/blog/2026/06/15/sig-storage-spotlight-2026/) - *Kubernetes Blog* (2026-06-15)
 
 ## Security
 
-- [Microsoft Warns of Photo ZIP Phishing Campaign Targeting Hotels with Node.js Implant](https://thehackernews.com/2026/06/microsoft-warns-of-photo-zip-phishing.html) - *The Hacker News* (2026-06-26)
-- [Russia Used Cellebrite on Jailed Activist's iPhone Months After Sales Cutoff](https://thehackernews.com/2026/06/russia-used-cellebrite-on-jailed.html) - *The Hacker News* (2026-06-26)
-- [Google Details Turla's New STOCKSTAY Backdoor Used in Ukraine Espionage Attacks](https://thehackernews.com/2026/06/google-details-turlas-new-stockstay.html) - *The Hacker News* (2026-06-26)
+- [The Chinese Control the Majority of Argentina’s Squid Fleet](https://www.schneier.com/blog/archives/2026/06/the-chinese-control-the-majority-of-argentinas-squid-fleet.html) - *Schneier on Security* (2026-06-26)
+- [FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys](https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html) - *The Hacker News* (2026-06-27)
+- [New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks](https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html) - *The Hacker News* (2026-06-26)
+- [Meta Is Testing Facial Recognition for Police and Military](https://www.schneier.com/blog/archives/2026/06/meta-is-testing-facial-recognition-for-police-and-military.html) - *Schneier on Security* (2026-06-26)
+- [Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign](https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html) - *The Hacker News* (2026-06-26)
+- [New Linux pedit COW Exploit Enables Root Access by Poisoning Cached Binaries](https://thehackernews.com/2026/06/new-linux-pedit-cow-exploit-enables.html) - *The Hacker News* (2026-06-26)
+- [Amazon Q Developer Flaw Could Let Malicious Repos Run Code via MCP Configs](https://thehackernews.com/2026/06/amazon-q-developer-flaw-could-let.html) - *The Hacker News* (2026-06-26)
+- [One Million Passports Leaked Online](https://www.schneier.com/blog/archives/2026/06/one-million-passports-leaked-online.html) - *Schneier on Security* (2026-06-26)
 - [AI and Liability](https://www.schneier.com/blog/archives/2026/06/ai-and-liability.html) - *Schneier on Security* (2026-06-25)
-- [Chrome Ad Blocker with 10M+ Installs Found with Dormant Script Injection Capability](https://thehackernews.com/2026/06/chrome-ad-blocker-with-10m-installs.html) - *The Hacker News* (2026-06-25)
-- [ThreatsDay Bulletin: Smart TV Proxyware, 24-Year curl Bug, AI Crime Forums + 13 More Stories](https://thehackernews.com/2026/06/threatsday-bulletin-smart-tv-proxyware.html) - *The Hacker News* (2026-06-25)
 - [Interesting Paper Exploring Prompt Injection](https://www.schneier.com/blog/archives/2026/06/interesting-paper-exploring-prompt-injection.html) - *Schneier on Security* (2026-06-25)
-- [Embedding Forbidden Text in Spyware to Discourage AI Analysis](https://www.schneier.com/blog/archives/2026/06/embedding-forbidden-text-in-spyware-to-discourage-ai-analysis-2.html) - *Schneier on Security* (2026-06-24)
-- [Scattered Spider Hackers Plead Guilty on Day 1 of Trial](https://krebsonsecurity.com/2026/06/scattered-spider-hackers-plead-guilty-on-day-1-of-trial/) - *Krebs on Security* (2026-06-23)
-- [Anthropic’s Fable 5 Model Jailbroken Within Days](https://www.schneier.com/blog/archives/2026/06/anthropics-fable-5-model-jailbroken-within-days.html) - *Schneier on Security* (2026-06-23)
 
 ## Databases/Storage
 
+- [Christophe Pettus: All Your GUCs in a Row: enable_hashagg](https://postgr.es/p/9nt) - *Planet PostgreSQL* (2026-06-27)
+- [Lætitia AVROT: Stop Punishing Your Postgres for a Crash That Won't Happen](https://postgr.es/p/9nu) - *Planet PostgreSQL* (2026-06-27)
+- [Andrei Lepikhov: A Generative Postgres Digest: From Noise to Signal](https://postgr.es/p/9ns) - *Planet PostgreSQL* (2026-06-26)
+- [Christophe Pettus: coddpiece: Watch Relational Algebra Become SQL](https://postgr.es/p/9nr) - *Planet PostgreSQL* (2026-06-26)
 - [Jan Wieremjewicz: Why PostgreSQL needs an AI usage policy](https://postgr.es/p/9nn) - *Planet PostgreSQL* (2026-06-26)
-- [Christophe Pettus: All Your GUCs in a Row: enable_gathermerge](https://postgr.es/p/9nm) - *Planet PostgreSQL* (2026-06-26)
 - [Running pgvector in production on Amazon Aurora PostgreSQL](https://aws.amazon.com/blogs/database/running-pgvector-in-production-on-amazon-aurora-postgresql/) - *AWS Database Blog* (2026-06-25)
 - [Centralized traffic inspection for Oracle Database@AWS](https://aws.amazon.com/blogs/database/centralized-traffic-inspection-for-oracle-databaseaws/) - *AWS Database Blog* (2026-06-25)
 - [10 Years of MongoDB Atlas: Built for What’s Next](https://www.mongodb.com/company/blog/news/10-years-mongodb-atlas-built-for-whats-next) - *MongoDB | Blog* (2026-06-25)
 - [Which Azure Cosmos DB Role Does My App Need?](https://devblogs.microsoft.com/cosmosdb/which-azure-cosmos-db-role-does-my-app-need/) - *Azure Cosmos DB Blog* (2026-06-25)
-- [SHRIDHAR KHANAL: PostgreSQL Disaster Recovery with pgBackRest TLS Transport](https://postgr.es/p/9nl) - *Planet PostgreSQL* (2026-06-25)
-- [Hans-Juergen Schoenig: Heterogeneous Graphs in SQL/PGQ on PostgreSQL 19](https://postgr.es/p/9nk) - *Planet PostgreSQL* (2026-06-25)
-- [Christophe Pettus: All Your GUCs in a Row: enable_distinct_reordering and enable_group_by_reordering](https://postgr.es/p/9nj) - *Planet PostgreSQL* (2026-06-25)
 - [Build a Spring Boot REST API with Amazon Aurora DSQL](https://aws.amazon.com/blogs/database/build-a-spring-boot-rest-api-with-amazon-aurora-dsql/) - *AWS Database Blog* (2026-06-24)
 
 ## Networking
 
-- [Researchers cast new doubt on Microsoft’s quantum computing advance](https://www.networkworld.com/article/4189610/researchers-cast-new-doubt-on-microsofts-quantum-computing-advance.html) - *Researchers cast new doubt on Microsoft’s quantum computing advance | Network World* (2026-06-25)
-- [IBM unveils sub-1 nanometer chip with nearly 100 billion transistors](https://www.networkworld.com/article/4189510/ibm-unveils-sub-1-nanometer-chip-with-nearly-100-billion-transistors.html) - *Researchers cast new doubt on Microsoft’s quantum computing advance | Network World* (2026-06-25)
-- [Qualcomm’s $3.9 billion purchase of Modular aims to change the data center dynamic](https://www.networkworld.com/article/4189098/qualcomms-3-9-billion-purchase-of-modular-aims-to-change-the-data-center-dynamic.html) - *Researchers cast new doubt on Microsoft’s quantum computing advance | Network World* (2026-06-24)
-- [IBM, Red Hat, Palo Alto team to secure open-source software](https://www.networkworld.com/article/4189077/ibm-red-hat-palo-alto-team-to-secure-open-source-software.html) - *Researchers cast new doubt on Microsoft’s quantum computing advance | Network World* (2026-06-24)
-- [Break legacy lock-in: Strategic options for enterprises facing the vSphere 8 deadline](https://www.networkworld.com/article/4189065/break-legacy-lock-in-strategic-options-for-enterprises-facing-the-vsphere-8-deadline.html) - *Researchers cast new doubt on Microsoft’s quantum computing advance | Network World* (2026-06-24)
+- [Aggressive federal PQE timeline prompts warnings for enterprises](https://www.networkworld.com/article/4190064/aggressive-federal-pqe-timeline-prompts-warnings-for-enterprises.html) - *Aggressive federal PQE timeline prompts warnings for enterprises | Network World* (2026-06-27)
+- [You can’t build sovereign infrastructure with Broadcom, says CISPE](https://www.networkworld.com/article/4190063/you-cant-build-sovereign-infrastructure-with-broadcom-says-cispe.html) - *Aggressive federal PQE timeline prompts warnings for enterprises | Network World* (2026-06-26)
+- [Presidential order addresses quantum computing gaps](https://www.networkworld.com/article/4190012/presidential-order-addresses-quantum-computing-gaps.html) - *Aggressive federal PQE timeline prompts warnings for enterprises | Network World* (2026-06-26)
+- [Researchers cast new doubt on Microsoft’s quantum computing advance](https://www.networkworld.com/article/4189610/researchers-cast-new-doubt-on-microsofts-quantum-computing-advance.html) - *Aggressive federal PQE timeline prompts warnings for enterprises | Network World* (2026-06-25)
+- [IBM unveils sub-1 nanometer chip with nearly 100 billion transistors](https://www.networkworld.com/article/4189510/ibm-unveils-sub-1-nanometer-chip-with-nearly-100-billion-transistors.html) - *Aggressive federal PQE timeline prompts warnings for enterprises | Network World* (2026-06-25)
 
 ## Computing
 
-- [Microsoft adds another year to Windows 10 extended update program](https://arstechnica.com/gadgets/2026/06/microsoft-adds-another-year-to-windows-10-extended-update-program/) - *Ars Technica - All content* (2026-06-25)
-- [FCC may kill $2B program that connects schools and libraries to Internet](https://arstechnica.com/tech-policy/2026/06/fcc-may-kill-2b-program-that-connects-schools-and-libraries-to-internet/) - *Ars Technica - All content* (2026-06-25)
-- [Notion killing Skiff-influenced email app since most users use AI agents instead](https://arstechnica.com/gadgets/2026/06/notion-killing-skiff-influenced-email-app-since-most-users-use-ai-agents-instead/) - *Ars Technica - All content* (2026-06-25)
-- [Google finally releases a Finance Android app, promises iOS version later in 2026](https://arstechnica.com/google/2026/06/google-finance-finally-gets-a-mobile-app-as-ai-powered-overhaul-leaves-beta/) - *Ars Technica - All content* (2026-06-25)
-- [Anthropic says Alibaba must be punished for largest Claude cloning attack](https://arstechnica.com/tech-policy/2026/06/anthropic-claims-alibaba-defied-trump-to-attack-claude-and-steal-capabilities/) - *Ars Technica - All content* (2026-06-25)
+- [South Korea plans to train entire military as "drone warriors"](https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/) - *Ars Technica - All content* (2026-06-26)
+- [Doctors suspected man had brain cancer. He actually had worms.](https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/) - *Ars Technica - All content* (2026-06-26)
+- [Streaming services’ obnoxiously loud ads become illegal on July 1 in California](https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/) - *Ars Technica - All content* (2026-06-26)
+- [Russian citizens told "switch to Android" after Apple blocks key Russian apps](https://arstechnica.com/gadgets/2026/06/russian-citizens-told-switch-to-android-after-apple-blocks-key-russian-apps/) - *Ars Technica - All content* (2026-06-26)
+- [NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI](https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged/) - *Ars Technica - All content* (2026-06-26)
 
 ## AI/Models/RL
 
+- [Accelerating Gemini Nano models on Pixel with frozen Multi-Token Prediction](https://research.google/blog/accelerating-gemini-nano-models-on-pixel-with-frozen-multi-token-prediction/) - *The latest research from Google* (2026-06-26)
+- [Previewing GPT-5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol) - *OpenAI News* (2026-06-26)
 - [Run a vLLM Server on HF Jobs in One Command](https://huggingface.co/blog/vllm-jobs) - *Hugging Face - Blog* (2026-06-26)
 - [Which tokens does a hybrid model predict better?](https://huggingface.co/blog/allenai/hybrid-token-prediction) - *Hugging Face - Blog* (2026-06-25)
 - [Optimizing cloud economics with linear elastic caching](https://research.google/blog/optimizing-cloud-economics-with-linear-elastic-caching/) - *The latest research from Google* (2026-06-25)
@@ -81,14 +83,12 @@ Automated tech news updates. Last updated: 2026-06-26 10:52:33 UTC
 - [Introducing computer use in Gemini 3.5 Flash](https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/) - *Google DeepMind News* (2026-06-24)
 - [Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel](https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel) - *Hugging Face - Blog* (2026-06-24)
 - [OpenAI and Broadcom unveil LLM-optimized inference chip](https://openai.com/index/openai-broadcom-jalapeno-inference-chip) - *OpenAI News* (2026-06-24)
-- [Introducing the FFASR Leaderboard: Benchmarking ASR in the Real World](https://huggingface.co/blog/ffasr-leaderboard) - *Hugging Face - Blog* (2026-06-24)
-- [How GPT-5 helped immunologist Derya Unutmaz solve a 3-year-old mystery](https://openai.com/index/gpt-5-immunology-mystery) - *OpenAI News* (2026-06-23)
 
 ## AI Infra
 
+- [Build interactive PDF text extraction from Amazon S3](https://aws.amazon.com/blogs/machine-learning/build-interactive-pdf-text-extraction-from-amazon-s3/) - *Artificial Intelligence* (2026-06-26)
+- [How Cara pioneers domain-specific AI for enterprise insurance brokerages with AWS](https://aws.amazon.com/blogs/machine-learning/how-cara-pioneers-domain-specific-ai-for-enterprise-insurance-brokerages-with-aws/) - *Artificial Intelligence* (2026-06-26)
+- [Production-grade AI agents for financial compliance: Lessons from Stripe](https://aws.amazon.com/blogs/machine-learning/production-grade-ai-agents-for-financial-compliance-lessons-from-stripe/) - *Artificial Intelligence* (2026-06-26)
 - [Retrofit, don’t rebuild: Agentic overlays for transforming legacy enterprise services](https://aws.amazon.com/blogs/machine-learning/retrofit-dont-rebuild-agentic-overlays-for-transforming-legacy-enterprise-services/) - *Artificial Intelligence* (2026-06-25)
 - [Optimize model training on Amazon SageMaker AI with NVIDIA Blackwell](https://aws.amazon.com/blogs/machine-learning/optimize-model-training-on-amazon-sagemaker-ai-with-nvidia-blackwell/) - *Artificial Intelligence* (2026-06-25)
-- [Implementing super resolution by deploying SeedVR2 on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/implementing-super-resolution-by-deploying-seedvr2-on-amazon-sagemaker-ai/) - *Artificial Intelligence* (2026-06-25)
-- [Build self-service AWS Health analytics to find actionable health insights with AI agents powered by Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/build-self-service-aws-health-analytics-to-find-actionable-health-insights-with-ai-agents-powered-by-amazon-bedrock/) - *Artificial Intelligence* (2026-06-25)
-- [Building agentic AI applications with a modern data mesh strategy on AWS](https://aws.amazon.com/blogs/machine-learning/building-agentic-ai-applications-with-a-modern-data-mesh-strategy-on-aws/) - *Artificial Intelligence* (2026-06-25)
 
