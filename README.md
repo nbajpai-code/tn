@@ -1,11 +1,12 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-06-28 10:28:19 UTC
+Automated tech news updates. Last updated: 2026-06-29 12:35:45 UTC
 
 ## Software Architecture
 
-- [Article: Beyond CLEAN and MVP: Architecting an Offline-first Reactive Data Layer in Android](https://www.infoq.com/articles/rdla-offline-first-reactive-android-data-layer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-06-24)
-- [How Lightweight ADRs and Architectural Advice Forums Can Support Architectural Decisions](https://www.infoq.com/news/2026/06/architectural-decisions/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-06-18)
+- [Article: Virtual panel: Security in the Machine Age: Expert Insights on AI Threat Evolution](https://www.infoq.com/articles/security-ai-threat-evolution/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-06-29)
+- [Podcast: Architectural Patterns: Moving Beyond Cloud-Native to Local-First - Insights from Adam Wiggins](https://www.infoq.com/podcasts/natural-evolution-cloud-native/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-06-29)
+- [Article: Beyond CLEAN and MVP: Architecting an Offline-First Reactive Data Layer in Android](https://www.infoq.com/articles/rdla-offline-first-reactive-android-data-layer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-06-24)
 
 ## Cloud Computing
 
@@ -17,6 +18,8 @@ Automated tech news updates. Last updated: 2026-06-28 10:28:19 UTC
 
 ## Kubernetes
 
+- [OTel and mesh-derived metrics: A 2026 reference](https://www.cncf.io/blog/2026/06/29/otel-and-mesh-derived-metrics-a-2026-reference/) - *Blog – Cloud Native Computing Foundation* (2026-06-29)
+- [etcd-operator joins Cozystack with a new v1alpha2 API](https://www.cncf.io/blog/2026/06/29/etcd-operator-joins-cozystack-with-a-new-v1alpha2-api/) - *Blog – Cloud Native Computing Foundation* (2026-06-29)
 - [Open source maintainership in the age of AI](https://kubernetes.io/blog/2026/06/26/open-source-maintainership-in-the-age-of-ai/) - *Kubernetes Blog* (2026-06-26)
 - [Security Profiles Operator v1: Stable APIs, Security Hardened, and Shaping Upstream Kubernetes](https://www.cncf.io/blog/2026/06/26/security-profiles-operator-v1-stable-apis-security-hardened-and-shaping-upstream-kubernetes/) - *Blog – Cloud Native Computing Foundation* (2026-06-26)
 - [Securing CI/CD for an open source project, part 3: Credentials, verification, and what’s next](https://www.cncf.io/blog/2026/06/26/securing-ci-cd-for-an-open-source-project-part-3-credentials-verification-and-whats-next/) - *Blog – Cloud Native Computing Foundation* (2026-06-26)
@@ -25,34 +28,32 @@ Automated tech news updates. Last updated: 2026-06-28 10:28:19 UTC
 - [See your serverless: introducing the Headlamp plugin for Knative](https://kubernetes.io/blog/2026/06/25/headlamp-knative-plugin/) - *Kubernetes Blog* (2026-06-25)
 - [Building a Cluster-Aware AI Agent with Kubernetes, Argo CD, and GitOps](https://www.cncf.io/blog/2026/06/25/building-a-cluster-aware-ai-agent-with-kubernetes-argo-cd-and-gitops/) - *Blog – Cloud Native Computing Foundation* (2026-06-25)
 - [Spotlight on WG Device Management](https://kubernetes.io/blog/2026/06/24/wg-device-management-spotlight-2026/) - *Kubernetes Blog* (2026-06-24)
-- [From Awareness to Engineered Accessibility in Open Source](https://www.cncf.io/blog/2026/06/24/from-awareness-to-engineered-accessibility-in-open-source/) - *Blog – Cloud Native Computing Foundation* (2026-06-24)
-- [Agent Auth: A lawyer’s day in court](https://www.cncf.io/blog/2026/06/23/agent-auth-a-lawyers-day-in-court/) - *Blog – Cloud Native Computing Foundation* (2026-06-23)
 
 ## Security
 
-- [Ukraine Says Russian Intelligence Used Fake Support Texts to Steal Messaging Credentials](https://thehackernews.com/2026/06/ukraine-says-russian-intelligence-used.html) - *The Hacker News* (2026-06-27)
-- [OpenAI Previews GPT-5.6 Sol With Restricted Access and Stronger Cyber Safeguards](https://thehackernews.com/2026/06/openai-limits-gpt-56-rollout-as-sol.html) - *The Hacker News* (2026-06-27)
+- [Why Post-Quantum Cryptography Starts With Credentials](https://thehackernews.com/2026/06/why-post-quantum-cryptography-starts.html) - *The Hacker News* (2026-06-29)
+- [Gamaredon Expands Ukraine Attacks with New Malware and Cloud Service Abuse](https://thehackernews.com/2026/06/gamaredon-expands-ukraine-attacks-with.html) - *The Hacker News* (2026-06-29)
+- [Robot Police Officers](https://www.schneier.com/blog/archives/2026/06/robot-police-officers.html) - *Schneier on Security* (2026-06-29)
+- [Microsoft Removes 119 Edge Extensions That Hid Malware in Images and Fonts](https://thehackernews.com/2026/06/microsoft-removes-119-edge-extensions.html) - *The Hacker News* (2026-06-29)
+- [Public PoC Released for Critical libssh2 CVE-2026-55200 Client-Side SSH Flaw](https://thehackernews.com/2026/06/public-poc-released-for-critical.html) - *The Hacker News* (2026-06-29)
+- [Hijacked npm and Go Packages Use VS Code Tasks to Deploy Python Infostealer](https://thehackernews.com/2026/06/hijacked-npm-and-go-packages-use-vs.html) - *The Hacker News* (2026-06-29)
 - [The Chinese Control the Majority of Argentina’s Squid Fleet](https://www.schneier.com/blog/archives/2026/06/the-chinese-control-the-majority-of-argentinas-squid-fleet.html) - *Schneier on Security* (2026-06-26)
-- [FBI Warns Russian Intelligence Hackers Target Signal Backup Recovery Keys](https://thehackernews.com/2026/06/fbi-warns-russian-intelligence-hackers.html) - *The Hacker News* (2026-06-27)
-- [New SharkLoader Malware Deploys Cobalt Strike in StrikeShark Cyberattacks](https://thehackernews.com/2026/06/new-sharkloader-malware-deploys-cobalt.html) - *The Hacker News* (2026-06-26)
 - [Meta Is Testing Facial Recognition for Police and Military](https://www.schneier.com/blog/archives/2026/06/meta-is-testing-facial-recognition-for-police-and-military.html) - *Schneier on Security* (2026-06-26)
-- [Chinese-Speaking APT Deploys New TinyRCT Backdoor in Southeast Asia Campaign](https://thehackernews.com/2026/06/chinese-speaking-apt-deploys-new.html) - *The Hacker News* (2026-06-26)
 - [One Million Passports Leaked Online](https://www.schneier.com/blog/archives/2026/06/one-million-passports-leaked-online.html) - *Schneier on Security* (2026-06-26)
 - [AI and Liability](https://www.schneier.com/blog/archives/2026/06/ai-and-liability.html) - *Schneier on Security* (2026-06-25)
-- [Interesting Paper Exploring Prompt Injection](https://www.schneier.com/blog/archives/2026/06/interesting-paper-exploring-prompt-injection.html) - *Schneier on Security* (2026-06-25)
 
 ## Databases/Storage
 
+- [Cornelia Biacsics: Contributions for week 25](https://postgr.es/p/9nz) - *Planet PostgreSQL* (2026-06-29)
+- [Spring AI 2.0 is GA: Vector Search, Memory, and Agents on Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/spring-ai-2-0-is-ga-vector-search-memory-and-agents-on-azure-cosmos-db/) - *Azure Cosmos DB Blog* (2026-06-29)
+- [Christophe Pettus: All Your GUCs in a Row: enable_incremental_sort](https://postgr.es/p/9ny) - *Planet PostgreSQL* (2026-06-29)
+- [Radim Marek: Same rows, different SUM](https://postgr.es/p/9nx) - *Planet PostgreSQL* (2026-06-28)
+- [Rhys Stewart: Armchair Transit with PostGIS: The Census & The Bestagons](https://postgr.es/p/9nw) - *Planet PostgreSQL* (2026-06-28)
 - [Christophe Pettus: All Your GUCs in a Row: enable_hashjoin](https://postgr.es/p/9nv) - *Planet PostgreSQL* (2026-06-28)
-- [Christophe Pettus: All Your GUCs in a Row: enable_hashagg](https://postgr.es/p/9nt) - *Planet PostgreSQL* (2026-06-27)
-- [Lætitia AVROT: Stop Punishing Your Postgres for a Crash That Won't Happen](https://postgr.es/p/9nu) - *Planet PostgreSQL* (2026-06-27)
-- [Andrei Lepikhov: A Generative Postgres Digest: From Noise to Signal](https://postgr.es/p/9ns) - *Planet PostgreSQL* (2026-06-26)
-- [Christophe Pettus: coddpiece: Watch Relational Algebra Become SQL](https://postgr.es/p/9nr) - *Planet PostgreSQL* (2026-06-26)
 - [Running pgvector in production on Amazon Aurora PostgreSQL](https://aws.amazon.com/blogs/database/running-pgvector-in-production-on-amazon-aurora-postgresql/) - *AWS Database Blog* (2026-06-25)
 - [Centralized traffic inspection for Oracle Database@AWS](https://aws.amazon.com/blogs/database/centralized-traffic-inspection-for-oracle-databaseaws/) - *AWS Database Blog* (2026-06-25)
 - [10 Years of MongoDB Atlas: Built for What’s Next](https://www.mongodb.com/company/blog/news/10-years-mongodb-atlas-built-for-whats-next) - *MongoDB | Blog* (2026-06-25)
 - [Which Azure Cosmos DB Role Does My App Need?](https://devblogs.microsoft.com/cosmosdb/which-azure-cosmos-db-role-does-my-app-need/) - *Azure Cosmos DB Blog* (2026-06-25)
-- [Build a Spring Boot REST API with Amazon Aurora DSQL](https://aws.amazon.com/blogs/database/build-a-spring-boot-rest-api-with-amazon-aurora-dsql/) - *AWS Database Blog* (2026-06-24)
 
 ## Networking
 
@@ -64,14 +65,16 @@ Automated tech news updates. Last updated: 2026-06-28 10:28:19 UTC
 
 ## Computing
 
+- [NASA's X-59 "frankenjet" tests supersonic flight without the sonic boom](https://arstechnica.com/gadgets/2026/06/nasas-x-59-frankenjet-tests-supersonic-flight-without-the-sonic-boom/) - *Ars Technica - All content* (2026-06-29)
+- [Why did this journal retract two 1940s papers by Max Planck?](https://arstechnica.com/science/2026/06/why-did-this-journal-retract-two-1940s-papers-by-max-planck/) - *Ars Technica - All content* (2026-06-28)
 - [Apple and Audi alumni have made a luxe EV based on the moon buggy](https://arstechnica.com/cars/2026/06/apple-and-audi-alumni-have-made-a-luxe-ev-based-on-the-moon-buggy/) - *Ars Technica - All content* (2026-06-27)
 - [South Korea plans to train entire military as "drone warriors"](https://arstechnica.com/ai/2026/06/south-korea-plans-to-train-entire-military-as-drone-warriors/) - *Ars Technica - All content* (2026-06-26)
 - [Doctors suspected man had brain cancer. He actually had worms.](https://arstechnica.com/health/2026/06/doctors-suspected-man-had-brain-cancer-he-actually-had-worms/) - *Ars Technica - All content* (2026-06-26)
-- [Streaming services’ obnoxiously loud ads become illegal on July 1 in California](https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/) - *Ars Technica - All content* (2026-06-26)
-- [Russian citizens told "switch to Android" after Apple blocks key Russian apps](https://arstechnica.com/gadgets/2026/06/russian-citizens-told-switch-to-android-after-apple-blocks-key-russian-apps/) - *Ars Technica - All content* (2026-06-26)
 
 ## AI/Models/RL
 
+- [Mapping Europe’s AI Workforce Opportunity](https://openai.com/index/mapping-ai-jobs-transition-eu) - *OpenAI News* (2026-06-29)
+- [HP Inc. launches Frontier strategic partnership with OpenAI](https://openai.com/index/hp-frontier-partnership) - *OpenAI News* (2026-06-28)
 - [Accelerating Gemini Nano models on Pixel with frozen Multi-Token Prediction](https://research.google/blog/accelerating-gemini-nano-models-on-pixel-with-frozen-multi-token-prediction/) - *The latest research from Google* (2026-06-26)
 - [Previewing GPT-5.6 Sol: a next-generation model](https://openai.com/index/previewing-gpt-5-6-sol) - *OpenAI News* (2026-06-26)
 - [Run a vLLM Server on HF Jobs in One Command](https://huggingface.co/blog/vllm-jobs) - *Hugging Face - Blog* (2026-06-26)
@@ -80,8 +83,6 @@ Automated tech news updates. Last updated: 2026-06-28 10:28:19 UTC
 - [How agents are transforming work](https://openai.com/index/how-agents-are-transforming-work) - *OpenAI News* (2026-06-25)
 - [Thinking to recall: How reasoning unlocks parametric knowledge in LLMs](https://research.google/blog/thinking-to-recall-how-reasoning-unlocks-parametric-knowledge-in-llms/) - *The latest research from Google* (2026-06-24)
 - [Introducing computer use in Gemini 3.5 Flash](https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/) - *Google DeepMind News* (2026-06-24)
-- [Accelerating Transformers Fine-Tuning with NVIDIA NeMo AutoModel](https://huggingface.co/blog/nvidia/accelerating-fine-tuning-nvidia-nemo-automodel) - *Hugging Face - Blog* (2026-06-24)
-- [OpenAI and Broadcom unveil LLM-optimized inference chip](https://openai.com/index/openai-broadcom-jalapeno-inference-chip) - *OpenAI News* (2026-06-24)
 
 ## AI Infra
 
