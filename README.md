@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-07-04 10:10:32 UTC
+Automated tech news updates. Last updated: 2026-07-05 10:13:54 UTC
 
 ## Software Architecture
 
@@ -33,11 +33,11 @@ Automated tech news updates. Last updated: 2026-07-04 10:10:32 UTC
 
 ## Security
 
+- [U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case](https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html) - *The Hacker News* (2026-07-04)
+- [North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign](https://thehackernews.com/2026/07/north-korean-hackers-publish-108.html) - *The Hacker News* (2026-07-04)
 - [Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices](https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html) - *The Hacker News* (2026-07-04)
 - [New "Bad Epoll" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android](https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html) - *The Hacker News* (2026-07-04)
 - [New Avalon Malware Framework Packs CrownX Ransomware Capabilities](https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html) - *The Hacker News* (2026-07-04)
-- [North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets](https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html) - *The Hacker News* (2026-07-03)
-- [Armored Likho Targets Government Agencies, Power Sector with BusySnake Stealer](https://thehackernews.com/2026/07/armored-likho-targets-government.html) - *The Hacker News* (2026-07-03)
 - [Flock Cameras Can Surveil Cars Without License Plates](https://www.schneier.com/blog/archives/2026/07/flock-cameras-can-surveil-cars-without-license-plates.html) - *Schneier on Security* (2026-07-03)
 - [FBI Seizes NetNut Proxy Platform, Popa Botnet](https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/) - *Krebs on Security* (2026-07-02)
 - [Cybersecurity Mission Creep in the US](https://www.schneier.com/blog/archives/2026/07/cybersecurity-mission-creep-in-the-us.html) - *Schneier on Security* (2026-07-02)
@@ -46,11 +46,11 @@ Automated tech news updates. Last updated: 2026-07-04 10:10:32 UTC
 
 ## Databases/Storage
 
+- [Christophe Pettus: All Your GUCs in a Row: enable_parallel_hash](https://postgr.es/p/9o8) - *Planet PostgreSQL* (2026-07-05)
+- [Henrietta Dombrovskaya: PG DATA 2026 recap, and looking forward to PG DATA 2027](https://postgr.es/p/9o7) - *Planet PostgreSQL* (2026-07-04)
 - [Christophe Pettus: All Your GUCs in a Row: enable_parallel_append](https://postgr.es/p/9o6) - *Planet PostgreSQL* (2026-07-04)
 - [Shaun Thomas: Looking Forward to Postgres 19: Checksums For All](https://postgr.es/p/9o5) - *Planet PostgreSQL* (2026-07-03)
 - [Floor Drees: Meeting in Montreal: Developer U plan(ner) patches](https://postgr.es/p/9o3) - *Planet PostgreSQL* (2026-07-03)
-- [Antony Pegg: How to Build a RAG Server on pgEdge Cloud via the API](https://postgr.es/p/9o2) - *Planet PostgreSQL* (2026-07-03)
-- [Thom Brown: LOAD "PL/CBMBASIC",8,1: Commodore 64 BASIC for PostgreSQL](https://postgr.es/p/9o1) - *Planet PostgreSQL* (2026-07-03)
 - [Data masking in Amazon RDS for Oracle](https://aws.amazon.com/blogs/database/data-masking-in-amazon-rds-for-oracle/) - *AWS Database Blog* (2026-07-02)
 - [How CRED uses Amazon RDS Blue/Green Deployments at scale](https://aws.amazon.com/blogs/database/how-cred-uses-amazon-rds-blue-green-deployments-at-scale/) - *AWS Database Blog* (2026-07-02)
 - [Cross-account and cross-Region monitoring for Amazon RDS and Aurora with Database Insights](https://aws.amazon.com/blogs/database/cross-account-and-cross-region-monitoring-for-amazon-rds-and-aurora-with-database-insights/) - *AWS Database Blog* (2026-07-01)
@@ -67,11 +67,11 @@ Automated tech news updates. Last updated: 2026-07-04 10:10:32 UTC
 
 ## Computing
 
+- [Review: Supergirl is not the disaster its low box office suggests](https://arstechnica.com/culture/2026/07/review-supergirl-is-not-the-disaster-its-low-box-office-suggests/) - *Ars Technica - All content* (2026-07-04)
+- [When the ability to smell goes away](https://arstechnica.com/science/2026/07/when-the-ability-to-smell-goes-away/) - *Ars Technica - All content* (2026-07-04)
+- [A martian rock has lots of carbon on it, and it's not clear why](https://arstechnica.com/science/2026/07/a-martian-rock-has-lots-of-carbon-on-it-and-its-not-clear-why/) - *Ars Technica - All content* (2026-07-04)
 - [Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone](https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/) - *Ars Technica - All content* (2026-07-03)
 - [Inside the Luddite festival harnessing Gen Z’s rage against Big Tech](https://arstechnica.com/culture/2026/07/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/) - *Ars Technica - All content* (2026-07-03)
-- [Despite the darkness, I still see signs of hope in America](https://arstechnica.com/culture/2026/07/at-250-years-there-are-still-reasons-for-hope-in-america/) - *Ars Technica - All content* (2026-07-03)
-- [Visiting the stars (and planets, and telescopes) in VR](https://arstechnica.com/culture/2026/07/smithsonian-starstruck-vr-exhibit-lets-you-stroll-through-the-stars/) - *Ars Technica - All content* (2026-07-03)
-- [Wing Commander IV and the FMV future that never quite was](https://arstechnica.com/gaming/2026/07/wing-commander-iv-and-the-fmv-future-that-never-quite-was/) - *Ars Technica - All content* (2026-07-03)
 
 ## AI/Models/RL
 
