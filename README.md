@@ -1,12 +1,11 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-07-05 10:13:54 UTC
+Automated tech news updates. Last updated: 2026-07-06 12:04:57 UTC
 
 ## Software Architecture
 
 - [Mini book: Agentic AI Architecture](https://www.infoq.com/minibooks/agentic-ai-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-07-03)
 - [Presentation: Enhancing Reliability Using Service-Level Prioritized Load Shedding at Netflix](https://www.infoq.com/presentations/service-level-prioritized-load-shedding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-07-02)
-- [Article: Scaling Java-Based Real-Time Systems: The Hidden Tradeoffs of Event-Driven Design](https://www.infoq.com/articles/tradeoffs-event-driven-design/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-06-30)
 - [Article: Virtual panel: Security in the Machine Age: Expert Insights on AI Threat Evolution](https://www.infoq.com/articles/security-ai-threat-evolution/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-06-29)
 - [Podcast: Architectural Patterns: Moving Beyond Cloud-Native to Local-First - Insights from Adam Wiggins](https://www.infoq.com/podcasts/natural-evolution-cloud-native/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-06-29)
 
@@ -20,11 +19,11 @@ Automated tech news updates. Last updated: 2026-07-05 10:13:54 UTC
 
 ## Kubernetes
 
+- [The 4-body problem of SRE: Why autonomous operations depend on context](https://www.cncf.io/blog/2026/07/06/the-4-body-problem-of-sre-why-autonomous-operations-depend-on-context/) - *Blog – Cloud Native Computing Foundation* (2026-07-06)
+- [Evolving platform engineering for AI-native workloads](https://www.cncf.io/blog/2026/07/06/evolving-platform-engineering-for-ai-native-workloads/) - *Blog – Cloud Native Computing Foundation* (2026-07-06)
 - [How data sovereignty is changing cloud native infrastructure design](https://www.cncf.io/blog/2026/07/03/how-data-sovereignty-is-changing-cloud-native-infrastructure-design/) - *Blog – Cloud Native Computing Foundation* (2026-07-03)
 - [(re)introducing kpt: Your toolchain for infrastructure automation](https://www.cncf.io/blog/2026/07/02/reintroducing-kpt-your-toolchain-for-infrastructure-automation/) - *Blog – Cloud Native Computing Foundation* (2026-07-02)
 - [Understanding dynamic resource allocation in Kubernetes](https://www.cncf.io/blog/2026/07/01/understanding-dynamic-resource-allocation-in-kubernetes/) - *Blog – Cloud Native Computing Foundation* (2026-07-01)
-- [Kepler, re-architected: Improved power accuracy and a community call to action!](https://www.cncf.io/blog/2026/06/30/kepler-re-architected-improved-power-accuracy-and-a-community-call-to-action/) - *Blog – Cloud Native Computing Foundation* (2026-06-30)
-- [Dragonfly v2.5.0 is released](https://www.cncf.io/blog/2026/06/30/dragonfly-v2-5-0-is-released/) - *Blog – Cloud Native Computing Foundation* (2026-06-30)
 - [Open source maintainership in the age of AI](https://kubernetes.io/blog/2026/06/26/open-source-maintainership-in-the-age-of-ai/) - *Kubernetes Blog* (2026-06-26)
 - [Introducing the Cluster API plugin for Headlamp](https://kubernetes.io/blog/2026/06/25/headlamp-cluster-api-plugin/) - *Kubernetes Blog* (2026-06-25)
 - [Inspect Volcano workloads faster with Headlamp](https://kubernetes.io/blog/2026/06/25/visual-context-volcano-headlamp-plugin/) - *Kubernetes Blog* (2026-06-25)
@@ -33,24 +32,24 @@ Automated tech news updates. Last updated: 2026-07-05 10:13:54 UTC
 
 ## Security
 
+- [France to Stop Certifying Non-Quantum-Safe Encryption](https://www.schneier.com/blog/archives/2026/07/france-to-stop-certifying-non-quantum-safe-encryption.html) - *Schneier on Security* (2026-07-06)
+- [New TrojPix Attack Leaks Data From Air-Gapped Systems via Video Cable Emissions](https://thehackernews.com/2026/07/new-trojpix-attack-leaks-data-from-air.html) - *The Hacker News* (2026-07-06)
+- [New Java-Based QuimaRAT MaaS Built to Run on Windows, Linux, and macOS](https://thehackernews.com/2026/07/new-java-based-quimarat-maas-built-to.html) - *The Hacker News* (2026-07-06)
+- [Opera GX Flaw Let Malicious Sites Auto-Install Mods to Steal Data From Visited Pages](https://thehackernews.com/2026/07/opera-gx-flaw-let-malicious-sites-auto.html) - *The Hacker News* (2026-07-06)
+- [SkillCloak Lets Malicious AI Agent Skills Evade Static Scanners with Self-Extracting Packing](https://thehackernews.com/2026/07/new-skillcloak-technique-lets-malicious.html) - *The Hacker News* (2026-07-06)
 - [U.S. Government Entity Paid Kairos $1 Million in Data-Theft Extortion Case](https://thehackernews.com/2026/07/us-government-entity-paid-kairos-group.html) - *The Hacker News* (2026-07-04)
-- [North Korean Hackers Publish 108 Malicious Packages and Extensions in PolinRider Campaign](https://thehackernews.com/2026/07/north-korean-hackers-publish-108.html) - *The Hacker News* (2026-07-04)
-- [Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices](https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html) - *The Hacker News* (2026-07-04)
-- [New "Bad Epoll" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android](https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html) - *The Hacker News* (2026-07-04)
-- [New Avalon Malware Framework Packs CrownX Ransomware Capabilities](https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html) - *The Hacker News* (2026-07-04)
 - [Flock Cameras Can Surveil Cars Without License Plates](https://www.schneier.com/blog/archives/2026/07/flock-cameras-can-surveil-cars-without-license-plates.html) - *Schneier on Security* (2026-07-03)
 - [FBI Seizes NetNut Proxy Platform, Popa Botnet](https://krebsonsecurity.com/2026/07/fbi-seizes-netnut-proxy-platform-popa-botnet/) - *Krebs on Security* (2026-07-02)
 - [Cybersecurity Mission Creep in the US](https://www.schneier.com/blog/archives/2026/07/cybersecurity-mission-creep-in-the-us.html) - *Schneier on Security* (2026-07-02)
 - [Papa Johns Surveillance-Based Advertising](https://www.schneier.com/blog/archives/2026/07/papa-johns-surveillance-based-advertising.html) - *Schneier on Security* (2026-07-01)
-- [The Realities of AI Video Surveillance](https://www.schneier.com/blog/archives/2026/06/the-realities-of-ai-video-surveillance.html) - *Schneier on Security* (2026-06-30)
 
 ## Databases/Storage
 
+- [Gabriele Bartolini: CNPG Recipe 25 - Declarative Roles and Passwordless TLS in CloudNativePG 1.30](https://postgr.es/p/9op) - *Planet PostgreSQL* (2026-07-06)
+- [Hans-Juergen Schoenig: Why pg_hardstorage has no incremental chain](https://postgr.es/p/9oo) - *Planet PostgreSQL* (2026-07-06)
+- [Christophe Pettus: All Your GUCs in a Row: enable_partition_pruning](https://postgr.es/p/9on) - *Planet PostgreSQL* (2026-07-06)
+- [Radim Marek: VACUUM at the Page Level](https://postgr.es/p/9ol) - *Planet PostgreSQL* (2026-07-05)
 - [Christophe Pettus: All Your GUCs in a Row: enable_parallel_hash](https://postgr.es/p/9o8) - *Planet PostgreSQL* (2026-07-05)
-- [Henrietta Dombrovskaya: PG DATA 2026 recap, and looking forward to PG DATA 2027](https://postgr.es/p/9o7) - *Planet PostgreSQL* (2026-07-04)
-- [Christophe Pettus: All Your GUCs in a Row: enable_parallel_append](https://postgr.es/p/9o6) - *Planet PostgreSQL* (2026-07-04)
-- [Shaun Thomas: Looking Forward to Postgres 19: Checksums For All](https://postgr.es/p/9o5) - *Planet PostgreSQL* (2026-07-03)
-- [Floor Drees: Meeting in Montreal: Developer U plan(ner) patches](https://postgr.es/p/9o3) - *Planet PostgreSQL* (2026-07-03)
 - [Data masking in Amazon RDS for Oracle](https://aws.amazon.com/blogs/database/data-masking-in-amazon-rds-for-oracle/) - *AWS Database Blog* (2026-07-02)
 - [How CRED uses Amazon RDS Blue/Green Deployments at scale](https://aws.amazon.com/blogs/database/how-cred-uses-amazon-rds-blue-green-deployments-at-scale/) - *AWS Database Blog* (2026-07-02)
 - [Cross-account and cross-Region monitoring for Amazon RDS and Aurora with Database Insights](https://aws.amazon.com/blogs/database/cross-account-and-cross-region-monitoring-for-amazon-rds-and-aurora-with-database-insights/) - *AWS Database Blog* (2026-07-01)
@@ -67,14 +66,16 @@ Automated tech news updates. Last updated: 2026-07-05 10:13:54 UTC
 
 ## Computing
 
+- [Bentley teases its first EV, the Torcal](https://arstechnica.com/cars/2026/07/bentley-teases-its-first-ev-the-torcal/) - *Ars Technica - All content* (2026-07-06)
+- [The Czinger 21C might be the wildest car we drive all year](https://arstechnica.com/cars/2026/07/the-czinger-21c-might-be-the-wildest-car-we-drive-all-year/) - *Ars Technica - All content* (2026-07-06)
+- [Chemical accidents rise as Trump administration proposes weakening safety rules](https://arstechnica.com/science/2026/07/chemical-accidents-rise-as-trump-administration-proposes-weakening-safety-rules/) - *Ars Technica - All content* (2026-07-05)
+- [The missing 500 million: Cosmic bombardment melted Earth's first crust](https://arstechnica.com/science/2026/07/the-missing-500-million-cosmic-bombardment-melted-earths-first-crust/) - *Ars Technica - All content* (2026-07-05)
 - [Review: Supergirl is not the disaster its low box office suggests](https://arstechnica.com/culture/2026/07/review-supergirl-is-not-the-disaster-its-low-box-office-suggests/) - *Ars Technica - All content* (2026-07-04)
-- [When the ability to smell goes away](https://arstechnica.com/science/2026/07/when-the-ability-to-smell-goes-away/) - *Ars Technica - All content* (2026-07-04)
-- [A martian rock has lots of carbon on it, and it's not clear why](https://arstechnica.com/science/2026/07/a-martian-rock-has-lots-of-carbon-on-it-and-its-not-clear-why/) - *Ars Technica - All content* (2026-07-04)
-- [Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone](https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/) - *Ars Technica - All content* (2026-07-03)
-- [Inside the Luddite festival harnessing Gen Z’s rage against Big Tech](https://arstechnica.com/culture/2026/07/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/) - *Ars Technica - All content* (2026-07-03)
 
 ## AI/Models/RL
 
+- [LeRobot v0.6.0: Imagine, Evaluate, Improve](https://huggingface.co/blog/lerobot-release-v060) - *Hugging Face - Blog* (2026-07-07)
+- [🤗 Kernels: Major Updates](https://huggingface.co/blog/revamped-kernels) - *Hugging Face - Blog* (2026-07-06)
 - [Google DeepMind and A24 announce first-of-its-kind research partnership](https://deepmind.google/blog/google-deepmind-and-a24-announce-first-of-its-kind-research-partnership/) - *Google DeepMind News* (2026-07-03)
 - [Hugging Face and Cerebras bring Gemma 4 to real-time voice AI](https://huggingface.co/blog/cerebras-gemma4-voice-ai) - *Hugging Face - Blog* (2026-07-01)
 - [ScarfBench: Benchmarking AI Agents for Enterprise Java Framework Migration](https://huggingface.co/blog/ibm-research/scarfbench) - *Hugging Face - Blog* (2026-06-30)
@@ -83,8 +84,6 @@ Automated tech news updates. Last updated: 2026-07-05 10:13:54 UTC
 - [Why Specialization Is Inevitable](https://huggingface.co/blog/Dharma-AI/why-specialization-is-inevitable) - *Hugging Face - Blog* (2026-06-30)
 - [Introducing TabFM: A zero-shot foundation model for tabular data](https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data/) - *The latest research from Google* (2026-06-30)
 - [How ChatGPT adoption has expanded](https://openai.com/index/how-chatgpt-adoption-has-expanded) - *OpenAI News* (2026-06-30)
-- [Inside Genebench-Pro](https://openai.com/index/genebench-pro/case-studies) - *OpenAI News* (2026-06-30)
-- [Introducing GeneBench-Pro](https://openai.com/index/introducing-genebench-pro) - *OpenAI News* (2026-06-30)
 
 ## AI Infra
 
