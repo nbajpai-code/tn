@@ -46,5 +46,19 @@
         "https://ai.meta.com/blog/rss.xml",
         "https://aws.amazon.com/blogs/machine-learning/feed/",
         "https://cloud.google.com/blog/products/ai-machine-learning/rss"
+    ],
+    "Technical Program Management (TPM)": [
+        "https://blog.pragmaticengineer.com/rss/",
+        "https://www.mountaingoatsoftware.com/blog/rss",
+        "https://feed.infoq.com/development/"
+    ],
+    "Forward Deployment Engineering (FDE)": [
+        "https://blog.palantir.com/feed",
+        "https://www.databricks.com/blog/feed"
+    ],
+    "Network Observability": [
+        "https://www.kentik.com/blog/index.xml",
+        "https://packetpushers.net/feed/",
+        "https://blogs.cisco.com/tag/observability/feed"
     ]
 }
