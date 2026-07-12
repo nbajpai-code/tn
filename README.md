@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-07-11 09:38:10 UTC
+Automated tech news updates. Last updated: 2026-07-12 09:51:11 UTC
 
 ## Software Architecture
 
@@ -33,12 +33,12 @@ Automated tech news updates. Last updated: 2026-07-11 09:38:10 UTC
 
 ## Security
 
+- [Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install](https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html) - *The Hacker News* (2026-07-11)
+- [Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns](https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html) - *The Hacker News* (2026-07-11)
 - [Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions](https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html) - *The Hacker News* (2026-07-11)
 - [Friday Squid Blogging: “Squidbleed” Vulnerability](https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squidbleed-vulnerability.html) - *Schneier on Security* (2026-07-10)
 - [URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat](https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html) - *The Hacker News* (2026-07-10)
 - [Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages](https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html) - *The Hacker News* (2026-07-10)
-- [Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot](https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html) - *The Hacker News* (2026-07-10)
-- [Laser Attack Resets Tangem Wallet Passwords on Cards That Can't Be Patched](https://thehackernews.com/2026/07/laser-attack-resets-tangem-wallet.html) - *The Hacker News* (2026-07-10)
 - [AI Surveillance and Social Progress](https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html) - *Schneier on Security* (2026-07-10)
 - [The Language of AI Could Change How Humans Speak](https://www.schneier.com/blog/archives/2026/07/the-language-of-ai-could-change-how-humans-speak.html) - *Schneier on Security* (2026-07-09)
 - [Felons, Fraudsters Flog Offensive Cybersecurity Startup](https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/) - *Krebs on Security* (2026-07-08)
@@ -46,11 +46,11 @@ Automated tech news updates. Last updated: 2026-07-11 09:38:10 UTC
 
 ## Databases/Storage
 
+- [Christophe Pettus: All Your GUCs in a Row: enable_sort](https://postgr.es/p/9pm) - *Planet PostgreSQL* (2026-07-12)
+- [Andrei Lepikhov: Postgres community events: isn't it time to tap the capabilities of the digital era?](https://postgr.es/p/9pl) - *Planet PostgreSQL* (2026-07-11)
+- [Andrew Dunstan: (Belatedly) Announcing Release 21 of the PostgreSQL Buildfarm Client](https://postgr.es/p/9pj) - *Planet PostgreSQL* (2026-07-11)
 - [Christophe Pettus: All Your GUCs in a Row: enable_seqscan](https://postgr.es/p/9pi) - *Planet PostgreSQL* (2026-07-11)
 - [Dave Stokes: Ever Run Into A PostgreSQL Query That You Can Figure Out What It Does??](https://postgr.es/p/9pf) - *Planet PostgreSQL* (2026-07-10)
-- [Christophe Pettus: All Your GUCs in a Row: enable_self_join_elimination](https://postgr.es/p/9pg) - *Planet PostgreSQL* (2026-07-10)
-- [Christophe Pettus: The Version Number Is Not the Territory](https://postgr.es/p/9pe) - *Planet PostgreSQL* (2026-07-09)
-- [Vibhor Kumar: PostgreSQL, AI Governance, and the C.A.L.M. Platform Test](https://postgr.es/p/9pc) - *Planet PostgreSQL* (2026-07-09)
 - [Accelerate database modernization with agentic AI in AWS DMS Schema Conversion](https://aws.amazon.com/blogs/database/accelerate-database-modernization-with-agentic-ai-in-aws-dms-schema-conversion/) - *AWS Database Blog* (2026-07-09)
 - [Diagnose and resolve replica lag in Amazon RDS for Oracle replicas – Part 2](https://aws.amazon.com/blogs/database/diagnose-and-resolve-replica-lag-in-amazon-rds-for-oracle-replicas-part-2/) - *AWS Database Blog* (2026-07-09)
 - [Optimize replication lag for Amazon RDS for Oracle replicas using redo compression – Part 1](https://aws.amazon.com/blogs/database/optimize-replication-lag-for-amazon-rds-for-oracle-replicas-using-redo-compression-part-1/) - *AWS Database Blog* (2026-07-09)
@@ -67,11 +67,11 @@ Automated tech news updates. Last updated: 2026-07-11 09:38:10 UTC
 
 ## Computing
 
+- [A Jupiter-size planet that escaped its star's death](https://arstechnica.com/science/2026/07/a-jupiter-size-planet-that-escaped-its-stars-death/) - *Ars Technica - All content* (2026-07-11)
+- [Overhaul of public lands grazing regulations seeks to cut public involvement](https://arstechnica.com/tech-policy/2026/07/overhaul-of-public-lands-grazing-regulations-seeks-to-cut-public-involvement/) - *Ars Technica - All content* (2026-07-11)
 - [Quantum error correction can constantly recalibrate a processor](https://arstechnica.com/science/2026/07/quantum-error-correction-can-constantly-recalibrate-a-processor/) - *Ars Technica - All content* (2026-07-10)
 - [Increased drone surveillance of illegal July 4th fireworks led to $100K fine](https://arstechnica.com/gadgets/2026/07/on-americas-250th-more-cities-used-drone-surveillance-to-spot-illegal-fireworks/) - *Ars Technica - All content* (2026-07-10)
 - [China recovered its first reusable rocket and showed a new way to do it](https://arstechnica.com/space/2026/07/china-recovered-its-first-reusable-rocket-and-showed-a-new-way-to-do-it/) - *Ars Technica - All content* (2026-07-10)
-- [Check out the first images of Quest shipwreck](https://arstechnica.com/science/2026/07/expedition-captures-first-images-of-shackletons-last-ship/) - *Ars Technica - All content* (2026-07-10)
-- [Ransomware negotiator hired to represent victims was working for the attackers](https://arstechnica.com/tech-policy/2026/07/ransomware-negotiator-helped-attackers-extort-his-own-clients-gets-6-year-sentence/) - *Ars Technica - All content* (2026-07-10)
 
 ## AI/Models/RL
 
