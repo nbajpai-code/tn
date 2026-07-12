@@ -53,8 +53,16 @@ def generate_markdown(categories):
                 else:
                     dt = datetime.datetime.now()
 
+                title = entry.title.strip() if hasattr(entry, 'title') and entry.title.strip() else ""
+                if not title:
+                    # Try to reconstruct from link slug, or skip if link is missing
+                    if hasattr(entry, 'link') and entry.link:
+                        title = entry.link.rstrip('/').split('/')[-1].replace('-', ' ').title()
+                    else:
+                        continue
+
                 all_entries.append({
-                    'title': entry.title,
+                    'title': title,
                     'link': entry.link,
                     'published': dt,
                     'source': feed.feed.title if hasattr(feed.feed, 'title') else url

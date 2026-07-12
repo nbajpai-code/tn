@@ -60,5 +60,17 @@
         "https://www.kentik.com/blog/index.xml",
         "https://packetpushers.net/feed/",
         "https://blogs.cisco.com/tag/observability/feed"
+    ],
+    "Agentic AI & Workflows": [
+        "https://www.langchain.com/blog/rss.xml",
+        "https://medium.com/feed/llamaindex-blog"
+    ],
+    "Platform Engineering & DevEx": [
+        "https://platformengineering.org/blog/rss.xml",
+        "https://charity.wtf/feed/"
+    ],
+    "FinOps & Cloud Optimization": [
+        "https://www.finops.org/feed/",
+        "https://blog.kubecost.com/feed.xml"
     ]
 }

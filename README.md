@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-07-12 18:08:12 UTC
+Automated tech news updates. Last updated: 2026-07-12 18:14:12 UTC
 
 ## Software Architecture
 
@@ -127,4 +127,38 @@ Automated tech news updates. Last updated: 2026-07-12 18:08:12 UTC
 - [HS137: Did AI Turn “Everybody Codes” into “Nobody Codes”?](https://feeds.packetpushers.net/link/22503/17370400/hs137-did-ai-turn-everybody-codes-into-nobody-codes) - *The Everything Feed - All Packet Pushers Pods* (2026-06-30)
 - [The less obvious headliner at BottleRock 2026](https://blogs.cisco.com/networking/the-less-obvious-headliner-at-bottlerock-2026) - *Observability - Cisco Blogs* (2026-06-18)
 - [Trusted network data for end-to-end visibility with Nexus Data Broker](https://blogs.cisco.com/datacenter/trusted-network-data-for-end-to-end-visibility-with-nexus-data-broker) - *Observability - Cisco Blogs* (2026-05-28)
+
+## Agentic AI & Workflows
+
+- [Build An Auditable Vc Research Agent With The Perplexity Agent Api Langgraph And Langsmith](https://www.langchain.com/blog/build-an-auditable-vc-research-agent-with-the-perplexity-agent-api-langgraph-and-langsmith) - *LangChain Blog* (2026-07-10)
+- [OpenWiki Brains: Proactive Memory for AI Agents](https://www.langchain.com/blog/introducing-openwiki-brains-general-purpose-wiki-memory-for-agents) - *LangChain Blog* (2026-07-10)
+- [Improving Agents is a Data Mining Problem](https://www.langchain.com/blog/improving-agents-is-a-data-mining-problem) - *LangChain Blog* (2026-07-08)
+- [Deep Agents Code on NVIDIA NemoClaw](https://www.langchain.com/blog/deep-agents-code-on-nemoclaw-a-governed-blueprint-for-your-most-sensitive-code) - *LangChain Blog* (2026-07-08)
+- [Tuning the harness, not the model: a Nemotron 3 Ultra playbook](https://www.langchain.com/blog/tuning-the-harness-not-the-model-a-nemotron-3-ultra-playbook) - *LangChain Blog* (2026-07-08)
+- [Unlocking the 3rd Dimension for Generative AI (Part 1)](https://medium.com/llamaindex-blog/unlocking-the-3rd-dimension-for-generative-ai-part-1-f13a21e63a6f?source=rss----d7683ed5043e---4) - *LlamaIndex Blog - Medium* (2024-03-04)
+- [Querying a network of knowledge with llama-index-networks](https://medium.com/llamaindex-blog/querying-a-network-of-knowledge-with-llama-index-networks-d784b4c3006f?source=rss----d7683ed5043e---4) - *LlamaIndex Blog - Medium* (2024-02-27)
+- [LlamaIndex Newsletter 2024–02–27](https://medium.com/llamaindex-blog/llamaindex-newsletter-2024-02-27-4b9102a0f824?source=rss----d7683ed5043e---4) - *LlamaIndex Blog - Medium* (2024-02-27)
+- [Bridging the Gap in Crisis Counseling: Introducing Counselor Copilot](https://medium.com/llamaindex-blog/bridging-the-gap-in-crisis-counseling-introducing-counselor-copilot-db42e26ab4f3?source=rss----d7683ed5043e---4) - *LlamaIndex Blog - Medium* (2024-02-24)
+- [LlamaIndex Newsletter 2024–02–20: introducing LlamaCloud](https://medium.com/llamaindex-blog/llamaindex-newsletter-2024-02-20-introducing-llamacloud-30511f4662f4?source=rss----d7683ed5043e---4) - *LlamaIndex Blog - Medium* (2024-02-20)
+
+## Platform Engineering & DevEx
+
+- [PlatformCon 2026 wrap-up: No AI at scale without platform engineering](https://platformengineering.org/blog/platformcon-2026-wrap-up-no-ai-at-scale-without-platform-engineering) - *Platform Engineering Blog* (2026-07-10)
+- [Have you heard? Clickhouse is winning the observability wars!](https://charity.wtf/p/have-you-heard-clickhouse-is-winning) - *charity.wtf* (2026-07-08)
+- [In defense of AI mandates](https://charity.wtf/p/in-defense-of-ai-mandates) - *charity.wtf* (2026-07-02)
+- [The future of AI-native Is open source](https://platformengineering.org/blog/the-future-of-ai-native-is-open-source) - *Platform Engineering Blog* (2026-06-30)
+- [Three hidden GKE optimization opportunities unlocked by Google Cloud VM modernization](https://platformengineering.org/blog/three-hidden-gke-optimization-opportunities-unlocked-by-google-cloud-vm-modernization) - *Platform Engineering Blog* (2026-06-30)
+- [Introducing Platform Engineering 2.0: An evolution for the AI era](https://platformengineering.org/blog/introducing-platform-engineering-2-0-an-evolution-for-the-ai-era) - *Platform Engineering Blog* (2026-06-30)
+- [Key rotations and other nightmares: Why we built Aperture](https://platformengineering.org/blog/key-rotations-and-other-nightmares-why-we-built-aperture) - *Platform Engineering Blog* (2026-06-30)
+- [Is it ethical to use AI?](https://charity.wtf/p/make-ai-boring-again) - *charity.wtf* (2026-06-24)
+- [AI demands more engineering discipline. Not less](https://charity.wtf/p/ai-demands-more-engineering-discipline) - *charity.wtf* (2026-06-15)
+- [AI enthusiasts are in a race against time, AI skeptics are in a race against entropy](https://charity.wtf/p/ai-enthusiasts-are-in-a-race-against) - *charity.wtf* (2026-06-02)
+
+## FinOps & Cloud Optimization
+
+- [FinOps X 2026 Day 2 Keynote: From Alerts to Agents](https://www.finops.org/insights/finops-x-2026-day-2-keynote/) - *FinOps Foundation* (2026-06-10)
+- [Introducing FOCUS 1.4: Invoice Reconciliation, Commitment Details, and Specification Maturity](https://www.finops.org/insights/introducing-focus-1-4/) - *FinOps Foundation* (2026-06-10)
+- [FinOps X 2026 Day 1 Keynote: The Wild West of AI, Token Economics and the Evolving Role of FinOps](https://www.finops.org/insights/finops-x-2026-day-1-keynote/) - *FinOps Foundation* (2026-06-09)
+- [Building an Integrated FinOps Practice: Tim Wright’s FinOps Evolution at Nationwide](https://www.finops.org/insights/integrated-finops-practice-nationwide/) - *FinOps Foundation* (2026-06-04)
+- [Token Economics: The Atomic Unit of AI Value](https://www.finops.org/insights/token-economics-the-atomic-unit-of-ai-value/) - *FinOps Foundation* (2026-05-10)
 
