@@ -1,22 +1,22 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-07-12 18:15:10 UTC
+Automated tech news updates. Last updated: 2026-07-13 11:11:47 UTC
 
 ## Software Architecture
 
+- [Article: Removing a Hidden Round Trip from a Multi-Region AWS API](https://www.infoq.com/articles/aws-multi-region-signing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-07-13)
+- [Podcast: Governance in the Age of AI: A Conversation with Sarah Wells](https://www.infoq.com/podcasts/governance-age-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-07-13)
+- [Presentation: Chaos Engineering GPU Clusters](https://www.infoq.com/presentations/chaos-engineering-gpu/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-07-10)
 - [Article: Trade-Offs in Multi-Region Architectures: Latency vs. Cost](https://www.infoq.com/articles/multi-region-latency-cost-tradeoffs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-07-10)
 - [Netflix Cuts Cassandra Read Latency from Seconds to Milliseconds with Dynamic Partition Splitting](https://www.infoq.com/news/2026/07/netflix-cassandra-partition/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-07-06)
-- [Mini book: Agentic AI Architecture](https://www.infoq.com/minibooks/agentic-ai-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-07-03)
-- [Presentation: Enhancing Reliability Using Service-Level Prioritized Load Shedding at Netflix](https://www.infoq.com/presentations/service-level-prioritized-load-shedding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-07-02)
-- [Article: Scaling Java-Based Real-Time Systems: the Hidden Tradeoffs of Event-Driven Design](https://www.infoq.com/articles/tradeoffs-event-driven-design/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-06-30)
 
 ## Cloud Computing
 
+- [Unlocking the future of video data: March Networks cloud storage on AWS](https://aws.amazon.com/blogs/architecture/unlocking-the-future-of-video-data-march-networks-cloud-storage-on-aws/) - *AWS Architecture Blog* (2026-07-13)
+- [How MAPFRE USA modernized fraud claims with Amazon EMR Serverless](https://aws.amazon.com/blogs/architecture/how-mapfre-usa-modernized-fraud-claims-with-amazon-emr-serverless/) - *AWS Architecture Blog* (2026-07-13)
 - [Specification-driven composition for flexible data workflows](https://aws.amazon.com/blogs/architecture/specification-driven-composition-for-flexible-data-workflows/) - *AWS Architecture Blog* (2026-07-09)
 - [S&P Global’s innovative disaster recovery strategy using Amazon FSx for NetApp ONTAP snapshots](https://aws.amazon.com/blogs/architecture/sp-globals-innovative-disaster-recovery-strategy-using-amazon-fsx-for-netapp-ontap-snapshots/) - *AWS Architecture Blog* (2026-07-07)
 - [Lessons learned from scaling to 1 million Lambda functions](https://aws.amazon.com/blogs/architecture/lessons-learned-from-scaling-to-1-million-lambda-functions/) - *AWS Architecture Blog* (2026-06-29)
-- [Preventing data exfiltration in machine learning environments with Amazon SageMaker AI](https://aws.amazon.com/blogs/architecture/preventing-data-exfiltration-in-machine-learning-environments-with-amazon-sagemaker-ai/) - *AWS Architecture Blog* (2026-06-29)
-- [Dual-token authentication for Nakama game servers with Amazon Cognito on AWS](https://aws.amazon.com/blogs/architecture/dual-token-authentication-for-nakama-game-servers-with-amazon-cognito-on-aws/) - *AWS Architecture Blog* (2026-06-29)
 
 ## Kubernetes
 
@@ -33,24 +33,24 @@ Automated tech news updates. Last updated: 2026-07-12 18:15:10 UTC
 
 ## Security
 
+- [AI Data Centers and the Concentration of Wealth](https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html) - *Schneier on Security* (2026-07-13)
+- [Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365](https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html) - *The Hacker News* (2026-07-13)
+- [iCagenda and Balbooa Forms Joomla Flaws Reportedly Exploited as Zero-Days](https://thehackernews.com/2026/07/icagenda-and-balbooa-forms-joomla-flaws.html) - *The Hacker News* (2026-07-13)
 - [Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install](https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html) - *The Hacker News* (2026-07-11)
 - [Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns](https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html) - *The Hacker News* (2026-07-11)
 - [Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions](https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html) - *The Hacker News* (2026-07-11)
 - [Friday Squid Blogging: “Squidbleed” Vulnerability](https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squidbleed-vulnerability.html) - *Schneier on Security* (2026-07-10)
-- [URGENT - Progress Tells ShareFile Customers to Shut Down Storage Zone Controllers Over Security Threat](https://thehackernews.com/2026/07/urgent-progress-tells-sharefile.html) - *The Hacker News* (2026-07-10)
-- [Injective Labs GitHub Compromise Pushes Wallet-Key-Stealing npm Packages](https://thehackernews.com/2026/07/injective-labs-github-compromise-pushes.html) - *The Hacker News* (2026-07-10)
 - [AI Surveillance and Social Progress](https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html) - *Schneier on Security* (2026-07-10)
 - [The Language of AI Could Change How Humans Speak](https://www.schneier.com/blog/archives/2026/07/the-language-of-ai-could-change-how-humans-speak.html) - *Schneier on Security* (2026-07-09)
 - [Felons, Fraudsters Flog Offensive Cybersecurity Startup](https://krebsonsecurity.com/2026/07/felons-fraudsters-flog-offensive-cybersecurity-startup/) - *Krebs on Security* (2026-07-08)
-- [Cybersecurity and the Gap Between Skill and Ability](https://www.schneier.com/blog/archives/2026/07/cybersecurity-and-the-gap-between-skill-and-ability.html) - *Schneier on Security* (2026-07-08)
 
 ## Databases/Storage
 
+- [Christophe Pettus: All Your GUCs in a Row: enable_tidscan](https://postgr.es/p/9po) - *Planet PostgreSQL* (2026-07-13)
+- [Radim Marek: The tests passed. The plan didn't.](https://postgr.es/p/9pn) - *Planet PostgreSQL* (2026-07-12)
 - [Christophe Pettus: All Your GUCs in a Row: enable_sort](https://postgr.es/p/9pm) - *Planet PostgreSQL* (2026-07-12)
 - [Andrei Lepikhov: Postgres community events: isn't it time to tap the capabilities of the digital era?](https://postgr.es/p/9pl) - *Planet PostgreSQL* (2026-07-11)
 - [Andrew Dunstan: (Belatedly) Announcing Release 21 of the PostgreSQL Buildfarm Client](https://postgr.es/p/9pj) - *Planet PostgreSQL* (2026-07-11)
-- [Christophe Pettus: All Your GUCs in a Row: enable_seqscan](https://postgr.es/p/9pi) - *Planet PostgreSQL* (2026-07-11)
-- [Dave Stokes: Ever Run Into A PostgreSQL Query That You Can Figure Out What It Does??](https://postgr.es/p/9pf) - *Planet PostgreSQL* (2026-07-10)
 - [Accelerate database modernization with agentic AI in AWS DMS Schema Conversion](https://aws.amazon.com/blogs/database/accelerate-database-modernization-with-agentic-ai-in-aws-dms-schema-conversion/) - *AWS Database Blog* (2026-07-09)
 - [Diagnose and resolve replica lag in Amazon RDS for Oracle replicas – Part 2](https://aws.amazon.com/blogs/database/diagnose-and-resolve-replica-lag-in-amazon-rds-for-oracle-replicas-part-2/) - *AWS Database Blog* (2026-07-09)
 - [Optimize replication lag for Amazon RDS for Oracle replicas using redo compression – Part 1](https://aws.amazon.com/blogs/database/optimize-replication-lag-for-amazon-rds-for-oracle-replicas-using-redo-compression-part-1/) - *AWS Database Blog* (2026-07-09)
@@ -59,11 +59,11 @@ Automated tech news updates. Last updated: 2026-07-12 18:15:10 UTC
 
 ## Networking
 
-- [Network jobs watch: Hiring, skills and certification trends](https://www.networkworld.com/article/2093749/network-jobs-watch-hiring-skills-and-certification-trends.html) - *Network jobs watch: Hiring, skills and certification trends | Network World* (2026-07-10)
-- [AI job titles expand beyond tech as IT hiring remains strong](https://www.networkworld.com/article/4195712/ai-job-titles-expand-beyond-tech-as-it-hiring-remains-strong.html) - *Network jobs watch: Hiring, skills and certification trends | Network World* (2026-07-10)
-- [Broadcom will sell more US-made components to Apple](https://www.networkworld.com/article/4195632/broadcom-will-sell-more-us-made-components-to-apple.html) - *Network jobs watch: Hiring, skills and certification trends | Network World* (2026-07-10)
-- [AI tie-in accelerates quantum usefulness, early adopters say](https://www.networkworld.com/article/4195014/ai-tie-in-accelerates-quantum-usefulness-early-adopters-say.html) - *Network jobs watch: Hiring, skills and certification trends | Network World* (2026-07-09)
-- [Infoblox acquires Kentik, adding network observability to its DNS and DDI platform](https://www.networkworld.com/article/4194570/infoblox-acquires-kentik-adding-network-observability-to-its-dns-and-ddi-platform.html) - *Network jobs watch: Hiring, skills and certification trends | Network World* (2026-07-08)
+- [Routine maintenance as a failure vector in modern networks](https://www.networkworld.com/article/4195689/routine-maintenance-as-a-failure-vector-in-modern-networks.html) - *Routine maintenance as a failure vector in modern networks | Network World* (2026-07-13)
+- [Network jobs watch: Hiring, skills and certification trends](https://www.networkworld.com/article/2093749/network-jobs-watch-hiring-skills-and-certification-trends.html) - *Routine maintenance as a failure vector in modern networks | Network World* (2026-07-10)
+- [AI job titles expand beyond tech as IT hiring remains strong](https://www.networkworld.com/article/4195712/ai-job-titles-expand-beyond-tech-as-it-hiring-remains-strong.html) - *Routine maintenance as a failure vector in modern networks | Network World* (2026-07-10)
+- [Broadcom will sell more US-made components to Apple](https://www.networkworld.com/article/4195632/broadcom-will-sell-more-us-made-components-to-apple.html) - *Routine maintenance as a failure vector in modern networks | Network World* (2026-07-10)
+- [AI tie-in accelerates quantum usefulness, early adopters say](https://www.networkworld.com/article/4195014/ai-tie-in-accelerates-quantum-usefulness-early-adopters-say.html) - *Routine maintenance as a failure vector in modern networks | Network World* (2026-07-09)
 
 ## Computing
 
@@ -96,11 +96,11 @@ Automated tech news updates. Last updated: 2026-07-12 18:15:10 UTC
 
 ## Technical Program Management (TPM)
 
+- [Article: Removing a Hidden Round Trip from a Multi-Region AWS API](https://www.infoq.com/articles/aws-multi-region-signing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-07-13)
+- [How to Build More Resilient Local-First Applications With AT Protocol Infrastructure](https://www.infoq.com/news/2026/07/atproto-webapp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-07-13)
 - [Cloudflare Identifies Race Condition in hyper’s HTTP/1 Implementation](https://www.infoq.com/news/2026/07/cloudflare-hyper-bug-fix/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-07-12)
 - [Slack Introduces Agent Driven End-to-End Testing to Improve Resilience in UI Test Automation](https://www.infoq.com/news/2026/07/slack-agentic-e2e-testing-ui/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-07-10)
 - [GitHub Copilot CLI Gets Tabs and No-Config-File Tool Setup in Redesigned Terminal UI](https://www.infoq.com/news/2026/07/copilot-cli-terminal-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-07-10)
-- [Article: Trade-Offs in Multi-Region Architectures: Latency vs. Cost](https://www.infoq.com/articles/multi-region-latency-cost-tradeoffs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-07-10)
-- [How Datadog Used Claude and Cursor for Test-Driven Production Migration](https://www.infoq.com/news/2026/07/datadog-ai-production-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-07-10)
 - [The Pulse: Interesting AI coding stats from Cursor](https://blog.pragmaticengineer.com/the-pulse-interesting-ai-coding-stats-from-cursor/) - *The Pragmatic Engineer* (2026-07-09)
 - [Focusing Where We Can Have the Most Impact](https://www.mountaingoatsoftware.com/blog/focusing-where-we-can-have-the-most-impact) - *Mike Cohn's Blog - Succeeding With Agile* (2026-07-07)
 - [The Pulse: a new trend, smart model routing](https://blog.pragmaticengineer.com/the-pulse-a-new-trend-smart-model-routing/) - *The Pragmatic Engineer* (2026-07-02)
