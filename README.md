@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-07-18 09:26:03 UTC
+Automated tech news updates. Last updated: 2026-07-19 09:51:54 UTC
 
 ## Software Architecture
 
@@ -46,11 +46,11 @@ Automated tech news updates. Last updated: 2026-07-18 09:26:03 UTC
 
 ## Databases/Storage
 
+- [Christophe Pettus: All Your GUCs in a Row: external_pid_file](https://postgr.es/p/9pZ) - *Planet PostgreSQL* (2026-07-19)
 - [Christophe Pettus: All Your GUCs in a Row: extension_control_path](https://postgr.es/p/9pY) - *Planet PostgreSQL* (2026-07-18)
 - [Shaun Thomas: Looking Forward to Postgres 19: Checkpoint Control](https://postgr.es/p/9pX) - *Planet PostgreSQL* (2026-07-17)
 - [Christophe Pettus: All Your GUCs in a Row: exit_on_error](https://postgr.es/p/9pW) - *Planet PostgreSQL* (2026-07-17)
 - [Antony Pegg: Spock 6: The Only Logical Choice](https://postgr.es/p/9pV) - *Planet PostgreSQL* (2026-07-16)
-- [Christopher Winslett: Postgres 19 Compression: from pglz to LZ4](https://postgr.es/p/9pU) - *Planet PostgreSQL* (2026-07-16)
 - [Introducing open source Bulk Executor for Amazon DynamoDB](https://aws.amazon.com/blogs/database/introducing-open-source-bulk-executor-for-amazon-dynamodb/) - *AWS Database Blog* (2026-07-15)
 - [Build a semantic ontology to power AI assistants on AWS – Part 1](https://aws.amazon.com/blogs/database/build-a-semantic-ontology-to-power-ai-assistants-on-aws-part-1/) - *AWS Database Blog* (2026-07-14)
 - [Rebuild large indexes on Aurora PostgreSQL with Blue/Green Deployments](https://aws.amazon.com/blogs/database/rebuild-large-indexes-on-aurora-postgresql-with-blue-green-deployments/) - *AWS Database Blog* (2026-07-13)
@@ -67,11 +67,11 @@ Automated tech news updates. Last updated: 2026-07-18 09:26:03 UTC
 
 ## Computing
 
+- [Will AI fix prior authorization—or make it worse?](https://arstechnica.com/ai/2026/07/will-ai-fix-prior-authorization-or-make-it-worse/) - *Ars Technica - All content* (2026-07-18)
 - [Google-backed satellites for wildfire detection launch as smoke chokes US, Canada](https://arstechnica.com/space/2026/07/google-backed-satellites-for-wildfire-detection-launch-as-smoke-chokes-us-canada/) - *Ars Technica - All content* (2026-07-17)
 - [The Pentagon's Space Development Agency hasn't moved as fast as anyone would like](https://arstechnica.com/space/2026/07/the-pentagons-space-development-agency-hasnt-moved-as-fast-as-anyone-would-like/) - *Ars Technica - All content* (2026-07-17)
 - [Hegseth wants a "High-T" military; doctors call it a clinical minefield](https://arstechnica.com/health/2026/07/hegseth-wants-a-high-t-military-doctors-call-it-a-clinical-minefield/) - *Ars Technica - All content* (2026-07-17)
 - [Taco Bell iceberg lettuce identified as source of cyclosporiasis in 5 states](https://arstechnica.com/health/2026/07/taco-bell-iceburg-lettuce-identified-as-source-of-cyclosporiasis-in-5-states/) - *Ars Technica - All content* (2026-07-17)
-- [Troubling new details emerge on diabetes ouster controversy](https://arstechnica.com/science/2026/07/troubling-new-details-emerge-on-diabetes-ouster-controversy/) - *Ars Technica - All content* (2026-07-17)
 
 ## AI/Models/RL
 
@@ -96,12 +96,12 @@ Automated tech news updates. Last updated: 2026-07-18 09:26:03 UTC
 
 ## Technical Program Management (TPM)
 
+- [Pinecone Introduces Nexus Engine for Compiling Business Context into Structured Data for AI Agents](https://www.infoq.com/news/2026/07/pinecon-nexus-knowledge-engine/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-07-18)
 - [Version Controlled SQL Database Dolt Releases 2.0 with Automatic Storage Cleanup and Compression](https://www.infoq.com/news/2026/07/dolt-version-control/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-07-18)
 - [The Pulse: What can we learn from Bun’s rapid Rust rewrite with AI?](https://blog.pragmaticengineer.com/the-pulse-what-can-we-learn-from-buns-rapid-rust-rewrite-with-ai/) - *The Pragmatic Engineer* (2026-07-16)
 - [Presentation: The Rust High Performance Talk You Did Not Expect](https://www.infoq.com/presentations/rust-tps-service/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-07-16)
 - [AI Agents with Cloud Credentials Are Outrunning Billing Guardrails Built for Human-Speed Mistakes](https://www.infoq.com/news/2026/07/ai-agents-billing-guardrails/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-07-16)
 - [Stripe Benchmark Shows AI Agents Build Integrations but Struggle with Validation](https://www.infoq.com/news/2026/07/stripe-ai-agents-benchmark/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-07-15)
-- [AWS Ships Claude Apps Gateway as Self-Hosted Control Plane for Claude Code and Claude Desktop](https://www.infoq.com/news/2026/07/claude-apps-gateway-aws/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-07-15)
 - [The Pulse: Interesting AI coding stats from Cursor](https://blog.pragmaticengineer.com/the-pulse-interesting-ai-coding-stats-from-cursor/) - *The Pragmatic Engineer* (2026-07-09)
 - [Focusing Where We Can Have the Most Impact](https://www.mountaingoatsoftware.com/blog/focusing-where-we-can-have-the-most-impact) - *Mike Cohn's Blog - Succeeding With Agile* (2026-07-07)
 - [The Pulse: a new trend, smart model routing](https://blog.pragmaticengineer.com/the-pulse-a-new-trend-smart-model-routing/) - *The Pragmatic Engineer* (2026-07-02)
@@ -117,11 +117,6 @@ Automated tech news updates. Last updated: 2026-07-18 09:26:03 UTC
 
 ## Network Observability
 
-- [HN834: HPE Self-Driving Networks: The Next Evolution of Network Automation (Sponsored)](https://packetpushers.net/podcasts/heavy-networking/hn834-hpe-self-driving-networks-the-next-evolution-of-network-automation-sponsored/) - *The Everything Feed - All Packet Pushers Pods* (2026-07-17)
-- [TNO066: Tom Hollingsworth Before Tech Field Day](https://packetpushers.net/podcasts/total-network-operations/tno066-tom-hollingsworth-before-tech-field-day/) - *The Everything Feed - All Packet Pushers Pods* (2026-07-17)
-- [LIU018: Why You Should Attend Tech Conferences](https://packetpushers.net/podcasts/life-in-uptime/liu018-why-you-should-attend-tech-conferences/) - *The Everything Feed - All Packet Pushers Pods* (2026-07-16)
-- [D2DO307: Why AI Can’t Replace DevOps Fundamentals](https://packetpushers.net/podcasts/day-two-devops/d2do307-why-ai-cant-replace-devops-fundamentals/) - *The Everything Feed - All Packet Pushers Pods* (2026-07-15)
-- [HW083: Inside the WLAN Pros Toolbox – A Free, Multipurpose App](https://packetpushers.net/podcasts/heavy-wireless/hw083-inside-the-wlan-pros-toolbox-a-free-multipurpose-app/) - *The Everything Feed - All Packet Pushers Pods* (2026-07-14)
 - [Machine Speed, Human Judgement: How AI Changed the SOC in 2026](https://blogs.cisco.com/security/machine-speed-human-judgement) - *Observability - Cisco Blogs* (2026-07-07)
 - [Elevating Expertise in the SOC](https://blogs.cisco.com/security/elevating-expertise-with-lessons-learned) - *Observability - Cisco Blogs* (2026-07-07)
 - [Educate at Event Speed: Cisco Live Security Operations Center](https://blogs.cisco.com/security/educate-event-speed-cisco-live-soc) - *Observability - Cisco Blogs* (2026-07-07)
