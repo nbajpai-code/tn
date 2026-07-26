@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-07-25 09:47:53 UTC
+Automated tech news updates. Last updated: 2026-07-26 10:02:57 UTC
 
 ## Software Architecture
 
@@ -33,12 +33,12 @@ Automated tech news updates. Last updated: 2026-07-25 09:47:53 UTC
 
 ## Security
 
+- [Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable](https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html) - *The Hacker News* (2026-07-26)
+- [Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available](https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html) - *The Hacker News* (2026-07-25)
 - [Researcher Publishes GitLab RCE PoC Letting Authenticated Users Run Commands as Git](https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html) - *The Hacker News* (2026-07-25)
+- [CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking](https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html) - *The Hacker News* (2026-07-25)
+- [Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE](https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html) - *The Hacker News* (2026-07-25)
 - [Friday Squid Blogging: Illex Squid Catch in the Falklands](https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-illex-squid-catch-in-the-falklands.html) - *Schneier on Security* (2026-07-24)
-- [BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery](https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html) - *The Hacker News* (2026-07-24)
-- [Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller](https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html) - *The Hacker News* (2026-07-24)
-- [ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link](https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html) - *The Hacker News* (2026-07-24)
-- [Bing Images Flaws Let Crafted SVGs Run Commands as SYSTEM on Microsoft's Servers](https://thehackernews.com/2026/07/bing-images-flaws-let-crafted-svgs-run.html) - *The Hacker News* (2026-07-24)
 - [Why AI Needs a “Genie Coefficient”](https://www.schneier.com/blog/archives/2026/07/why-ai-needs-a-genie-coefficient.html) - *Schneier on Security* (2026-07-24)
 - [End-to-End Encryption and “Going Dark”](https://www.schneier.com/blog/archives/2026/07/end-to-end-encryption-and-going-dark.html) - *Schneier on Security* (2026-07-23)
 - [First-Person Identity Theft Story](https://www.schneier.com/blog/archives/2026/07/first-person-identity-theft-story.html) - *Schneier on Security* (2026-07-22)
@@ -46,12 +46,12 @@ Automated tech news updates. Last updated: 2026-07-25 09:47:53 UTC
 
 ## Databases/Storage
 
+- [Andrei Lepikhov: Why your pioneering Postgres feature should start in a fork](https://postgr.es/p/9qt) - *Planet PostgreSQL* (2026-07-26)
+- [Bruce Momjian: Postgres AI Workshop](https://postgr.es/p/9qs) - *Planet PostgreSQL* (2026-07-26)
+- [Christophe Pettus: All Your GUCs in a Row: The geqo Family](https://postgr.es/p/9qr) - *Planet PostgreSQL* (2026-07-26)
 - [Christophe Pettus: All Your GUCs in a Row: full_page_writes](https://postgr.es/p/9qq) - *Planet PostgreSQL* (2026-07-25)
 - [Shaun Thomas: Looking Forward to Postgres 19: Autovacuum Tweaks](https://postgr.es/p/9qp) - *Planet PostgreSQL* (2026-07-24)
 - [Native Agent Memory for Microsoft Agent Framework, Powered by Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/native-agent-memory-for-microsoft-agent-framework-powered-by-azure-cosmos-db/) - *Azure Cosmos DB Blog* (2026-07-24)
-- [Christophe Pettus: All Your GUCs in a Row: fsync](https://postgr.es/p/9qo) - *Planet PostgreSQL* (2026-07-24)
-- [SHRIDHAR KHANAL: The Right Way to Give a Third-Party DBA Access to Your PostgreSQL Database](https://postgr.es/p/9ql) - *Planet PostgreSQL* (2026-07-23)
-- [Christophe Pettus: All Your GUCs in a Row: from_collapse_limit](https://postgr.es/p/9qj) - *Planet PostgreSQL* (2026-07-23)
 - [Scale smart, not just big: a practical guide to multi-node Amazon Timestream for InfluxDB 3 Enterprise](https://aws.amazon.com/blogs/database/scaling-amazon-timestream-for-influxdb-3-enterprise-right-sizing-for-stability-and-cost/) - *AWS Database Blog* (2026-07-22)
 - [Building a multi-Region API with Prisma ORM and Amazon Aurora DSQL](https://aws.amazon.com/blogs/database/building-a-multi-region-api-with-prisma-orm-and-amazon-aurora-dsql/) - *AWS Database Blog* (2026-07-21)
 - [AI-powered incident analysis for Amazon RDS using automated forensic artifacts](https://aws.amazon.com/blogs/database/ai-powered-incident-analysis-for-amazon-rds-using-automated-forensic-artifacts/) - *AWS Database Blog* (2026-07-21)
@@ -67,11 +67,11 @@ Automated tech news updates. Last updated: 2026-07-25 09:47:53 UTC
 
 ## Computing
 
+- [SDCC teaser gives us our first good look at Blade Runner 2099](https://arstechnica.com/culture/2026/07/sdcc-teaser-gives-us-our-first-good-look-at-blade-runner-2099/) - *Ars Technica - All content* (2026-07-25)
+- [SpaceX eyes tower catch for next Starship after auspicious end to 13th flight](https://arstechnica.com/space/2026/07/spacex-eyes-tower-catch-for-next-starship-after-auspicious-end-to-13th-flight/) - *Ars Technica - All content* (2026-07-25)
+- [With help from data, art museums are reframing the visitor experience](https://arstechnica.com/culture/2026/07/with-help-from-data-art-museums-are-reframing-the-visitor-experience/) - *Ars Technica - All content* (2026-07-25)
+- [Big Tech accused of stonewalling European social media researchers](https://arstechnica.com/tech-policy/2026/07/big-tech-accused-of-stonewalling-european-social-media-researchers/) - *Ars Technica - All content* (2026-07-25)
 - [Wildfire forces evacuation of NASA's Deep Space Network complex in Spain](https://arstechnica.com/space/2026/07/wildfire-forces-evacuation-of-nasas-deep-space-network-complex-in-spain/) - *Ars Technica - All content* (2026-07-24)
-- [Paramount/WBD merger delayed for months as states' lawsuit moves toward trial](https://arstechnica.com/tech-policy/2026/07/after-court-loss-paramount-agrees-to-delay-warner-bros-merger-until-trial/) - *Ars Technica - All content* (2026-07-24)
-- [Canadian legislator reads out apparent LLM response in floor speech](https://arstechnica.com/ai/2026/07/canadian-legislator-reads-out-apparent-llm-response-in-floor-speech/) - *Ars Technica - All content* (2026-07-24)
-- [Anthropic's Opus 5 is about token efficiency, not a capability leap](https://arstechnica.com/ai/2026/07/anthropics-opus-5-is-about-token-efficiency-not-a-capability-leap/) - *Ars Technica - All content* (2026-07-24)
-- [Roku raises streaming stick prices by up to 60 percent](https://arstechnica.com/gadgets/2026/07/roku-raises-streaming-stick-prices-by-up-to-60-percent/) - *Ars Technica - All content* (2026-07-24)
 
 ## AI/Models/RL
 
@@ -96,11 +96,11 @@ Automated tech news updates. Last updated: 2026-07-25 09:47:53 UTC
 
 ## Technical Program Management (TPM)
 
+- [AI-Enabled Security Researchers Discover How a Crafted Video Can Provide Attackers Access to Your PC](https://www.infoq.com/news/2026/07/pixelsmash-vulnerability/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-07-26)
+- [Amazon EKS Adds Kubernetes Version Rollback Within 7 Days of an Upgrade](https://www.infoq.com/news/2026/07/eks-version-rollback/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-07-26)
 - [AI Root Cause Analysis Shifts from Model Reasoning to Context Engineering](https://www.infoq.com/news/2026/07/ai-rca-context-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-07-25)
 - [Airbus Makes Protection from Extraterritorial Law a Scored Criterion in Its Cloud Tender](https://www.infoq.com/news/2026/07/airbus-scaleway-sovereign-cloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-07-24)
 - [Article: The Self-Building Agent: A LangChain4j Experiment](https://www.infoq.com/articles/self-building-agent-langchain4j/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-07-24)
-- [Jotai v2.20: Rework Store Building Blocks for High-Throughput Performance and Sets the Stage for v3](https://www.infoq.com/news/2026/07/jotai-rework-performance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-07-24)
-- [Indirect Prompt Injection Exploits GitHub's AI Agent to Leak Private Repository Data](https://www.infoq.com/news/2026/07/gitlost-github-prompt-injection/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-07-23)
 - [The Pulse: New trend - concern about massive increase in code review load](https://blog.pragmaticengineer.com/the-pulse-new-trend-concern-about-massive-increase-in-code-review-load/) - *The Pragmatic Engineer* (2026-07-23)
 - [The Pulse: What can we learn from Bun’s rapid Rust rewrite with AI?](https://blog.pragmaticengineer.com/the-pulse-what-can-we-learn-from-buns-rapid-rust-rewrite-with-ai/) - *The Pragmatic Engineer* (2026-07-16)
 - [The Pulse: Interesting AI coding stats from Cursor](https://blog.pragmaticengineer.com/the-pulse-interesting-ai-coding-stats-from-cursor/) - *The Pragmatic Engineer* (2026-07-09)
@@ -130,11 +130,11 @@ Automated tech news updates. Last updated: 2026-07-25 09:47:53 UTC
 
 ## Agentic AI & Workflows
 
+- [Own Your Intelligence: The Key to Lasting AI Advantage](https://www.langchain.com/blog/own-your-intelligence) - *LangChain Blog* (2026-07-25)
 - [July 2026: LangChain Newsletter — NemoClaw Blueprint, OpenWiki Brains, and More](https://www.langchain.com/blog/july-2026-langchain-newsletter) - *LangChain Blog* (2026-07-24)
 - [How We Benchmark Deep Agents](https://www.langchain.com/blog/how-we-benchmark-deep-agents) - *LangChain Blog* (2026-07-24)
 - [Eval Engineering Skill: Build Evals From Repo Context and Traces](https://www.langchain.com/blog/towards-automating-eval-engineering) - *LangChain Blog* (2026-07-23)
 - [How Schneider Electric Built Their LLMOps Foundations With LangSmith](https://www.langchain.com/blog/how-schneider-electric-built-their-llmops-foundations-at-enterprise-scale-with-langsmith) - *LangChain Blog* (2026-07-23)
-- [3 Years of Graph Engineering with LangGraph](https://www.langchain.com/blog/3-years-of-graph-engineering-with-langgraph) - *LangChain Blog* (2026-07-22)
 - [Unlocking the 3rd Dimension for Generative AI (Part 1)](https://medium.com/llamaindex-blog/unlocking-the-3rd-dimension-for-generative-ai-part-1-f13a21e63a6f?source=rss----d7683ed5043e---4) - *LlamaIndex Blog - Medium* (2024-03-04)
 - [Querying a network of knowledge with llama-index-networks](https://medium.com/llamaindex-blog/querying-a-network-of-knowledge-with-llama-index-networks-d784b4c3006f?source=rss----d7683ed5043e---4) - *LlamaIndex Blog - Medium* (2024-02-27)
 - [LlamaIndex Newsletter 2024–02–27](https://medium.com/llamaindex-blog/llamaindex-newsletter-2024-02-27-4b9102a0f824?source=rss----d7683ed5043e---4) - *LlamaIndex Blog - Medium* (2024-02-27)
