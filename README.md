@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-08-01 09:59:53 UTC
+Automated tech news updates. Last updated: 2026-08-02 09:57:25 UTC
 
 ## Software Architecture
 
@@ -33,24 +33,24 @@ Automated tech news updates. Last updated: 2026-08-01 09:59:53 UTC
 
 ## Security
 
+- [Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes](https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html) - *The Hacker News* (2026-08-01)
 - [Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites](https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html) - *The Hacker News* (2026-08-01)
 - [Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction](https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html) - *The Hacker News* (2026-08-01)
 - [Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware](https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html) - *The Hacker News* (2026-08-01)
 - [Friday Squid Blogging: Squid Helps Discover New Marine Species](https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squid-helps-discover-new-marine-species.html) - *Schneier on Security* (2026-07-31)
 - [Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk](https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html) - *The Hacker News* (2026-08-01)
 - [Anthropic’s Opus 5 Is Better at Resisting Prompt Injection](https://www.schneier.com/blog/archives/2026/07/anthropics-opus-5-is-better-at-resisting-prompt-injection.html) - *Schneier on Security* (2026-07-31)
-- [HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm](https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html) - *The Hacker News* (2026-07-31)
 - [Facial Recognition at Madison Square Garden](https://www.schneier.com/blog/archives/2026/07/facial-recognition-at-madison-square-garden.html) - *Schneier on Security* (2026-07-31)
 - [Read This Before You Buy That TV Streaming Stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/) - *Krebs on Security* (2026-07-30)
 - [American Being Prosecuted for Wiping His Phone Before Handing It Over to Border Officials](https://www.schneier.com/blog/archives/2026/07/american-being-prosecuted-for-wiping-his-phone-before-handing-it-over-to-border-officials.html) - *Schneier on Security* (2026-07-30)
 
 ## Databases/Storage
 
+- [Christophe Pettus: All Your GUCs in a Row: ident_file](https://postgr.es/p/9r8) - *Planet PostgreSQL* (2026-08-02)
 - [Christophe Pettus: All Your GUCs in a Row: hot_standby_feedback](https://postgr.es/p/9r4) - *Planet PostgreSQL* (2026-08-01)
 - [Mark Wong: Performance Farm July 2026 Update](https://postgr.es/p/9r3) - *Planet PostgreSQL* (2026-07-31)
 - [Hubert 'depesz' Lubaczewski: Waiting for PostgreSQL 19 – SQL Property Graph Queries (SQL/PGQ)](https://postgr.es/p/9q_) - *Planet PostgreSQL* (2026-07-31)
 - [Robert Haas: Hacking Workshop for September 2026](https://postgr.es/p/9qZ) - *Planet PostgreSQL* (2026-07-31)
-- [Muhammad Aqeel: PostgreSQL 18's extension_control_path: Decoupling Extensions from Server Images](https://postgr.es/p/9r0) - *Planet PostgreSQL* (2026-07-31)
 - [Migrate to Amazon Keyspaces with zero downtime using ZDM Proxy](https://aws.amazon.com/blogs/database/migrate-to-amazon-keyspaces-with-zero-downtime-using-zdm-proxy/) - *AWS Database Blog* (2026-07-28)
 - [Troubleshooting SQL Server query performance on Amazon RDS](https://aws.amazon.com/blogs/database/troubleshooting-sql-server-query-performance-on-amazon-rds/) - *AWS Database Blog* (2026-07-28)
 - [Building scalable applications on Amazon Aurora DSQL](https://aws.amazon.com/blogs/database/building-scalable-applications-on-amazon-aurora-dsql/) - *AWS Database Blog* (2026-07-28)
@@ -67,11 +67,11 @@ Automated tech news updates. Last updated: 2026-08-01 09:59:53 UTC
 
 ## Computing
 
-- [Not just Neanderthals: Ghost lineage in Africa left its mark on our DNA](https://arstechnica.com/science/2026/07/not-just-neanderthals-ghost-lineage-in-africa-left-its-mark-on-our-dna/) - *Ars Technica - All content* (2026-07-31)
-- [Doctors took a look at man's painful shoulder—they found the joint was missing](https://arstechnica.com/health/2026/07/doctors-took-a-look-at-mans-painful-shoulder-they-found-the-joint-was-missing/) - *Ars Technica - All content* (2026-07-31)
-- [Google plans to exempt sanctioned nations from Android developer verification](https://arstechnica.com/gadgets/2026/07/google-plans-to-exempt-sanctioned-nations-from-android-developer-verification/) - *Ars Technica - All content* (2026-07-31)
-- [Reddit keeps its strange DMCA fight over Google search results alive](https://arstechnica.com/tech-policy/2026/07/reddit-keeps-weird-dmca-lawsuit-against-web-scraper-alive-despite-googles-loss/) - *Ars Technica - All content* (2026-07-31)
-- [Claude published malicious code to the Internet and attacked 3 real companies](https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account/) - *Ars Technica - All content* (2026-07-31)
+- [Here's how engineers plan to save the satellite sent to save NASA's Swift mission](https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/) - *Ars Technica - All content* (2026-08-01)
+- [Review: Yes, we're still arguing about Nolan's The Odyssey](https://arstechnica.com/culture/2026/08/review-yes-were-still-arguing-about-nolans-the-odyssey/) - *Ars Technica - All content* (2026-08-01)
+- [As Reddit stock falls, CEO questions value of Google's AI Overviews](https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/) - *Ars Technica - All content* (2026-08-01)
+- [After noise complaints, judge orders Waymo to stop overnight charging in Santa Monica](https://arstechnica.com/tech-policy/2026/08/after-noise-complaints-judge-orders-waymo-to-stop-overnight-charging-in-santa-monica/) - *Ars Technica - All content* (2026-08-01)
+- [Defcon's new badge is a security key you can see inside](https://arstechnica.com/security/2026/08/defcons-new-badge-is-a-security-key-you-can-see-inside/) - *Ars Technica - All content* (2026-08-01)
 
 ## AI/Models/RL
 
@@ -96,11 +96,11 @@ Automated tech news updates. Last updated: 2026-08-01 09:59:53 UTC
 
 ## Technical Program Management (TPM)
 
+- [Cloudflare Introduces Meerkat for Strongly Consistent Global Coordination](https://www.infoq.com/news/2026/08/cloudflare-meerkat-consensus/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-02)
 - [AWS Introduces Free Sandbox Environments for Workshops](https://www.infoq.com/news/2026/08/aws-builder-sandbox/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-01)
 - [Terraform Introduces tfpolicy, an HCL-based Policy-as-Code Framework](https://www.infoq.com/news/2026/07/terraform-policy-as-code/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-07-31)
 - [Dropbox Integrates MCP and Dash to Close the Gap Between Security Design and Code Review](https://www.infoq.com/news/2026/07/dropbox-mcp-ai-code-review/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-07-31)
 - [Presentation: The Free-Lunch Guide to Idea Circularity](https://www.infoq.com/presentations/tech-hype-cycles-architectural-tradeoffs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-07-31)
-- [Article: Virtual Threads After JDK 24: What Changed for Production Java](https://www.infoq.com/articles/virtual-threads-after-jdk24/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-07-31)
 - [The Pulse: Quitting Spotify Podcasts over reliability](https://blog.pragmaticengineer.com/the-pulse-quitting-spotify-podcasts-over-reliability/) - *The Pragmatic Engineer* (2026-07-30)
 - [Leading Agile Initiatives: How Leaders Help Agile Change Succeed](https://www.mountaingoatsoftware.com/blog/leading-agile-initiatives) - *Mike Cohn's Blog - Succeeding With Agile* (2026-07-28)
 - [The Pulse: New trend - concern about massive increase in code review load](https://blog.pragmaticengineer.com/the-pulse-new-trend-concern-about-massive-increase-in-code-review-load/) - *The Pragmatic Engineer* (2026-07-23)
@@ -117,12 +117,7 @@ Automated tech news updates. Last updated: 2026-08-01 09:59:53 UTC
 
 ## Network Observability
 
-- [TNO067: The Impact of AI on Internet Traffic](https://packetpushers.net/podcasts/total-network-operations/tno067-the-impact-of-ai-on-internet-traffic/) - *The Everything Feed - All Packet Pushers Pods* (2026-07-31)
-- [HN836: Optimize AI Traffic on the WAN with Ciena’s Integrated IP Networking (Sponsored)](https://packetpushers.net/podcasts/heavy-networking/hn836-optimize-ai-traffic-on-the-wan-with-cienas-integrated-ip-networking-sponsored/) - *The Everything Feed - All Packet Pushers Pods* (2026-07-31)
-- [LIU019: Jason Gooley: The Godfather of Programmability](https://packetpushers.net/podcasts/life-in-uptime/liu019-jason-gooley-the-godfather-of-programmability/) - *The Everything Feed - All Packet Pushers Pods* (2026-07-30)
 - [Navigating AI Tokenomics: From Cost Uncertainty to Operational Scale](https://blogs.cisco.com/news/navigating-ai-tokenomics-from-cost-uncertainty-to-operational-scale) - *Observability - Cisco Blogs* (2026-07-29)
-- [D2DO309: Packet Pushers Assemble! Bridging the Telemetry Divide](https://packetpushers.net/podcasts/day-two-devops/d2do309-packet-pushers-assemble-bridging-the-telemetry-divide/) - *The Everything Feed - All Packet Pushers Pods* (2026-07-29)
-- [PP119: Automating Firewall Ops To Stay Ahead of AI Threats (Sponsored)](https://packetpushers.net/podcasts/packet-protector/pp119-automating-firewall-ops-to-stay-ahead-of-ai-threats-sponsored/) - *The Everything Feed - All Packet Pushers Pods* (2026-07-28)
 - [Machine Speed, Human Judgement: How AI Changed the SOC in 2026](https://blogs.cisco.com/security/machine-speed-human-judgement) - *Observability - Cisco Blogs* (2026-07-07)
 - [Elevating Expertise in the SOC](https://blogs.cisco.com/security/elevating-expertise-with-lessons-learned) - *Observability - Cisco Blogs* (2026-07-07)
 - [Educate at Event Speed: Cisco Live Security Operations Center](https://blogs.cisco.com/security/educate-event-speed-cisco-live-soc) - *Observability - Cisco Blogs* (2026-07-07)
