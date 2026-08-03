@@ -1,14 +1,14 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-08-02 09:57:25 UTC
+Automated tech news updates. Last updated: 2026-08-03 11:23:38 UTC
 
 ## Software Architecture
 
-- [Article: The Hard-Stop Rule: From 3 HCM Monoliths to 120 Domain Microservices](https://www.infoq.com/articles/pull-based-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-07-28)
-- [Podcast: Rethinking Data: Moving From the Traditional Three-Tier Web Stack to Client-Side Event Sourcing](https://www.infoq.com/podcasts/rethinking-data-client-event-sourcing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-07-27)
-- [Article: An Evolutionary Architecture Pattern for Managing AI’s Pace of Change](https://www.infoq.com/articles/evolutionary-architecture-pattern/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-07-27)
-- [Presentation: Compiling Workflows into Databases: the Architecture That Shouldn't Work (But Does)](https://www.infoq.com/presentations/dbos/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-07-23)
-- [GitHub Increased Instant Navigation from 4% to 22% by Rethinking Client Side Architecture](https://www.infoq.com/news/2026/07/github-issues-navigation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-07-22)
+- [Article: Enabling Evolutionary Architecture Through the Preservation of Change Locality](https://www.infoq.com/articles/evolutionary-architecture-change-locality/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-08-03)
+- [Podcast: WebAssembly on the JVM: Feature Evolution, Performance, and the Transition to Endive](https://www.infoq.com/podcasts/feature-evolution-performance-transition-endive/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-08-03)
+- [Presentation: Architecting AI Systems for the Messy Reality of Enterprises: Why Agentic Compute is the Missing Layer](https://www.infoq.com/presentations/agentic-compute/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-08-03)
+- [Article: Virtual Threads After JDK 24: What Changed for Production Java](https://www.infoq.com/articles/virtual-threads-after-jdk24/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-07-31)
+- [Presentation: Parting the Clouds: The Rise of Disaggregated Systems](https://www.infoq.com/presentations/disaggregation-industrial-systems/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-07-30)
 
 ## Cloud Computing
 
@@ -33,24 +33,24 @@ Automated tech news updates. Last updated: 2026-08-02 09:57:25 UTC
 
 ## Security
 
-- [Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes](https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html) - *The Hacker News* (2026-08-01)
-- [Hackers Poison Adform Script to Swap Crypto Wallet Addresses Across Customer Sites](https://thehackernews.com/2026/08/hackers-poison-adform-script-to-swap.html) - *The Hacker News* (2026-08-01)
-- [Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction](https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html) - *The Hacker News* (2026-08-01)
-- [Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware](https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html) - *The Hacker News* (2026-08-01)
+- [Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS](https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html) - *The Hacker News* (2026-08-03)
+- [The OpenAI Hack Shows the Genie Is Out of the Bottle](https://www.schneier.com/blog/archives/2026/08/the-openai-hack-shows-the-genie-is-out-of-the-bottle.html) - *Schneier on Security* (2026-08-03)
+- [PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web](https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html) - *The Hacker News* (2026-08-03)
+- [Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable](https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html) - *The Hacker News* (2026-08-03)
+- [N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete](https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html) - *The Hacker News* (2026-08-03)
+- [Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code](https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html) - *The Hacker News* (2026-08-03)
 - [Friday Squid Blogging: Squid Helps Discover New Marine Species](https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squid-helps-discover-new-marine-species.html) - *Schneier on Security* (2026-07-31)
-- [Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk](https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html) - *The Hacker News* (2026-08-01)
 - [Anthropic’s Opus 5 Is Better at Resisting Prompt Injection](https://www.schneier.com/blog/archives/2026/07/anthropics-opus-5-is-better-at-resisting-prompt-injection.html) - *Schneier on Security* (2026-07-31)
 - [Facial Recognition at Madison Square Garden](https://www.schneier.com/blog/archives/2026/07/facial-recognition-at-madison-square-garden.html) - *Schneier on Security* (2026-07-31)
 - [Read This Before You Buy That TV Streaming Stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/) - *Krebs on Security* (2026-07-30)
-- [American Being Prosecuted for Wiping His Phone Before Handing It Over to Border Officials](https://www.schneier.com/blog/archives/2026/07/american-being-prosecuted-for-wiping-his-phone-before-handing-it-over-to-border-officials.html) - *Schneier on Security* (2026-07-30)
 
 ## Databases/Storage
 
+- [Christophe Pettus: All Your GUCs in a Row: idle_in_transaction_session_timeout](https://postgr.es/p/9r9) - *Planet PostgreSQL* (2026-08-03)
 - [Christophe Pettus: All Your GUCs in a Row: ident_file](https://postgr.es/p/9r8) - *Planet PostgreSQL* (2026-08-02)
 - [Christophe Pettus: All Your GUCs in a Row: hot_standby_feedback](https://postgr.es/p/9r4) - *Planet PostgreSQL* (2026-08-01)
 - [Mark Wong: Performance Farm July 2026 Update](https://postgr.es/p/9r3) - *Planet PostgreSQL* (2026-07-31)
 - [Hubert 'depesz' Lubaczewski: Waiting for PostgreSQL 19 – SQL Property Graph Queries (SQL/PGQ)](https://postgr.es/p/9q_) - *Planet PostgreSQL* (2026-07-31)
-- [Robert Haas: Hacking Workshop for September 2026](https://postgr.es/p/9qZ) - *Planet PostgreSQL* (2026-07-31)
 - [Migrate to Amazon Keyspaces with zero downtime using ZDM Proxy](https://aws.amazon.com/blogs/database/migrate-to-amazon-keyspaces-with-zero-downtime-using-zdm-proxy/) - *AWS Database Blog* (2026-07-28)
 - [Troubleshooting SQL Server query performance on Amazon RDS](https://aws.amazon.com/blogs/database/troubleshooting-sql-server-query-performance-on-amazon-rds/) - *AWS Database Blog* (2026-07-28)
 - [Building scalable applications on Amazon Aurora DSQL](https://aws.amazon.com/blogs/database/building-scalable-applications-on-amazon-aurora-dsql/) - *AWS Database Blog* (2026-07-28)
@@ -96,11 +96,11 @@ Automated tech news updates. Last updated: 2026-08-02 09:57:25 UTC
 
 ## Technical Program Management (TPM)
 
-- [Cloudflare Introduces Meerkat for Strongly Consistent Global Coordination](https://www.infoq.com/news/2026/08/cloudflare-meerkat-consensus/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-02)
-- [AWS Introduces Free Sandbox Environments for Workshops](https://www.infoq.com/news/2026/08/aws-builder-sandbox/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-01)
-- [Terraform Introduces tfpolicy, an HCL-based Policy-as-Code Framework](https://www.infoq.com/news/2026/07/terraform-policy-as-code/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-07-31)
-- [Dropbox Integrates MCP and Dash to Close the Gap Between Security Design and Code Review](https://www.infoq.com/news/2026/07/dropbox-mcp-ai-code-review/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-07-31)
-- [Presentation: The Free-Lunch Guide to Idea Circularity](https://www.infoq.com/presentations/tech-hype-cycles-architectural-tradeoffs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-07-31)
+- [Article: Enabling Evolutionary Architecture Through the Preservation of Change Locality](https://www.infoq.com/articles/evolutionary-architecture-change-locality/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-03)
+- [Podcast: WebAssembly on the JVM: Feature Evolution, Performance, and the Transition to Endive](https://www.infoq.com/podcasts/feature-evolution-performance-transition-endive/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-03)
+- [Microsoft Agent Framework Harness and Hosted Agents Reach General Availability](https://www.infoq.com/news/2026/08/agent-framework-harness-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-03)
+- [HashiCorp Ships Public Beta of Vault Kubernetes Key Management](https://www.infoq.com/news/2026/08/vault-kubernetes-key-management/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-03)
+- [Microsoft Releases TypeScript 7.0 with a Native Go Compiler, Delivering 10x Faster Builds](https://www.infoq.com/news/2026/08/typescript-7-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-03)
 - [The Pulse: Quitting Spotify Podcasts over reliability](https://blog.pragmaticengineer.com/the-pulse-quitting-spotify-podcasts-over-reliability/) - *The Pragmatic Engineer* (2026-07-30)
 - [Leading Agile Initiatives: How Leaders Help Agile Change Succeed](https://www.mountaingoatsoftware.com/blog/leading-agile-initiatives) - *Mike Cohn's Blog - Succeeding With Agile* (2026-07-28)
 - [The Pulse: New trend - concern about massive increase in code review load](https://blog.pragmaticengineer.com/the-pulse-new-trend-concern-about-massive-increase-in-code-review-load/) - *The Pragmatic Engineer* (2026-07-23)
@@ -117,7 +117,12 @@ Automated tech news updates. Last updated: 2026-08-02 09:57:25 UTC
 
 ## Network Observability
 
+- [TNO067: The Impact of AI on Internet Traffic](https://packetpushers.net/podcasts/total-network-operations/tno067-the-impact-of-ai-on-internet-traffic/) - *The Everything Feed - All Packet Pushers Pods* (2026-07-31)
+- [HN836: Optimize AI Traffic on the WAN with Ciena’s Integrated IP Networking (Sponsored)](https://packetpushers.net/podcasts/heavy-networking/hn836-optimize-ai-traffic-on-the-wan-with-cienas-integrated-ip-networking-sponsored/) - *The Everything Feed - All Packet Pushers Pods* (2026-07-31)
+- [LIU019: Jason Gooley: The Godfather of Programmability](https://packetpushers.net/podcasts/life-in-uptime/liu019-jason-gooley-the-godfather-of-programmability/) - *The Everything Feed - All Packet Pushers Pods* (2026-07-30)
 - [Navigating AI Tokenomics: From Cost Uncertainty to Operational Scale](https://blogs.cisco.com/news/navigating-ai-tokenomics-from-cost-uncertainty-to-operational-scale) - *Observability - Cisco Blogs* (2026-07-29)
+- [D2DO309: Packet Pushers Assemble! Bridging the Telemetry Divide](https://packetpushers.net/podcasts/day-two-devops/d2do309-packet-pushers-assemble-bridging-the-telemetry-divide/) - *The Everything Feed - All Packet Pushers Pods* (2026-07-29)
+- [PP119: Automating Firewall Ops To Stay Ahead of AI Threats (Sponsored)](https://packetpushers.net/podcasts/packet-protector/pp119-automating-firewall-ops-to-stay-ahead-of-ai-threats-sponsored/) - *The Everything Feed - All Packet Pushers Pods* (2026-07-28)
 - [Machine Speed, Human Judgement: How AI Changed the SOC in 2026](https://blogs.cisco.com/security/machine-speed-human-judgement) - *Observability - Cisco Blogs* (2026-07-07)
 - [Elevating Expertise in the SOC](https://blogs.cisco.com/security/elevating-expertise-with-lessons-learned) - *Observability - Cisco Blogs* (2026-07-07)
 - [Educate at Event Speed: Cisco Live Security Operations Center](https://blogs.cisco.com/security/educate-event-speed-cisco-live-soc) - *Observability - Cisco Blogs* (2026-07-07)
@@ -125,11 +130,11 @@ Automated tech news updates. Last updated: 2026-08-02 09:57:25 UTC
 
 ## Agentic AI & Workflows
 
+- [How LangChain Built an Agent-First Data Stack](https://www.langchain.com/blog/agent-data-stack) - *LangChain Blog* (2026-08-03)
+- [Langsmith Llm Gateway Runtime Controls For Production Agents](https://www.langchain.com/blog/langsmith-llm-gateway-runtime-controls-for-production-agents) - *LangChain Blog* (2026-08-03)
+- [Your coding agent bill doubled. Here’s how to fix it.](https://www.langchain.com/blog/fix-your-coding-agent-bill) - *LangChain Blog* (2026-08-03)
+- [Own Your Intelligence: The Key to Lasting AI Advantage](https://www.langchain.com/blog/own-your-intelligence) - *LangChain Blog* (2026-08-03)
 - [Evaluating code review agents with ReviewBench](https://www.langchain.com/blog/evaluating-code-review-agents-with-reviewbench) - *LangChain Blog* (2026-07-31)
-- [LangSmith LLM Gateway: runtime governance built into the agent lifecycle](https://www.langchain.com/blog/introducing-llm-gateway) - *LangChain Blog* (2026-07-31)
-- [Introducing Align Evals: Streamlining LLM Application Evaluation](https://www.langchain.com/blog/introducing-align-evals) - *LangChain Blog* (2026-07-30)
-- [Langsmith Llm Gateway Runtime Controls For Production Agents](https://www.langchain.com/blog/langsmith-llm-gateway-runtime-controls-for-production-agents) - *LangChain Blog* (2026-07-30)
-- [Deep Agents v0.7](https://www.langchain.com/blog/deep-agents-v0-7) - *LangChain Blog* (2026-07-29)
 - [Unlocking the 3rd Dimension for Generative AI (Part 1)](https://medium.com/llamaindex-blog/unlocking-the-3rd-dimension-for-generative-ai-part-1-f13a21e63a6f?source=rss----d7683ed5043e---4) - *LlamaIndex Blog - Medium* (2024-03-04)
 - [Querying a network of knowledge with llama-index-networks](https://medium.com/llamaindex-blog/querying-a-network-of-knowledge-with-llama-index-networks-d784b4c3006f?source=rss----d7683ed5043e---4) - *LlamaIndex Blog - Medium* (2024-02-27)
 - [LlamaIndex Newsletter 2024–02–27](https://medium.com/llamaindex-blog/llamaindex-newsletter-2024-02-27-4b9102a0f824?source=rss----d7683ed5043e---4) - *LlamaIndex Blog - Medium* (2024-02-27)
