@@ -1,14 +1,14 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-08-03 11:23:38 UTC
+Automated tech news updates. Last updated: 2026-08-04 10:39:34 UTC
 
 ## Software Architecture
 
+- [HubSpot Redesigns JITA Authorization with Rule Engine Architecture](https://www.infoq.com/news/2026/08/hubspot-jita-rule-engine/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-08-03)
 - [Article: Enabling Evolutionary Architecture Through the Preservation of Change Locality](https://www.infoq.com/articles/evolutionary-architecture-change-locality/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-08-03)
 - [Podcast: WebAssembly on the JVM: Feature Evolution, Performance, and the Transition to Endive](https://www.infoq.com/podcasts/feature-evolution-performance-transition-endive/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-08-03)
 - [Presentation: Architecting AI Systems for the Messy Reality of Enterprises: Why Agentic Compute is the Missing Layer](https://www.infoq.com/presentations/agentic-compute/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-08-03)
-- [Article: Virtual Threads After JDK 24: What Changed for Production Java](https://www.infoq.com/articles/virtual-threads-after-jdk24/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-07-31)
-- [Presentation: Parting the Clouds: The Rise of Disaggregated Systems](https://www.infoq.com/presentations/disaggregation-industrial-systems/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-07-30)
+- [Podcast: Rethinking Data: Moving from the Traditional Three-Tier Web Stack to Client-Side Event Sourcing](https://www.infoq.com/podcasts/rethinking-data-client-event-sourcing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-07-27)
 
 ## Cloud Computing
 
@@ -20,66 +20,66 @@ Automated tech news updates. Last updated: 2026-08-03 11:23:38 UTC
 
 ## Kubernetes
 
+- [Kubeflow SDK evolution- One million downloads and counting](https://www.cncf.io/blog/2026/08/03/kubeflow-sdk-evolution-one-million-downloads-and-counting/) - *Blog – Cloud Native Computing Foundation* (2026-08-03)
+- [Gateway API v1.6: TCPRoute and UDPRoute Graduate to Standard](https://kubernetes.io/blog/2026/08/03/gateway-api-v1-6-release/) - *Kubernetes Blog* (2026-08-03)
+- [Cortex completes OSTIF security audit](https://www.cncf.io/blog/2026/08/03/cortex-completes-ostif-security-audit/) - *Blog – Cloud Native Computing Foundation* (2026-08-03)
 - [Kubernetes v1.37 Sneak Peek](https://kubernetes.io/blog/2026/07/31/kubernetes-v1-37-sneak-peek/) - *Kubernetes Blog* (2026-07-31)
 - [Scaling Kubernetes pods with KEDA based on Amazon SQS queue depth](https://www.cncf.io/blog/2026/07/31/scaling-kubernetes-pods-with-keda-based-on-amazon-sqs-queue-depth/) - *Blog – Cloud Native Computing Foundation* (2026-07-31)
 - [Runtime Supply Chain Verification using the Node Resource Interface (NRI)](https://www.cncf.io/blog/2026/07/30/runtime-supply-chain-verification-using-the-node-resource-interface-nri/) - *Blog – Cloud Native Computing Foundation* (2026-07-30)
 - [How the controller-runtime Cache Actually Works, and Why Your Controller Does Not Crash the API Server](https://kubernetes.io/blog/2026/07/29/controller-runtime-cache-explained/) - *Kubernetes Blog* (2026-07-29)
 - [Your Kubernetes health checks are accidentally waking your services. Here’s the fix.](https://www.cncf.io/blog/2026/07/29/your-kubernetes-health-checks-are-accidentally-waking-your-services-heres-the-fix/) - *Blog – Cloud Native Computing Foundation* (2026-07-29)
-- [Lima v2.2: Windows guests and TPM 2.0 emulation](https://www.cncf.io/blog/2026/07/28/lima-v2-2-windows-guests-and-tpm-2-0-emulation/) - *Blog – Cloud Native Computing Foundation* (2026-07-29)
-- [Welcome CoHDI to the CNCF: Evolving Kubernetes into composable disaggregated infrastructures](https://www.cncf.io/blog/2026/07/28/welcome-cohdi-to-the-cncf-evolving-kubernetes-into-composable-disaggregated-infrastructures/) - *Blog – Cloud Native Computing Foundation* (2026-07-29)
 - [Building a Custom Metrics Exporter for Kubernetes](https://kubernetes.io/blog/2026/07/14/custom-metrics-exporter-kubernetes/) - *Kubernetes Blog* (2026-07-14)
 - [Operating AI/ML Workloads on Kubernetes: A Headlamp Plugin for Kubeflow](https://kubernetes.io/blog/2026/07/13/introducing-headlamp-plugin-for-kubeflow/) - *Kubernetes Blog* (2026-07-13)
-- [Kubernetes Dashboard to Headlamp: A Step-by-Step Guide](https://kubernetes.io/blog/2026/07/13/kubernetes-dashboard-to-headlamp/) - *Kubernetes Blog* (2026-07-13)
 
 ## Security
 
-- [Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS](https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html) - *The Hacker News* (2026-08-03)
+- [Some Claude Chats Are Searchable on Google](https://www.schneier.com/blog/archives/2026/08/some-claude-chats-are-searchable-on-google.html) - *Schneier on Security* (2026-08-04)
+- [DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT](https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html) - *The Hacker News* (2026-08-04)
+- [CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises](https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html) - *The Hacker News* (2026-08-04)
+- [18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users](https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html) - *The Hacker News* (2026-08-04)
+- [More on the OpenAI Agent’s Attack on Hugging Face](https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html) - *Schneier on Security* (2026-08-03)
+- [Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts](https://thehackernews.com/2026/08/google-password-manager-attacks-could.html) - *The Hacker News* (2026-08-03)
+- [INC Ransomware Emerges as Dominant Actor Exploiting SonicWall SMA 1000 Flaws](https://thehackernews.com/2026/08/inc-ransomware-emerges-as-dominant.html) - *The Hacker News* (2026-08-03)
 - [The OpenAI Hack Shows the Genie Is Out of the Bottle](https://www.schneier.com/blog/archives/2026/08/the-openai-hack-shows-the-genie-is-out-of-the-bottle.html) - *Schneier on Security* (2026-08-03)
-- [PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web](https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html) - *The Hacker News* (2026-08-03)
-- [Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable](https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html) - *The Hacker News* (2026-08-03)
-- [N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete](https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html) - *The Hacker News* (2026-08-03)
-- [Hugging Face Diffusers Flaws Could Let Model Repositories Execute Arbitrary Code](https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html) - *The Hacker News* (2026-08-03)
 - [Friday Squid Blogging: Squid Helps Discover New Marine Species](https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squid-helps-discover-new-marine-species.html) - *Schneier on Security* (2026-07-31)
 - [Anthropic’s Opus 5 Is Better at Resisting Prompt Injection](https://www.schneier.com/blog/archives/2026/07/anthropics-opus-5-is-better-at-resisting-prompt-injection.html) - *Schneier on Security* (2026-07-31)
-- [Facial Recognition at Madison Square Garden](https://www.schneier.com/blog/archives/2026/07/facial-recognition-at-madison-square-garden.html) - *Schneier on Security* (2026-07-31)
-- [Read This Before You Buy That TV Streaming Stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/) - *Krebs on Security* (2026-07-30)
 
 ## Databases/Storage
 
+- [Christophe Pettus: All Your GUCs in a Row: idle_replication_slot_timeout](https://postgr.es/p/9rc) - *Planet PostgreSQL* (2026-08-04)
+- [Using CloudWatch Database Insights to troubleshoot query performance from calling services](https://aws.amazon.com/blogs/database/using-cloudwatch-database-insights-to-troubleshoot-query-performance-from-calling-services/) - *AWS Database Blog* (2026-08-03)
+- [Umair Shahid: PostgreSQL Lockup vs Stale Connection: How to Tell Them Apart](https://postgr.es/p/9ra) - *Planet PostgreSQL* (2026-08-03)
 - [Christophe Pettus: All Your GUCs in a Row: idle_in_transaction_session_timeout](https://postgr.es/p/9r9) - *Planet PostgreSQL* (2026-08-03)
 - [Christophe Pettus: All Your GUCs in a Row: ident_file](https://postgr.es/p/9r8) - *Planet PostgreSQL* (2026-08-02)
 - [Christophe Pettus: All Your GUCs in a Row: hot_standby_feedback](https://postgr.es/p/9r4) - *Planet PostgreSQL* (2026-08-01)
-- [Mark Wong: Performance Farm July 2026 Update](https://postgr.es/p/9r3) - *Planet PostgreSQL* (2026-07-31)
-- [Hubert 'depesz' Lubaczewski: Waiting for PostgreSQL 19 – SQL Property Graph Queries (SQL/PGQ)](https://postgr.es/p/9q_) - *Planet PostgreSQL* (2026-07-31)
 - [Migrate to Amazon Keyspaces with zero downtime using ZDM Proxy](https://aws.amazon.com/blogs/database/migrate-to-amazon-keyspaces-with-zero-downtime-using-zdm-proxy/) - *AWS Database Blog* (2026-07-28)
 - [Troubleshooting SQL Server query performance on Amazon RDS](https://aws.amazon.com/blogs/database/troubleshooting-sql-server-query-performance-on-amazon-rds/) - *AWS Database Blog* (2026-07-28)
 - [Building scalable applications on Amazon Aurora DSQL](https://aws.amazon.com/blogs/database/building-scalable-applications-on-amazon-aurora-dsql/) - *AWS Database Blog* (2026-07-28)
 - [Automated PII redaction for Amazon RDS for PostgreSQL audit logs](https://aws.amazon.com/blogs/database/automated-pii-redaction-for-amazon-rds-for-postgresql-audit-logs/) - *AWS Database Blog* (2026-07-28)
-- [Migrate self-managed PostgreSQL to Amazon RDS using the RDS console](https://aws.amazon.com/blogs/database/migrate-self-managed-postgresql-to-amazon-rds-using-the-rds-console/) - *AWS Database Blog* (2026-07-27)
 
 ## Networking
 
+- [Cisco exec testifies at US Senate panel on AI’s network impact](https://www.networkworld.com/article/4204576/cisco-exec-testifies-at-us-senate-panel-on-ais-network-impact.html) - *Network World* (2026-08-03)
+- [Nvidia’s next move? Financing AI](https://www.networkworld.com/article/4204543/nvidias-next-move-financing-ai.html) - *Network World* (2026-08-03)
+- [AMD unveils AI GPU to challenge Nvidia’s Rubin](https://www.networkworld.com/article/4204533/amd-unveils-ai-gpu-to-challenge-nvidias-rubin.html) - *Network World* (2026-08-03)
+- [Cato Networks launches agentic threat prevention](https://www.networkworld.com/article/4204054/cato-networks-launches-agentic-threat-prevention.html) - *Network World* (2026-08-03)
 - [Groundcover raises $100M as observability pivots from monitoring to AI infrastructure](https://www.networkworld.com/article/4204009/groundcover-raises-100m-as-observability-pivots-from-monitoring-to-ai-infrastructure.html) - *Network World* (2026-07-31)
-- [From dangling DNS records to reverse DNS gaps, attackers find new blind spots](https://www.networkworld.com/article/4203954/from-dangling-dns-records-to-reverse-dns-gaps-attackers-find-new-blind-spots.html) - *Network World* (2026-07-31)
-- [Data center developer eyes disused newpaper printing plant](https://www.networkworld.com/article/4203992/data-center-developer-eyes-disused-newpaper-printing-plant.html) - *Network World* (2026-07-31)
-- [Broadcom patches vulnerabilities all over VMware](https://www.networkworld.com/article/4203948/broadcom-patches-vulnerabilities-all-over-vmware-2.html) - *Network World* (2026-07-31)
-- [Microsoft doubles down on multi-model AI as it builds a Copilot super app](https://www.networkworld.com/article/4203699/microsoft-doubles-down-on-multi-model-ai-as-it-builds-a-copilot-super-app-2.html) - *Network World* (2026-07-31)
 
 ## Computing
 
-- [Here's how engineers plan to save the satellite sent to save NASA's Swift mission](https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/) - *Ars Technica - All content* (2026-08-01)
-- [Review: Yes, we're still arguing about Nolan's The Odyssey](https://arstechnica.com/culture/2026/08/review-yes-were-still-arguing-about-nolans-the-odyssey/) - *Ars Technica - All content* (2026-08-01)
-- [As Reddit stock falls, CEO questions value of Google's AI Overviews](https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/) - *Ars Technica - All content* (2026-08-01)
-- [After noise complaints, judge orders Waymo to stop overnight charging in Santa Monica](https://arstechnica.com/tech-policy/2026/08/after-noise-complaints-judge-orders-waymo-to-stop-overnight-charging-in-santa-monica/) - *Ars Technica - All content* (2026-08-01)
-- [Defcon's new badge is a security key you can see inside](https://arstechnica.com/security/2026/08/defcons-new-badge-is-a-security-key-you-can-see-inside/) - *Ars Technica - All content* (2026-08-01)
+- [US company’s AI lets Ukraine’s cheap kamikaze drones track targets on their own](https://arstechnica.com/ai/2026/08/ukraines-drones-get-ai-upgrades-for-kamikaze-strikes-future-swarm-attacks/) - *Ars Technica - All content* (2026-08-03)
+- [Research roundup: 6 cool science stories we almost missed](https://arstechnica.com/science/2026/08/research-roundup-6-cool-science-stories-we-almost-missed-5/) - *Ars Technica - All content* (2026-08-03)
+- [Lego deploys Hubble Space Telescope as detailed desktop model](https://arstechnica.com/space/2026/08/lego-deploys-hubble-space-telescope-as-detailed-desktop-model/) - *Ars Technica - All content* (2026-08-03)
+- [An AI-supervised remote exam went so badly that 58,000 students must retake it](https://arstechnica.com/culture/2026/08/an-ai-supervised-remote-exam-went-so-badly-that-58000-students-must-retake-it/) - *Ars Technica - All content* (2026-08-03)
+- [2026 Volkswagen Jetta Sport: The cheap car isn't completely extinct yet](https://arstechnica.com/cars/2026/08/2026-volkswagen-jetta-sport-the-cheap-car-isnt-completely-extinct-yet/) - *Ars Technica - All content* (2026-08-03)
 
 ## AI/Models/RL
 
+- [Apple is getting this wrong](https://openai.com/index/apple-is-getting-this-wrong) - *OpenAI News* (2026-08-03)
+- [How we built a realtime system for responsive voice AI in six months](https://openai.com/index/continuous-voice-interaction-with-gpt-live) - *OpenAI News* (2026-08-03)
+- [Circles powers telco personalization with OpenAI technology](https://openai.com/index/circles) - *OpenAI News* (2026-08-03)
 - [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics) - *OpenAI News* (2026-08-01)
 - [Advancing responsible AI across Europe](https://openai.com/index/advancing-responsible-ai-across-europe) - *OpenAI News* (2026-07-31)
-- [Building abundant intelligence](https://openai.com/index/building-abundant-intelligence) - *OpenAI News* (2026-07-31)
-- [Univé builds an AI-ready workforce](https://openai.com/index/unive) - *OpenAI News* (2026-07-31)
-- [Disrupting a Criminal Scam Operation](https://openai.com/index/disrupting-malicious-uses-of-ai-criminal-scam-operation) - *OpenAI News* (2026-07-31)
 - [Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence](https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence/) - *The latest research from Google* (2026-07-30)
 - [GPU Management: Why Idle GPUs Are the New Grounded Aircraft](https://huggingface.co/blog/Dharma-AI/gpu-management) - *Hugging Face - Blog* (2026-07-30)
 - [Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration](https://deepmind.google/blog/gemini-robotics-er-2-powering-robotics-with-video-understanding-task-orchestration-and-multi-robot-collaboration/) - *Google DeepMind News* (2026-07-30)
@@ -88,19 +88,19 @@ Automated tech news updates. Last updated: 2026-08-03 11:23:38 UTC
 
 ## AI Infra
 
+- [From weeks to minutes: How Formula 1® uses agentic AI on AWS to accelerate data operations](https://aws.amazon.com/blogs/machine-learning/from-weeks-to-minutes-how-formula-1-uses-agentic-ai-on-aws-to-accelerate-data-operations/) - *Artificial Intelligence* (2026-08-03)
+- [Automated Reasoning policy refinement in Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/automated-reasoning-policy-refinement-in-amazon-bedrock/) - *Artificial Intelligence* (2026-08-03)
 - [Announcing the Agentic Catalog Experience in Amazon Quick](https://aws.amazon.com/blogs/machine-learning/announcing-the-agentic-catalog-experience-in-amazon-quick/) - *Artificial Intelligence* (2026-07-31)
 - [Optimizing production agents with Amazon Bedrock AgentCore Observability](https://aws.amazon.com/blogs/machine-learning/optimizing-production-agents-with-amazon-bedrock-agentcore-observability/) - *Artificial Intelligence* (2026-07-31)
 - [Deploying Kimi K3 on Amazon SageMaker HyperPod and Amazon EKS](https://aws.amazon.com/blogs/machine-learning/deploying-kimi-k3-on-amazon-sagemaker-hyperpod-and-amazon-eks/) - *Artificial Intelligence* (2026-07-30)
-- [How Yahoo enhances search retargeting using Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-yahoo-enhances-search-retargeting-using-amazon-bedrock/) - *Artificial Intelligence* (2026-07-30)
-- [Inference meta-monitoring for Amazon SageMaker AI endpoints with Amazon Quick](https://aws.amazon.com/blogs/machine-learning/inference-meta-monitoring-for-amazon-sagemaker-ai-endpoints-with-amazon-quick/) - *Artificial Intelligence* (2026-07-30)
 
 ## Technical Program Management (TPM)
 
+- [eslint-rspack-plugin 5.0.0 Ships as a Pure ESM Package, Aligning with the Rstack Ecosystem](https://www.infoq.com/news/2026/08/eslint-rspack-plugin-5/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-04)
+- [Azure and Community Guidelines on Choosing Between a Skill or a Sub-Agent](https://www.infoq.com/news/2026/08/choosing-between-subagent-skills/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-03)
+- [Java News Roundup: OpenJDK JEPs, Jakarta EE, GraalVM, TornadoVM, Micronaut, Quarkus, JobRunr, Maven](https://www.infoq.com/news/2026/08/java-news-roundup-jul27-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-03)
+- [HubSpot Redesigns JITA Authorization with Rule Engine Architecture](https://www.infoq.com/news/2026/08/hubspot-jita-rule-engine/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-03)
 - [Article: Enabling Evolutionary Architecture Through the Preservation of Change Locality](https://www.infoq.com/articles/evolutionary-architecture-change-locality/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-03)
-- [Podcast: WebAssembly on the JVM: Feature Evolution, Performance, and the Transition to Endive](https://www.infoq.com/podcasts/feature-evolution-performance-transition-endive/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-03)
-- [Microsoft Agent Framework Harness and Hosted Agents Reach General Availability](https://www.infoq.com/news/2026/08/agent-framework-harness-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-03)
-- [HashiCorp Ships Public Beta of Vault Kubernetes Key Management](https://www.infoq.com/news/2026/08/vault-kubernetes-key-management/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-03)
-- [Microsoft Releases TypeScript 7.0 with a Native Go Compiler, Delivering 10x Faster Builds](https://www.infoq.com/news/2026/08/typescript-7-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-03)
 - [The Pulse: Quitting Spotify Podcasts over reliability](https://blog.pragmaticengineer.com/the-pulse-quitting-spotify-podcasts-over-reliability/) - *The Pragmatic Engineer* (2026-07-30)
 - [Leading Agile Initiatives: How Leaders Help Agile Change Succeed](https://www.mountaingoatsoftware.com/blog/leading-agile-initiatives) - *Mike Cohn's Blog - Succeeding With Agile* (2026-07-28)
 - [The Pulse: New trend - concern about massive increase in code review load](https://blog.pragmaticengineer.com/the-pulse-new-trend-concern-about-massive-increase-in-code-review-load/) - *The Pragmatic Engineer* (2026-07-23)
@@ -117,11 +117,11 @@ Automated tech news updates. Last updated: 2026-08-03 11:23:38 UTC
 
 ## Network Observability
 
+- [NB585: Anthropic Models Bad Behavior; Orbital Data Center Patent Issued](https://packetpushers.net/podcasts/network-break/nb585-anthropic-models-bad-behavior-orbital-data-center-patent-issued/) - *The Everything Feed - All Packet Pushers Pods* (2026-08-03)
 - [TNO067: The Impact of AI on Internet Traffic](https://packetpushers.net/podcasts/total-network-operations/tno067-the-impact-of-ai-on-internet-traffic/) - *The Everything Feed - All Packet Pushers Pods* (2026-07-31)
 - [HN836: Optimize AI Traffic on the WAN with Ciena’s Integrated IP Networking (Sponsored)](https://packetpushers.net/podcasts/heavy-networking/hn836-optimize-ai-traffic-on-the-wan-with-cienas-integrated-ip-networking-sponsored/) - *The Everything Feed - All Packet Pushers Pods* (2026-07-31)
 - [LIU019: Jason Gooley: The Godfather of Programmability](https://packetpushers.net/podcasts/life-in-uptime/liu019-jason-gooley-the-godfather-of-programmability/) - *The Everything Feed - All Packet Pushers Pods* (2026-07-30)
 - [Navigating AI Tokenomics: From Cost Uncertainty to Operational Scale](https://blogs.cisco.com/news/navigating-ai-tokenomics-from-cost-uncertainty-to-operational-scale) - *Observability - Cisco Blogs* (2026-07-29)
-- [D2DO309: Packet Pushers Assemble! Bridging the Telemetry Divide](https://packetpushers.net/podcasts/day-two-devops/d2do309-packet-pushers-assemble-bridging-the-telemetry-divide/) - *The Everything Feed - All Packet Pushers Pods* (2026-07-29)
 - [PP119: Automating Firewall Ops To Stay Ahead of AI Threats (Sponsored)](https://packetpushers.net/podcasts/packet-protector/pp119-automating-firewall-ops-to-stay-ahead-of-ai-threats-sponsored/) - *The Everything Feed - All Packet Pushers Pods* (2026-07-28)
 - [Machine Speed, Human Judgement: How AI Changed the SOC in 2026](https://blogs.cisco.com/security/machine-speed-human-judgement) - *Observability - Cisco Blogs* (2026-07-07)
 - [Elevating Expertise in the SOC](https://blogs.cisco.com/security/elevating-expertise-with-lessons-learned) - *Observability - Cisco Blogs* (2026-07-07)
@@ -130,11 +130,11 @@ Automated tech news updates. Last updated: 2026-08-03 11:23:38 UTC
 
 ## Agentic AI & Workflows
 
-- [How LangChain Built an Agent-First Data Stack](https://www.langchain.com/blog/agent-data-stack) - *LangChain Blog* (2026-08-03)
+- [How Stripe Built Kai on Deep Agents in 1 Week](https://www.langchain.com/blog/how-stripe-built-their-knowledge-ai-platform-on-deep-agents) - *LangChain Blog* (2026-08-03)
+- [Evaluating code review agents with ReviewBench](https://www.langchain.com/blog/evaluating-code-review-agents-with-reviewbench) - *LangChain Blog* (2026-08-03)
 - [Langsmith Llm Gateway Runtime Controls For Production Agents](https://www.langchain.com/blog/langsmith-llm-gateway-runtime-controls-for-production-agents) - *LangChain Blog* (2026-08-03)
-- [Your coding agent bill doubled. Here’s how to fix it.](https://www.langchain.com/blog/fix-your-coding-agent-bill) - *LangChain Blog* (2026-08-03)
+- [How LangChain Built an Agent-First Data Stack](https://www.langchain.com/blog/agent-data-stack) - *LangChain Blog* (2026-08-03)
 - [Own Your Intelligence: The Key to Lasting AI Advantage](https://www.langchain.com/blog/own-your-intelligence) - *LangChain Blog* (2026-08-03)
-- [Evaluating code review agents with ReviewBench](https://www.langchain.com/blog/evaluating-code-review-agents-with-reviewbench) - *LangChain Blog* (2026-07-31)
 - [Unlocking the 3rd Dimension for Generative AI (Part 1)](https://medium.com/llamaindex-blog/unlocking-the-3rd-dimension-for-generative-ai-part-1-f13a21e63a6f?source=rss----d7683ed5043e---4) - *LlamaIndex Blog - Medium* (2024-03-04)
 - [Querying a network of knowledge with llama-index-networks](https://medium.com/llamaindex-blog/querying-a-network-of-knowledge-with-llama-index-networks-d784b4c3006f?source=rss----d7683ed5043e---4) - *LlamaIndex Blog - Medium* (2024-02-27)
 - [LlamaIndex Newsletter 2024–02–27](https://medium.com/llamaindex-blog/llamaindex-newsletter-2024-02-27-4b9102a0f824?source=rss----d7683ed5043e---4) - *LlamaIndex Blog - Medium* (2024-02-27)
