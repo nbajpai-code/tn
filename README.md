@@ -1,14 +1,14 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-08-09 08:42:45 UTC
+Automated tech news updates. Last updated: 2026-08-10 09:21:35 UTC
 
 ## Software Architecture
 
+- [Presentation: Keeping ChatGPT Fast as AI Development Accelerates](https://www.infoq.com/presentations/openai-performance-engineering-agentic-coding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-08-08)
 - [Presentation: Rewriting All of Spotify's Code Base, All the Time](https://www.infoq.com/presentations/spotify-ai-codebase-migration-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-08-07)
 - [From Projects to Products: Turning Platforms into Products People Use](https://www.infoq.com/news/2026/08/platform-products-people-use/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-08-06)
 - [Presentation: From ms to µs: OSS Valkey Architecture Patterns for Modern AI](https://www.infoq.com/presentations/valkey-architecture-patterns/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-08-06)
 - [JioHotstar Explains the Distributed Engineering behind Personalized Ad Requests at Streaming Scale](https://www.infoq.com/news/2026/08/jiohotstar-ad-decisioning-flow/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-08-05)
-- [Presentation: Microservices Platforms: When Team Topologies Meets Microservices Patterns](https://www.infoq.com/presentations/microservices-platform-team-topology/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-08-04)
 
 ## Cloud Computing
 
@@ -33,11 +33,11 @@ Automated tech news updates. Last updated: 2026-08-09 08:42:45 UTC
 
 ## Security
 
+- [Solidity Pro VS Code Extensions Steal Crypto Wallets, API Keys, and Credentials](https://thehackernews.com/2026/08/solidity-pro-vs-code-extensions-steal.html) - *The Hacker News* (2026-08-10)
+- [OpenAI's Next AI Model Astra Shows Cyber Performance Strong Enough to Trigger Pause](https://thehackernews.com/2026/08/openais-next-ai-model-astra-shows-cyber.html) - *The Hacker News* (2026-08-10)
 - [Atlassian Rovo Can Be Tricked Into Sending Jira and Confluence Data to Attackers](https://thehackernews.com/2026/08/atlassian-rovo-can-be-tricked-into.html) - *The Hacker News* (2026-08-08)
 - [New CSS Attacks Can Break Webmail Defenses to Steal Passwords and Tokens](https://thehackernews.com/2026/08/new-css-attacks-can-break-webmail.html) - *The Hacker News* (2026-08-08)
 - [Metabase Zero-Day Exploited in Wild Allows Admin Access Without Authentication](https://thehackernews.com/2026/08/metabase-zero-day-exploited-in-wild.html) - *The Hacker News* (2026-08-08)
-- [N-able Issues N-central Hotfix 2 as Attackers Reach Managed Systems and Persist](https://thehackernews.com/2026/08/n-central-attackers-reach-managed.html) - *The Hacker News* (2026-08-08)
-- [Progress Kemp LoadMaster Flaw Hits CISA KEV After 792 Reported Exploit Attempts](https://thehackernews.com/2026/08/progress-kemp-loadmaster-flaw-hits-cisa.html) - *The Hacker News* (2026-08-08)
 - [Friday Squid Blogging: Arctic Bobtail Squid Video](https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-arctic-bobtail-squid-video.html) - *Schneier on Security* (2026-08-07)
 - [ICE Is Buying Access to Credit Card Records](https://www.schneier.com/blog/archives/2026/08/ice-is-buying-access-to-credit-card-records.html) - *Schneier on Security* (2026-08-07)
 - [Canadian Man Pleads Guilty in Snowflake Extortions](https://krebsonsecurity.com/2026/08/canadian-man-pleads-guilty-in-snowflake-extortions/) - *Krebs on Security* (2026-08-06)
@@ -46,11 +46,11 @@ Automated tech news updates. Last updated: 2026-08-09 08:42:45 UTC
 
 ## Databases/Storage
 
+- [Christophe Pettus: All Your GUCs in a Row: integer_datetimes](https://postgr.es/p/9rT) - *Planet PostgreSQL* (2026-08-10)
+- [Regina Obe: PostGIS 3.7.0beta2](https://postgr.es/p/9rU) - *Planet PostgreSQL* (2026-08-10)
 - [Vibhor Kumar: The Enterprise AI Trust Stack: How OWNS, CALM, and ORBIT Fit Together](https://postgr.es/p/9rR) - *Planet PostgreSQL* (2026-08-09)
+- [Zhang Chen: Why I Dare to Call Myself a “PostgreSQL Database Recovery Expert”](https://postgr.es/p/9rS) - *Planet PostgreSQL* (2026-08-09)
 - [Christophe Pettus: All Your GUCs in a Row: ignore_system_indexes](https://postgr.es/p/9rP) - *Planet PostgreSQL* (2026-08-08)
-- [Shaun Thomas: Looking Forward to Postgres 19: Syntax Potpourri](https://postgr.es/p/9rN) - *Planet PostgreSQL* (2026-08-07)
-- [Cornelia Biacsics: Contributions for week 29 & 30](https://postgr.es/p/9rM) - *Planet PostgreSQL* (2026-08-07)
-- [Christophe Pettus: All Your GUCs in a Row: ignore_invalid_pages](https://postgr.es/p/9rF) - *Planet PostgreSQL* (2026-08-07)
 - [MCP tools for Amazon Aurora DSQL: Query execution and schema management](https://aws.amazon.com/blogs/database/mcp-tools-for-amazon-aurora-dsql-query-execution-and-schema-management/) - *AWS Database Blog* (2026-08-06)
 - [Oracle Machine Learning for SQL on Amazon RDS: Build machine learning models entirely in SQL](https://aws.amazon.com/blogs/database/oracle-machine-learning-for-sql-on-amazon-rds-build-machine-learning-models-entirely-in-sql/) - *AWS Database Blog* (2026-08-05)
 - [Detect CDC failures faster with AWS DMS](https://aws.amazon.com/blogs/database/detect-cdc-failures-faster-with-aws-dms/) - *AWS Database Blog* (2026-08-05)
@@ -67,11 +67,11 @@ Automated tech news updates. Last updated: 2026-08-09 08:42:45 UTC
 
 ## Computing
 
+- [Mount Toba eruption doesn't seem like it could nearly kill our species](https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/) - *Ars Technica - All content* (2026-08-09)
 - [The first self-driving vehicle on Mars has proven to be a smashing success](https://arstechnica.com/space/2026/08/the-first-self-driving-vehicle-on-mars-has-proven-to-be-a-smashing-success/) - *Ars Technica - All content* (2026-08-08)
 - [DeepMind’s hurricane breakthrough has surprised weather scientists](https://arstechnica.com/science/2026/08/deepminds-hurricane-model-bought-forecasters-an-extra-day/) - *Ars Technica - All content* (2026-08-08)
 - [Europe's free satellite service just made it easier to track wildfires](https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/) - *Ars Technica - All content* (2026-08-07)
 - [Flesh-eating screwworms feast on humans in Mexico; human cases top 500](https://arstechnica.com/health/2026/08/flesh-eating-screwworms-feast-on-humans-in-mexico-human-cases-top-500/) - *Ars Technica - All content* (2026-08-07)
-- [Judge rules Meta caused "public nuisance" and must fund mental health treatment](https://arstechnica.com/tech-policy/2026/08/meta-ordered-to-pay-567m-to-treat-youth-mental-health-problems-it-helped-create/) - *Ars Technica - All content* (2026-08-07)
 
 ## AI/Models/RL
 
@@ -96,11 +96,11 @@ Automated tech news updates. Last updated: 2026-08-09 08:42:45 UTC
 
 ## Technical Program Management (TPM)
 
+- [Google Releases Angular v22 with Stable Signal Forms, OnPush by Default and Experimental WebMCP](https://www.infoq.com/news/2026/08/angular-v22-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-10)
+- [Beyond Consensus: The Fragmentation of AI Policy Across the Linux Ecosystem](https://www.infoq.com/news/2026/08/linux-ai-policies/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-10)
 - [Presentation: Keeping ChatGPT Fast as AI Development Accelerates](https://www.infoq.com/presentations/openai-performance-engineering-agentic-coding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-08)
-- [Cloudflare's Precursor Detects Bots and AI Agents Through Continuous Behavioral Analysis](https://www.infoq.com/news/2026/08/cloudflare-precursor-detection/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-08)
+- [Cloudflare's Precursor Detects Bots and AI Agents through Continuous Behavioral Analysis](https://www.infoq.com/news/2026/08/cloudflare-precursor-detection/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-08)
 - [GitHub Hardens npm and Actions Defaults, Drawing Debate over Delays versus Signing](https://www.infoq.com/news/2026/08/github-npm-actions-defaults/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-08)
-- [Cloudflare Launches Persistent, Stateful, Computer-like Environments for Agents](https://www.infoq.com/news/2026/08/cloudflare-computer-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-07)
-- [Instacart Builds Blueberry, an AI-Powered Assistant to Help On-Call Engineers Investigate Incidents](https://www.infoq.com/news/2026/08/instacart-blueberry-sre-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-07)
 - [The Pulse: Bending Spoons' Acquisition Strategy](https://blog.pragmaticengineer.com/the-pulse-bending-spoons-acquisition-strategy/) - *The Pragmatic Engineer* (2026-08-05)
 - [The Pulse: Quitting Spotify Podcasts over reliability](https://blog.pragmaticengineer.com/the-pulse-quitting-spotify-podcasts-over-reliability/) - *The Pragmatic Engineer* (2026-07-30)
 - [Leading Agile Initiatives: How Leaders Help Agile Change Succeed](https://www.mountaingoatsoftware.com/blog/leading-agile-initiatives) - *Mike Cohn's Blog - Succeeding With Agile* (2026-07-28)
@@ -130,9 +130,9 @@ Automated tech news updates. Last updated: 2026-08-09 08:42:45 UTC
 
 ## Agentic AI & Workflows
 
+- [Managed Deep Agents is now in public beta](https://www.langchain.com/blog/managed-deep-agents-is-now-in-public-beta) - *LangChain Blog* (2026-08-07)
 - [Managed Deep Agents: the fastest way to ship a production deep agent](https://www.langchain.com/blog/introducing-managed-deep-agents) - *LangChain Blog* (2026-08-07)
 - [LangSmith LLM Gateway: runtime governance built into the agent lifecycle](https://www.langchain.com/blog/introducing-llm-gateway) - *LangChain Blog* (2026-08-07)
-- [Managed Deep Agents is now in public beta](https://www.langchain.com/blog/managed-deep-agents-is-now-in-public-beta) - *LangChain Blog* (2026-08-07)
 - [Deep Agents vs LangChain vs LangGraph](https://www.langchain.com/blog/deep-agents-vs-langchain-vs-langgraph) - *LangChain Blog* (2026-08-07)
 - [How we built an autonomous SRE agent for Kubernetes](https://www.langchain.com/blog/how-we-build-an-autonomous-sre-agent-for-kubernetes-deployments) - *LangChain Blog* (2026-08-06)
 - [Unlocking the 3rd Dimension for Generative AI (Part 1)](https://medium.com/llamaindex-blog/unlocking-the-3rd-dimension-for-generative-ai-part-1-f13a21e63a6f?source=rss----d7683ed5043e---4) - *LlamaIndex Blog - Medium* (2024-03-04)
