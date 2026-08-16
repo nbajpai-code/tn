@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-08-15 08:29:04 UTC
+Automated tech news updates. Last updated: 2026-08-16 08:29:28 UTC
 
 ## Software Architecture
 
@@ -46,13 +46,13 @@ Automated tech news updates. Last updated: 2026-08-15 08:29:04 UTC
 
 ## Databases/Storage
 
+- [Christophe Pettus: All Your GUCs in a Row: jit_expressions and jit_tuple_deforming](https://postgr.es/p/9sn) - *Planet PostgreSQL* (2026-08-16)
+- [Payal Singh: The agent is not the system. Postgres is.](https://postgr.es/p/9sm) - *Planet PostgreSQL* (2026-08-15)
+- [Radim Marek: The curious case of Google's AlloyDB](https://postgr.es/p/9sl) - *Planet PostgreSQL* (2026-08-15)
 - [Christophe Pettus: All Your GUCs in a Row: jit and jit_provider](https://postgr.es/p/9sk) - *Planet PostgreSQL* (2026-08-15)
 - [Faster scaling for Aurora serverless to support agentic AI and other spiky workloads](https://aws.amazon.com/blogs/database/faster-scaling-for-aurora-serverless-to-support-agentic-ai-and-other-spiky-workloads/) - *AWS Database Blog* (2026-08-14)
 - [Addressing CLR assembly deprecation in Amazon RDS for SQL Server](https://aws.amazon.com/blogs/database/addressing-clr-assembly-deprecation-in-amazon-rds-for-sql-server/) - *AWS Database Blog* (2026-08-14)
 - [Shaun Thomas: Let's Build a Postgres Extension for Estimating Memory Usage!](https://postgr.es/p/9sj) - *Planet PostgreSQL* (2026-08-14)
-- [Joshua Drake: Parquet and Iceberg: An Overview](https://postgr.es/p/9sh) - *Planet PostgreSQL* (2026-08-14)
-- [Christophe Pettus: All Your GUCs in a Row: io_method and io_workers](https://postgr.es/p/9se) - *Planet PostgreSQL* (2026-08-14)
-- [Mark Wong: PDXPUG Septemter 8, 2026, MeetUp: Migrating to a Temporal Schema](https://postgr.es/p/9sd) - *Planet PostgreSQL* (2026-08-13)
 - [Introducing Oracle Exadata on Exascale for Oracle AI Database@AWS](https://aws.amazon.com/blogs/database/introducing-oracle-exadata-on-exascale-for-oracle-ai-databaseaws/) - *AWS Database Blog* (2026-08-12)
 - [Migrate Amazon Aurora PostgreSQL across major versions with active Debezium CDC connectors using native logical replication](https://aws.amazon.com/blogs/database/migrate-amazon-aurora-postgresql-across-major-versions-with-active-debezium-cdc-connectors-using-native-logical-replication/) - *AWS Database Blog* (2026-08-12)
 - [Natural language queries on Oracle Database 26ai: Getting started with Select AI on Amazon RDS for Oracle with Amazon Bedrock](https://aws.amazon.com/blogs/database/natural-language-queries-on-oracle-database-26ai-getting-started-with-select-ai-on-amazon-rds-for-oracle-with-amazon-bedrock/) - *AWS Database Blog* (2026-08-11)
@@ -67,11 +67,11 @@ Automated tech news updates. Last updated: 2026-08-15 08:29:04 UTC
 
 ## Computing
 
+- [VisionQuest trailer kicks off Disney's D23 fan event](https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/) - *Ars Technica - All content* (2026-08-15)
+- [Ukraine strikes major Russian rocket factory with cruise missiles](https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/) - *Ars Technica - All content* (2026-08-15)
+- [So much solar: Digging into the list of every US power plant that went online this year](https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/) - *Ars Technica - All content* (2026-08-15)
 - [Vulnerability giving attackers full control of Macs is under active exploitation](https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/) - *Ars Technica - All content* (2026-08-14)
 - [First test flight of largest all-electric aircraft used just $5 of electricity](https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/) - *Ars Technica - All content* (2026-08-14)
-- [Suspecting court of using AI, man injected prompts in filings to try to win case](https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case/) - *Ars Technica - All content* (2026-08-14)
-- [State judge orders Kalshi to stop offering sports bets and other wagers](https://arstechnica.com/tech-policy/2026/08/state-judge-orders-kalshi-to-stop-offering-sports-bets-and-other-wagers/) - *Ars Technica - All content* (2026-08-14)
-- [PBS station fears losing 50TB of data after being ghosted by cloud storage provider](https://arstechnica.com/information-technology/2026/08/pbs-station-fears-losing-50tb-of-data-after-being-ghosted-by-cloud-storage-provider/) - *Ars Technica - All content* (2026-08-14)
 
 ## AI/Models/RL
 
@@ -96,11 +96,11 @@ Automated tech news updates. Last updated: 2026-08-15 08:29:04 UTC
 
 ## Technical Program Management (TPM)
 
+- [AWS Open-Sources Dogwood, Extending Cedar to Govern Sequences of Agent Tool Calls](https://www.infoq.com/news/2026/08/aws-dogwood-agent-policy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-16)
+- [AWS Introduces Native Vector Search for DynamoDB](https://www.infoq.com/news/2026/08/aws-dynamodb-vector-search/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-16)
+- [How PGSimCity Turns PostgreSQL Complexity Into a Virtual City 3D Simulation](https://www.infoq.com/news/2026/08/pgsimcity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-16)
+- [Cloudflare Adds Agent Tracing, with Truncation Limits and Uneven Payload Defaults](https://www.infoq.com/news/2026/08/cloudflare-agent-tracing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-15)
 - [Cloudflare Migrates JavaScript CDN Serving 9B Requests a Day to Its Developer Platform](https://www.infoq.com/news/2026/08/cloudflare-cdnjs-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-14)
-- [Presentation: The Right 300 Tokens Beat 100k Noisy Ones: The Architecture of Context Engineering](https://www.infoq.com/presentations/architecture-context-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-14)
-- [LLM-Generated GraphQL Mocks Arrive at Airbnb and Expedia, While the Spec Lags Behind](https://www.infoq.com/news/2026/08/graphql-llm-mocking-spec/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-14)
-- [Rx.NET 7.0 Reduces Deployment Size by Splitting Windows UI Support](https://www.infoq.com/news/2026/08/rx-net-7/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-14)
-- [npm 12 Released: Install Scripts Off by Default as Registry Moves to Explicit Trust](https://www.infoq.com/news/2026/08/npm-12-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-14)
 - [Why Your Scrum Team Still Works Like Individuals](https://www.mountaingoatsoftware.com/agile/why-your-scrum-team-still-works-like-individuals) - *Mike Cohn's Blog - Succeeding With Agile* (2026-08-11)
 - [The Pulse: Bending Spoons' Acquisition Strategy](https://blog.pragmaticengineer.com/the-pulse-bending-spoons-acquisition-strategy/) - *The Pragmatic Engineer* (2026-08-05)
 - [The Pulse: Quitting Spotify Podcasts over reliability](https://blog.pragmaticengineer.com/the-pulse-quitting-spotify-podcasts-over-reliability/) - *The Pragmatic Engineer* (2026-07-30)
