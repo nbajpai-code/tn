@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-08-16 08:29:28 UTC
+Automated tech news updates. Last updated: 2026-08-16 14:55:18 UTC
 
 ## Software Architecture
 
@@ -47,12 +47,12 @@ Automated tech news updates. Last updated: 2026-08-16 08:29:28 UTC
 ## Databases/Storage
 
 - [Christophe Pettus: All Your GUCs in a Row: jit_expressions and jit_tuple_deforming](https://postgr.es/p/9sn) - *Planet PostgreSQL* (2026-08-16)
+- [Dinesh Kumar: pgsonify: Hearing PostgreSQL Health as Elephant Sounds](https://postgr.es/p/9so) - *Planet PostgreSQL* (2026-08-16)
 - [Payal Singh: The agent is not the system. Postgres is.](https://postgr.es/p/9sm) - *Planet PostgreSQL* (2026-08-15)
 - [Radim Marek: The curious case of Google's AlloyDB](https://postgr.es/p/9sl) - *Planet PostgreSQL* (2026-08-15)
 - [Christophe Pettus: All Your GUCs in a Row: jit and jit_provider](https://postgr.es/p/9sk) - *Planet PostgreSQL* (2026-08-15)
 - [Faster scaling for Aurora serverless to support agentic AI and other spiky workloads](https://aws.amazon.com/blogs/database/faster-scaling-for-aurora-serverless-to-support-agentic-ai-and-other-spiky-workloads/) - *AWS Database Blog* (2026-08-14)
 - [Addressing CLR assembly deprecation in Amazon RDS for SQL Server](https://aws.amazon.com/blogs/database/addressing-clr-assembly-deprecation-in-amazon-rds-for-sql-server/) - *AWS Database Blog* (2026-08-14)
-- [Shaun Thomas: Let's Build a Postgres Extension for Estimating Memory Usage!](https://postgr.es/p/9sj) - *Planet PostgreSQL* (2026-08-14)
 - [Introducing Oracle Exadata on Exascale for Oracle AI Database@AWS](https://aws.amazon.com/blogs/database/introducing-oracle-exadata-on-exascale-for-oracle-ai-databaseaws/) - *AWS Database Blog* (2026-08-12)
 - [Migrate Amazon Aurora PostgreSQL across major versions with active Debezium CDC connectors using native logical replication](https://aws.amazon.com/blogs/database/migrate-amazon-aurora-postgresql-across-major-versions-with-active-debezium-cdc-connectors-using-native-logical-replication/) - *AWS Database Blog* (2026-08-12)
 - [Natural language queries on Oracle Database 26ai: Getting started with Select AI on Amazon RDS for Oracle with Amazon Bedrock](https://aws.amazon.com/blogs/database/natural-language-queries-on-oracle-database-26ai-getting-started-with-select-ai-on-amazon-rds-for-oracle-with-amazon-bedrock/) - *AWS Database Blog* (2026-08-11)
@@ -67,11 +67,11 @@ Automated tech news updates. Last updated: 2026-08-16 08:29:28 UTC
 
 ## Computing
 
+- [Wildfire smoke now bigger prenatal threat than human sources of air pollution](https://arstechnica.com/science/2026/08/wildfire-smoke-now-bigger-prenatal-threat-than-human-sources-of-air-pollution/) - *Ars Technica - All content* (2026-08-16)
 - [VisionQuest trailer kicks off Disney's D23 fan event](https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/) - *Ars Technica - All content* (2026-08-15)
 - [Ukraine strikes major Russian rocket factory with cruise missiles](https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/) - *Ars Technica - All content* (2026-08-15)
 - [So much solar: Digging into the list of every US power plant that went online this year](https://arstechnica.com/science/2026/08/so-much-solar-digging-into-the-list-of-every-us-power-plant-that-went-online-this-year/) - *Ars Technica - All content* (2026-08-15)
 - [Vulnerability giving attackers full control of Macs is under active exploitation](https://arstechnica.com/security/2026/08/vulnerability-giving-attackers-full-control-of-macs-is-under-active-exploitation/) - *Ars Technica - All content* (2026-08-14)
-- [First test flight of largest all-electric aircraft used just $5 of electricity](https://arstechnica.com/gadgets/2026/08/first-test-flight-of-largest-all-electric-aircraft-used-just-5-of-electricity/) - *Ars Technica - All content* (2026-08-14)
 
 ## AI/Models/RL
 
@@ -130,9 +130,9 @@ Automated tech news updates. Last updated: 2026-08-16 08:29:28 UTC
 
 ## Agentic AI & Workflows
 
+- [What is an AI agent?](https://www.langchain.com/blog/what-is-an-agent) - *LangChain Blog* (2026-08-16)
 - [Why managed agents are the next big thing in agent building](https://www.langchain.com/blog/why-managed-agents-are-the-next-big-thing-in-agent-building) - *LangChain Blog* (2026-08-14)
 - [LangSmith BYOC on AWS is generally available](https://www.langchain.com/blog/langsmith-byoc-is-now-generally-available-on-aws) - *LangChain Blog* (2026-08-12)
-- [What is an AI agent?](https://www.langchain.com/blog/what-is-an-agent) - *LangChain Blog* (2026-08-12)
 - [Building Monday Com Sidekick Why Capable Agents Need More Than Just Tools](https://www.langchain.com/blog/building-monday-com-sidekick-why-capable-agents-need-more-than-just-tools) - *LangChain Blog* (2026-08-12)
 - [How to Monitor AI Agents in Production](https://www.langchain.com/blog/production-monitoring) - *LangChain Blog* (2026-08-12)
 - [Unlocking the 3rd Dimension for Generative AI (Part 1)](https://medium.com/llamaindex-blog/unlocking-the-3rd-dimension-for-generative-ai-part-1-f13a21e63a6f?source=rss----d7683ed5043e---4) - *LlamaIndex Blog - Medium* (2024-03-04)
