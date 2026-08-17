@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-08-16 15:09:41 UTC
+Automated tech news updates. Last updated: 2026-08-17 08:43:09 UTC
 
 ## Software Architecture
 
@@ -46,11 +46,11 @@ Automated tech news updates. Last updated: 2026-08-16 15:09:41 UTC
 
 ## Databases/Storage
 
+- [Christophe Pettus: All Your GUCs in a Row: jit_above_cost, jit_inline_above_cost, and jit_optimize_above_cost](https://postgr.es/p/9sp) - *Planet PostgreSQL* (2026-08-17)
 - [Christophe Pettus: All Your GUCs in a Row: jit_expressions and jit_tuple_deforming](https://postgr.es/p/9sn) - *Planet PostgreSQL* (2026-08-16)
 - [Dinesh Kumar: pgsonify: Hearing PostgreSQL Health as Elephant Sounds](https://postgr.es/p/9so) - *Planet PostgreSQL* (2026-08-16)
 - [Payal Singh: The agent is not the system. Postgres is.](https://postgr.es/p/9sm) - *Planet PostgreSQL* (2026-08-15)
 - [Radim Marek: The curious case of Google's AlloyDB](https://postgr.es/p/9sl) - *Planet PostgreSQL* (2026-08-15)
-- [Christophe Pettus: All Your GUCs in a Row: jit and jit_provider](https://postgr.es/p/9sk) - *Planet PostgreSQL* (2026-08-15)
 - [Faster scaling for Aurora serverless to support agentic AI and other spiky workloads](https://aws.amazon.com/blogs/database/faster-scaling-for-aurora-serverless-to-support-agentic-ai-and-other-spiky-workloads/) - *AWS Database Blog* (2026-08-14)
 - [Addressing CLR assembly deprecation in Amazon RDS for SQL Server](https://aws.amazon.com/blogs/database/addressing-clr-assembly-deprecation-in-amazon-rds-for-sql-server/) - *AWS Database Blog* (2026-08-14)
 - [Introducing Oracle Exadata on Exascale for Oracle AI Database@AWS](https://aws.amazon.com/blogs/database/introducing-oracle-exadata-on-exascale-for-oracle-ai-databaseaws/) - *AWS Database Blog* (2026-08-12)
@@ -96,11 +96,11 @@ Automated tech news updates. Last updated: 2026-08-16 15:09:41 UTC
 
 ## Technical Program Management (TPM)
 
+- [Java News Roundup: Simple JSON API, GlassFish, Jakarta EE, JNoSQL, Open Liberty, LangChain4j](https://www.infoq.com/news/2026/08/java-news-roundup-aug10-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-17)
 - [AWS Open-Sources Dogwood, Extending Cedar to Govern Sequences of Agent Tool Calls](https://www.infoq.com/news/2026/08/aws-dogwood-agent-policy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-16)
 - [AWS Introduces Native Vector Search for DynamoDB](https://www.infoq.com/news/2026/08/aws-dynamodb-vector-search/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-16)
-- [How PGSimCity Turns PostgreSQL Complexity Into a Virtual City 3D Simulation](https://www.infoq.com/news/2026/08/pgsimcity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-16)
+- [How PGSimCity Turns PostgreSQL Complexity into a Virtual City 3D Simulation](https://www.infoq.com/news/2026/08/pgsimcity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-16)
 - [Cloudflare Adds Agent Tracing, with Truncation Limits and Uneven Payload Defaults](https://www.infoq.com/news/2026/08/cloudflare-agent-tracing/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-15)
-- [Cloudflare Migrates JavaScript CDN Serving 9B Requests a Day to Its Developer Platform](https://www.infoq.com/news/2026/08/cloudflare-cdnjs-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-14)
 - [Why Your Scrum Team Still Works Like Individuals](https://www.mountaingoatsoftware.com/agile/why-your-scrum-team-still-works-like-individuals) - *Mike Cohn's Blog - Succeeding With Agile* (2026-08-11)
 - [The Pulse: Bending Spoons' Acquisition Strategy](https://blog.pragmaticengineer.com/the-pulse-bending-spoons-acquisition-strategy/) - *The Pragmatic Engineer* (2026-08-05)
 - [The Pulse: Quitting Spotify Podcasts over reliability](https://blog.pragmaticengineer.com/the-pulse-quitting-spotify-podcasts-over-reliability/) - *The Pragmatic Engineer* (2026-07-30)
@@ -117,11 +117,6 @@ Automated tech news updates. Last updated: 2026-08-16 15:09:41 UTC
 
 ## Network Observability
 
-- [TNO068: Packet Pushers Assemble! Bridging the Telemetry Divide](https://packetpushers.net/podcasts/total-network-operations/tno068-packet-pushers-assemble-bridging-the-telemetry-divide/) - *The Everything Feed - All Packet Pushers Pods* (2026-08-14)
-- [LIU020: Ricki Cook: Reaching the Top and Walking Away](https://packetpushers.net/podcasts/life-in-uptime/liu020-ricki-cook-reaching-the-top-and-walking-away/) - *The Everything Feed - All Packet Pushers Pods* (2026-08-13)
-- [D2DO310: Developing Efficient AI Workflows](https://packetpushers.net/podcasts/day-two-devops/d2do310-developing-efficient-ai-workflows/) - *The Everything Feed - All Packet Pushers Pods* (2026-08-12)
-- [HW085: Designing Wi-Fi for High-Density Events](https://packetpushers.net/podcasts/heavy-wireless/hw085-designing-wi-fi-for-high-density-events/) - *The Everything Feed - All Packet Pushers Pods* (2026-08-11)
-- [PP121: How CYBR.SEC.CON Builds Community for Learning and Professional Development](https://packetpushers.net/podcasts/packet-protector/pp121-how-cybr-sec-con-builds-community-for-learning-and-professional-development/) - *The Everything Feed - All Packet Pushers Pods* (2026-08-11)
 - [How Cisco IT Modernized Voice Security with AI](https://blogs.cisco.com/cisco-on-cisco/how-cisco-it-modernized-voice-security-with-ai) - *Observability - Cisco Blogs* (2026-08-04)
 - [The AI invoice nobody planned for — and how Cisco is solving it from the inside](https://blogs.cisco.com/cisco-on-cisco/the-ai-invoice-nobody-planned-for-and-how-cisco-is-solving-it) - *Observability - Cisco Blogs* (2026-08-04)
 - [Navigating AI Tokenomics: From Cost Uncertainty to Operational Scale](https://blogs.cisco.com/news/navigating-ai-tokenomics-from-cost-uncertainty-to-operational-scale) - *Observability - Cisco Blogs* (2026-07-29)
