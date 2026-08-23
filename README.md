@@ -1,14 +1,14 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-08-22 08:30:12 UTC
+Automated tech news updates. Last updated: 2026-08-23 08:30:13 UTC
 
 ## Software Architecture
 
+- [Presentation: SafeChat: Building AI-Powered Safety Systems at Scale in a Real-Time Marketplace](https://www.infoq.com/presentations/doordash-llm-ai-moderation-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-08-22)
 - [Mini book: Architecture as a Socio-Technical Craft](https://www.infoq.com/minibooks/architect-sociotechnical-craft/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-08-21)
 - [Presentation: Enchant Your AI and APIs with eBPF Magic 🪄](https://www.infoq.com/presentations/ebpf-ai-gateway-kubernetes-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-08-21)
 - [InfoQ Opens Enrollment for New AI-Assisted Engineering Online Certification Program](https://www.infoq.com/news/2026/08/ai-assisted-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-08-20)
 - [Presentation: Understanding Progressive Collapse: How To Avoid A Cascading Failure](https://www.infoq.com/presentations/progressive-collapse-system-resilience/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-08-19)
-- [Presentation: From Fab To Token - The State Of The Market](https://www.infoq.com/presentations/ai-hardware-tokenomics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-08-18)
 
 ## Cloud Computing
 
@@ -33,24 +33,24 @@ Automated tech news updates. Last updated: 2026-08-22 08:30:12 UTC
 
 ## Security
 
+- [TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit](https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html) - *The Hacker News* (2026-08-22)
 - [Friday Squid Blogging: Neon Flying Squid](https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-neon-flying-squid.html) - *Schneier on Security* (2026-08-21)
 - [14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2](https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html) - *The Hacker News* (2026-08-22)
 - [AI Is Learning to Write Genetic Code](https://www.schneier.com/blog/archives/2026/08/ai-is-learning-to-write-genetic-code.html) - *Schneier on Security* (2026-08-21)
 - [Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot](https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html) - *The Hacker News* (2026-08-21)
 - [Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet](https://thehackernews.com/2026/08/android-car-malware-spreads-through.html) - *The Hacker News* (2026-08-21)
 - [Wazuh and AI For Enhanced SOC Workflows](https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html) - *The Hacker News* (2026-08-21)
-- [Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0](https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html) - *The Hacker News* (2026-08-21)
 - [More Incidents of AIs Going Rogue in Cybersecurity Challenges](https://www.schneier.com/blog/archives/2026/08/more-incidents-of-ais-going-rogue-in-cybersecurity-challenges.html) - *Schneier on Security* (2026-08-21)
 - [Detailed Timeline of OpenAI’s Cyberattack on Hugging Face](https://www.schneier.com/blog/archives/2026/08/detailed-timeline-of-openais-cyberattack-on-hugging-face.html) - *Schneier on Security* (2026-08-20)
 - [Police Are Hiding Their Use of Flock Surveillance Cameras](https://www.schneier.com/blog/archives/2026/08/police-are-hiding-their-use-of-flock-surveillance-cameras.html) - *Schneier on Security* (2026-08-20)
 
 ## Databases/Storage
 
+- [Christophe Pettus: All Your GUCs in a Row: lo_compat_privileges](https://postgr.es/p/9sZ) - *Planet PostgreSQL* (2026-08-23)
 - [Christophe Pettus: All Your GUCs in a Row: local_preload_libraries](https://postgr.es/p/9sY) - *Planet PostgreSQL* (2026-08-22)
 - [Shaun Thomas: The Time Traveler's Primary Key](https://postgr.es/p/9sX) - *Planet PostgreSQL* (2026-08-21)
 - [Christophe Pettus: All Your GUCs in a Row: lock_timeout](https://postgr.es/p/9sS) - *Planet PostgreSQL* (2026-08-21)
 - [Alexey Evlampiev: The Request Becomes a Transaction](https://postgr.es/p/9sW) - *Planet PostgreSQL* (2026-08-21)
-- [Mikhail Shytsko: The Postgres Insert That Fails Right After a Successful Load](https://postgr.es/p/9sV) - *Planet PostgreSQL* (2026-08-21)
 - [Migrate multilingual full-text search from SQL Server to PostgreSQL](https://aws.amazon.com/blogs/database/migrate-multilingual-full-text-search-from-sql-server-to-postgresql/) - *AWS Database Blog* (2026-08-20)
 - [Understand memory management in Amazon RDS for PostgreSQL to avoid out of memory](https://aws.amazon.com/blogs/database/understand-memory-management-in-amazon-rds-for-postgresql-to-avoid-out-of-memory/) - *AWS Database Blog* (2026-08-19)
 - [Azure Cosmos DB in the Agentic Era: Data Tools for Developers and AI Agents](https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-in-the-agentic-era-data-tools-for-developers-and-ai-agents/) - *Azure Cosmos DB Blog* (2026-08-18)
@@ -67,11 +67,11 @@ Automated tech news updates. Last updated: 2026-08-22 08:30:12 UTC
 
 ## Computing
 
+- [Putting mice into hibernation causes a major loss of synapses](https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/) - *Ars Technica - All content* (2026-08-22)
+- [Dismantling the Roadless Rule threatens to disrupt wildlife and water in US](https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us/) - *Ars Technica - All content* (2026-08-22)
 - [Trump's space transportation policy calls for new spaceport on federal land](https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/) - *Ars Technica - All content* (2026-08-21)
 - [Thunder + fiber-optic cabling used for seismic imaging](https://arstechnica.com/science/2026/08/researchers-use-thunderquakes-to-study-structure-of-earths-surface/) - *Ars Technica - All content* (2026-08-21)
 - [Hidden Zillow listings created fake supply shock, raising NYC rents, lawsuit says](https://arstechnica.com/tech-policy/2026/08/class-action-accuses-brokers-of-hiding-zillow-listings-driving-up-nyc-rents/) - *Ars Technica - All content* (2026-08-21)
-- [Motorola's GrapheneOS phones will launch in 2027 priced higher than Pixels](https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/) - *Ars Technica - All content* (2026-08-21)
-- [Lawsuit demands Logitech hand tariff refunds over to customers](https://arstechnica.com/tech-policy/2026/08/lawsuit-demands-logitech-hand-tariff-refunds-over-to-customers/) - *Ars Technica - All content* (2026-08-21)
 
 ## AI/Models/RL
 
@@ -96,11 +96,11 @@ Automated tech news updates. Last updated: 2026-08-22 08:30:12 UTC
 
 ## Technical Program Management (TPM)
 
+- [DRAM Controller Register Manipulation Breaks CPU Memory Isolation](https://www.infoq.com/news/2026/08/amd-memory-exploit/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-23)
+- [Cloudflare Announces Kitesurf, a Browser Engine for Agents](https://www.infoq.com/news/2026/08/cloudflare-kitesurf-browser/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-22)
+- [Presentation: SafeChat: Building AI-Powered Safety Systems at Scale in a Real-Time Marketplace](https://www.infoq.com/presentations/doordash-llm-ai-moderation-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-22)
+- [AI Code Review at Scale: LinkedIn's Multi-Agent Approach](https://www.infoq.com/news/2026/08/linkedin-ai-code-review/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-22)
 - [AWS Releases Aws-Bench to Evaluate Agents on Cloud Tasks](https://www.infoq.com/news/2026/08/aws-bench-agent-evaluation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-22)
-- [VoidZero Releases Vite+ Beta: A Unified Web Toolchain Behind a Single Command](https://www.infoq.com/news/2026/08/vite-plus-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-22)
-- [Cloudflare Cuts Astro GitHub Issues by 85% with AI Agents](https://www.infoq.com/news/2026/08/cloudflare-astro-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-21)
-- [Mini book: Architecture as a Socio-Technical Craft](https://www.infoq.com/minibooks/architect-sociotechnical-craft/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-21)
-- [Presentation: Enchant Your AI and APIs with eBPF Magic 🪄](https://www.infoq.com/presentations/ebpf-ai-gateway-kubernetes-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-21)
 - [The Pulse: Meta’s self-inflicted resignation-wave](https://blog.pragmaticengineer.com/the-pulse-metas-self-inflicted-resignation-wave/) - *The Pragmatic Engineer* (2026-08-20)
 - [The Pulse: Grok’s CLI caught uploading all your local files to the cloud](https://blog.pragmaticengineer.com/grolk-cli-uploaded-all-your-files-to-the-cloud/) - *The Pragmatic Engineer* (2026-08-19)
 - [Why Your Scrum Team Still Works Like Individuals](https://www.mountaingoatsoftware.com/agile/why-your-scrum-team-still-works-like-individuals) - *Mike Cohn's Blog - Succeeding With Agile* (2026-08-11)
