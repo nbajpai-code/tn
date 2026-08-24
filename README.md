@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-08-23 08:30:13 UTC
+Automated tech news updates. Last updated: 2026-08-24 08:48:25 UTC
 
 ## Software Architecture
 
@@ -33,24 +33,24 @@ Automated tech news updates. Last updated: 2026-08-23 08:30:13 UTC
 
 ## Security
 
+- [UAT-10147 Uses AI to Scale Server Attacks, Deploys SPECTRE With EDR Bypass and Linux Rootkit](https://thehackernews.com/2026/08/uat-10147-uses-ai-to-scale-server.html) - *The Hacker News* (2026-08-24)
 - [TikTok Agrees to $400 Million Settlement in U.S. Child Privacy Lawsuit](https://thehackernews.com/2026/08/tiktok-agrees-to-400-million-settlement.html) - *The Hacker News* (2026-08-22)
 - [Friday Squid Blogging: Neon Flying Squid](https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-neon-flying-squid.html) - *Schneier on Security* (2026-08-21)
 - [14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2](https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html) - *The Hacker News* (2026-08-22)
 - [AI Is Learning to Write Genetic Code](https://www.schneier.com/blog/archives/2026/08/ai-is-learning-to-write-genetic-code.html) - *Schneier on Security* (2026-08-21)
 - [Microsoft Defender's Own Driver Can Be Weaponized to Delete Security Software at Boot](https://thehackernews.com/2026/08/microsoft-defenders-own-driver-can-be.html) - *The Hacker News* (2026-08-21)
 - [Android Car Malware Spreads Through Built-In Updaters for Ad Fraud, Proxy Botnet](https://thehackernews.com/2026/08/android-car-malware-spreads-through.html) - *The Hacker News* (2026-08-21)
-- [Wazuh and AI For Enhanced SOC Workflows](https://thehackernews.com/2026/08/wazuh-and-ai-for-enhanced-soc-workflows.html) - *The Hacker News* (2026-08-21)
 - [More Incidents of AIs Going Rogue in Cybersecurity Challenges](https://www.schneier.com/blog/archives/2026/08/more-incidents-of-ais-going-rogue-in-cybersecurity-challenges.html) - *Schneier on Security* (2026-08-21)
 - [Detailed Timeline of OpenAI’s Cyberattack on Hugging Face](https://www.schneier.com/blog/archives/2026/08/detailed-timeline-of-openais-cyberattack-on-hugging-face.html) - *Schneier on Security* (2026-08-20)
 - [Police Are Hiding Their Use of Flock Surveillance Cameras](https://www.schneier.com/blog/archives/2026/08/police-are-hiding-their-use-of-flock-surveillance-cameras.html) - *Schneier on Security* (2026-08-20)
 
 ## Databases/Storage
 
+- [Christophe Pettus: All Your GUCs in a Row: listen_addresses](https://postgr.es/p/9t0) - *Planet PostgreSQL* (2026-08-24)
 - [Christophe Pettus: All Your GUCs in a Row: lo_compat_privileges](https://postgr.es/p/9sZ) - *Planet PostgreSQL* (2026-08-23)
+- [Regina Obe: PostGIS Tiger Geocoder 2025.2](https://postgr.es/p/9s-) - *Planet PostgreSQL* (2026-08-23)
 - [Christophe Pettus: All Your GUCs in a Row: local_preload_libraries](https://postgr.es/p/9sY) - *Planet PostgreSQL* (2026-08-22)
 - [Shaun Thomas: The Time Traveler's Primary Key](https://postgr.es/p/9sX) - *Planet PostgreSQL* (2026-08-21)
-- [Christophe Pettus: All Your GUCs in a Row: lock_timeout](https://postgr.es/p/9sS) - *Planet PostgreSQL* (2026-08-21)
-- [Alexey Evlampiev: The Request Becomes a Transaction](https://postgr.es/p/9sW) - *Planet PostgreSQL* (2026-08-21)
 - [Migrate multilingual full-text search from SQL Server to PostgreSQL](https://aws.amazon.com/blogs/database/migrate-multilingual-full-text-search-from-sql-server-to-postgresql/) - *AWS Database Blog* (2026-08-20)
 - [Understand memory management in Amazon RDS for PostgreSQL to avoid out of memory](https://aws.amazon.com/blogs/database/understand-memory-management-in-amazon-rds-for-postgresql-to-avoid-out-of-memory/) - *AWS Database Blog* (2026-08-19)
 - [Azure Cosmos DB in the Agentic Era: Data Tools for Developers and AI Agents](https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-in-the-agentic-era-data-tools-for-developers-and-ai-agents/) - *Azure Cosmos DB Blog* (2026-08-18)
@@ -67,11 +67,11 @@ Automated tech news updates. Last updated: 2026-08-23 08:30:13 UTC
 
 ## Computing
 
+- [Due to need for 'absolute success,' China delays critical Moon launch to 2027](https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/) - *Ars Technica - All content* (2026-08-23)
+- [Volcanoes that made history](https://arstechnica.com/science/2026/08/volcanoes-that-made-history/) - *Ars Technica - All content* (2026-08-23)
 - [Putting mice into hibernation causes a major loss of synapses](https://arstechnica.com/science/2026/08/memories-stick-around-even-after-half-the-synapses-are-gone/) - *Ars Technica - All content* (2026-08-22)
 - [Dismantling the Roadless Rule threatens to disrupt wildlife and water in US](https://arstechnica.com/science/2026/08/dismantling-the-roadless-rule-threatens-to-disrupt-wildlife-and-water-in-us/) - *Ars Technica - All content* (2026-08-22)
 - [Trump's space transportation policy calls for new spaceport on federal land](https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/) - *Ars Technica - All content* (2026-08-21)
-- [Thunder + fiber-optic cabling used for seismic imaging](https://arstechnica.com/science/2026/08/researchers-use-thunderquakes-to-study-structure-of-earths-surface/) - *Ars Technica - All content* (2026-08-21)
-- [Hidden Zillow listings created fake supply shock, raising NYC rents, lawsuit says](https://arstechnica.com/tech-policy/2026/08/class-action-accuses-brokers-of-hiding-zillow-listings-driving-up-nyc-rents/) - *Ars Technica - All content* (2026-08-21)
 
 ## AI/Models/RL
 
@@ -96,11 +96,11 @@ Automated tech news updates. Last updated: 2026-08-23 08:30:13 UTC
 
 ## Technical Program Management (TPM)
 
+- [JDK 27 and JDK 28: What We Know So Far](https://www.infoq.com/news/2026/08/java-27-so-far/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-24)
+- [Cloudflare OS: Cloudflare's Open-Source Corporate AI Platform Built on a Capability-Based Model](https://www.infoq.com/news/2026/08/cloudflare-os-ai-platform-secure/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-23)
+- [Google's HEIR Aims to Make Homomorphic-Encrypted Inference a One-Click Capability](https://www.infoq.com/news/2026/08/google-heir-homomorphic-llm/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-23)
+- [OVHcloud Raises Prices as AI Memory Demand Reprices Non-AI Infrastructure](https://www.infoq.com/news/2026/08/ovhcloud-memory-price-rise/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-23)
 - [DRAM Controller Register Manipulation Breaks CPU Memory Isolation](https://www.infoq.com/news/2026/08/amd-memory-exploit/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-23)
-- [Cloudflare Announces Kitesurf, a Browser Engine for Agents](https://www.infoq.com/news/2026/08/cloudflare-kitesurf-browser/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-22)
-- [Presentation: SafeChat: Building AI-Powered Safety Systems at Scale in a Real-Time Marketplace](https://www.infoq.com/presentations/doordash-llm-ai-moderation-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-22)
-- [AI Code Review at Scale: LinkedIn's Multi-Agent Approach](https://www.infoq.com/news/2026/08/linkedin-ai-code-review/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-22)
-- [AWS Releases Aws-Bench to Evaluate Agents on Cloud Tasks](https://www.infoq.com/news/2026/08/aws-bench-agent-evaluation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-22)
 - [The Pulse: Meta’s self-inflicted resignation-wave](https://blog.pragmaticengineer.com/the-pulse-metas-self-inflicted-resignation-wave/) - *The Pragmatic Engineer* (2026-08-20)
 - [The Pulse: Grok’s CLI caught uploading all your local files to the cloud](https://blog.pragmaticengineer.com/grolk-cli-uploaded-all-your-files-to-the-cloud/) - *The Pragmatic Engineer* (2026-08-19)
 - [Why Your Scrum Team Still Works Like Individuals](https://www.mountaingoatsoftware.com/agile/why-your-scrum-team-still-works-like-individuals) - *Mike Cohn's Blog - Succeeding With Agile* (2026-08-11)
