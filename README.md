@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-08-29 13:39:29 UTC
+Automated tech news updates. Last updated: 2026-08-30 13:36:48 UTC
 
 ## Software Architecture
 
@@ -33,12 +33,12 @@ Automated tech news updates. Last updated: 2026-08-29 13:39:29 UTC
 
 ## Security
 
+- [TerminalFix Uses Fake Cloudflare CAPTCHAs to Deploy Reverse-Tunnel Backdoor](https://thehackernews.com/2026/08/terminalfix-uses-fake-cloudflare.html) - *The Hacker News* (2026-08-30)
+- [Five Critical WordPress Plugin and Theme Flaws Enable Site Takeover or RCE](https://thehackernews.com/2026/08/five-critical-wordpress-plugin-and.html) - *The Hacker News* (2026-08-29)
 - [Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network](https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html) - *The Hacker News* (2026-08-29)
 - [Friday Squid Blogging: Truckload of Squid Spills in Rhode Island](https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-truckload-of-squid-spills-in-rhode-island.html) - *Schneier on Security* (2026-08-28)
 - [Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable](https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html) - *The Hacker News* (2026-08-29)
 - [Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication](https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html) - *The Hacker News* (2026-08-28)
-- [Android 17 Adds OS-Wide ECH to Hide Website Visits From Network Providers](https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html) - *The Hacker News* (2026-08-28)
-- [ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body](https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html) - *The Hacker News* (2026-08-28)
 - [AI Doesn’t Mean the End of Mathematics—at Least Not Yet](https://www.schneier.com/blog/archives/2026/08/ai-doesnt-mean-the-end-of-mathematics-at-least-not-yet.html) - *Schneier on Security* (2026-08-28)
 - [Two Alleged ‘TeamPCP’ Hackers Arrested in Australia](https://krebsonsecurity.com/2026/08/two-alleged-teampcp-hackers-arrested-in-australia/) - *Krebs on Security* (2026-08-27)
 - [LLM-Based Social Engineering Scams](https://www.schneier.com/blog/archives/2026/08/llm-based-social-engineering-scams.html) - *Schneier on Security* (2026-08-27)
@@ -46,11 +46,11 @@ Automated tech news updates. Last updated: 2026-08-29 13:39:29 UTC
 
 ## Databases/Storage
 
+- [Christophe Pettus: All Your GUCs in a Row: log_line_prefix and log_timezone](https://postgr.es/p/9tx) - *Planet PostgreSQL* (2026-08-30)
 - [Pavel Stehule: Integration Lua to psql III](https://postgr.es/p/9tw) - *Planet PostgreSQL* (2026-08-29)
 - [Christophe Pettus: All Your GUCs in a Row: log_rotation_age, log_rotation_size, and log_truncate_on_rotation](https://postgr.es/p/9tv) - *Planet PostgreSQL* (2026-08-29)
 - [Umair Shahid: How Fast Should You Patch Production PostgreSQL?](https://postgr.es/p/9ts) - *Planet PostgreSQL* (2026-08-28)
 - [Shaun Thomas: From the Trenches: My Path Through Postgres](https://postgr.es/p/9tu) - *Planet PostgreSQL* (2026-08-28)
-- [Christophe Pettus: All Your GUCs in a Row: log_directory, log_filename, and log_file_mode](https://postgr.es/p/9tq) - *Planet PostgreSQL* (2026-08-28)
 - [I Need My CI/CD Pipeline to Access Cosmos DB Without Using a Secret](https://devblogs.microsoft.com/cosmosdb/i-need-my-ci-cd-pipeline-to-access-cosmos-db-without-using-a-secret/) - *Azure Cosmos DB Blog* (2026-08-26)
 - [CORTO’s billion-scale legal semantic search with Aurora PostgreSQL pgvector](https://aws.amazon.com/blogs/database/cortos-billion-scale-legal-semantic-search-with-aurora-postgresql-pgvector/) - *AWS Database Blog* (2026-08-26)
 - [How Channel Corporation modernized their architecture with Amazon DynamoDB, Part 3: User and Badge](https://aws.amazon.com/blogs/database/how-channel-corporation-modernized-their-architecture-with-amazon-dynamodb-part-3-user-and-badge/) - *AWS Database Blog* (2026-08-25)
@@ -67,11 +67,11 @@ Automated tech news updates. Last updated: 2026-08-29 13:39:29 UTC
 
 ## Computing
 
+- [Inside Meta’s push to put robots to work in data centers](https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/) - *Ars Technica - All content* (2026-08-30)
 - [I asked 100 companies for my data. Some deleted it instead.](https://arstechnica.com/tech-policy/2026/08/i-asked-100-companies-for-my-data-some-deleted-it-instead/) - *Ars Technica - All content* (2026-08-29)
 - [Court rules Kalshi sports bets aren't "swaps," just gambling with a different name](https://arstechnica.com/tech-policy/2026/08/kalshi-cant-evade-nevada-gambling-laws-by-calling-bets-swaps-court-rules/) - *Ars Technica - All content* (2026-08-28)
 - [Cities terminate Flock contracts at record pace in August](https://arstechnica.com/tech-policy/2026/08/cities-terminate-flock-contracts-at-record-pace-in-august/) - *Ars Technica - All content* (2026-08-28)
 - ["RFK Jr. has lied to the Senate": Lawmakers call for criminal probe, ouster](https://arstechnica.com/health/2026/08/rfk-jr-has-lied-to-the-senate-lawmakers-call-for-criminal-probe-ouster/) - *Ars Technica - All content* (2026-08-28)
-- [Trump blacklisting of "woke" Anthropic deemed illegal by federal judge](https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/) - *Ars Technica - All content* (2026-08-28)
 
 ## AI/Models/RL
 
@@ -96,11 +96,11 @@ Automated tech news updates. Last updated: 2026-08-29 13:39:29 UTC
 
 ## Technical Program Management (TPM)
 
+- [AWS Open Sources Kiro Crew for Asynchronous Coding Agents](https://www.infoq.com/news/2026/08/kiro-crew-coding-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-30)
 - [Presentation: Architecting the Data Layer for AI Agents: From Transactional Systems to MCP and Semantic Models](https://www.infoq.com/presentations/enterprise-data-architecture-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-29)
 - [Cloudflare Workers Accept Inbound TCP, with gRPC the First Protocol on Top](https://www.infoq.com/news/2026/08/workers-inbound-tcp-grpc/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-29)
 - [Uber Builds GitFarm to Run Git Operations as a Service for Large-Scale Monorepos](https://www.infoq.com/news/2026/08/uber-gitfarm-git-as-a-service/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-28)
 - [Presentation: From DVDs to Global Streaming: How Netflix’s Commerce Architecture Actually Evolved](https://www.infoq.com/presentations/netflix-commerce-architecture-evolution/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-28)
-- [Article: Post-Quantum Cryptography in Spring Boot: Four Patterns You Can Ship This Sprint](https://www.infoq.com/articles/pqc-in-spring-boot/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-28)
 - [The Pulse: We need to talk about migrations with AI](https://blog.pragmaticengineer.com/the-pulse-we-need-to-talk-about-migrations-with-ai/) - *The Pragmatic Engineer* (2026-08-27)
 - [Why you're not getting a response to your podcast pitch from me (or others)](https://blog.pragmaticengineer.com/why-youre-not-getting-a-response-to-your-podcast-pitch-from-me-or-others/) - *The Pragmatic Engineer* (2026-08-27)
 - [The Pulse: Meta’s self-inflicted resignation-wave](https://blog.pragmaticengineer.com/the-pulse-metas-self-inflicted-resignation-wave/) - *The Pragmatic Engineer* (2026-08-20)
