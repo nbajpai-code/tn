@@ -1,111 +1,111 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-09-01 13:10:08 UTC
+Automated tech news updates. Last updated: 2026-09-02 12:36:00 UTC
 
 ## Software Architecture
 
+- [Presentation: Beyond Prompting: Context Engineering for Production-Grade AI](https://www.infoq.com/presentations/context-engineering-redis-llm-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-09-02)
+- [Cloudflare Adds Optional OAuth Scopes, Letting Developers Mark What Users May Decline](https://www.infoq.com/news/2026/09/cloudflare-optional-oauth-scopes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-09-02)
 - [Podcast: Scott Jenson on Evolving Desktop OS, Local-First, & Agentic UX](https://www.infoq.com/podcasts/evolving-desktop-agentic-ux/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-08-31)
 - [Presentation: Architecting the Data Layer for AI Agents: from Transactional Systems to MCP and Semantic Models](https://www.infoq.com/presentations/enterprise-data-architecture-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-08-29)
 - [Cloudflare Workers Accept Inbound TCP, with gRPC the First Protocol on Top](https://www.infoq.com/news/2026/08/workers-inbound-tcp-grpc/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-08-29)
-- [Presentation: From DVDs to Global Streaming: How Netflix’s Commerce Architecture Actually Evolved](https://www.infoq.com/presentations/netflix-commerce-architecture-evolution/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-08-28)
-- [Article: Post-Quantum Cryptography in Spring Boot: Four Patterns You Can Ship This Sprint](https://www.infoq.com/articles/pqc-in-spring-boot/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-08-28)
 
 ## Cloud Computing
 
+- [Hybrid cloud orchestration: Modernizing on-premises infrastructure management with AWS](https://aws.amazon.com/blogs/architecture/hybrid-cloud-orchestration-modernizing-on-premises-infrastructure-management-with-aws/) - *AWS Architecture Blog* (2026-09-01)
+- [MCP went stateless: Is your AWS MCP server deployment well-architected?](https://aws.amazon.com/blogs/architecture/mcp-went-stateless-is-your-aws-mcp-server-deployment-well-architected/) - *AWS Architecture Blog* (2026-09-01)
 - [Gallup scales real-time coaching for thousands with Amazon Bedrock](https://aws.amazon.com/blogs/architecture/gallup-delivers-real-time-workplace-coaching-to-thousands-of-leaders-with-amazon-bedrock/) - *AWS Architecture Blog* (2026-08-26)
 - [Closing the AI agent trust gap with graduated autonomy](https://aws.amazon.com/blogs/architecture/closing-the-ai-agent-trust-gap-with-graduated-autonomy/) - *AWS Architecture Blog* (2026-08-26)
 - [How a global payment processor preserved AWS RAM shares and Lake Formation permissions during an AWS Organizations migration](https://aws.amazon.com/blogs/architecture/how-a-global-payment-processor-preserved-aws-ram-shares-and-lake-formation-permissions-during-an-aws-organizations-migration/) - *AWS Architecture Blog* (2026-08-24)
-- [Build a unified AI agent architecture with DynamoDB and Bedrock](https://aws.amazon.com/blogs/architecture/build-a-unified-ai-agent-architecture-with-dynamodb-and-bedrock/) - *AWS Architecture Blog* (2026-08-21)
-- [How AgentFlo built AI sales agents with Amazon Bedrock AgentCore – Part 2](https://aws.amazon.com/blogs/architecture/how-agentflo-built-ai-sales-agents-with-amazon-bedrock-agentcore-part-2/) - *AWS Architecture Blog* (2026-08-21)
 
 ## Kubernetes
 
+- [Metal3 meets KubeVirtBMC: Provisioning KubeVirt VMs like bare metal](https://www.cncf.io/blog/2026/09/02/metal3-meets-kubevirtbmc-provisioning-kubevirt-vms-like-bare-metal/) - *Blog – Cloud Native Computing Foundation* (2026-09-02)
+- [Kubernetes v1.37: etcd RangeStream Cuts Memory Use on Large List Reads](https://kubernetes.io/blog/2026/09/01/kubernetes-v1-37-etcd-range-stream/) - *Kubernetes Blog* (2026-09-01)
 - [Platform engineering maturity: From toolchain to self-service](https://www.cncf.io/blog/2026/09/01/platform-engineering-maturity-from-toolchain-to-self-service/) - *Blog – Cloud Native Computing Foundation* (2026-09-01)
 - [Kubernetes v1.37: Storage Version Migration Enabled by Default](https://kubernetes.io/blog/2026/08/31/kubernetes-v1-37-storage-version-migration-ga/) - *Kubernetes Blog* (2026-08-31)
 - [OpenTelemetry has graduated… now what?](https://www.cncf.io/blog/2026/08/31/opentelemetry-has-graduated-now-what-2/) - *Blog – Cloud Native Computing Foundation* (2026-08-31)
 - [Observability in Kubernetes: From metrics to meaning](https://www.cncf.io/blog/2026/08/31/observability-in-kubernetes-from-metrics-to-meaning/) - *Blog – Cloud Native Computing Foundation* (2026-08-31)
 - [Kubernetes v1.37: Pod Certificates and Cluster Trust Bundles](https://kubernetes.io/blog/2026/08/28/kubernetes-v1-37-pod-certificates-and-cluster-trust-bundles/) - *Kubernetes Blog* (2026-08-28)
 - [Scale before the spike: Predictive autoscaling for GPU workloads on Kubernetes](https://www.cncf.io/blog/2026/08/28/scale-before-the-spike-predictive-autoscaling-for-gpu-workloads-on-kubernetes/) - *Blog – Cloud Native Computing Foundation* (2026-08-28)
-- [Your Kubernetes platform is ready for containers. Is it ready for AI?](https://www.cncf.io/blog/2026/08/28/your-kubernetes-platform-is-ready-for-containers-is-it-ready-for-ai/) - *Blog – Cloud Native Computing Foundation* (2026-08-28)
 - [Kubernetes v1.37: Metrics API graduates to stable](https://kubernetes.io/blog/2026/08/27/kubernetes-v1-37-metrics-api-ga/) - *Kubernetes Blog* (2026-08-27)
 - [Kubernetes v1.37: Garhwal](https://kubernetes.io/blog/2026/08/26/kubernetes-v1-37-release/) - *Kubernetes Blog* (2026-08-26)
-- [How to Pretty-Print Your Kubernetes YAML as KYAML and Why You'd Want To](https://kubernetes.io/blog/2026/08/11/how-to-pretty-print-kubernetes-yaml-as-kyaml/) - *Kubernetes Blog* (2026-08-11)
 
 ## Security
 
-- [Threat Actors Don’t Want Better Attacks. They Want Repeatable Ones](https://thehackernews.com/2026/09/threat-actors-dont-want-better-attacks.html) - *The Hacker News* (2026-09-01)
+- [How to Secure Enterprise AI: From Adoption to Incident Readiness](https://thehackernews.com/2026/09/how-to-secure-enterprise-ai-from.html) - *The Hacker News* (2026-09-02)
+- [Attackers Exploit Two SonicWall SMA 1000 Zero-Days That May Form an Attack Chain](https://thehackernews.com/2026/09/attackers-exploit-two-sonicwall-sma.html) - *The Hacker News* (2026-09-02)
+- [Wireless Routers as Motion Detectors](https://www.schneier.com/blog/archives/2026/09/wireless-routers-as-motion-detectors.html) - *Schneier on Security* (2026-09-02)
+- [GeoNetwork Fixes Unauthenticated RCE Chain Affecting Government Geoportal Backends](https://thehackernews.com/2026/09/geonetwork-fixes-unauthenticated-rce.html) - *The Hacker News* (2026-09-02)
+- [Extradited Russian Hacker Faces Charges Over Excel Malware Campaign That Infected Thousands](https://thehackernews.com/2026/09/extradited-russian-hacker-faces-charges.html) - *The Hacker News* (2026-09-02)
+- [Researchers Use Claude to Port Pre-Auth RCE Exploit From One PLC Model to Another](https://thehackernews.com/2026/09/researchers-use-claude-to-port-pre-auth.html) - *The Hacker News* (2026-09-02)
+- [FBI Probes Service Selling 153M+ Drivers Licenses](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/) - *Krebs on Security* (2026-09-01)
+- [What’s the Scam?](https://www.schneier.com/blog/archives/2026/09/whats-the-scam.html) - *Schneier on Security* (2026-09-01)
+- [Leaked Russian Cyber-Operations Training Materials](https://www.schneier.com/blog/archives/2026/09/leaked-russian-cyber-operations-training-materials.html) - *Schneier on Security* (2026-09-01)
 - [Rewiring Democracy Series on The Renovator](https://www.schneier.com/blog/archives/2026/09/rewiring-democracy-series-on-the-renovator.html) - *Schneier on Security* (2026-09-01)
-- [Attackers Steal METR API Key and Consume AI Credits Worth About $600,000](https://thehackernews.com/2026/09/attackers-steal-metr-api-key-and.html) - *The Hacker News* (2026-09-01)
-- [Russia-Aligned UAC-0099 Plants Nuclear Weapon Prompt in Malware to Disrupt AI Analysis](https://thehackernews.com/2026/09/russia-aligned-uac-0099-plants-nuclear.html) - *The Hacker News* (2026-09-01)
-- [Attackers Exploit Critical Langflow and Rails Flaws in Credential-Probing and C2 Activity](https://thehackernews.com/2026/09/attackers-exploit-critical-langflow-and.html) - *The Hacker News* (2026-09-01)
-- [Is Someone Hacking DoD Refrigerators?](https://www.schneier.com/blog/archives/2026/08/is-someone-hacking-dod-refrigerators.html) - *Schneier on Security* (2026-08-31)
-- [North Korean Job Fraud Expands Beyond IT Into Healthcare and Sales](https://thehackernews.com/2026/08/north-korean-job-fraud-expands-beyond.html) - *The Hacker News* (2026-08-31)
-- [Hiding Prompt Injection in Legal Filing](https://www.schneier.com/blog/archives/2026/08/hiding-prompt-injection-in-legal-filing.html) - *Schneier on Security* (2026-08-31)
-- [Friday Squid Blogging: Truckload of Squid Spills in Rhode Island](https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-truckload-of-squid-spills-in-rhode-island.html) - *Schneier on Security* (2026-08-28)
-- [AI Doesn’t Mean the End of Mathematics—at Least Not Yet](https://www.schneier.com/blog/archives/2026/08/ai-doesnt-mean-the-end-of-mathematics-at-least-not-yet.html) - *Schneier on Security* (2026-08-28)
 
 ## Databases/Storage
 
+- [Christophe Pettus: All Your GUCs in a Row: log_min_duration_sample, log_statement_sample_rate, and log_transaction_sample_rate](https://postgr.es/p/9tH) - *Planet PostgreSQL* (2026-09-02)
+- [Gülçin Yıldırım Jelínek: New system views in PostgreSQL 19](https://postgr.es/p/9tF) - *Planet PostgreSQL* (2026-09-01)
+- [Maki Majima: Migration files and Git do not mix](https://postgr.es/p/9tE) - *Planet PostgreSQL* (2026-09-01)
+- [SQL Server to Aurora PostgreSQL conversion with AI agents for AWS DMS](https://aws.amazon.com/blogs/database/sql-server-to-aurora-postgresql-conversion-with-ai-agents-for-aws-dms/) - *AWS Database Blog* (2026-09-01)
 - [Vibhor Kumar: When AI Takes Action, What Proves What Actually Happened?](https://postgr.es/p/9tD) - *Planet PostgreSQL* (2026-09-01)
 - [Henrietta Dombrovskaya: That’s how Postgres met Django!](https://postgr.es/p/9tC) - *Planet PostgreSQL* (2026-09-01)
 - [Fix circular role dependencies before upgrading Amazon RDS and Amazon Aurora PostgreSQL](https://aws.amazon.com/blogs/database/resolve-circular-role-dependencies-during-upgrades-of-amazon-rds-for-postgresql-and-amazon-aurora/) - *AWS Database Blog* (2026-08-31)
-- [Radim Marek: Read your own writes, off the primary](https://postgr.es/p/9tB) - *Planet PostgreSQL* (2026-08-31)
 - [Provision a secure Amazon DocumentDB cluster with Terraform](https://aws.amazon.com/blogs/database/provision-a-secure-amazon-documentdb-cluster-with-terraform/) - *AWS Database Blog* (2026-08-31)
-- [Richard Yen: pg-catalog-almanac](https://postgr.es/p/9tA) - *Planet PostgreSQL* (2026-08-31)
-- [Christophe Pettus: All Your GUCs in a Row: log_min_messages, log_min_error_statement, and log_error_verbosity](https://postgr.es/p/9ty) - *Planet PostgreSQL* (2026-08-31)
 - [I Need My CI/CD Pipeline to Access Cosmos DB Without Using a Secret](https://devblogs.microsoft.com/cosmosdb/i-need-my-ci-cd-pipeline-to-access-cosmos-db-without-using-a-secret/) - *Azure Cosmos DB Blog* (2026-08-26)
 - [CORTO’s billion-scale legal semantic search with Aurora PostgreSQL pgvector](https://aws.amazon.com/blogs/database/cortos-billion-scale-legal-semantic-search-with-aurora-postgresql-pgvector/) - *AWS Database Blog* (2026-08-26)
-- [How Channel Corporation modernized their architecture with Amazon DynamoDB, Part 3: User and Badge](https://aws.amazon.com/blogs/database/how-channel-corporation-modernized-their-architecture-with-amazon-dynamodb-part-3-user-and-badge/) - *AWS Database Blog* (2026-08-25)
 
 ## Networking
 
+- [Palo Alto Networks buys Console to boost agentic security](https://www.networkworld.com/article/4217170/palo-alto-networks-buys-console-to-boost-agentic-security.html) - *Network World* (2026-09-01)
+- [Mainframe shops tap AI for system insights and recommendations](https://www.networkworld.com/article/4217155/mainframe-shops-tap-ai-for-system-insights-and-recommendations.html) - *Network World* (2026-09-01)
+- [2026 network outage report and internet health check](https://www.networkworld.com/article/4113326/2026-network-outage-report-and-internet-health-check.html) - *Network World* (2026-09-01)
 - [China-linked hackers turn Cisco IOS XR routers into covert attack infrastructure](https://www.networkworld.com/article/4216884/china-linked-hackers-turn-cisco-ios-xr-routers-into-covert-attack-infrastructure.html) - *Network World* (2026-09-01)
 - [Nvidia unveils alternative high-bandwidth technology to bolster AI cards](https://www.networkworld.com/article/4216544/nvidia-unveils-alternative-high-bandwidth-technology-to-bolster-ai-cards.html) - *Network World* (2026-08-31)
-- [Private AI cloud, agentic infrastructure dominate VMware Explore](https://www.networkworld.com/article/4215847/private-ai-cloud-agentic-infrastructure-dominate-vmware-explore.html) - *Network World* (2026-08-31)
-- [Tailscale expands from VPN into a full connectivity platform](https://www.networkworld.com/article/4215616/tailscale-expands-from-vpn-into-a-full-connectivity-platform.html) - *Network World* (2026-08-31)
-- [On-device translation: Why smaller, specialized AI models win](https://www.networkworld.com/article/4214970/on-device-translation-why-smaller-specialized-ai-models-win.html) - *Network World* (2026-08-27)
 
 ## Computing
 
-- [Without new landers or rovers, it's helicopters or bust for NASA's Mars program](https://arstechnica.com/space/2026/09/without-new-landers-or-rovers-its-helicopters-or-bust-for-nasas-mars-program/) - *Ars Technica - All content* (2026-09-01)
-- [Private group wants to launch "cheapest possible" mission to Alpha Centauri](https://arstechnica.com/space/2026/09/private-group-wants-to-launch-cheapest-possible-mission-to-alpha-centauri/) - *Ars Technica - All content* (2026-09-01)
-- [The Bentley Supersports: A stripped-out engineer's indulgence](https://arstechnica.com/cars/2026/08/the-bentley-supersports-a-stripped-out-engineers-indulgence/) - *Ars Technica - All content* (2026-08-31)
-- [Trump admin shelves Cyclospora research despite record-breaking outbreak](https://arstechnica.com/health/2026/08/trump-admin-shelves-cyclospora-research-despite-record-breaking-outbreak/) - *Ars Technica - All content* (2026-08-31)
-- [Get in on the Ars community that doesn’t fit beneath an article](https://arstechnica.com/staff/2026/08/get-in-on-the-ars-community-that-doesnt-fit-beneath-an-article/) - *Ars Technica - All content* (2026-08-31)
+- [Is Russia's rival to Starlink failing? Here's what we know.](https://arstechnica.com/space/2026/09/rassvet-russias-rival-to-starlink-is-getting-off-to-a-slow-start/) - *Ars Technica - All content* (2026-09-02)
+- [BGP hijack infecting networks caused by a comedy of errors that’s not funny at all](https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/) - *Ars Technica - All content* (2026-09-02)
+- [Here's our first look—and drive—of the 2027 Range Rover Electric](https://arstechnica.com/cars/2026/09/range-rover-ev-electric-propulsion-pairs-perfectly-with-this-luxury-suv/) - *Ars Technica - All content* (2026-09-01)
+- [Research roundup: 7 cool science stories we almost missed](https://arstechnica.com/science/2026/09/august-research-roundup-7-cool-science-stories-we-almost-missed/) - *Ars Technica - All content* (2026-09-01)
+- [A newborn and child reportedly died of measles; CDC isn't counting them](https://arstechnica.com/health/2026/09/cdc-reported-then-deleted-two-measles-deaths-that-were-questioned-by-rfk-jr/) - *Ars Technica - All content* (2026-09-01)
 
 ## AI/Models/RL
 
+- [BenchMIRT: What are LLM benchmarks actually measuring?](https://huggingface.co/blog/allenai/benchmirt) - *Hugging Face - Blog* (2026-09-01)
+- [Mapping global methane emissions from space with deep learning](https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning/) - *The latest research from Google* (2026-09-01)
+- [Introducing agentic video understanding with Gemini](https://deepmind.google/blog/introducing-agentic-video-in-gemini/) - *Google DeepMind News* (2026-09-01)
+- [How AI-native companies turn workflows into operating capability](https://openai.com/index/ai-native-company-workflows) - *OpenAI News* (2026-09-01)
+- [Path to Astra: critical capabilities and frontier safeguards](https://openai.com/index/path-to-astra) - *OpenAI News* (2026-09-01)
+- [Healthcare organizations can now connect EHR and additional industry data to ChatGPT](https://openai.com/index/chatgpt-connects-health-records-and-healthcare-sources) - *OpenAI News* (2026-09-01)
+- [How law firm Gilbert + Tobin governs and scales AI with OpenAI](https://openai.com/index/gilbert-tobin) - *OpenAI News* (2026-09-01)
+- [Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI](https://huggingface.co/blog/webgpu-kernels) - *Hugging Face - Blog* (2026-09-01)
 - [TimesFM-3: A zero-shot foundation model for multivariate forecasting](https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting/) - *The latest research from Google* (2026-08-31)
 - [OpenAI supports California’s bill to advance youth AI safety](https://openai.com/index/supporting-california-bill-advance-ai-youth-safety) - *OpenAI News* (2026-08-31)
-- [Polimill builds Japan's next-generation public AI infrastructure](https://openai.com/index/polimill) - *OpenAI News* (2026-08-31)
-- [A milestone in expanding access to AI](https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads) - *OpenAI News* (2026-08-31)
-- [Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex) - *OpenAI News* (2026-08-28)
-- [Supporting Thailand’s next generation of AI startups](https://openai.com/index/supporting-next-generation-ai-startups-thailand) - *OpenAI News* (2026-08-28)
-- [The Open ASR Leaderboard Adds Its First Global South Language](https://huggingface.co/blog/open-asr-leaderboard-global-south) - *Hugging Face - Blog* (2026-08-28)
-- [Planetary prediction engine: Automating global models via Earth AI](https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/) - *The latest research from Google* (2026-08-27)
-- [Gemini Omni 1.1 Flash lets you build with more control](https://deepmind.google/blog/gemini-omni-1-1-flash-lets-you-build-with-more-control/) - *Google DeepMind News* (2026-08-27)
-- [Piloting the world's first double-blind AI evaluations](https://deepmind.google/blog/piloting-the-worlds-first-double-blind-ai-evaluations/) - *Google DeepMind News* (2026-08-27)
 
 ## AI Infra
 
-- [Connect an AgentCore Runtime hosted MCP server to Amazon Quick](https://aws.amazon.com/blogs/machine-learning/connect-an-agentcore-runtime-hosted-mcp-server-to-amazon-quick/) - *Artificial Intelligence* (2026-08-31)
-- [AWS recognized as a Leader in The Forrester Wave: AI Infrastructure Solutions, Q4 2025](https://aws.amazon.com/blogs/machine-learning/aws-recognized-as-a-leader-in-the-forrester-wave-ai-infrastructure-solutions-q4-2025/) - *Artificial Intelligence* (2026-08-31)
-- [Manage agents, tools and skills at scale with AWS Agent Registry](https://aws.amazon.com/blogs/machine-learning/manage-agents-tools-and-skills-at-scale-with-aws-agent-registry/) - *Artificial Intelligence* (2026-08-31)
-- [Build observable enterprise agentic retrieval using Managed Amazon Bedrock Knowledge Base with AWS CloudFormation](https://aws.amazon.com/blogs/machine-learning/build-observable-enterprise-agentic-retrieval-using-managed-amazon-bedrock-knowledge-base-with-aws-cloudformation/) - *Artificial Intelligence* (2026-08-31)
-- [Build multi-tenant agentic chat applications on enterprise data with Amazon Bedrock Managed Knowledge Base](https://aws.amazon.com/blogs/machine-learning/build-multi-tenant-agentic-chat-applications-on-enterprise-data-with-amazon-bedrock-managed-knowledge-base/) - *Artificial Intelligence* (2026-08-31)
+- [Introducing Claude Fable 5.1 on AWS](https://aws.amazon.com/blogs/machine-learning/introducing-claude-fable-5-1-on-aws/) - *Artificial Intelligence* (2026-09-01)
+- [From theory to delivery: How Atos upskilled 400 engineers in agentic AI](https://aws.amazon.com/blogs/machine-learning/from-theory-to-delivery-how-atos-upskilled-400-engineers-in-agentic-ai/) - *Artificial Intelligence* (2026-09-01)
+- [Tokenomics at scale: How Jamf built real-time spend enforcement for Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/tokenomics-at-scale-how-jamf-built-real-time-spend-enforcement-for-amazon-bedrock/) - *Artificial Intelligence* (2026-09-01)
+- [Securing Amazon Quick from POC to production: Agents, Flows, and Spaces](https://aws.amazon.com/blogs/machine-learning/securing-amazon-quick-from-poc-to-production-agents-flows-and-spaces/) - *Artificial Intelligence* (2026-09-01)
+- [How t54 built a trust layer with Amazon Bedrock AgentCore payments](https://aws.amazon.com/blogs/machine-learning/how-t54-built-a-trust-layer-with-amazon-bedrock-agentcore-payments/) - *Artificial Intelligence* (2026-09-01)
 
 ## Technical Program Management (TPM)
 
+- [Presentation: Beyond Prompting: Context Engineering for Production-Grade AI](https://www.infoq.com/presentations/context-engineering-redis-llm-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-09-02)
+- [Cloudflare Adds Optional OAuth Scopes, Letting Developers Mark What Users May Decline](https://www.infoq.com/news/2026/09/cloudflare-optional-oauth-scopes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-09-02)
+- [What Leaders Do That Keep Scrum Teams Working Like Individuals](https://www.mountaingoatsoftware.com/agile/what-leaders-do-that-keep-scrum-teams-working-like-individuals) - *Mike Cohn's Blog - Succeeding With Agile* (2026-09-01)
+- [How software engineering is changing: an essay challenge](https://blog.pragmaticengineer.com/how-software-engineering-is-changing-an-essay-challenge/) - *The Pragmatic Engineer* (2026-09-01)
 - [Presentation: Beyond Line Charts: Why Some Diversity in Telemetry Visualization Is Long Overdue](https://www.infoq.com/presentations/telemetry-data/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-09-01)
 - [DoorDash’s Flux Runs 130,000 Engineering Tasks Through Cloud-Based Agents](https://www.infoq.com/news/2026/08/doordash-flux-cloud-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-31)
 - [Java News Roundup: GraalVM, Jakarta Data, JNoSQL, Azul Payara, WildFly, Quarkus, Atmosphere](https://www.infoq.com/news/2026/08/java-news-roundup-aug24-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-31)
-- [Podcast: Scott Jenson on Evolving Desktop OS, Local-First, & Agentic UX](https://www.infoq.com/podcasts/evolving-desktop-agentic-ux/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-31)
-- [Presentation: Running AI at the Edge: Running Real Workloads Directly in the Browser](https://www.infoq.com/presentations/local-ai-browser-inference-privacy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-08-31)
 - [The Pulse: We need to talk about migrations with AI](https://blog.pragmaticengineer.com/the-pulse-we-need-to-talk-about-migrations-with-ai/) - *The Pragmatic Engineer* (2026-08-27)
 - [Why you're not getting a response to your podcast pitch from me (or others)](https://blog.pragmaticengineer.com/why-youre-not-getting-a-response-to-your-podcast-pitch-from-me-or-others/) - *The Pragmatic Engineer* (2026-08-27)
 - [The Pulse: Meta’s self-inflicted resignation-wave](https://blog.pragmaticengineer.com/the-pulse-metas-self-inflicted-resignation-wave/) - *The Pragmatic Engineer* (2026-08-20)
-- [The Pulse: Grok’s CLI caught uploading all your local files to the cloud](https://blog.pragmaticengineer.com/grolk-cli-uploaded-all-your-files-to-the-cloud/) - *The Pragmatic Engineer* (2026-08-19)
-- [Why Your Scrum Team Still Works Like Individuals](https://www.mountaingoatsoftware.com/agile/why-your-scrum-team-still-works-like-individuals) - *Mike Cohn's Blog - Succeeding With Agile* (2026-08-11)
 
 ## Forward Deployment Engineering (FDE)
 
@@ -117,11 +117,11 @@ Automated tech news updates. Last updated: 2026-09-01 13:10:08 UTC
 
 ## Network Observability
 
+- [HS141: EA vs AI](https://feeds.packetpushers.net/link/22503/17436567/hs141-ea-vs-ai) - *The Everything Feed - All Packet Pushers Pods* (2026-09-01)
+- [PP124: How Coruna, DarkSword, and Other Exploits Slice Up Apple iPhones](https://packetpushers.net/podcasts/packet-protector/pp124-how-coruna-darksword-and-other-exploits-slice-up-apple-iphones/) - *The Everything Feed - All Packet Pushers Pods* (2026-09-01)
 - [NB589: OpenAI Makes Cyber Mess, Wants World to Clean It Up; Cisco Strategizes Infrastructure Identity](https://packetpushers.net/podcasts/network-break/nb589-openai-makes-cyber-mess-wants-world-to-clean-it-up-cisco-strategizes-infrastructure-identity/) - *The Everything Feed - All Packet Pushers Pods* (2026-08-31)
 - [TNO070: Spec Driven Design (SDD) for NetOps and NetEng](https://packetpushers.net/podcasts/total-network-operations/tno070-spec-driven-design-sdd-for-netops-and-neteng/) - *The Everything Feed - All Packet Pushers Pods* (2026-08-28)
 - [HN839: Why Flows, Packets, and DDI are All Critical for Operational Effectiveness (Sponsored)](https://packetpushers.net/podcasts/heavy-networking/hn839-why-flows-packets-and-ddi-are-all-critical-for-operational-effectiveness-sponsored/) - *The Everything Feed - All Packet Pushers Pods* (2026-08-28)
-- [LIU021: Justin Ryburn – The Road More Traveled with a Field CTO](https://packetpushers.net/podcasts/life-in-uptime/liu021-justin-ryburn-the-road-more-traveled-with-a-field-cto/) - *The Everything Feed - All Packet Pushers Pods* (2026-08-27)
-- [D2DO311: Code Review Is Dead – Long Live Peer Review](https://packetpushers.net/podcasts/day-two-devops/d2do311-code-review-is-dead-long-live-peer-review/) - *The Everything Feed - All Packet Pushers Pods* (2026-08-26)
 - [How Cisco IT Modernized Voice Security with AI](https://blogs.cisco.com/cisco-on-cisco/how-cisco-it-modernized-voice-security-with-ai) - *Observability - Cisco Blogs* (2026-08-04)
 - [The AI invoice nobody planned for — and how Cisco is solving it from the inside](https://blogs.cisco.com/cisco-on-cisco/the-ai-invoice-nobody-planned-for-and-how-cisco-is-solving-it) - *Observability - Cisco Blogs* (2026-08-04)
 - [Navigating AI Tokenomics: From Cost Uncertainty to Operational Scale](https://blogs.cisco.com/news/navigating-ai-tokenomics-from-cost-uncertainty-to-operational-scale) - *Observability - Cisco Blogs* (2026-07-29)
