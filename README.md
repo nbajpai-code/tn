@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-09-05 11:41:34 UTC
+Automated tech news updates. Last updated: 2026-09-06 11:59:29 UTC
 
 ## Software Architecture
 
@@ -33,26 +33,26 @@ Automated tech news updates. Last updated: 2026-09-05 11:41:34 UTC
 
 ## Security
 
-- [Thousands of OpenAI Agents Quietly Turned an Abandoned Wiki Into Their Coordination Channel](https://thehackernews.com/2026/09/thousands-of-openai-agents-quietly.html) - *The Hacker News* (2026-09-05)
-- [Attackers Exploit PaperCut Flaws to Steal Credentials From Schools and Universities](https://thehackernews.com/2026/09/attackers-exploit-papercut-flaws-to.html) - *The Hacker News* (2026-09-05)
+- [Attackers Hijack MikroTik Routers Through Internet-Exposed SSH Without Authentication](https://thehackernews.com/2026/09/attackers-hijack-mikrotik-routers.html) - *The Hacker News* (2026-09-06)
+- [Four REVSTEALER-Linked Modules Disable Windows Update and Defender to Run a Crypto Miner](https://thehackernews.com/2026/09/four-revstealer-linked-modules-disable.html) - *The Hacker News* (2026-09-06)
+- [Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores](https://thehackernews.com/2026/09/unpatched-magento-and-adobe-commerce.html) - *The Hacker News* (2026-09-06)
+- [Attackers Breached JetBrains Cadence via Unpatched TeamCity, Extracting AWS Credentials](https://thehackernews.com/2026/09/attackers-breached-jetbrains-cadence.html) - *The Hacker News* (2026-09-05)
+- [Critical VMware Workstation and Fusion Flaw Lets VM Admins Execute Host Code](https://thehackernews.com/2026/09/critical-vmware-workstation-and-fusion.html) - *The Hacker News* (2026-09-05)
 - [Friday Squid Blogging: Squid on a Stick at the New York State Fair](https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-squid-on-a-stick-at-the-new-york-state-fair.html) - *Schneier on Security* (2026-09-04)
 - [Using a VM to Contain an AI Agent](https://www.schneier.com/blog/archives/2026/09/using-a-vm-to-contain-an-ai-agent.html) - *Schneier on Security* (2026-09-04)
-- [Phishing Campaign Sends Millions of Emails Using Invisible Unicode to Evade Filters](https://thehackernews.com/2026/09/phishing-campaign-sends-millions-of.html) - *The Hacker News* (2026-09-04)
-- [PostgreSQL Fixes 12-Year-Old Logical Decoding Flaw Enabling Replication-Role Code Execution](https://thehackernews.com/2026/09/postgresql-fixes-12-year-old-logical.html) - *The Hacker News* (2026-09-04)
-- [New Ted Backdoor Hides Inside Victims' Own HAProxy Builds to Intercept Web Traffic](https://thehackernews.com/2026/09/new-ted-backdoor-hides-inside-victims.html) - *The Hacker News* (2026-09-04)
 - [Security Vulnerability in a Voting System](https://www.schneier.com/blog/archives/2026/09/security-vulnerability-in-a-voting-system.html) - *Schneier on Security* (2026-09-04)
 - [AI Coding Agents Are Installing Unknown/Untrusted Code on Corporate Networks](https://www.schneier.com/blog/archives/2026/09/ai-coding-agents-are-installing-unknown-untrusted-code-on-corporate-networks.html) - *Schneier on Security* (2026-09-04)
 - [Researching Employment Scams](https://www.schneier.com/blog/archives/2026/09/researching-employment-scams.html) - *Schneier on Security* (2026-09-03)
 
 ## Databases/Storage
 
+- [Christophe Pettus: All Your GUCs in a Row: log_parser_stats, log_planner_stats, log_executor_stats, and log_statement_stats](https://postgr.es/p/9tZ) - *Planet PostgreSQL* (2026-09-06)
 - [Christophe Pettus: All Your GUCs in a Row: log_startup_progress_interval and log_recovery_conflict_waits](https://postgr.es/p/9tY) - *Planet PostgreSQL* (2026-09-05)
 - [Christophe Pettus: All Your GUCs in a Row: log_lock_waits and log_lock_failures](https://postgr.es/p/9tT) - *Planet PostgreSQL* (2026-09-04)
 - [Mikhail Shytsko: What Replica Mode Does Not Switch Off](https://postgr.es/p/9tX) - *Planet PostgreSQL* (2026-09-04)
 - [Monitor self-managed databases with Amazon CloudWatch Database Insights](https://aws.amazon.com/blogs/database/monitor-self-managed-databases-with-amazon-cloudwatch-database-insights/) - *AWS Database Blog* (2026-09-03)
 - [Troubleshoot AWS Advanced JDBC Wrapper configuration for Aurora Global Database write forwarding](https://aws.amazon.com/blogs/database/troubleshoot-aws-advanced-jdbc-wrapper-configuration-for-aurora-global-database-write-forwarding/) - *AWS Database Blog* (2026-09-03)
 - [Umair Shahid: Database Availability Is a Stack: Rolling OS Patching](https://postgr.es/p/9tQ) - *Planet PostgreSQL* (2026-09-03)
-- [Devrim GÜNDÜZ: PostgreSQL RPM repo comes to Amazon Linux 2023!](https://postgr.es/p/9tR) - *Planet PostgreSQL* (2026-09-03)
 - [Introducing strands-dynamodb-storage: Durable agent storage for the Strands Agents SDK](https://aws.amazon.com/blogs/database/introducing-strands-dynamodb-storage-durable-agent-storage-for-the-strands-agents-sdk/) - *AWS Database Blog* (2026-09-02)
 - [SQL Server to Aurora PostgreSQL conversion with AI agents for AWS DMS](https://aws.amazon.com/blogs/database/sql-server-to-aurora-postgresql-conversion-with-ai-agents-for-aws-dms/) - *AWS Database Blog* (2026-09-01)
 - [Fix circular role dependencies before upgrading Amazon RDS and Amazon Aurora PostgreSQL](https://aws.amazon.com/blogs/database/resolve-circular-role-dependencies-during-upgrades-of-amazon-rds-for-postgresql-and-amazon-aurora/) - *AWS Database Blog* (2026-08-31)
@@ -67,11 +67,11 @@ Automated tech news updates. Last updated: 2026-09-05 11:41:34 UTC
 
 ## Computing
 
+- [Tesla’s Cybercab has been deployed, and it’s already under investigation](https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/) - *Ars Technica - All content* (2026-09-05)
 - [After 8 years, Europe's BepiColombo mission is on final approach to Mercury](https://arstechnica.com/space/2026/09/after-8-years-europes-bepicolombo-mission-is-on-final-approach-to-mercury/) - *Ars Technica - All content* (2026-09-04)
 - [OpenAI agents discussed ways to escape their sandbox on public wiki](https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki/) - *Ars Technica - All content* (2026-09-04)
 - [Measles killed 6-week-old baby, coroner confirms after RFK Jr. disputed deaths](https://arstechnica.com/health/2026/09/measles-killed-6-week-old-baby-coroner-confirms-after-rfk-jr-disputed-deaths/) - *Ars Technica - All content* (2026-09-04)
 - [Trump admin fights ABC lawsuit as watchdogs worry Disney will settle with FCC](https://arstechnica.com/tech-policy/2026/09/trump-admin-fights-abc-lawsuit-as-watchdogs-worry-disney-will-settle-with-fcc/) - *Ars Technica - All content* (2026-09-04)
-- [Medieval manuscripts are "biological time capsules" for deadly sheeppox virus](https://arstechnica.com/science/2026/09/medieval-manuscripts-are-biological-time-capsules-for-deadly-sheeppox-virus/) - *Ars Technica - All content* (2026-09-04)
 
 ## AI/Models/RL
 
@@ -96,11 +96,11 @@ Automated tech news updates. Last updated: 2026-09-05 11:41:34 UTC
 
 ## Technical Program Management (TPM)
 
+- [FreeCORE: TrueNAS Fork Maintaining Deeply Integrated Virtualization, Jails, and OpenZFS on FreeBSD](https://www.infoq.com/news/2026/09/freecore-truenas-fork/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-09-06)
 - [Presentation: A Few Predicted Talks From QConAI 2030](https://www.infoq.com/presentations/ai-predictions-2030/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-09-05)
 - [Beyond Zero: Google Publishes Successor to BeyondCorp](https://www.infoq.com/news/2026/09/google-beyond-zero/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-09-05)
 - [Blume: Zero-Config Docs Framework That Turns a Markdown Folder into an AI-Ready Website](https://www.infoq.com/news/2026/09/blume-docs-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-09-05)
 - [Redefining GIS: Declarative Symbology and Collaborative Workflows in JupyterGIS](https://www.infoq.com/news/2026/09/jupyter-gis-extension/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-09-05)
-- [Airbnb Cuts Authentication Code by 60% with Server Driven Architecture](https://www.infoq.com/news/2026/09/airbnb-server-driven-login/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-09-04)
 - [The Pulse: Meta wanted to reduce teams by 60% because of AI](https://blog.pragmaticengineer.com/the-pulse-meta-wanted-to-reduce-teams-by-60-because-of-ai/) - *The Pragmatic Engineer* (2026-09-03)
 - [What Leaders Do That Keep Scrum Teams Working Like Individuals](https://www.mountaingoatsoftware.com/agile/what-leaders-do-that-keep-scrum-teams-working-like-individuals) - *Mike Cohn's Blog - Succeeding With Agile* (2026-09-01)
 - [How software engineering is changing: an essay challenge](https://blog.pragmaticengineer.com/how-software-engineering-is-changing-an-essay-challenge/) - *The Pragmatic Engineer* (2026-09-01)
