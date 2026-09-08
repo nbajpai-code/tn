@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-09-07 14:01:39 UTC
+Automated tech news updates. Last updated: 2026-09-08 12:40:17 UTC
 
 ## Software Architecture
 
@@ -20,37 +20,37 @@ Automated tech news updates. Last updated: 2026-09-07 14:01:39 UTC
 
 ## Kubernetes
 
+- [Kubernetes access via an identity provider: Public client, not confidential](https://www.cncf.io/blog/2026/09/08/kubernetes-access-via-an-identity-provider-public-client-not-confidential/) - *Blog – Cloud Native Computing Foundation* (2026-09-08)
+- [Distributed tracing for CI pipelines without touching a single workflow file](https://www.cncf.io/blog/2026/09/08/distributed-tracing-for-ci-pipelines-without-touching-a-single-workflow-file/) - *Blog – Cloud Native Computing Foundation* (2026-09-08)
 - [Handling vulnerability reports: Recipe card](https://www.cncf.io/blog/2026/09/07/handling-vulnerability-reports-recipe-card/) - *Blog – Cloud Native Computing Foundation* (2026-09-07)
 - [Kubernetes v1.37: KubeletInUserNamespace (aka Rootless mode) Graduates to Beta](https://kubernetes.io/blog/2026/09/04/kubernetes-v1-37-rootless-beta/) - *Kubernetes Blog* (2026-09-04)
 - [Kubernetes isn’t new, but AI makes It scary again](https://www.cncf.io/blog/2026/09/04/kubernetes-isnt-new-but-ai-makes-it-scary-again/) - *Blog – Cloud Native Computing Foundation* (2026-09-04)
 - [CPU + GPU: Why AI platform engineering is a heterogeneous infrastructure problem](https://www.cncf.io/blog/2026/09/04/cpu-gpu-why-ai-platform-engineering-is-a-heterogeneous-infrastructure-problem/) - *Blog – Cloud Native Computing Foundation* (2026-09-04)
 - [Kubernetes v1.37: DRA Updates](https://kubernetes.io/blog/2026/09/03/kubernetes-v1-37-dra-updates/) - *Kubernetes Blog* (2026-09-03)
-- [Join OSPOlogy + OSPO Summit China 2026 in Shanghai](https://www.cncf.io/blog/2026/09/03/join-ospology-ospo-summit-china-2026-in-shanghai/) - *Blog – Cloud Native Computing Foundation* (2026-09-03)
-- [Migrating a critical Kubernetes deployment from the default namespace without any downtime](https://www.cncf.io/blog/2026/09/03/migrating-a-critical-kubernetes-deployment-from-the-default-namespace-without-any-downtime/) - *Blog – Cloud Native Computing Foundation* (2026-09-03)
 - [Kubernetes v1.37: Scale Workloads to Zero with HorizontalPodAutoscaler](https://kubernetes.io/blog/2026/09/02/kubernetes-v1-37-hpa-scale-to-zero-beta/) - *Kubernetes Blog* (2026-09-02)
 - [Kubernetes v1.37: etcd RangeStream Cuts Memory Use on Large List Reads](https://kubernetes.io/blog/2026/09/01/kubernetes-v1-37-etcd-range-stream/) - *Kubernetes Blog* (2026-09-01)
 - [Kubernetes v1.37: Storage Version Migration Enabled by Default](https://kubernetes.io/blog/2026/08/31/kubernetes-v1-37-storage-version-migration-ga/) - *Kubernetes Blog* (2026-08-31)
 
 ## Security
 
-- [Your Cloud Security Checklist Doesn't Work the Way You Think It Does](https://thehackernews.com/2026/09/your-cloud-security-checklist-doesnt.html) - *The Hacker News* (2026-09-07)
-- [Rogue ScreenConnect Clients Spread Four-Stage VBScript Chain to Newly Connected Hosts](https://thehackernews.com/2026/09/rogue-screenconnect-clients-spread-four.html) - *The Hacker News* (2026-09-07)
-- [Telerik UI Padding-Oracle Bug Chained to Unauthenticated RCE — Public Exploit Released](https://thehackernews.com/2026/09/telerik-ui-padding-oracle-bug-chained.html) - *The Hacker News* (2026-09-07)
+- [FreeIPA Flaw Chain Lets Anonymous Clients Create Reusable Administrator Credentials](https://thehackernews.com/2026/09/freeipa-flaw-chain-lets-anonymous.html) - *The Hacker News* (2026-09-08)
+- [Stealing AI Reasoning Traces](https://www.schneier.com/blog/archives/2026/09/stealing-ai-reasoning-traces.html) - *Schneier on Security* (2026-09-08)
+- [Adobe Patches Magento Zero-Day Exploited to Deploy Rust Backdoor and PHP Web Shell](https://thehackernews.com/2026/09/adobe-patches-magento-zero-day.html) - *The Hacker News* (2026-09-08)
+- [BengalSEO Poisons Bing Search Results to Deliver MayaBot and Tech Support Scams](https://thehackernews.com/2026/09/bengalseo-poisons-bing-search-results.html) - *The Hacker News* (2026-09-08)
+- [Grindr to Pay £26 Million to Settle U.K. Claims Over HIV Status Data Sharing](https://thehackernews.com/2026/09/grindr-to-pay-26-million-to-settle-uk.html) - *The Hacker News* (2026-09-08)
+- [PEEP Turns Chrome and Edge Into Post-Compromise Backdoors for Host Command Execution](https://thehackernews.com/2026/09/peep-turns-chrome-and-edge-into-post.html) - *The Hacker News* (2026-09-07)
 - [Automobile Camouflage to Hide from Flock Cameras](https://www.schneier.com/blog/archives/2026/09/automobile-camouflage-to-hide-from-flock-cameras.html) - *Schneier on Security* (2026-09-07)
-- [N-able Issues Fourth N-central Hotfix in Five Weeks for Unauthenticated RCE Flaw](https://thehackernews.com/2026/09/n-able-issues-fourth-n-central-hotfix.html) - *The Hacker News* (2026-09-07)
-- [JSCeal Malware Can Bypass Google Authentication Using Stolen Session Cookies](https://thehackernews.com/2026/09/jsceal-malware-can-bypass-google.html) - *The Hacker News* (2026-09-07)
 - [Friday Squid Blogging: Squid on a Stick at the New York State Fair](https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-squid-on-a-stick-at-the-new-york-state-fair.html) - *Schneier on Security* (2026-09-04)
 - [Using a VM to Contain an AI Agent](https://www.schneier.com/blog/archives/2026/09/using-a-vm-to-contain-an-ai-agent.html) - *Schneier on Security* (2026-09-04)
 - [Security Vulnerability in a Voting System](https://www.schneier.com/blog/archives/2026/09/security-vulnerability-in-a-voting-system.html) - *Schneier on Security* (2026-09-04)
-- [AI Coding Agents Are Installing Unknown/Untrusted Code on Corporate Networks](https://www.schneier.com/blog/archives/2026/09/ai-coding-agents-are-installing-unknown-untrusted-code-on-corporate-networks.html) - *Schneier on Security* (2026-09-04)
 
 ## Databases/Storage
 
+- [Wellingtone Luvonga: The Default Deny Dilemma: A Practical Guide to Kubernetes Network Policies](https://postgr.es/p/9u0) - *Planet PostgreSQL* (2026-09-08)
+- [Xavier Fischer: Birds of a Feather: How About Being a Speaker?](https://postgr.es/p/9u1) - *Planet PostgreSQL* (2026-09-07)
 - [Cornelia Biacsics: Contributions for week 34 & 35](https://postgr.es/p/9t_) - *Planet PostgreSQL* (2026-09-07)
 - [Christophe Pettus: All Your GUCs in a Row: log_parser_stats, log_planner_stats, log_executor_stats, and log_statement_stats](https://postgr.es/p/9tZ) - *Planet PostgreSQL* (2026-09-06)
 - [Christophe Pettus: All Your GUCs in a Row: log_startup_progress_interval and log_recovery_conflict_waits](https://postgr.es/p/9tY) - *Planet PostgreSQL* (2026-09-05)
-- [Christophe Pettus: All Your GUCs in a Row: log_lock_waits and log_lock_failures](https://postgr.es/p/9tT) - *Planet PostgreSQL* (2026-09-04)
-- [Mikhail Shytsko: What Replica Mode Does Not Switch Off](https://postgr.es/p/9tX) - *Planet PostgreSQL* (2026-09-04)
 - [Monitor self-managed databases with Amazon CloudWatch Database Insights](https://aws.amazon.com/blogs/database/monitor-self-managed-databases-with-amazon-cloudwatch-database-insights/) - *AWS Database Blog* (2026-09-03)
 - [Troubleshoot AWS Advanced JDBC Wrapper configuration for Aurora Global Database write forwarding](https://aws.amazon.com/blogs/database/troubleshoot-aws-advanced-jdbc-wrapper-configuration-for-aurora-global-database-write-forwarding/) - *AWS Database Blog* (2026-09-03)
 - [Introducing strands-dynamodb-storage: Durable agent storage for the Strands Agents SDK](https://aws.amazon.com/blogs/database/introducing-strands-dynamodb-storage-durable-agent-storage-for-the-strands-agents-sdk/) - *AWS Database Blog* (2026-09-02)
@@ -67,7 +67,7 @@ Automated tech news updates. Last updated: 2026-09-07 14:01:39 UTC
 
 ## Computing
 
-- [The complex corporate web behind a $3.2 billion AI data center](https://arstechnica.com/ai/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/) - *Ars Technica - All content* (2026-09-07)
+- [The complex corporate web behind a $3.2 billion AI data center](https://arstechnica.com/features/2026/09/the-ai-data-center-boom-is-causing-new-accountability-problems/) - *Ars Technica - All content* (2026-09-07)
 - [German company becomes first in Europe to launch fully commercial orbital rocket](https://arstechnica.com/space/2026/09/german-company-becomes-first-in-europe-to-launch-fully-commercial-orbital-rocket/) - *Ars Technica - All content* (2026-09-06)
 - [Farmed salmon may not be as nutritious as it once was, new research suggests](https://arstechnica.com/science/2026/09/farmed-salmon-may-not-be-as-nutritious-as-it-once-was-new-research-suggests/) - *Ars Technica - All content* (2026-09-06)
 - [Tesla’s Cybercab has been deployed, and it’s already under investigation](https://arstechnica.com/cars/2026/09/teslas-cybercab-has-been-deployed-and-its-already-under-investigation/) - *Ars Technica - All content* (2026-09-05)
@@ -96,11 +96,11 @@ Automated tech news updates. Last updated: 2026-09-07 14:01:39 UTC
 
 ## Technical Program Management (TPM)
 
+- [Presentation: A Solopreneur's Journey: From Engineer to Puzzle Master and Storyteller](https://www.infoq.com/presentations/solopreneur-journey/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-09-08)
+- [Article: Implementing Chaos Engineering in Financial Payment Systems: Lessons from Enterprise ECS Deployments](https://www.infoq.com/articles/chaos-engineering-ecs-payments/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-09-08)
+- [Does ICANN Open the Door on Identity Theft by Dropping 3rd Level .name Domains Registrations?](https://www.infoq.com/news/2026/09/name-domain-drop/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-09-08)
+- [Netflix Moves Toward Open Source Flink Autoscaler for 30,000+ Streaming Jobs](https://www.infoq.com/news/2026/09/netflix-flink-autoscaler/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-09-07)
 - [Presentation: From AI Agent Demo to Production: Automated Testing and Evaluation](https://www.infoq.com/presentations/ai-agent-testing-evaluation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-09-07)
-- [Zone Redundancy Comes to API Management Standard v2](https://www.infoq.com/news/2026/09/apim-standard-v2-zone-redundancy/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-09-07)
-- [CERN Renounces RHEL in Favor of  Debian for Its Accelerator Controls Infrastructure](https://www.infoq.com/news/2026/09/cern-debian-infra/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-09-07)
-- [vlt 1.0 Ships as a Drop-in npm Replacement with Phased Installs, Graph Queries, and Malware-Blocking](https://www.infoq.com/news/2026/09/vlt-npm-replacement/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-09-07)
-- [Java News Roundup: TornadoVM 6, JReleaser, LangChain4j, Java Operator SDK, JHipster, Yupiik Fusion](https://www.infoq.com/news/2026/09/java-news-roundup-aug31-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-09-07)
 - [The Pulse: Meta wanted to reduce teams by 60% because of AI](https://blog.pragmaticengineer.com/the-pulse-meta-wanted-to-reduce-teams-by-60-because-of-ai/) - *The Pragmatic Engineer* (2026-09-03)
 - [What Leaders Do That Keep Scrum Teams Working Like Individuals](https://www.mountaingoatsoftware.com/agile/what-leaders-do-that-keep-scrum-teams-working-like-individuals) - *Mike Cohn's Blog - Succeeding With Agile* (2026-09-01)
 - [How software engineering is changing: an essay challenge](https://blog.pragmaticengineer.com/how-software-engineering-is-changing-an-essay-challenge/) - *The Pragmatic Engineer* (2026-09-01)
@@ -143,11 +143,11 @@ Automated tech news updates. Last updated: 2026-09-07 14:01:39 UTC
 
 ## Platform Engineering & DevEx
 
+- [Infrastructure identity for platform engineers](https://platformengineering.org/blog/infrastructure-identity-for-platform-engineers) - *Platform Engineering Blog* (2026-09-08)
 - [How platform engineering 2.0 mitigates AI security and compliance risks](https://platformengineering.org/blog/how-platform-engineering-2-0-mitigates-ai-security-and-compliance-risks) - *Platform Engineering Blog* (2026-09-04)
 - [What is platform engineering?](https://platformengineering.org/blog/what-is-platform-engineering) - *Platform Engineering Blog* (2026-09-03)
 - [9 things to consider before choosing an IaC platform in 2026](https://platformengineering.org/blog/9-things-to-consider-before-choosing-an-iac-platform-in-2026) - *Platform Engineering Blog* (2026-08-26)
 - [What is a Minimum Viable Platform (MVP)?](https://platformengineering.org/blog/what-is-a-minimum-viable-platform-mvp) - *Platform Engineering Blog* (2026-08-21)
-- [Platform engineering needs to evolve. These 5 forces prove it.](https://platformengineering.org/blog/platform-engineering-needs-to-evolve-these-5-forces-prove-it) - *Platform Engineering Blog* (2026-08-14)
 - [Have you heard? Clickhouse is winning the observability wars!](https://charity.wtf/p/have-you-heard-clickhouse-is-winning) - *charity.wtf* (2026-07-08)
 - [In defense of AI mandates](https://charity.wtf/p/in-defense-of-ai-mandates) - *charity.wtf* (2026-07-02)
 - [Is it ethical to use AI?](https://charity.wtf/p/make-ai-boring-again) - *charity.wtf* (2026-06-24)
