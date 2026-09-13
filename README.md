@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-09-12 11:59:43 UTC
+Automated tech news updates. Last updated: 2026-09-13 13:08:45 UTC
 
 ## Software Architecture
 
@@ -33,25 +33,25 @@ Automated tech news updates. Last updated: 2026-09-12 11:59:43 UTC
 
 ## Security
 
+- [Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data](https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html) - *The Hacker News* (2026-09-13)
+- [CISA Adds 5 Actively Exploited Artifactory, ScreenConnect, and RouterOS Flaws to KEV](https://thehackernews.com/2026/09/cisa-adds-5-actively-exploited.html) - *The Hacker News* (2026-09-12)
 - [When the Whole Company Adopts AI: What It Does to Your SOC](https://thehackernews.com/2026/09/when-whole-company-adopts-ai-what-it.html) - *The Hacker News* (2026-09-12)
 - [OpenAI Agents Linked to RubyGems Campaign That Gained RCE on RubyDoc Servers](https://thehackernews.com/2026/09/openai-agents-linked-to-rubygems.html) - *The Hacker News* (2026-09-12)
 - [Friday Squid Blogging: Rotting Squid on a Beached California Boat](https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-rotting-squid-on-a-beached-california-boat.html) - *Schneier on Security* (2026-09-11)
 - [My Talk at DEF CON](https://www.schneier.com/blog/archives/2026/09/my-talk-at-def-con.html) - *Schneier on Security* (2026-09-11)
 - [GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure](https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html) - *The Hacker News* (2026-09-11)
-- [Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks](https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html) - *The Hacker News* (2026-09-11)
-- [Claude Used to Automate Exploitation and Data Theft Across Multiple Victims](https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html) - *The Hacker News* (2026-09-11)
 - [Cliff Stoll’s DEF CON Talk](https://www.schneier.com/blog/archives/2026/09/cliff-stolls-def-con-talk.html) - *Schneier on Security* (2026-09-11)
 - [AIs Compress Exploit Timeline](https://www.schneier.com/blog/archives/2026/09/ais-compress-exploit-timeline.html) - *Schneier on Security* (2026-09-10)
 - [Driver’s License Data for Sale](https://www.schneier.com/blog/archives/2026/09/drivers-license-data-for-sale.html) - *Schneier on Security* (2026-09-09)
 
 ## Databases/Storage
 
+- [Christophe Pettus: All Your GUCs in a Row: max_function_args](https://postgr.es/p/9up) - *Planet PostgreSQL* (2026-09-13)
 - [Jeremy Schneider: Misc Learnings: SBOMs, Provenance and Attestations](https://postgr.es/p/9un) - *Planet PostgreSQL* (2026-09-12)
 - [Christophe Pettus: All Your GUCs in a Row: max_files_per_process](https://postgr.es/p/9um) - *Planet PostgreSQL* (2026-09-12)
 - [Run DuckDB analytics on your Amazon DynamoDB data with zero-ETL](https://aws.amazon.com/blogs/database/run-duckdb-analytics-on-your-amazon-dynamodb-data-with-zero-etl/) - *AWS Database Blog* (2026-09-11)
 - [Shaun Thomas: PG Phriday: The Folder That Ate the Publisher](https://postgr.es/p/9uk) - *Planet PostgreSQL* (2026-09-11)
 - [Radim Marek: The unbearable lightness of one more index](https://postgr.es/p/9uh) - *Planet PostgreSQL* (2026-09-11)
-- [Christophe Pettus: All Your GUCs in a Row: max_connections](https://postgr.es/p/9ug) - *Planet PostgreSQL* (2026-09-11)
 - [Building async Python applications with Tortoise ORM and Amazon Aurora DSQL](https://aws.amazon.com/blogs/database/building-async-python-applications-with-tortoise-orm-and-amazon-aurora-dsql/) - *AWS Database Blog* (2026-09-09)
 - [From noise to signal: Monitoring Amazon DocumentDB like a pro](https://aws.amazon.com/blogs/database/from-noise-to-signal-monitoring-amazon-documentdb-like-a-pro/) - *AWS Database Blog* (2026-09-09)
 - [Getting started with Oracle Database@AWS: A complete onboarding guide](https://aws.amazon.com/blogs/database/getting-started-with-oracle-databaseaws-a-complete-onboarding-guide/) - *AWS Database Blog* (2026-09-08)
@@ -67,11 +67,11 @@ Automated tech news updates. Last updated: 2026-09-12 11:59:43 UTC
 
 ## Computing
 
+- [I fixed a tractor using John Deere’s self-repair service. Farmers aren’t sold on it.](https://arstechnica.com/gadgets/2026/09/i-fixed-a-tractor-using-john-deeres-self-repair-service-farmers-arent-sold-on-it/) - *Ars Technica - All content* (2026-09-13)
 - [I spent $4,000 on a robot dog from China](https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/) - *Ars Technica - All content* (2026-09-12)
 - [Some satellite companies still have an appetite for boutique launch services](https://arstechnica.com/space/2026/09/some-satellite-companies-still-have-an-appetite-for-boutique-launch-services/) - *Ars Technica - All content* (2026-09-11)
 - [Random rewards enrich classic game-theory insights](https://arstechnica.com/science/2026/09/random-rewards-enrich-classic-game-theory-contests/) - *Ars Technica - All content* (2026-09-11)
 - [Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland](https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland/) - *Ars Technica - All content* (2026-09-11)
-- [Trump's forced coal plant extensions thrown out by judge](https://arstechnica.com/science/2026/09/court-rejects-governments-energy-emergency-that-kept-coal-plant-open/) - *Ars Technica - All content* (2026-09-11)
 
 ## AI/Models/RL
 
@@ -96,11 +96,11 @@ Automated tech news updates. Last updated: 2026-09-12 11:59:43 UTC
 
 ## Technical Program Management (TPM)
 
+- [Cloudflare Tests Cache Transcoding to Reduce Storage Requirements](https://www.infoq.com/news/2026/09/cloudflare-cache-transcoding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-09-13)
+- [GitHub Copilot's Project HydraFusion Promises Frontier Level Performance Through Multi-Model Routing](https://www.infoq.com/news/2026/09/github-hydrafusion/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-09-13)
+- [Open-Source Project Brings Full iOS 27 Virtualization to Apple Silicon](https://www.infoq.com/news/2026/09/ios-27-virtualization/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-09-12)
 - [Presentation: From Retrieval to Reasoning: Building Production-Ready Agentic AI Systems with Knowledge Graphs](https://www.infoq.com/presentations/knowledge-graphs-agentic-systems-patterns/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-09-12)
 - [Lambda SnapStart Comes to Container Images, Ending a Packaging Tradeoff](https://www.infoq.com/news/2026/09/lambda-snapstart-container-image/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-09-12)
-- [One Decade of Rustls: Evolution, Benchmarks, and Future Roadmap](https://www.infoq.com/news/2026/09/rustls-one-decade/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-09-12)
-- [NVIDIA Personal AI Router Distributes AI Tasks across Local Compute](https://www.infoq.com/news/2026/09/nvidia-pair-ai-task-router/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-09-11)
-- [Netflix Reworks Conductor for 420 Million Monthly Workflow Executions and 10X Larger Workflows](https://www.infoq.com/news/2026/09/netflix-conductor-4-workflow/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-09-11)
 - [The Pulse: tech companies move to open AI models](https://blog.pragmaticengineer.com/the-pulse-tech-companies-move-to-open-ai-models/) - *The Pragmatic Engineer* (2026-09-10)
 - [The Pulse: Meta wanted to reduce teams by 60% because of AI](https://blog.pragmaticengineer.com/the-pulse-meta-wanted-to-reduce-teams-by-60-because-of-ai/) - *The Pragmatic Engineer* (2026-09-03)
 - [What Leaders Do That Keep Scrum Teams Working Like Individuals](https://www.mountaingoatsoftware.com/agile/what-leaders-do-that-keep-scrum-teams-working-like-individuals) - *Mike Cohn's Blog - Succeeding With Agile* (2026-09-01)
@@ -117,7 +117,12 @@ Automated tech news updates. Last updated: 2026-09-12 11:59:43 UTC
 
 ## Network Observability
 
+- [TNO072: Connectivity and Community with Jason Gintert](https://packetpushers.net/podcasts/total-network-operations/tno072-connectivity-and-community-with-jason-gintert/) - *The Everything Feed - All Packet Pushers Pods* (2026-09-11)
+- [HN841: HPE Melds Apstra and Mist for Self-Driving Data Center Networks (Sponsored)](https://packetpushers.net/podcasts/heavy-networking/hn841-hpe-melds-apstra-and-mist-for-self-driving-data-center-networks-sponsored/) - *The Everything Feed - All Packet Pushers Pods* (2026-09-11)
+- [LIU022: Chris Grundemann – From Pulling Cable to Network Automation Forum](https://packetpushers.net/podcasts/life-in-uptime/liu022-chris-grundemann-from-pulling-cable-to-network-automation-forum/) - *The Everything Feed - All Packet Pushers Pods* (2026-09-10)
 - [Redefining Digital Resilience in the AI Era](https://blogs.cisco.com/news/redefining-digital-resilience-in-the-ai-era) - *Observability - Cisco Blogs* (2026-09-10)
+- [D2DO312: Networking at Scale: AWS Transit Gateway War Stories](https://packetpushers.net/podcasts/day-two-devops/d2do312-networking-at-scale-aws-transit-gateway-war-stories/) - *The Everything Feed - All Packet Pushers Pods* (2026-09-09)
+- [PP125: News Roundup—Cyberattack Impacts Pacemakers, OpenAI Publishes Eye-Opening Postmortem, and More](https://packetpushers.net/podcasts/packet-protector/pp125-news-roundup-cyberattack-impacts-pacemakers-openai-publishes-eye-opening-postmortem-and-more/) - *The Everything Feed - All Packet Pushers Pods* (2026-09-08)
 - [How Cisco IT Modernized Voice Security with AI](https://blogs.cisco.com/cisco-on-cisco/how-cisco-it-modernized-voice-security-with-ai) - *Observability - Cisco Blogs* (2026-08-04)
 - [The AI invoice nobody planned for — and how Cisco is solving it from the inside](https://blogs.cisco.com/cisco-on-cisco/the-ai-invoice-nobody-planned-for-and-how-cisco-is-solving-it) - *Observability - Cisco Blogs* (2026-08-04)
 - [Navigating AI Tokenomics: From Cost Uncertainty to Operational Scale](https://blogs.cisco.com/news/navigating-ai-tokenomics-from-cost-uncertainty-to-operational-scale) - *Observability - Cisco Blogs* (2026-07-29)
