@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-09-19 12:19:32 UTC
+Automated tech news updates. Last updated: 2026-09-20 12:53:51 UTC
 
 ## Software Architecture
 
@@ -33,11 +33,11 @@ Automated tech news updates. Last updated: 2026-09-19 12:19:32 UTC
 
 ## Security
 
-- [Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws](https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html) - *The Hacker News* (2026-09-19)
+- [Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws](https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html) - *The Hacker News* (2026-09-20)
+- [Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar](https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html) - *The Hacker News* (2026-09-19)
+- [Identity Visibility in 2026: The Foundation of Identity Security](https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html) - *The Hacker News* (2026-09-19)
 - [SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE](https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html) - *The Hacker News* (2026-09-19)
 - [Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild](https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html) - *The Hacker News* (2026-09-19)
-- [Google Gemini Broke Into Real Company Systems After Security Test Domain Mix-Up](https://thehackernews.com/2026/09/google-gemini-broke-into-real-company.html) - *The Hacker News* (2026-09-19)
-- [CrowdSec Says TanStack npm Attack Led to Copy of 170 Private GitHub Repositories](https://thehackernews.com/2026/09/crowdsec-says-tanstack-npm-attack-led.html) - *The Hacker News* (2026-09-19)
 - [Friday Squid Blogging: On Squid Egg Sacs](https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-on-squid-egg-sacs.html) - *Schneier on Security* (2026-09-18)
 - [Are AIs Still Struggling with CAPTCHAs?](https://www.schneier.com/blog/archives/2026/09/are-ais-still-struggling-with-captchas.html) - *Schneier on Security* (2026-09-18)
 - [How Candidates Could Use AI for Good](https://www.schneier.com/blog/archives/2026/09/how-candidates-could-use-ai-for-good.html) - *Schneier on Security* (2026-09-17)
@@ -46,11 +46,11 @@ Automated tech news updates. Last updated: 2026-09-19 12:19:32 UTC
 
 ## Databases/Storage
 
+- [Christophe Pettus: All Your GUCs in a Row: max_parallel_workers and max_parallel_workers_per_gather](https://postgr.es/p/9va) - *Planet PostgreSQL* (2026-09-20)
+- [Henrietta Dombrovskaya: Major updates to pg_acm](https://postgr.es/p/9v9) - *Planet PostgreSQL* (2026-09-20)
 - [Christophe Pettus: All Your GUCs in a Row: max_parallel_maintenance_workers](https://postgr.es/p/9v7) - *Planet PostgreSQL* (2026-09-19)
 - [Mark Wong: Sizing an OLTP TPC-E-like workload, Part 1](https://postgr.es/p/9v6) - *Planet PostgreSQL* (2026-09-19)
-- [Shaun Thomas: Looking Forward to Postgres 19: Epilogue](https://postgr.es/p/9v8) - *Planet PostgreSQL* (2026-09-18)
-- [Jimmy Angelakos: postgres.scot is live, August PostgresEDI meetup](https://postgr.es/p/9v3) - *Planet PostgreSQL* (2026-09-18)
-- [Christophe Pettus: All Your GUCs in a Row: max_notify_queue_pages](https://postgr.es/p/9v2) - *Planet PostgreSQL* (2026-09-18)
+- [Ruohang Feng: PostgreSQL's Chinese Error Messages Were Seven Years Stale. Not Anymore.](https://postgr.es/p/9vb) - *Planet PostgreSQL* (2026-09-19)
 - [Implement a correctness-safe Bloom filter lookup with Amazon ElastiCache for Valkey and Amazon Aurora PostgreSQL](https://aws.amazon.com/blogs/database/implement-a-correctness-safe-bloom-filter-lookup-with-amazon-elasticache-for-valkey-and-amazon-aurora-postgresql/) - *AWS Database Blog* (2026-09-17)
 - [How Intuit and AWS systematically improved resiliency on ElastiCache using AWS Fault Injection Service](https://aws.amazon.com/blogs/database/how-intuit-and-aws-systematically-improved-resiliency-on-elasticache-using-aws-fault-injection-service/) - *AWS Database Blog* (2026-09-17)
 - [Resolve Amazon Aurora PostgreSQL lock contention with Database Insights: Part 2](https://aws.amazon.com/blogs/database/resolve-amazon-aurora-postgresql-lock-contention-with-database-insights-part-2/) - *AWS Database Blog* (2026-09-14)
@@ -67,11 +67,11 @@ Automated tech news updates. Last updated: 2026-09-19 12:19:32 UTC
 
 ## Computing
 
+- [An undercover Google analyst infiltrated a notorious supply-chain hacking gang](https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/) - *Ars Technica - All content* (2026-09-20)
+- [Don't call it an SUV: The Ferrari Purosangue review](https://arstechnica.com/cars/2026/09/dont-call-it-an-suv-the-ferrari-purosangue-review/) - *Ars Technica - All content* (2026-09-20)
+- [T. rex teeth indicate it ran as warm as an elephant](https://arstechnica.com/science/2026/09/t-rex-teeth-indicate-it-ran-as-warm-as-an-elephant/) - *Ars Technica - All content* (2026-09-20)
 - [Learning another language may be one of the best ways to keep your brain healthy](https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/) - *Ars Technica - All content* (2026-09-19)
 - [Rings around a tiny body have changed over the past decade](https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/) - *Ars Technica - All content* (2026-09-19)
-- [AI hallucination of Chinese nuclear components almost led to US military attack](https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report/) - *Ars Technica - All content* (2026-09-18)
-- [FAA tees up $875M AI tool to help manage air traffic congestion](https://arstechnica.com/ai/2026/09/faa-tees-up-875m-ai-tool-to-help-manage-air-traffic-congestion/) - *Ars Technica - All content* (2026-09-18)
-- [FCC lets Paramount sell 49.5% equity stake to Saudi Arabia, UAE, and Qatar](https://arstechnica.com/tech-policy/2026/09/fcc-lets-paramount-sell-49-5-equity-stake-to-saudi-arabia-uae-and-qatar/) - *Ars Technica - All content* (2026-09-18)
 
 ## AI/Models/RL
 
@@ -96,11 +96,11 @@ Automated tech news updates. Last updated: 2026-09-19 12:19:32 UTC
 
 ## Technical Program Management (TPM)
 
+- [Google Agent Development Kit for Kotlin Reaches Feature Parity with Python, Supports On-Device AI](https://www.infoq.com/news/2026/09/google-adk-1-0-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-09-20)
+- [Cloudflare Measures Origin TLS Preferences, Cutting Handshake Retries from 52% to 3.7%](https://www.infoq.com/news/2026/09/cloudflare-automatic-key-exchang/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-09-20)
 - [Presentation: Context Engineering at LinkedIn: How We Built an Organizational Context Layer for AI Agents with MCP](https://www.infoq.com/presentations/linkedin-context-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-09-19)
 - [AWS Lambda Pushes Serverless Toward Long-Running Workloads](https://www.infoq.com/news/2026/09/lambda-90-minute-timeout/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-09-19)
 - [SolidStart 2: Replaces Vinxi with a Vite 8 and Enters Maintenance as Its Role Winds Down](https://www.infoq.com/news/2026/09/solid-start-v2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-09-19)
-- [MariaDB 13 Expands Oracle Compatibility and Improves Developer Experience and Observability](https://www.infoq.com/news/2026/09/mariadb-13-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-09-18)
-- [DoorDash Uses Multi Agent LLMs to Clean up 60,000 Feature Flags](https://www.infoq.com/news/2026/09/doordash-feature-flag-cleanup/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-09-18)
 - [AI Can Write Backlog Items. It Can’t Create Shared Understanding](https://www.mountaingoatsoftware.com/agile/ai-can-write-backlog-items-it-cant-create-shared-understanding) - *Mike Cohn's Blog - Succeeding With Agile* (2026-09-15)
 - [The Pulse: tech companies move to open AI models](https://blog.pragmaticengineer.com/the-pulse-tech-companies-move-to-open-ai-models/) - *The Pragmatic Engineer* (2026-09-10)
 - [The Pulse: Meta wanted to reduce teams by 60% because of AI](https://blog.pragmaticengineer.com/the-pulse-meta-wanted-to-reduce-teams-by-60-because-of-ai/) - *The Pragmatic Engineer* (2026-09-03)
@@ -130,11 +130,11 @@ Automated tech news updates. Last updated: 2026-09-19 12:19:32 UTC
 
 ## Agentic AI & Workflows
 
+- [Can Jev Be a Better Agent Evaluator?](https://www.langchain.com/blog/jev-agent-evals-langsmith) - *LangChain Blog* (2026-09-20)
 - [What Is Jev? A Guide to TypeSafe AI’s System One Model](https://www.langchain.com/blog/building-a-harness-with-jev) - *LangChain Blog* (2026-09-19)
 - [How Included Health Built Federated Healthcare Agents with LangGraph and Deep Agents](https://www.langchain.com/blog/how-included-health-built-federated-agents-for-healthcare-navigation-with-deep-agents-and-langgraph) - *LangChain Blog* (2026-09-17)
 - [Building an Agent Harness for Life Sciences: Introducing Deep Life Sci](https://www.langchain.com/blog/agent-harness-life-sciences) - *LangChain Blog* (2026-09-17)
 - [Scaling Agents in Healthcare & Life Sciences: Lessons from Madrigal Pharmaceuticals, Abridge, and Vizient](https://www.langchain.com/blog/scaling-agents-in-healthcare-life-sciences-lessons-from-madrigal-pharmaceuticals-abridge-and-vizient) - *LangChain Blog* (2026-09-16)
-- [How We Built LangChain’s Paid Media Agent](https://www.langchain.com/blog/paid-media-agent) - *LangChain Blog* (2026-09-15)
 - [Unlocking the 3rd Dimension for Generative AI (Part 1)](https://medium.com/llamaindex-blog/unlocking-the-3rd-dimension-for-generative-ai-part-1-f13a21e63a6f?source=rss----d7683ed5043e---4) - *LlamaIndex Blog - Medium* (2024-03-04)
 - [Querying a network of knowledge with llama-index-networks](https://medium.com/llamaindex-blog/querying-a-network-of-knowledge-with-llama-index-networks-d784b4c3006f?source=rss----d7683ed5043e---4) - *LlamaIndex Blog - Medium* (2024-02-27)
 - [LlamaIndex Newsletter 2024–02–27](https://medium.com/llamaindex-blog/llamaindex-newsletter-2024-02-27-4b9102a0f824?source=rss----d7683ed5043e---4) - *LlamaIndex Blog - Medium* (2024-02-27)
