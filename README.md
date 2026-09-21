@@ -1,14 +1,14 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-09-20 12:53:51 UTC
+Automated tech news updates. Last updated: 2026-09-21 14:53:47 UTC
 
 ## Software Architecture
 
+- [Presentation: The Agent Harness: Control Planes, Invariants, and Approval Boundaries for Production AI Agents](https://www.infoq.com/presentations/ai-agent-harness/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-09-21)
+- [AWS Cannot Restore Data Held Only in Damaged Middle East Availability Zones](https://www.infoq.com/news/2026/09/aws-middle-east-data-loss/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-09-21)
+- [Presentation: Context Engineering at LinkedIn: How We Built an Organizational Context Layer for AI Agents with MCP](https://www.infoq.com/presentations/linkedin-context-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-09-19)
 - [Presentation: Complexity and Creativity in Software Engineering](https://www.infoq.com/presentations/ai-software-engineering-complexity/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-09-18)
 - [Article: Architecting Secure and Scalable Facial Verification Systems](https://www.infoq.com/articles/secure-scalable-facial-verification/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-09-18)
-- [GPT-6 Astra is the First Model OpenAI Classifies as Critical for Cybersecurity](https://www.infoq.com/news/2026/09/gpt-6-astra-critical-cyber/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-09-17)
-- [Dropbox Evolves Riviera Content Processing Platform to Support AI Workloads](https://www.infoq.com/news/2026/09/dropbox-riviera-ai-platform/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-09-16)
-- [How Solaris' Turnstile Influenced the Modern System Designs of Web Browsers and Language Runtimes](https://www.infoq.com/news/2026/09/turnstile-system-design/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-09-15)
 
 ## Cloud Computing
 
@@ -33,29 +33,29 @@ Automated tech news updates. Last updated: 2026-09-20 12:53:51 UTC
 
 ## Security
 
+- [Reverse-Engineering Flock Cameras](https://www.schneier.com/blog/archives/2026/09/reverse-engineering-flock-cameras.html) - *Schneier on Security* (2026-09-21)
+- [⚡ Weekly Recap: Cisco 0-Day, AI Agent RCE, ClickFix Attacks, ClickFix Surge, and Browser Hijacks](https://thehackernews.com/2026/09/weekly-recap-cisco-0-day-ai-agent-rce.html) - *The Hacker News* (2026-09-21)
+- [TASK#STOMP PowerShell Backdoor Steals Documents, Wi-Fi Passwords, and Clipboard Data](https://thehackernews.com/2026/09/taskstomp-powershell-backdoor-steals.html) - *The Hacker News* (2026-09-21)
+- [ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure](https://thehackernews.com/2026/09/clickfix-lures-deploy-chainscript-rat.html) - *The Hacker News* (2026-09-21)
+- [Jade Sleet Linked to Indian IT Provider Breach With FLATROOF and ROOFDECK Backdoors](https://thehackernews.com/2026/09/jade-sleet-linked-to-indian-it-provider.html) - *The Hacker News* (2026-09-21)
 - [Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws](https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html) - *The Hacker News* (2026-09-20)
-- [Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar](https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html) - *The Hacker News* (2026-09-19)
-- [Identity Visibility in 2026: The Foundation of Identity Security](https://thehackernews.com/2026/09/identity-visibility-in-2026-foundation.html) - *The Hacker News* (2026-09-19)
-- [SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE](https://thehackernews.com/2026/09/solarwinds-patches-arm-hard-coded-key.html) - *The Hacker News* (2026-09-19)
-- [Critical Pre-Auth RCE in Orkes Conductor Workflow Platform Exploited in the Wild](https://thehackernews.com/2026/09/critical-pre-auth-rce-in-orkes.html) - *The Hacker News* (2026-09-19)
 - [Friday Squid Blogging: On Squid Egg Sacs](https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-on-squid-egg-sacs.html) - *Schneier on Security* (2026-09-18)
 - [Are AIs Still Struggling with CAPTCHAs?](https://www.schneier.com/blog/archives/2026/09/are-ais-still-struggling-with-captchas.html) - *Schneier on Security* (2026-09-18)
 - [How Candidates Could Use AI for Good](https://www.schneier.com/blog/archives/2026/09/how-candidates-could-use-ai-for-good.html) - *Schneier on Security* (2026-09-17)
 - [Data Broker Radaris Loses Domains in Privacy Fight](https://krebsonsecurity.com/2026/09/data-broker-radaris-loses-domains-in-privacy-fight/) - *Krebs on Security* (2026-09-16)
-- [Fake CAPTCHA Scams](https://www.schneier.com/blog/archives/2026/09/fake-captcha-scams.html) - *Schneier on Security* (2026-09-16)
 
 ## Databases/Storage
 
+- [Cornelia Biacsics: Contributions for week 37](https://postgr.es/p/9vg) - *Planet PostgreSQL* (2026-09-21)
+- [Spec-Driven Development comes to Azure Cosmos DB: The First Database Extension for GitHub Spec Kit](https://devblogs.microsoft.com/cosmosdb/spec-driven-development-comes-to-azure-cosmos-db-the-first-database-extension-for-github-spec-kit/) - *Azure Cosmos DB Blog* (2026-09-21)
+- [Christophe Pettus: All Your GUCs in a Row: max_parallel_apply_workers_per_subscription](https://postgr.es/p/9vf) - *Planet PostgreSQL* (2026-09-21)
 - [Christophe Pettus: All Your GUCs in a Row: max_parallel_workers and max_parallel_workers_per_gather](https://postgr.es/p/9va) - *Planet PostgreSQL* (2026-09-20)
 - [Henrietta Dombrovskaya: Major updates to pg_acm](https://postgr.es/p/9v9) - *Planet PostgreSQL* (2026-09-20)
 - [Christophe Pettus: All Your GUCs in a Row: max_parallel_maintenance_workers](https://postgr.es/p/9v7) - *Planet PostgreSQL* (2026-09-19)
-- [Mark Wong: Sizing an OLTP TPC-E-like workload, Part 1](https://postgr.es/p/9v6) - *Planet PostgreSQL* (2026-09-19)
-- [Ruohang Feng: PostgreSQL's Chinese Error Messages Were Seven Years Stale. Not Anymore.](https://postgr.es/p/9vb) - *Planet PostgreSQL* (2026-09-19)
 - [Implement a correctness-safe Bloom filter lookup with Amazon ElastiCache for Valkey and Amazon Aurora PostgreSQL](https://aws.amazon.com/blogs/database/implement-a-correctness-safe-bloom-filter-lookup-with-amazon-elasticache-for-valkey-and-amazon-aurora-postgresql/) - *AWS Database Blog* (2026-09-17)
 - [How Intuit and AWS systematically improved resiliency on ElastiCache using AWS Fault Injection Service](https://aws.amazon.com/blogs/database/how-intuit-and-aws-systematically-improved-resiliency-on-elasticache-using-aws-fault-injection-service/) - *AWS Database Blog* (2026-09-17)
 - [Resolve Amazon Aurora PostgreSQL lock contention with Database Insights: Part 2](https://aws.amazon.com/blogs/database/resolve-amazon-aurora-postgresql-lock-contention-with-database-insights-part-2/) - *AWS Database Blog* (2026-09-14)
 - [Troubleshooting row lock contention in Amazon Aurora PostgreSQL: Part 1 – Understanding row lock contention in PostgreSQL](https://aws.amazon.com/blogs/database/troubleshooting-row-lock-contention-in-amazon-aurora-postgresql-part-1-understanding-row-lock-contention-in-postgresql/) - *AWS Database Blog* (2026-09-14)
-- [MulticloudDB SDK: Cross-cloud portability in the coding agent era](https://devblogs.microsoft.com/cosmosdb/multiclouddb-sdk-cross-cloud-portability-in-the-coding-agent-era/) - *Azure Cosmos DB Blog* (2026-09-14)
 
 ## Networking
 
@@ -67,24 +67,24 @@ Automated tech news updates. Last updated: 2026-09-20 12:53:51 UTC
 
 ## Computing
 
+- [Apple Mac mini review: The new M6 impresses, but the price hike is rough](https://arstechnica.com/gadgets/2026/09/apple-m6-mac-mini-review-300-price-hike-spoils-a-nice-upgrade/) - *Ars Technica - All content* (2026-09-21)
+- [Googlebooks launch October 4 starting at $899—here are the five models you can preorder today](https://arstechnica.com/gadgets/2026/09/googlebook-laptops-launch-october-4-starting-at-899-preorders-for-five-models-live-today/) - *Ars Technica - All content* (2026-09-21)
 - [An undercover Google analyst infiltrated a notorious supply-chain hacking gang](https://arstechnica.com/security/2026/09/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/) - *Ars Technica - All content* (2026-09-20)
 - [Don't call it an SUV: The Ferrari Purosangue review](https://arstechnica.com/cars/2026/09/dont-call-it-an-suv-the-ferrari-purosangue-review/) - *Ars Technica - All content* (2026-09-20)
 - [T. rex teeth indicate it ran as warm as an elephant](https://arstechnica.com/science/2026/09/t-rex-teeth-indicate-it-ran-as-warm-as-an-elephant/) - *Ars Technica - All content* (2026-09-20)
-- [Learning another language may be one of the best ways to keep your brain healthy](https://arstechnica.com/science/2026/09/learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy/) - *Ars Technica - All content* (2026-09-19)
-- [Rings around a tiny body have changed over the past decade](https://arstechnica.com/science/2026/09/rings-around-a-tiny-body-have-changed-over-the-past-decade/) - *Ars Technica - All content* (2026-09-19)
 
 ## AI/Models/RL
 
+- [Pruning LLMs Like a Physicist: Block Removal as an Ising Optimization Problem](https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an) - *Hugging Face - Blog* (2026-09-21)
+- [How V7 gives AI agents institutional memory](https://openai.com/index/v7) - *OpenAI News* (2026-09-21)
+- [tokenizers v1: encode, decode and scaling, measured](https://huggingface.co/blog/tokenizers-v1) - *Hugging Face - Blog* (2026-09-21)
 - [MilleMiglia: A realistic instance generator for middle-mile logistics](https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics/) - *The latest research from Google* (2026-09-18)
 - [Introducing the Australian Youth Safety Blueprint](https://openai.com/index/australian-youth-safety-blueprint) - *OpenAI News* (2026-09-18)
 - [The future of practice: Enabling teachers to create learning interactives with generative UI](https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui/) - *The latest research from Google* (2026-09-17)
 - [How Cooley is accelerating IPO work with ChatGPT](https://openai.com/index/cooley-gopublic) - *OpenAI News* (2026-09-17)
 - [Introducing Astra for Law](https://openai.com/index/astra-for-law) - *OpenAI News* (2026-09-17)
 - [Helping older adults use AI in everyday life](https://openai.com/index/helping-older-adults-use-ai-in-everyday-life) - *OpenAI News* (2026-09-16)
-- [Reimagining advertising with AI](https://openai.com/index/reimagining-advertising-with-ai) - *OpenAI News* (2026-09-16)
 - [Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train](https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/) - *The latest research from Google* (2026-09-15)
-- [Introducing Gemini 3.8 Live and 3.8 Live Extended Thinking](https://deepmind.google/blog/introducing-gemini-3-8-live-and-3-8-live-extended-thinking/) - *Google DeepMind News* (2026-09-15)
-- [Your Agent Aced the Task. Will It Do It Again?](https://huggingface.co/blog/ibm-research/altk-evolve-consistency) - *Hugging Face - Blog* (2026-09-15)
 
 ## AI Infra
 
@@ -96,11 +96,11 @@ Automated tech news updates. Last updated: 2026-09-20 12:53:51 UTC
 
 ## Technical Program Management (TPM)
 
-- [Google Agent Development Kit for Kotlin Reaches Feature Parity with Python, Supports On-Device AI](https://www.infoq.com/news/2026/09/google-adk-1-0-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-09-20)
-- [Cloudflare Measures Origin TLS Preferences, Cutting Handshake Retries from 52% to 3.7%](https://www.infoq.com/news/2026/09/cloudflare-automatic-key-exchang/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-09-20)
-- [Presentation: Context Engineering at LinkedIn: How We Built an Organizational Context Layer for AI Agents with MCP](https://www.infoq.com/presentations/linkedin-context-engineering/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-09-19)
-- [AWS Lambda Pushes Serverless Toward Long-Running Workloads](https://www.infoq.com/news/2026/09/lambda-90-minute-timeout/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-09-19)
-- [SolidStart 2: Replaces Vinxi with a Vite 8 and Enters Maintenance as Its Role Winds Down](https://www.infoq.com/news/2026/09/solid-start-v2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-09-19)
+- [Uber Redesigns M3DB Sharding with Subclusters to Limit Failure Impact](https://www.infoq.com/news/2026/09/uber-m3db-subcluster-sharding/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-09-21)
+- [Cloudflare Introduces the Agent Development Lifecycle to Replace Traditional SDLC](https://www.infoq.com/news/2026/09/cloudflare-adlc-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-09-21)
+- [Presentation: The Agent Harness: Control Planes, Invariants, and Approval Boundaries for Production AI Agents](https://www.infoq.com/presentations/ai-agent-harness/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-09-21)
+- [AWS Cannot Restore Data Held Only in Damaged Middle East Availability Zones](https://www.infoq.com/news/2026/09/aws-middle-east-data-loss/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-09-21)
+- [Kubernetes 1.37 Released: Stable Metrics API  and Rootless Kubelet in Beta](https://www.infoq.com/news/2026/09/kubernetes-1-37/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-09-21)
 - [AI Can Write Backlog Items. It Can’t Create Shared Understanding](https://www.mountaingoatsoftware.com/agile/ai-can-write-backlog-items-it-cant-create-shared-understanding) - *Mike Cohn's Blog - Succeeding With Agile* (2026-09-15)
 - [The Pulse: tech companies move to open AI models](https://blog.pragmaticengineer.com/the-pulse-tech-companies-move-to-open-ai-models/) - *The Pragmatic Engineer* (2026-09-10)
 - [The Pulse: Meta wanted to reduce teams by 60% because of AI](https://blog.pragmaticengineer.com/the-pulse-meta-wanted-to-reduce-teams-by-60-because-of-ai/) - *The Pragmatic Engineer* (2026-09-03)
@@ -130,8 +130,8 @@ Automated tech news updates. Last updated: 2026-09-20 12:53:51 UTC
 
 ## Agentic AI & Workflows
 
+- [What Is Jev? A Guide to TypeSafe AI’s System One Model](https://www.langchain.com/blog/building-a-harness-with-jev) - *LangChain Blog* (2026-09-20)
 - [Can Jev Be a Better Agent Evaluator?](https://www.langchain.com/blog/jev-agent-evals-langsmith) - *LangChain Blog* (2026-09-20)
-- [What Is Jev? A Guide to TypeSafe AI’s System One Model](https://www.langchain.com/blog/building-a-harness-with-jev) - *LangChain Blog* (2026-09-19)
 - [How Included Health Built Federated Healthcare Agents with LangGraph and Deep Agents](https://www.langchain.com/blog/how-included-health-built-federated-agents-for-healthcare-navigation-with-deep-agents-and-langgraph) - *LangChain Blog* (2026-09-17)
 - [Building an Agent Harness for Life Sciences: Introducing Deep Life Sci](https://www.langchain.com/blog/agent-harness-life-sciences) - *LangChain Blog* (2026-09-17)
 - [Scaling Agents in Healthcare & Life Sciences: Lessons from Madrigal Pharmaceuticals, Abridge, and Vizient](https://www.langchain.com/blog/scaling-agents-in-healthcare-life-sciences-lessons-from-madrigal-pharmaceuticals-abridge-and-vizient) - *LangChain Blog* (2026-09-16)
