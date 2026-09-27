@@ -1,14 +1,14 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-09-26 12:42:17 UTC
+Automated tech news updates. Last updated: 2026-09-27 13:34:10 UTC
 
 ## Software Architecture
 
+- [GKE Pod Snapshots Cut Model Load Times, and Move the Work to Snapshot Lifecycle Management](https://www.infoq.com/news/2026/09/gke-pod-snapshots-benchmarks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-09-27)
 - [From Agent Authorization to AI Production Evaluation: QCon AI New York 2026](https://www.infoq.com/news/2026/09/qcon-ai-newyork-2026-sessions/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-09-25)
 - [Presentation: Spritely: Infrastructure for the Future of the Internet](https://www.infoq.com/presentations/spritely-decentralized-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-09-25)
 - [Apple Reference Image Signs Photos at the Sensor, Moving Provenance Trust away from C2PA](https://www.infoq.com/news/2026/09/apple-reference-image-provenance/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-09-24)
 - [Presentation: APIs for Agents: Rethinking API Programs in the MCP Era](https://www.infoq.com/presentations/mcp-calm-api-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-09-23)
-- [Elastic Beanstalk Adds Cluster Mode, Running Applications on Shared EKS Clusters](https://www.infoq.com/news/2026/09/elastic-beanstalk-cluster-eks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-09-23)
 
 ## Cloud Computing
 
@@ -33,25 +33,25 @@ Automated tech news updates. Last updated: 2026-09-26 12:42:17 UTC
 
 ## Security
 
+- [Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation](https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html) - *The Hacker News* (2026-09-27)
+- [Lunex Stealer Abuses AMD Driver to Disable Security Monitoring and Steal Browser Credentials](https://thehackernews.com/2026/09/lunex-stealer-abuses-amd-driver-to.html) - *The Hacker News* (2026-09-26)
+- [Attackers Bypass WAFs to Exploit Oracle PeopleSoft Flaw and Deploy Web Shells](https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html) - *The Hacker News* (2026-09-26)
+- [Zero Trust for AI Agents Starts With Fixing Zero Visibility](https://thehackernews.com/2026/09/zero-trust-for-ai-agents-starts-with.html) - *The Hacker News* (2026-09-26)
 - [Elementor CSRF Flaw Lets Attackers Take Over Sites After Admin Clicks Crafted Link](https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html) - *The Hacker News* (2026-09-26)
-- [SharePoint RCE and MikroTik RouterOS Flaws Actively Exploited in the Wild](https://thehackernews.com/2026/09/sharepoint-rce-and-mikrotik-routeros.html) - *The Hacker News* (2026-09-26)
-- [Kiteworks Urges Customers to Shut Down Systems for 9 Hours Over Possible Cyber Attack](https://thehackernews.com/2026/09/kiteworks-urges-customers-to-shut-down.html) - *The Hacker News* (2026-09-26)
 - [U.S. Soldier Gets 70 Months in Prison for AT&T, Verizon Extortions](https://krebsonsecurity.com/2026/09/u-s-soldier-gets-70-months-in-prison-for-att-verizon-extortions/) - *Krebs on Security* (2026-09-25)
 - [Friday Squid Blogging: Participatory Squid Dissection in October in Tennessee](https://www.schneier.com/blog/archives/2026/09/friday-squid-blogging-participatory-squid-dissection-in-october-in-tennessee.html) - *Schneier on Security* (2026-09-25)
-- [Compromised GitHub Actions Came Back Online and Resumed Executing Mini Shai-Hulud Malware](https://thehackernews.com/2026/09/compromised-github-actions-came-back.html) - *The Hacker News* (2026-09-25)
-- [PamStealer macOS Malware Adds Live C2 Payload Decryption and Multi-Layer Persistence](https://thehackernews.com/2026/09/pamstealer-macos-malware-adds-live-c2.html) - *The Hacker News* (2026-09-25)
 - [On Anthropic’s AI Misuse Report](https://www.schneier.com/blog/archives/2026/09/on-anthropics-ai-misuse-report.html) - *Schneier on Security* (2026-09-25)
 - [Malicious npm Packages That Evade Defenses](https://www.schneier.com/blog/archives/2026/09/malicious-npm-packages-that-evade-defenses.html) - *Schneier on Security* (2026-09-24)
 - [Research on Models Engaging in Genie-Like Behavior](https://www.schneier.com/blog/archives/2026/09/research-on-models-engaging-in-genie-like-behavior.html) - *Schneier on Security* (2026-09-23)
 
 ## Databases/Storage
 
+- [Christophe Pettus: All Your GUCs in a Row: max_standby_archive_delay and max_standby_streaming_delay](https://postgr.es/p/9vK) - *Planet PostgreSQL* (2026-09-27)
 - [Christophe Pettus: All Your GUCs in a Row: max_slot_wal_keep_size](https://postgr.es/p/9vI) - *Planet PostgreSQL* (2026-09-26)
+- [Mikhail Shytsko: Our Interleaved Backfill Wrote Three Times the WAL](https://postgr.es/p/9vJ) - *Planet PostgreSQL* (2026-09-26)
 - [How to stream PostgreSQL changes to Amazon S3 with AWS Fargate](https://aws.amazon.com/blogs/database/how-to-stream-postgresql-changes-to-amazon-s3-with-aws-fargate/) - *AWS Database Blog* (2026-09-25)
 - [Umair Shahid: Your Postgres Database Is Slow, and It Isn’t Postgres](https://postgr.es/p/9vF) - *Planet PostgreSQL* (2026-09-25)
 - [Dmitry Narizhnykh: How to Inspect a pg_dump Without Restoring It](https://postgr.es/p/9vE) - *Planet PostgreSQL* (2026-09-25)
-- [Andrew Atkinson: Let’s Get Down to Business with Rails and PostgreSQL](https://postgr.es/p/9vG) - *Planet PostgreSQL* (2026-09-25)
-- [Christophe Pettus: All Your GUCs in a Row: max_replication_slots](https://postgr.es/p/9vH) - *Planet PostgreSQL* (2026-09-25)
 - [Megabytes in milliseconds: How FireTV uses parallel queries and vertical partitioning to serve millions of customers in Amazon DynamoDB](https://aws.amazon.com/blogs/database/megabytes-in-milliseconds-how-firetv-uses-parallel-queries-and-vertical-partitioning-to-serve-millions-of-customers-in-amazon-dynamodb/) - *AWS Database Blog* (2026-09-23)
 - [Intuitive risk investigation with Amazon Neptune and Linkurious Enterprise](https://aws.amazon.com/blogs/database/intuitive-risk-investigation-with-amazon-neptune-and-linkurious-enterprise/) - *AWS Database Blog* (2026-09-22)
 - [Migrate SQL Server multi-result-set procedures to PostgreSQL](https://aws.amazon.com/blogs/database/migrate-sql-server-multi-result-set-procedures-to-postgresql/) - *AWS Database Blog* (2026-09-21)
@@ -67,11 +67,11 @@ Automated tech news updates. Last updated: 2026-09-26 12:42:17 UTC
 
 ## Computing
 
+- [Tesla’s big electric truck faces an even bigger infrastructure challenge](https://arstechnica.com/cars/2026/09/teslas-big-electric-truck-faces-an-even-bigger-infrastructure-challenge/) - *Ars Technica - All content* (2026-09-26)
 - [Can Trump ever be wrong? His pick to lead FDA refused to say.](https://arstechnica.com/health/2026/09/can-trump-ever-be-wrong-his-pick-to-lead-fda-refused-to-say/) - *Ars Technica - All content* (2026-09-25)
 - [Court rules Pentagon can blacklist Anthropic for refusing to enable Claude features](https://arstechnica.com/tech-policy/2026/09/court-rules-trump-can-blacklist-anthropic-for-refusing-to-enable-claude-features/) - *Ars Technica - All content* (2026-09-25)
 - [Tesla workers balk at training Optimus humanoid robots as replacements](https://arstechnica.com/ai/2026/09/tesla-workers-balk-at-training-optimus-humanoid-robots-as-replacements/) - *Ars Technica - All content* (2026-09-25)
 - [Your uncle’s frozen Mac says it’s infected after viewing a Google ad. Now what?](https://arstechnica.com/security/2026/09/google-ads-caught-delivering-convincing-scareware-ads-to-unsuspecting-users/) - *Ars Technica - All content* (2026-09-25)
-- [Review: The iPhone 18 Pro is Apple's coolest smartphone (but only literally)](https://arstechnica.com/apple/2026/09/review-the-iphone-18-pro-is-apples-coolest-smartphone-but-only-literally/) - *Ars Technica - All content* (2026-09-25)
 
 ## AI/Models/RL
 
@@ -96,11 +96,11 @@ Automated tech news updates. Last updated: 2026-09-26 12:42:17 UTC
 
 ## Technical Program Management (TPM)
 
+- [GKE Pod Snapshots Cut Model Load Times, and Move the Work to Snapshot Lifecycle Management](https://www.infoq.com/news/2026/09/gke-pod-snapshots-benchmarks/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-09-27)
+- [Docker Cloud Sandboxes Provide a Consistent Sandbox Abstraction Across Laptop and Cloud](https://www.infoq.com/news/2026/09/docker-cloud-sandboxes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-09-26)
 - [Presentation: Adaptive Recommenders in the Real World: Inference, Evals, and System Design](https://www.infoq.com/presentations/adaptive-recommendation-systems-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-09-26)
 - [Stateless MCP Removes Session Affinity Requirements for AWS Server Deployments](https://www.infoq.com/news/2026/09/aws-stateless-mcp/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-09-25)
 - [Presentation: Spritely: Infrastructure for the Future of the Internet](https://www.infoq.com/presentations/spritely-decentralized-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-09-25)
-- [Article: The Agent Harness: What It Is and Two Ways to Build One](https://www.infoq.com/articles/agent-harness-build-one/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-09-25)
-- [Vercel Labs Ships scriptc, a TypeScript-to-Native Compiler That Leaves the JavaScript Engine Behind](https://www.infoq.com/news/2026/09/vercel-scriptc-node/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-09-25)
 - [The Pulse: a new trend of CPU shortages](https://blog.pragmaticengineer.com/the-pulse-a-new-trend-of-cpu-shortages/) - *The Pragmatic Engineer* (2026-09-24)
 - [AI Can Write Backlog Items. It Can’t Create Shared Understanding](https://www.mountaingoatsoftware.com/agile/ai-can-write-backlog-items-it-cant-create-shared-understanding) - *Mike Cohn's Blog - Succeeding With Agile* (2026-09-15)
 - [The Pulse: tech companies move to open AI models](https://blog.pragmaticengineer.com/the-pulse-tech-companies-move-to-open-ai-models/) - *The Pragmatic Engineer* (2026-09-10)
