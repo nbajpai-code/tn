@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-10-03 13:06:31 UTC
+Automated tech news updates. Last updated: 2026-10-04 13:45:29 UTC
 
 ## Software Architecture
 
@@ -33,19 +33,20 @@ Automated tech news updates. Last updated: 2026-10-03 13:06:31 UTC
 
 ## Security
 
+- [ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members](https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html) - *The Hacker News* (2026-10-04)
+- [China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing](https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html) - *The Hacker News* (2026-10-04)
+- [MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics](https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html) - *The Hacker News* (2026-10-03)
+- [Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware](https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html) - *The Hacker News* (2026-10-03)
 - [The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations](https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html) - *The Hacker News* (2026-10-03)
 - [Friday Squid Blogging: EU is Trying to Fight Unregulated Squid Fishing](https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-eu-is-trying-to-fight-unregulated-squid-fishing.html) - *Schneier on Security* (2026-10-02)
-- [GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers](https://thehackernews.com/2026/10/gitlab-patches-critical-self-hosted-ai.html) - *The Hacker News* (2026-10-02)
-- [Antino Backdoor Uses Outlook and OneDrive for C2 in China-Nexus Espionage Campaign](https://thehackernews.com/2026/10/antino-backdoor-uses-outlook-and.html) - *The Hacker News* (2026-10-02)
-- [Dell CSM Flaws Enable Unauthenticated Admin Access and Root on Kubernetes Nodes](https://thehackernews.com/2026/10/dell-csm-flaws-enable-unauthenticated.html) - *The Hacker News* (2026-10-02)
 - [Unidentified Flock Cameras in Florida](https://www.schneier.com/blog/archives/2026/10/unidentified-flock-cameras-in-florida.html) - *Schneier on Security* (2026-10-02)
-- [OpenAI Parts Ways With Three Safety Researchers Over Sensitive Information Mishandling](https://thehackernews.com/2026/10/openai-parts-ways-with-three-safety.html) - *The Hacker News* (2026-10-02)
 - [How American Political Campaigns Are Using AI—and What They’re Spending on the Tools](https://www.schneier.com/blog/archives/2026/10/how-american-political-campaigns-are-using-ai-and-what-theyre-spending-on-the-tools.html) - *Schneier on Security* (2026-10-02)
 - [Connected Cars Are a Surveillance Platform](https://www.schneier.com/blog/archives/2026/10/connected-cars-are-a-surveillance-platform.html) - *Schneier on Security* (2026-10-01)
 - [I Want Better Reporting on AI Genie Behavior](https://www.schneier.com/blog/archives/2026/09/i-want-better-reporting-on-ai-genie-behavior.html) - *Schneier on Security* (2026-09-30)
 
 ## Databases/Storage
 
+- [Christophe Pettus: All Your GUCs in a Row: min_wal_size](https://postgr.es/p/9wX) - *Planet PostgreSQL* (2026-10-04)
 - [Christophe Pettus: All Your GUCs in a Row: min_parallel_index_scan_size and min_parallel_table_scan_size](https://postgr.es/p/9wW) - *Planet PostgreSQL* (2026-10-03)
 - [Christophe Pettus: Nobody Patches the Pooler](https://postgr.es/p/9wU) - *Planet PostgreSQL* (2026-10-02)
 - [Translating an Elasticsearch Search Request to Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/translating-an-elasticsearch-search-request-to-azure-cosmos-db/) - *Azure Cosmos DB Blog* (2026-10-02)
@@ -55,7 +56,6 @@ Automated tech news updates. Last updated: 2026-10-03 13:06:31 UTC
 - [Working with foreign key constraints in Aurora DSQL](https://aws.amazon.com/blogs/database/working-with-foreign-key-constraints-in-aurora-dsql/) - *AWS Database Blog* (2026-10-01)
 - [Babelfish for Aurora PostgreSQL performance tuning](https://aws.amazon.com/blogs/database/babelfish-for-aurora-postgresql-performance-tuning/) - *AWS Database Blog* (2026-10-01)
 - [Genspark protects live agent sessions with Azure Cosmos DB Global Secondary Indexes](https://devblogs.microsoft.com/cosmosdb/genspark-protects-live-agent-sessions-with-azure-cosmos-db-global-secondary-indexes/) - *Azure Cosmos DB Blog* (2026-10-01)
-- [Azure Cosmos DB Shell is now available in the Azure portal](https://devblogs.microsoft.com/cosmosdb/azure-cosmos-db-shell-is-now-available-in-the-azure-portal/) - *Azure Cosmos DB Blog* (2026-10-01)
 
 ## Networking
 
@@ -67,14 +67,15 @@ Automated tech news updates. Last updated: 2026-10-03 13:06:31 UTC
 
 ## Computing
 
+- [All hail electrification. But let’s talk about the hard part.](https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/) - *Ars Technica - All content* (2026-10-04)
+- [Milt Windler, NASA flight director who helped save Apollo 13, dies at 94](https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/) - *Ars Technica - All content* (2026-10-03)
 - [The dawn of the age of the exoskeleton](https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/) - *Ars Technica - All content* (2026-10-03)
 - [Apple changes full-disk access permissions to curb abuse from AI agents](https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/) - *Ars Technica - All content* (2026-10-02)
 - [Someone got Doom in an SQL database](https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/) - *Ars Technica - All content* (2026-10-02)
-- [Amazon’s $1B plan to combat data center backlash draws more backlash](https://arstechnica.com/tech-policy/2026/10/amazons-1b-plan-to-combat-data-center-backlash-draws-more-backlash/) - *Ars Technica - All content* (2026-10-02)
-- [Patient-zero drill put health facilities to the test—40% of them failed](https://arstechnica.com/health/2026/10/patient-zero-drill-put-health-facilities-to-the-test-40-of-them-failed/) - *Ars Technica - All content* (2026-10-02)
 
 ## AI/Models/RL
 
+- [The Agent Said It Was Done. The Database Disagreed.](https://huggingface.co/blog/microsoft/thinkingbox) - *Hugging Face - Blog* (2026-10-03)
 - [A model guide for the GPT-6 family](https://openai.com/index/practical-guide-building-gpt-6) - *OpenAI News* (2026-10-02)
 - [Open-sourcing AstaBrief, the fast report-generation model in Asta](https://huggingface.co/blog/allenai/astabrief) - *Hugging Face - Blog* (2026-10-02)
 - [Toward provably private learning from federated data](https://research.google/blog/toward-provably-private-learning-from-federated-data/) - *The latest research from Google* (2026-10-02)
@@ -84,7 +85,6 @@ Automated tech news updates. Last updated: 2026-10-03 13:06:31 UTC
 - [How Albertsons Companies is reimagining retail from the inside out](https://openai.com/index/albertsons-reimagining-retail) - *OpenAI News* (2026-10-01)
 - [The Den frees up 10-15 hours a week to grow with ChatGPT Work](https://openai.com/index/the-den-family-social) - *OpenAI News* (2026-10-01)
 - [Gemini 4 Argon: our next era of frontier intelligence](https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/) - *Google DeepMind News* (2026-09-30)
-- [Introducing SynthID Bio](https://deepmind.google/blog/introducing-synthid-bio/) - *Google DeepMind News* (2026-09-30)
 
 ## AI Infra
 
@@ -96,11 +96,11 @@ Automated tech news updates. Last updated: 2026-10-03 13:06:31 UTC
 
 ## Technical Program Management (TPM)
 
+- [Pizza Bot: Open-Source Inbox for Background AI Agents](https://www.infoq.com/news/2026/10/pizza-bot-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-04)
+- [New Archestra's OpenAPPA Saturates Two Major Security Benchmarks with a 0% Attack Success Rate](https://www.infoq.com/news/2026/10/open-APPA-zero-security-breach/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-03)
+- [GitLab Vulnerability Under Active Exploitation Enables Unauthenticated Data Exfiltration](https://www.infoq.com/news/2026/10/gitlab-critical-vulnerabilities/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-03)
 - [Presentation: Building GenAI Platform at DoorDash](https://www.infoq.com/presentations/doordash-genai-platform-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-03)
 - [Istio 1.31 Adds Agentgateway Waypoints and Moves Release Artifacts off Google Cloud](https://www.infoq.com/news/2026/10/istio-1-31-agentgateway/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-03)
-- [AI Agents Are Disrupting Open Source Security Disclosure](https://www.infoq.com/news/2026/10/open-source-ai-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-03)
-- [Uber Eats Rebuilds Search Pipeline to Cut End-to-End Latency by 50%](https://www.infoq.com/news/2026/10/uber-eats-search-latency/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-02)
-- [Presentation: Managing Asynchronous APIs at Scale](https://www.infoq.com/presentations/managing-async-apis/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-02)
 - [The Pulse: RoR creator sparks new “death of coding by hand” debate](https://blog.pragmaticengineer.com/the-pulse-ror-creator-sparks-new-death-of-coding-by-hand-debate/) - *The Pragmatic Engineer* (2026-10-01)
 - [AI Changes What Makes a Product Backlog Valuable](https://www.mountaingoatsoftware.com/agile/ai-changes-what-makes-a-product-backlog-valuable) - *Mike Cohn's Blog - Succeeding With Agile* (2026-09-29)
 - [The Pulse: a new trend of CPU shortages](https://blog.pragmaticengineer.com/the-pulse-a-new-trend-of-cpu-shortages/) - *The Pragmatic Engineer* (2026-09-24)
