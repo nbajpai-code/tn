@@ -1,14 +1,14 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-10-04 13:45:29 UTC
+Automated tech news updates. Last updated: 2026-10-05 16:51:55 UTC
 
 ## Software Architecture
 
+- [Cloudflare Fixes Cross-Tenant Data Exposure in Containers](https://www.infoq.com/news/2026/10/cloudflare-cross-tenant-exposure/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-10-05)
 - [Presentation: Building GenAI Platform at DoorDash](https://www.infoq.com/presentations/doordash-genai-platform-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-10-03)
 - [Presentation: Managing Asynchronous APIs at Scale](https://www.infoq.com/presentations/managing-async-apis/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-10-02)
 - [Presentation: Beyond Observability: Evolving Production Operations in the Age of AI](https://www.infoq.com/presentations/ai-production-operations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-10-01)
-- [Article: High Availability Is Not Resilience: Why Cloud Systems Fail When It Matters Most](https://www.infoq.com/articles/high-availability-not-resilience-cloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-10-01)
-- [Container Apps Express Reaches GA on a Newly Generally Available Sandbox Layer](https://www.infoq.com/news/2026/10/container-apps-express-sandboxes/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-10-01)
+- [Article: High Availability is Not Resilience: Why Cloud Systems Fail When it Matters Most](https://www.infoq.com/articles/high-availability-not-resilience-cloud/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-10-01)
 
 ## Cloud Computing
 
@@ -33,48 +33,50 @@ Automated tech news updates. Last updated: 2026-10-04 13:45:29 UTC
 
 ## Security
 
-- [ShinyHunters Suspect Rey Reportedly Detained in Jordan, Helping FBI Identify Group Members](https://thehackernews.com/2026/10/shinyhunters-suspect-rey-reportedly.html) - *The Hacker News* (2026-10-04)
-- [China-Aligned TA419 Targets U.S. AI Policy Experts With Microsoft AitM Phishing](https://thehackernews.com/2026/10/china-aligned-ta419-targets-us-ai.html) - *The Hacker News* (2026-10-04)
-- [MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics](https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html) - *The Hacker News* (2026-10-03)
-- [Warlock Exploits SharePoint Flaws to Disable Security Tools and Deploy Ransomware](https://thehackernews.com/2026/10/warlock-exploits-sharepoint-flaws-to.html) - *The Hacker News* (2026-10-03)
-- [The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations](https://thehackernews.com/2026/10/the-state-of-cybersecurity-in-2026key.html) - *The Hacker News* (2026-10-03)
+- [⚡ Weekly Recap: NetScaler and FortiMail 0-Days, AI Coding Leaks, Spectre v2 and Ransomware Arrests](https://thehackernews.com/2026/10/weekly-recap-netscaler-and-fortimail-0.html) - *The Hacker News* (2026-10-05)
+- [The Credential Layer Is Expanding Faster Than Security Teams Can See It](https://thehackernews.com/2026/10/the-credential-layer-is-expanding.html) - *The Hacker News* (2026-10-05)
+- [Realtek Jungle SDK Exploit Attempts Deliver Cling Botnet With STUN-Based C2](https://thehackernews.com/2026/10/realtek-jungle-sdk-exploit-attempts.html) - *The Hacker News* (2026-10-05)
+- [Another Historic Cipher Falls to AI](https://www.schneier.com/blog/archives/2026/10/another-historic-cipher-falls-to-ai.html) - *Schneier on Security* (2026-10-05)
+- [Apple Plans Tighter macOS Full Disk Access Controls Over AI Agent Data Access](https://thehackernews.com/2026/10/apple-plans-tighter-macos-full-disk.html) - *The Hacker News* (2026-10-05)
+- [Attackers Target Rejetto HFS Flaw That Enables Admin Session Forgery and RCE](https://thehackernews.com/2026/10/attackers-target-rejetto-hfs-flaw-that.html) - *The Hacker News* (2026-10-05)
 - [Friday Squid Blogging: EU is Trying to Fight Unregulated Squid Fishing](https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-eu-is-trying-to-fight-unregulated-squid-fishing.html) - *Schneier on Security* (2026-10-02)
 - [Unidentified Flock Cameras in Florida](https://www.schneier.com/blog/archives/2026/10/unidentified-flock-cameras-in-florida.html) - *Schneier on Security* (2026-10-02)
 - [How American Political Campaigns Are Using AI—and What They’re Spending on the Tools](https://www.schneier.com/blog/archives/2026/10/how-american-political-campaigns-are-using-ai-and-what-theyre-spending-on-the-tools.html) - *Schneier on Security* (2026-10-02)
 - [Connected Cars Are a Surveillance Platform](https://www.schneier.com/blog/archives/2026/10/connected-cars-are-a-surveillance-platform.html) - *Schneier on Security* (2026-10-01)
-- [I Want Better Reporting on AI Genie Behavior](https://www.schneier.com/blog/archives/2026/09/i-want-better-reporting-on-ai-genie-behavior.html) - *Schneier on Security* (2026-09-30)
 
 ## Databases/Storage
 
+- [Christophe Pettus: Everyone into the Pool](https://postgr.es/p/9w_) - *Planet PostgreSQL* (2026-10-05)
+- [Christophe Pettus: The Vector That Lied About Its Dimensions](https://postgr.es/p/9x0) - *Planet PostgreSQL* (2026-10-05)
+- [Assess and migrate SQL Server Full-Text Search to Babelfish for Aurora PostgreSQL](https://aws.amazon.com/blogs/database/assess-and-migrate-sql-server-full-text-search-to-babelfish-for-aurora-postgresql/) - *AWS Database Blog* (2026-10-05)
+- [Amagi’s intelligent media operations with Amazon Neptune](https://aws.amazon.com/blogs/database/amagis-intelligent-media-operations-with-amazon-neptune/) - *AWS Database Blog* (2026-10-05)
+- [From an Empty Folder to an AI Agent: Meet create-cosmos-agent](https://devblogs.microsoft.com/cosmosdb/from-an-empty-folder-to-an-ai-agent-meet-create-cosmos-agent/) - *Azure Cosmos DB Blog* (2026-10-05)
+- [I’m the Only Developer on This Project. Do I Really Need RBAC?](https://devblogs.microsoft.com/cosmosdb/im-the-only-developer-on-this-project-do-i-really-need-rbac/) - *Azure Cosmos DB Blog* (2026-10-05)
+- [Cornelia Biacsics: Contributions for week 39](https://postgr.es/p/9w-) - *Planet PostgreSQL* (2026-10-05)
+- [Christophe Pettus: All Your GUCs in a Row: multixact_member_buffers and multixact_offset_buffers](https://postgr.es/p/9wZ) - *Planet PostgreSQL* (2026-10-05)
 - [Christophe Pettus: All Your GUCs in a Row: min_wal_size](https://postgr.es/p/9wX) - *Planet PostgreSQL* (2026-10-04)
-- [Christophe Pettus: All Your GUCs in a Row: min_parallel_index_scan_size and min_parallel_table_scan_size](https://postgr.es/p/9wW) - *Planet PostgreSQL* (2026-10-03)
-- [Christophe Pettus: Nobody Patches the Pooler](https://postgr.es/p/9wU) - *Planet PostgreSQL* (2026-10-02)
 - [Translating an Elasticsearch Search Request to Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/translating-an-elasticsearch-search-request-to-azure-cosmos-db/) - *Azure Cosmos DB Blog* (2026-10-02)
-- [Christophe Pettus: All Your GUCs in a Row: md5_password_warnings](https://postgr.es/p/9wJ) - *Planet PostgreSQL* (2026-10-02)
-- [Greg Nancarrow: How to integrate JFrog Artifactory with Fujitsu Enterprise Postgres](https://postgr.es/p/9wI) - *Planet PostgreSQL* (2026-10-02)
-- [Introducing filtered export from Amazon DynamoDB to Amazon S3](https://aws.amazon.com/blogs/database/introducing-filtered-export-from-amazon-dynamodb-to-amazon-s3/) - *AWS Database Blog* (2026-10-01)
-- [Working with foreign key constraints in Aurora DSQL](https://aws.amazon.com/blogs/database/working-with-foreign-key-constraints-in-aurora-dsql/) - *AWS Database Blog* (2026-10-01)
-- [Babelfish for Aurora PostgreSQL performance tuning](https://aws.amazon.com/blogs/database/babelfish-for-aurora-postgresql-performance-tuning/) - *AWS Database Blog* (2026-10-01)
-- [Genspark protects live agent sessions with Azure Cosmos DB Global Secondary Indexes](https://devblogs.microsoft.com/cosmosdb/genspark-protects-live-agent-sessions-with-azure-cosmos-db-global-secondary-indexes/) - *Azure Cosmos DB Blog* (2026-10-01)
 
 ## Networking
 
+- [New memory player CXMT begins mass production of DRAM platform](https://www.networkworld.com/article/4230800/new-memory-player-cxmt-begins-mass-production-of-dram-platform.html) - *Network World* (2026-10-05)
+- [From automated response to reasoning: Building confidence in AI-driven NetOps](https://www.networkworld.com/article/4230119/from-automated-response-to-reasoning-building-confidence-in-ai-driven-netops.html) - *Network World* (2026-10-05)
 - [Startup doxx.net hands the network controls to AI](https://www.networkworld.com/article/4230194/startup-doxx-net-hands-the-network-controls-to-ai.html) - *Network World* (2026-10-02)
 - [IBM’s Bob wants to move in: Agent available for on-prem deployment](https://www.networkworld.com/article/4230111/ibms-bob-wants-to-move-in-agent-available-for-on-prem-deployment-2.html) - *Network World* (2026-10-02)
 - [$6T in annual AI revenue needed to pay off data center investments](https://www.networkworld.com/article/4229998/6t-in-annual-ai-revenue-needed-to-pay-off-data-center-investments.html) - *Network World* (2026-10-02)
-- [HPE’s Rahim: Pace of change in the data center is ‘extraordinary’](https://www.networkworld.com/article/4229791/hpes-rahim-pace-of-change-in-the-data-center-is-extraordinary.html) - *Network World* (2026-10-01)
-- [CoreWeave brings Nvidia Vera Rubin, AI tools to its cloud services](https://www.networkworld.com/article/4229739/coreweave-brings-nvidia-vera-rubin-ai-tools-to-its-cloud-services.html) - *Network World* (2026-10-01)
 
 ## Computing
 
-- [All hail electrification. But let’s talk about the hard part.](https://arstechnica.com/science/2026/10/all-hail-electrification-but-lets-talk-about-the-hard-part/) - *Ars Technica - All content* (2026-10-04)
-- [Milt Windler, NASA flight director who helped save Apollo 13, dies at 94](https://arstechnica.com/space/2026/10/milt-windler-nasa-flight-director-who-helped-save-apollo-13-dies-at-94/) - *Ars Technica - All content* (2026-10-03)
-- [The dawn of the age of the exoskeleton](https://arstechnica.com/science/2026/10/the-dawn-of-the-age-of-the-exoskeleton/) - *Ars Technica - All content* (2026-10-03)
-- [Apple changes full-disk access permissions to curb abuse from AI agents](https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents/) - *Ars Technica - All content* (2026-10-02)
-- [Someone got Doom in an SQL database](https://arstechnica.com/gaming/2026/10/can-it-run-doom-sql-database-edition/) - *Ars Technica - All content* (2026-10-02)
+- [Mass quarantine issued in Russia after unexplained death of plague researcher](https://arstechnica.com/health/2026/10/researchers-death-from-undisclosed-illness-sparks-mass-quarantine-in-russia/) - *Ars Technica - All content* (2026-10-05)
+- [AI glasses face their first major government crackdown](https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/) - *Ars Technica - All content* (2026-10-05)
+- [Explaining Hall-effect, TMR, and other new types of "mechanical" switches](https://arstechnica.com/gadgets/2026/10/the-hows-and-whys-of-non-mechanical-mechanical-keyboard-switches/) - *Ars Technica - All content* (2026-10-05)
+- [New forensic evidence supports Egyptian "retainer sacrifice"](https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/) - *Ars Technica - All content* (2026-10-05)
+- [Lions and cheetahs and chimps, oh my: A spotlight on Africa's diverse wildlife](https://arstechnica.com/science/2026/10/lions-and-cheetahs-and-chimps-oh-my-a-spotlight-on-africas-diverse-wildlife/) - *Ars Technica - All content* (2026-10-04)
 
 ## AI/Models/RL
 
+- [Our approach to EU text provenance rules](https://openai.com/index/eu-text-provenance) - *OpenAI News* (2026-10-05)
+- [Building advertising for the way people use AI](https://openai.com/index/new-chatgpt-ads-format-and-measurement) - *OpenAI News* (2026-10-05)
 - [The Agent Said It Was Done. The Database Disagreed.](https://huggingface.co/blog/microsoft/thinkingbox) - *Hugging Face - Blog* (2026-10-03)
 - [A model guide for the GPT-6 family](https://openai.com/index/practical-guide-building-gpt-6) - *OpenAI News* (2026-10-02)
 - [Open-sourcing AstaBrief, the fast report-generation model in Asta](https://huggingface.co/blog/allenai/astabrief) - *Hugging Face - Blog* (2026-10-02)
@@ -82,25 +84,23 @@ Automated tech news updates. Last updated: 2026-10-04 13:45:29 UTC
 - [AutoSynthData: Generating Training Data for Enterprise Agents](https://huggingface.co/blog/ServiceNow-AI/autosynthdata) - *Hugging Face - Blog* (2026-10-02)
 - [Chatham scales its capital markets expertise with OpenAI](https://openai.com/index/chatham-financial) - *OpenAI News* (2026-10-02)
 - [The eternal complement](https://openai.com/index/the-eternal-complement) - *OpenAI News* (2026-10-01)
-- [How Albertsons Companies is reimagining retail from the inside out](https://openai.com/index/albertsons-reimagining-retail) - *OpenAI News* (2026-10-01)
-- [The Den frees up 10-15 hours a week to grow with ChatGPT Work](https://openai.com/index/the-den-family-social) - *OpenAI News* (2026-10-01)
 - [Gemini 4 Argon: our next era of frontier intelligence](https://deepmind.google/blog/gemini-4-argon-our-next-era-of-frontier-intelligence/) - *Google DeepMind News* (2026-09-30)
 
 ## AI Infra
 
+- [Making Amazon Quick enterprise-ready: Automated, auditable cross-account resource promotion](https://aws.amazon.com/blogs/machine-learning/making-amazon-quick-enterprise-ready-automated-auditable-cross-account-resource-promotion/) - *Artificial Intelligence* (2026-10-05)
+- [Agentic retrieval with LangChain and Amazon Bedrock Knowledge Bases](https://aws.amazon.com/blogs/machine-learning/agentic-retrieval-with-langchain-and-amazon-bedrock-knowledge-bases/) - *Artificial Intelligence* (2026-10-05)
+- [Downgrading user roles in Amazon Quick](https://aws.amazon.com/blogs/machine-learning/downgrading-user-roles-in-amazon-quick/) - *Artificial Intelligence* (2026-10-05)
+- [Evaluating multi-agent systems for explainability and helpfulness with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/evaluating-multi-agent-systems-for-explainability-and-helpfulness-with-amazon-bedrock-agentcore/) - *Artificial Intelligence* (2026-10-05)
 - [Sweep thousands of leases for compliance using Amazon Quick and the Adjudicated Query pattern](https://aws.amazon.com/blogs/machine-learning/sweep-thousands-of-leases-for-compliance-using-amazon-quick-and-the-adjudicated-query-pattern/) - *Artificial Intelligence* (2026-10-02)
-- [Add secure Web Search to Claude Desktop with Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/add-secure-web-search-to-claude-desktop-with-amazon-bedrock-agentcore/) - *Artificial Intelligence* (2026-10-02)
-- [Fine-tune a search agent with multi-turn RL on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/fine-tune-a-search-agent-with-multi-turn-rl-on-amazon-sagemaker-ai/) - *Artificial Intelligence* (2026-10-02)
-- [Scaling cloud migrations with agentic AI on Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/machine-learning/scaling-cloud-migrations-with-agentic-ai-on-amazon-bedrock-agentcore/) - *Artificial Intelligence* (2026-10-01)
-- [Serve live, governed data in AI-built apps with Amazon Quick](https://aws.amazon.com/blogs/machine-learning/serve-live-governed-data-in-ai-built-apps-with-amazon-quick/) - *Artificial Intelligence* (2026-10-01)
 
 ## Technical Program Management (TPM)
 
-- [Pizza Bot: Open-Source Inbox for Background AI Agents](https://www.infoq.com/news/2026/10/pizza-bot-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-04)
-- [New Archestra's OpenAPPA Saturates Two Major Security Benchmarks with a 0% Attack Success Rate](https://www.infoq.com/news/2026/10/open-APPA-zero-security-breach/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-03)
-- [GitLab Vulnerability Under Active Exploitation Enables Unauthenticated Data Exfiltration](https://www.infoq.com/news/2026/10/gitlab-critical-vulnerabilities/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-03)
-- [Presentation: Building GenAI Platform at DoorDash](https://www.infoq.com/presentations/doordash-genai-platform-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-03)
-- [Istio 1.31 Adds Agentgateway Waypoints and Moves Release Artifacts off Google Cloud](https://www.infoq.com/news/2026/10/istio-1-31-agentgateway/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-03)
+- [Akka Tests Spec-Driven AI Delivery Across 65 Open Source Projects](https://www.infoq.com/news/2026/10/ai-spec-driven-delivery/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-05)
+- [Presentation: Building Reusable Evaluation Frameworks for Agentic AI Products](https://www.infoq.com/presentations/elastic-ai-agent-evaluations/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-05)
+- [Aspire 13.6 Adds Persistent Dashboard Telemetry and First-Party Java and Rust Hosting](https://www.infoq.com/news/2026/10/dotnet-aspire-13-6-release/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-05)
+- [Cloudflare Fixes Cross-Tenant Data Exposure in Containers](https://www.infoq.com/news/2026/10/cloudflare-cross-tenant-exposure/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-05)
+- [Cloudflare Plans Public Certificate Authority to Issue Quantum-Safe TLS Certificates](https://www.infoq.com/news/2026/10/postquatam-certificates/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-05)
 - [The Pulse: RoR creator sparks new “death of coding by hand” debate](https://blog.pragmaticengineer.com/the-pulse-ror-creator-sparks-new-death-of-coding-by-hand-debate/) - *The Pragmatic Engineer* (2026-10-01)
 - [AI Changes What Makes a Product Backlog Valuable](https://www.mountaingoatsoftware.com/agile/ai-changes-what-makes-a-product-backlog-valuable) - *Mike Cohn's Blog - Succeeding With Agile* (2026-09-29)
 - [The Pulse: a new trend of CPU shortages](https://blog.pragmaticengineer.com/the-pulse-a-new-trend-of-cpu-shortages/) - *The Pragmatic Engineer* (2026-09-24)
@@ -156,9 +156,9 @@ Automated tech news updates. Last updated: 2026-10-04 13:45:29 UTC
 
 ## FinOps & Cloud Optimization
 
+- [State of Tokenomics: September 2026](https://www.finops.org/insights/state-of-tokenomics-september-2026/) - *FinOps Foundation* (2026-09-23)
 - [AI Model Selection: Choosing Based on Value Driven Consumption Strategy](https://www.finops.org/insights/ai-model-selection/) - *FinOps Foundation* (2026-09-10)
 - [FinOps and Tokenomics: How do they fit together?](https://www.finops.org/insights/finops-tokenomics-fit-together/) - *FinOps Foundation* (2026-08-25)
 - [Agentic FinOps: Why Adoption is Slower Than the Conversation](https://www.finops.org/insights/agentic-finops-adoption/) - *FinOps Foundation* (2026-08-18)
 - [Who sets the AI budget?](https://www.finops.org/insights/setting-ai-budget/) - *FinOps Foundation* (2026-08-05)
-- [FinOps X 2026 Day 2 Keynote: From Alerts to Agents](https://www.finops.org/insights/finops-x-2026-day-2-keynote/) - *FinOps Foundation* (2026-06-10)
 
