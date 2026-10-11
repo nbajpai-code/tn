@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-10-10 14:17:17 UTC
+Automated tech news updates. Last updated: 2026-10-11 14:42:32 UTC
 
 ## Software Architecture
 
@@ -33,13 +33,13 @@ Automated tech news updates. Last updated: 2026-10-10 14:17:17 UTC
 
 ## Security
 
+- [P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands](https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html) - *The Hacker News* (2026-10-11)
 - [The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't](https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html) - *The Hacker News* (2026-10-10)
 - [Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws](https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html) - *The Hacker News* (2026-10-10)
 - [FBI Arrests Executive at Ransomware Negotiation Firm](https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/) - *Krebs on Security* (2026-10-10)
 - [Friday Squid Blogging: I Caught a Squid](https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-i-caught-a-squid.html) - *Schneier on Security* (2026-10-09)
 - [Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories](https://thehackernews.com/2026/10/credential-stealing-github-actions.html) - *The Hacker News* (2026-10-10)
 - [FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack](https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html) - *The Hacker News* (2026-10-09)
-- [P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands](https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html) - *The Hacker News* (2026-10-09)
 - [How Technology Empowers—and Imperils—Dictators](https://www.schneier.com/blog/archives/2026/10/how-technology-empowers-and-imperils-dictators.html) - *Schneier on Security* (2026-10-08)
 - [ShinyHunters Extorted Boeing Spin-off Prior to Arrests](https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/) - *Krebs on Security* (2026-10-07)
 - [Apple’s Verified Photography System](https://www.schneier.com/blog/archives/2026/10/apples-verified-photography-system.html) - *Schneier on Security* (2026-10-07)
@@ -48,9 +48,9 @@ Automated tech news updates. Last updated: 2026-10-10 14:17:17 UTC
 
 - [Christophe Pettus: All Your GUCs in a Row: parallel_leader_participation](https://postgr.es/p/9xz) - *Planet PostgreSQL* (2026-10-10)
 - [Christophe Pettus: All Your GUCs in a Row: parallel_setup_cost and parallel_tuple_cost](https://postgr.es/p/9xy) - *Planet PostgreSQL* (2026-10-10)
+- [Chris van Eijk: infinite recursion detected in policy: causes and fixes](https://postgr.es/p/9xA) - *Planet PostgreSQL* (2026-10-10)
 - [Chris van Eijk: new row violates row-level security policy: the causes](https://postgr.es/p/9xw) - *Planet PostgreSQL* (2026-10-09)
 - [Álvaro Hernández: Scaling Citus without limits: announcing Query Routers in StackGres](https://postgr.es/p/9xu) - *Planet PostgreSQL* (2026-10-09)
-- [Christophe Pettus: Portions Copyright](https://postgr.es/p/9xt) - *Planet PostgreSQL* (2026-10-09)
 - [Introducing the Native Confluent Cloud Connector Experience in Azure Cosmos DB!](https://devblogs.microsoft.com/cosmosdb/introducing-the-native-confluent-cloud-connector-experience-in-azure-cosmos-db/) - *Azure Cosmos DB Blog* (2026-10-09)
 - [How MUFG Bank aims to cut flowchart work by up to 90% with ontology-grounded AI on Amazon Neptune and Amazon Bedrock](https://aws.amazon.com/blogs/database/how-mufg-bank-aims-to-cut-flowchart-work-by-up-to-90-with-ontology-grounded-ai-on-amazon-neptune-and-amazon-bedrock/) - *AWS Database Blog* (2026-10-08)
 - [Migrate SSIS packages to Aurora PostgreSQL – Part 2](https://aws.amazon.com/blogs/database/migrate-ssis-packages-to-aurora-postgresql-part-2/) - *AWS Database Blog* (2026-10-07)
@@ -96,11 +96,11 @@ Automated tech news updates. Last updated: 2026-10-10 14:17:17 UTC
 
 ## Technical Program Management (TPM)
 
+- [Context Language Models: Self-Managing Context to Improve Performance and Reduce Compute Costs](https://www.infoq.com/news/2026/10/context-language-models/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-11)
 - [Cloudflare Traces Turns the Proxy Layer into OpenTelemetry Spans, with New Volume-Based Pricing](https://www.infoq.com/news/2026/10/cloudflare-traces-open-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-10)
 - [Android Bench 2 Adds Support for Long-Horizon Tasks, Agentic Evaluation, and Continuous Scoring](https://www.infoq.com/news/2026/10/android-bench-2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-09)
 - [Shopify Upgrades Checkout Blocks to Polaris Web Components, Cutting Bundle Sizes up to 85%](https://www.infoq.com/news/2026/10/shopify-web-components/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-09)
 - [Github Migrates Copilot Runtime to Rust with AI-Assisted Rewrite](https://www.infoq.com/news/2026/10/github-copilot-rust-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-09)
-- [Olson and Söderqvist Discuss Valkey’s Evolution and Future Past Caching Use Cases at OSS EU](https://www.infoq.com/news/2026/10/valkey-evolution/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-09)
 - [The Pulse: Firebase’s global outage & poor response](https://blog.pragmaticengineer.com/the-pulse-firebases-global-outage-poor-response/) - *The Pragmatic Engineer* (2026-10-08)
 - [The Pulse: RoR creator sparks new “death of coding by hand” debate](https://blog.pragmaticengineer.com/the-pulse-ror-creator-sparks-new-death-of-coding-by-hand-debate/) - *The Pragmatic Engineer* (2026-10-01)
 - [AI Changes What Makes a Product Backlog Valuable](https://www.mountaingoatsoftware.com/agile/ai-changes-what-makes-a-product-backlog-valuable) - *Mike Cohn's Blog - Succeeding With Agile* (2026-09-29)
