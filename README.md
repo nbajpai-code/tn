@@ -1,30 +1,30 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-10-11 14:42:32 UTC
+Automated tech news updates. Last updated: 2026-10-12 17:27:47 UTC
 
 ## Software Architecture
 
+- [Podcast: What Does It Really Mean To Program With AI: A Conversation with Joy Ebertz](https://www.infoq.com/podcasts/what-really-mean-program-ai/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-10-12)
+- [Presentation: You Can't Trust Your AI Bill. And Neither Can I](https://www.infoq.com/presentations/ai-cloud-cost-economics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-10-12)
 - [Cloudflare Traces Turns the Proxy Layer into OpenTelemetry Spans, with New Volume-Based Pricing](https://www.infoq.com/news/2026/10/cloudflare-traces-open-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-10-10)
 - [Presentation: Ontology‐Driven Observability: Building the E2E Knowledge Graph at Netflix Scale](https://www.infoq.com/presentations/netflix-observability-aiops-ontology-scale/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-10-09)
 - [Cloudflare K2 Builds Event Streams on R2 Object Storage, at a Second of Produce Latency](https://www.infoq.com/news/2026/10/cloudflare-k2-serverless-streams/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-10-09)
-- [Presentation: Multi-Agent Patterns from Spotify’s AI Powered Advertising Platform](https://www.infoq.com/presentations/spotify-multi-agent-ai-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-10-08)
-- [Grab Redesigns Counter Service Storage for 50% Lower P99 Latency](https://www.infoq.com/news/2026/10/grab-counter-aerospike-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-10-07)
 
 ## Cloud Computing
 
+- [Agentic antimicrobial resistance surveillance with AWS HealthOmics and Amazon Bedrock AgentCore](https://aws.amazon.com/blogs/architecture/agentic-antimicrobial-resistance-surveillance-with-aws-healthomics-and-amazon-bedrock-agentcore/) - *AWS Architecture Blog* (2026-10-12)
 - [Announcing the AWS Digital Sovereignty Lens for the Well-Architected Framework](https://aws.amazon.com/blogs/architecture/announcing-the-aws-digital-sovereignty-well-architected-lens/) - *AWS Architecture Blog* (2026-10-05)
 - [Deploy Oracle Database step by step on Amazon EVS with FSx for ONTAP](https://aws.amazon.com/blogs/architecture/deploy-oracle-database-step-by-step-on-amazon-evs-with-fsx-for-ontap/) - *AWS Architecture Blog* (2026-10-02)
 - [Architect highly available Oracle Database on Amazon EVS and FSx for ONTAP](https://aws.amazon.com/blogs/architecture/architect-highly-available-oracle-database-on-amazon-evs-and-fsx-for-ontap/) - *AWS Architecture Blog* (2026-10-02)
 - [Deploy open source Regional availability tools in your VPC](https://aws.amazon.com/blogs/architecture/deploy-open-source-regional-availability-tools-in-your-vpc/) - *AWS Architecture Blog* (2026-10-02)
-- [Accelerating airline retailing innovation: how Datalex modernized with AWS Experience-Based Acceleration and agentic AI](https://aws.amazon.com/blogs/architecture/accelerating-airline-retailing-innovation-how-datalex-modernized-with-aws-experience-based-acceleration-and-agentic-ai/) - *AWS Architecture Blog* (2026-10-01)
 
 ## Kubernetes
 
+- [From zero to agent builder: Running kagent on your laptop](https://www.cncf.io/blog/2026/10/12/from-zero-to-agent-builder-running-kagent-on-your-laptop/) - *Blog – Cloud Native Computing Foundation* (2026-10-12)
 - [Join Platform Engineering Day at KubeCon + CloudNativeCon North America 2026](https://www.cncf.io/blog/2026/10/09/join-platform-engineering-day-at-kubecon-cloudnativecon-north-america-2026/) - *Blog – Cloud Native Computing Foundation* (2026-10-09)
 - [Making the Golden Kubestronaut a little more golden](https://www.cncf.io/blog/2026/10/09/making-the-golden-kubestronaut-a-little-more-golden/) - *Blog – Cloud Native Computing Foundation* (2026-10-09)
 - [Who owns NIS2 and DORA on a Kubernetes platform team](https://www.cncf.io/blog/2026/10/09/who-owns-nis2-and-dora-on-a-kubernetes-platform-team/) - *Blog – Cloud Native Computing Foundation* (2026-10-09)
 - [Don’t give AI agents root. Make them propose the next system state.](https://www.cncf.io/blog/2026/10/08/dont-give-ai-agents-root-make-them-propose-the-next-system-state/) - *Blog – Cloud Native Computing Foundation* (2026-10-08)
-- [CiliumCon is back at KubeCon + CloudNativeCon North America 2026](https://www.cncf.io/blog/2026/10/07/ciliumcon-is-back-at-kubecon-cloudnativecon-north-america-2026/) - *Blog – Cloud Native Computing Foundation* (2026-10-07)
 - [The Shift to cgroup v2 in Kubernetes: What You Need to Know](https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/) - *Kubernetes Blog* (2026-10-06)
 - [Scaling Kubernetes Workloads with Node Swap](https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/) - *Kubernetes Blog* (2026-10-05)
 - [Spotlight on SIG Apps](https://kubernetes.io/blog/2026/09/22/sig-apps-spotlight/) - *Kubernetes Blog* (2026-09-22)
@@ -33,45 +33,45 @@ Automated tech news updates. Last updated: 2026-10-11 14:42:32 UTC
 
 ## Security
 
-- [P7 DarkSword iOS Exploit Kit Adds Crypto Wallet Data Theft and Remote Commands](https://thehackernews.com/2026/10/p7-darksword-ios-exploit-kit-adds.html) - *The Hacker News* (2026-10-11)
-- [The Third-Party Agent Problem: Why Security Built for AI You Chose Misses the Agents You Didn't](https://thehackernews.com/2026/10/the-third-party-agent-problem-why.html) - *The Hacker News* (2026-10-10)
-- [Anthropic Cuts Live Internet Access for Internal AI Tests After Claude Exploits Injection Flaws](https://thehackernews.com/2026/10/anthropic-cuts-live-internet-access-for.html) - *The Hacker News* (2026-10-10)
+- [⚡ Weekly Recap: Helpdesk 0-Days, Rogue Certs, ShinyHunters Arrest, AI-Fooling Malware and More](https://thehackernews.com/2026/10/weekly-recap-helpdesk-0-days-rogue.html) - *The Hacker News* (2026-10-12)
+- [FBI Arrests Suspect in FBI-Hacking Case](https://www.schneier.com/blog/archives/2026/10/fbi-arrests-suspect-in-fbi-hacking-case.html) - *Schneier on Security* (2026-10-12)
+- [Bring Your Own Agent: Your Employees' Assistants Are Already Logged In](https://thehackernews.com/2026/10/bring-your-own-agent-your-employees.html) - *The Hacker News* (2026-10-12)
+- [Ledger Finds Unauthorized Hardware Implant in CryptoBilis-Sold Wallet Amid Fund Theft Reports](https://thehackernews.com/2026/10/ledger-finds-unauthorized-hardware.html) - *The Hacker News* (2026-10-12)
+- [Critical SonicWall SMA 1000 Flaw Targeted in 135 Exploitation Attempts After Patch](https://thehackernews.com/2026/10/critical-sonicwall-sma-1000-flaw.html) - *The Hacker News* (2026-10-12)
+- [Attackers Exploit CVSS 10.0 Bricksforge WordPress Flaw Enabling Unauthenticated RCE](https://thehackernews.com/2026/10/attackers-exploit-cvss-100-bricksforge.html) - *The Hacker News* (2026-10-12)
 - [FBI Arrests Executive at Ransomware Negotiation Firm](https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm/) - *Krebs on Security* (2026-10-10)
 - [Friday Squid Blogging: I Caught a Squid](https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-i-caught-a-squid.html) - *Schneier on Security* (2026-10-09)
-- [Credential-Stealing GitHub Actions Workflows Planted in Tens of Thousands of Repositories](https://thehackernews.com/2026/10/credential-stealing-github-actions.html) - *The Hacker News* (2026-10-10)
-- [FBI Arrests Another ShinyHunters Suspect Reportedly Involved in Its Jobs Portal Hack](https://thehackernews.com/2026/10/fbi-arrests-another-shinyhunters.html) - *The Hacker News* (2026-10-09)
 - [How Technology Empowers—and Imperils—Dictators](https://www.schneier.com/blog/archives/2026/10/how-technology-empowers-and-imperils-dictators.html) - *Schneier on Security* (2026-10-08)
 - [ShinyHunters Extorted Boeing Spin-off Prior to Arrests](https://krebsonsecurity.com/2026/10/shinyhunters-extorted-boeing-spin-off-prior-to-arrests/) - *Krebs on Security* (2026-10-07)
-- [Apple’s Verified Photography System](https://www.schneier.com/blog/archives/2026/10/apples-verified-photography-system.html) - *Schneier on Security* (2026-10-07)
 
 ## Databases/Storage
 
-- [Christophe Pettus: All Your GUCs in a Row: parallel_leader_participation](https://postgr.es/p/9xz) - *Planet PostgreSQL* (2026-10-10)
-- [Christophe Pettus: All Your GUCs in a Row: parallel_setup_cost and parallel_tuple_cost](https://postgr.es/p/9xy) - *Planet PostgreSQL* (2026-10-10)
-- [Chris van Eijk: infinite recursion detected in policy: causes and fixes](https://postgr.es/p/9xA) - *Planet PostgreSQL* (2026-10-10)
-- [Chris van Eijk: new row violates row-level security policy: the causes](https://postgr.es/p/9xw) - *Planet PostgreSQL* (2026-10-09)
-- [Álvaro Hernández: Scaling Citus without limits: announcing Query Routers in StackGres](https://postgr.es/p/9xu) - *Planet PostgreSQL* (2026-10-09)
+- [Understanding the differences between PgBouncer and Amazon RDS Proxy for PostgreSQL connection pooling](https://aws.amazon.com/blogs/database/understanding-the-differences-between-pgbouncer-and-amazon-rds-proxy-for-postgresql-connection-pooling/) - *AWS Database Blog* (2026-10-12)
+- [Migrate CLR code to AWS Lambda when upgrading Amazon RDS for SQL Server to 2025](https://aws.amazon.com/blogs/database/migrate-clr-code-to-aws-lambda-when-upgrading-amazon-rds-for-sql-server-to-2025/) - *AWS Database Blog* (2026-10-12)
+- [Automated blocking and query alerts for Amazon RDS for SQL Server](https://aws.amazon.com/blogs/database/automated-blocking-and-query-alerts-for-amazon-rds-for-sql-server/) - *AWS Database Blog* (2026-10-12)
+- [Christophe Pettus: The Patch Is Coming From Inside the House](https://postgr.es/p/9xO) - *Planet PostgreSQL* (2026-10-12)
+- [Devrim GÜNDÜZ: PostgreSQL RPM repository meets AI with pg_statviz](https://postgr.es/p/9xN) - *Planet PostgreSQL* (2026-10-12)
+- [Devrim GÜNDÜZ: PostgreSQL RPM repository meets AI with pg_statviz](https://postgr.es/p/9xM) - *Planet PostgreSQL* (2026-10-12)
+- [Cornelia Biacsics: Contributions for week 40](https://postgr.es/p/9xL) - *Planet PostgreSQL* (2026-10-12)
+- [Christophe Pettus: All Your GUCs in a Row: plan_cache_mode](https://postgr.es/p/9xJ) - *Planet PostgreSQL* (2026-10-12)
 - [Introducing the Native Confluent Cloud Connector Experience in Azure Cosmos DB!](https://devblogs.microsoft.com/cosmosdb/introducing-the-native-confluent-cloud-connector-experience-in-azure-cosmos-db/) - *Azure Cosmos DB Blog* (2026-10-09)
 - [How MUFG Bank aims to cut flowchart work by up to 90% with ontology-grounded AI on Amazon Neptune and Amazon Bedrock](https://aws.amazon.com/blogs/database/how-mufg-bank-aims-to-cut-flowchart-work-by-up-to-90-with-ontology-grounded-ai-on-amazon-neptune-and-amazon-bedrock/) - *AWS Database Blog* (2026-10-08)
-- [Migrate SSIS packages to Aurora PostgreSQL – Part 2](https://aws.amazon.com/blogs/database/migrate-ssis-packages-to-aurora-postgresql-part-2/) - *AWS Database Blog* (2026-10-07)
-- [Migrate SSIS packages to Aurora PostgreSQL – Part 1](https://aws.amazon.com/blogs/database/migrate-ssis-packages-to-aurora-postgresql-part-1/) - *AWS Database Blog* (2026-10-07)
-- [Run least-privilege AWS DMS CDC migration from SQL Server](https://aws.amazon.com/blogs/database/run-least-privilege-aws-dms-cdc-migration-from-sql-server/) - *AWS Database Blog* (2026-10-06)
 
 ## Networking
 
+- [It’s not your model — AI has a data movement problem](https://www.networkworld.com/article/4233137/its-not-your-model-ai-has-a-data-movement-problem.html) - *Network World* (2026-10-12)
+- [Ørsted builds compliance into automation, speeds firewall changes](https://www.networkworld.com/article/4229048/orsted-builds-compliance-into-automation-speeds-firewall-changes.html) - *Network World* (2026-10-12)
 - [ICANN set to expand gTLD: Brands, AI, and crypto all get new domains](https://www.networkworld.com/article/4233275/icann-set-to-expand-gtld-brands-ai-and-crypto-all-get-new-domains.html) - *Network World* (2026-10-09)
 - [Oracle reportedly lands $7B GPU deal for Tencent](https://www.networkworld.com/article/4233245/oracle-reportedly-lands-7b-gpu-deal-for-tencent.html) - *Network World* (2026-10-09)
 - [Bidding war over key component could eliminate third hard disk maker](https://www.networkworld.com/article/4233228/bidding-war-over-key-component-could-eliminate-third-hard-disk-maker.html) - *Network World* (2026-10-09)
-- [Citrix issues its weekly critical security patch for NetScaler ADC and NetScaler Gateway](https://www.networkworld.com/article/4233186/citrix-issues-its-weekly-critical-security-patch-for-netscaler-adc-and-netscaler-gateway.html) - *Network World* (2026-10-09)
-- [Tool sprawl, AI complicate enterprise network operations](https://www.networkworld.com/article/4231352/tool-sprawl-ai-complicate-enterprise-network-operations.html) - *Network World* (2026-10-08)
 
 ## Computing
 
-- [One with the world? A new look at brains transformed by psychedelics.](https://arstechnica.com/science/2026/10/the-psychedelic-brain-looks-like-chaos-underneath-theres-order/) - *Ars Technica - All content* (2026-10-10)
-- [Neanderthal wooden tools from Spain found preserved in stone](https://arstechnica.com/science/2026/10/neanderthal-wooden-tools-from-spain-found-preserved-in-stone/) - *Ars Technica - All content* (2026-10-09)
-- [Ukraine’s drones knock out AI data center belonging to "Russia’s Google"](https://arstechnica.com/gadgets/2026/10/ukraines-drones-knock-out-ai-data-center-belonging-to-russias-google/) - *Ars Technica - All content* (2026-10-09)
-- [A Cray-1 supercomputer replica from 30 "obsolete" Mac Minis](https://arstechnica.com/gadgets/2026/10/a-cray-1-supercomputer-replica-from-30-obsolete-mac-minis/) - *Ars Technica - All content* (2026-10-09)
-- [NASA issues long-awaited call to industry for private space stations](https://arstechnica.com/space/2026/10/nasa-issues-long-awaited-call-to-industry-for-private-space-stations/) - *Ars Technica - All content* (2026-10-09)
+- [Long-lost horror gaming cult classic P.T. gets a much-needed PC port](https://arstechnica.com/gaming/2026/10/long-lost-horror-gaming-cult-classic-p-t-gets-a-much-needed-pc-port/) - *Ars Technica - All content* (2026-10-12)
+- [F1 in Singapore: There's a new fastest car now](https://arstechnica.com/cars/2026/10/f1-in-singapore-theres-a-new-fastest-car-now/) - *Ars Technica - All content* (2026-10-12)
+- [Google announces the Fitbit Edge, a middle ground between Pixel Watch 5 and Fitbit Air](https://arstechnica.com/gadgets/2026/10/google-announces-the-fitbit-edge-a-middle-ground-between-pixel-watch-5-and-fitbit-air/) - *Ars Technica - All content* (2026-10-12)
+- [Amazon has over 1 million robot workers. What’s next for human employees?](https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work/) - *Ars Technica - All content* (2026-10-12)
+- [Review: 4-hour Musk documentary feels like two different films](https://arstechnica.com/culture/2026/10/review-4-hour-musk-documentary-feels-like-two-different-films/) - *Ars Technica - All content* (2026-10-11)
 
 ## AI/Models/RL
 
@@ -88,19 +88,19 @@ Automated tech news updates. Last updated: 2026-10-11 14:42:32 UTC
 
 ## AI Infra
 
+- [Deploy decision models with llama.cpp on Amazon SageMaker AI](https://aws.amazon.com/blogs/machine-learning/deploy-decision-models-with-llama-cpp-on-amazon-sagemaker-ai/) - *Artificial Intelligence* (2026-10-12)
+- [Run multi-node inference workloads using Ray LLM Deep Learning Containers](https://aws.amazon.com/blogs/machine-learning/run-multi-node-inference-workloads-using-ray-llm-deep-learning-containers/) - *Artificial Intelligence* (2026-10-12)
 - [ICYMI: What landed for AI builders in September 2026](https://aws.amazon.com/blogs/machine-learning/icymi-what-landed-for-ai-builders-in-september-2026/) - *Artificial Intelligence* (2026-10-09)
 - [How Postman runs Agent Mode for 40 million developers on Amazon Bedrock](https://aws.amazon.com/blogs/machine-learning/how-postman-runs-agent-mode-for-40-million-developers-on-amazon-bedrock/) - *Artificial Intelligence* (2026-10-09)
 - [Pay-per-inference for AI agents: How BlockRun and Incarna use Amazon Bedrock AgentCore payments](https://aws.amazon.com/blogs/machine-learning/pay-per-inference-for-ai-agents-how-blockrun-and-incarna-use-amazon-bedrock-agentcore-payments/) - *Artificial Intelligence* (2026-10-08)
-- [Share GPU clusters across teams with isolation and fairness using Amazon SageMaker HyperPod](https://aws.amazon.com/blogs/machine-learning/share-gpu-clusters-across-teams-with-isolation-and-fairness-using-amazon-sagemaker-hyperpod/) - *Artificial Intelligence* (2026-10-08)
-- [Introducing Claude Haiku 5.5 on AWS](https://aws.amazon.com/blogs/machine-learning/introducing-claude-haiku-5-5-on-aws/) - *Artificial Intelligence* (2026-10-07)
 
 ## Technical Program Management (TPM)
 
+- [Spotify More Than Doubled Monthly Code Changes as AI Accelerated Development](https://www.infoq.com/news/2026/10/spotify-ai-quality-controls/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-12)
+- [React 19.3: Adds a browser() API, Giving Client-Only Rendering a First-Class Name](https://www.infoq.com/news/2026/10/react-19-3-browser-api/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-12)
+- [Java News Roundup: Grails 8, Open Liberty, GlassFish, Infinispan, LangChain4j, Spock](https://www.infoq.com/news/2026/10/java-news-roundup-oct05-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-12)
+- [Xcode 27.2 Introduces an Agent- and Merge-Friendly JSON Format for Project Configuration](https://www.infoq.com/news/2026/10/xcode-json-project-format/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-12)
 - [Context Language Models: Self-Managing Context to Improve Performance and Reduce Compute Costs](https://www.infoq.com/news/2026/10/context-language-models/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-11)
-- [Cloudflare Traces Turns the Proxy Layer into OpenTelemetry Spans, with New Volume-Based Pricing](https://www.infoq.com/news/2026/10/cloudflare-traces-open-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-10)
-- [Android Bench 2 Adds Support for Long-Horizon Tasks, Agentic Evaluation, and Continuous Scoring](https://www.infoq.com/news/2026/10/android-bench-2/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-09)
-- [Shopify Upgrades Checkout Blocks to Polaris Web Components, Cutting Bundle Sizes up to 85%](https://www.infoq.com/news/2026/10/shopify-web-components/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-09)
-- [Github Migrates Copilot Runtime to Rust with AI-Assisted Rewrite](https://www.infoq.com/news/2026/10/github-copilot-rust-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-09)
 - [The Pulse: Firebase’s global outage & poor response](https://blog.pragmaticengineer.com/the-pulse-firebases-global-outage-poor-response/) - *The Pragmatic Engineer* (2026-10-08)
 - [The Pulse: RoR creator sparks new “death of coding by hand” debate](https://blog.pragmaticengineer.com/the-pulse-ror-creator-sparks-new-death-of-coding-by-hand-debate/) - *The Pragmatic Engineer* (2026-10-01)
 - [AI Changes What Makes a Product Backlog Valuable](https://www.mountaingoatsoftware.com/agile/ai-changes-what-makes-a-product-backlog-valuable) - *Mike Cohn's Blog - Succeeding With Agile* (2026-09-29)
