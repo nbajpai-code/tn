@@ -1,14 +1,14 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-10-17 12:00:11 UTC
+Automated tech news updates. Last updated: 2026-10-18 12:28:27 UTC
 
 ## Software Architecture
 
+- [Mini book: Evolutionary Architecture in Practice](https://www.infoq.com/minibooks/evolutionary-architecture/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-10-16)
 - [Article: Cryptographic Foundation of Mobile ID Systems: An ISO/IEC 18013-5 Enterprise Architecture Blueprint](https://www.infoq.com/articles/enterprise-mobile-id-mdl-blueprint/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-10-16)
 - [Microsoft Commits Maia to Multi-Gigawatt Inference, and Its Efficiency Metric Draws Questions](https://www.infoq.com/news/2026/10/azure-maia-300/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-10-16)
 - [Presentation: What 25 Trillion Tokens Reveal About How Developers Actually Adopt AI Agents](https://www.infoq.com/presentations/agentic-ai-developer-trust-adoption/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-10-15)
 - [Presentation: How to Find Resilience Bugs in Systems that Don't Exist](https://www.infoq.com/presentations/formal-methods-principles/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-10-14)
-- [Presentation: How Eve Online Leverages Head Based Sampling to Observe "Fun"](https://www.infoq.com/presentations/eve-observability-head-sampling/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-10-13)
 
 ## Cloud Computing
 
@@ -33,12 +33,12 @@ Automated tech news updates. Last updated: 2026-10-17 12:00:11 UTC
 
 ## Security
 
+- [ConnectWise Suspends Cloud Backup After Attackers Compromise Microsoft 365 Tenants](https://thehackernews.com/2026/10/connectwise-suspends-cloud-backup-after.html) - *The Hacker News* (2026-10-18)
 - [MALFEX npm Package 'imgdecode' Hides Shellcode Loader in Windows Native Addon](https://thehackernews.com/2026/10/malfex-npm-package-imgdecode-hides.html) - *The Hacker News* (2026-10-17)
 - [Hackers Use Compromised ConnectWise Credential to Sign In to 173 Microsoft 365 Tenants](https://thehackernews.com/2026/10/hackers-use-compromised-connectwise.html) - *The Hacker News* (2026-10-17)
 - [Friday Squid Blogging: Squid Before the Chicxulub Meteor Impact](https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-squid-before-the-chicxulub-meteor-impact.html) - *Schneier on Security* (2026-10-16)
 - [Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug](https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html) - *The Hacker News* (2026-10-16)
 - [Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor](https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html) - *The Hacker News* (2026-10-16)
-- [UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing](https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html) - *The Hacker News* (2026-10-16)
 - [Backdooring Open-Weight AI Models](https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html) - *Schneier on Security* (2026-10-16)
 - [Measuring Human Cryptanalysis Effort](https://www.schneier.com/blog/archives/2026/10/measuring-human-cryptanalysis-effort.html) - *Schneier on Security* (2026-10-15)
 - [Upcoming Speaking Engagements](https://www.schneier.com/blog/archives/2026/10/upcoming-speaking-engagements-61.html) - *Schneier on Security* (2026-10-14)
@@ -46,11 +46,11 @@ Automated tech news updates. Last updated: 2026-10-17 12:00:11 UTC
 
 ## Databases/Storage
 
+- [Christophe Pettus: All Your GUCs in a Row: random_page_cost and seq_page_cost](https://postgr.es/p/9yN) - *Planet PostgreSQL* (2026-10-18)
 - [Christophe Pettus: All Your GUCs in a Row: quote_all_identifiers](https://postgr.es/p/9yK) - *Planet PostgreSQL* (2026-10-17)
 - [Álvaro Hernández: Open-source Citus matches PlanetScale's Neki at 10M QPS on half the data nodes](https://postgr.es/p/9yG) - *Planet PostgreSQL* (2026-10-16)
 - [Chris Travers: PostgreSQL 18 and libnuma](https://postgr.es/p/9yE) - *Planet PostgreSQL* (2026-10-16)
 - [Andrew Atkinson: PostgreSQL in the 2026 Ruby on Rails Community Survey and Book Giveaways](https://postgr.es/p/9yH) - *Planet PostgreSQL* (2026-10-16)
-- [Dave Page: pgbuild, and Knowing What Ships with pgAdmin](https://postgr.es/p/9yD) - *Planet PostgreSQL* (2026-10-16)
 - [AI Agents: Meet the Azure Cosmos DB vNext Emulator](https://devblogs.microsoft.com/cosmosdb/ai-agents-meet-the-azure-cosmos-db-vnext-emulator/) - *Azure Cosmos DB Blog* (2026-10-15)
 - [Building Node.js applications with Sequelize ORM and Amazon Aurora DSQL](https://aws.amazon.com/blogs/database/building-node-js-applications-with-sequelize-orm-and-amazon-aurora-dsql/) - *AWS Database Blog* (2026-10-14)
 - [Reducing storage initialization impact in Amazon RDS for PostgreSQL after snapshot restore](https://aws.amazon.com/blogs/database/reducing-storage-initialization-impact-in-amazon-rds-for-postgresql-after-snapshot-restore/) - *AWS Database Blog* (2026-10-14)
@@ -67,19 +67,19 @@ Automated tech news updates. Last updated: 2026-10-17 12:00:11 UTC
 
 ## Computing
 
+- [Science says your boss should talk less in meetings](https://arstechnica.com/science/2026/10/science-says-your-boss-should-talk-less-in-meetings/) - *Ars Technica - All content* (2026-10-17)
+- [Why BioWare's Neverwinter Nights still has thousands of active players](https://arstechnica.com/gaming/2026/10/why-biowares-neverwinter-nights-still-has-thousands-of-active-players/) - *Ars Technica - All content* (2026-10-17)
 - [OpenAI models hacked a crypto wallet and breached more websites](https://arstechnica.com/security/2026/10/openai-models-hacked-a-crypto-wallet-and-breached-more-websites/) - *Ars Technica - All content* (2026-10-16)
 - [“thegentlemanpervert” producing AI CSAM is a NJ prosecutor, say cops](https://arstechnica.com/tech-policy/2026/10/thegentlemanpervert-producing-ai-csam-is-a-nj-prosecutor-say-cops/) - *Ars Technica - All content* (2026-10-16)
 - [US Rep proposes bill to give video game buyers "ownership," not "a license"](https://arstechnica.com/gaming/2026/10/us-rep-proposes-bill-to-give-video-game-buyers-ownership-not-a-license/) - *Ars Technica - All content* (2026-10-16)
-- [Bug turns one of the biggest fears about Ray-Ban Meta smart glasses into reality](https://arstechnica.com/gadgets/2026/10/ray-ban-meta-smart-glasses-found-recording-audio-without-wearers-consent/) - *Ars Technica - All content* (2026-10-16)
-- [RFK Jr. proposes FDA look the other way on unproven peptides, report says](https://arstechnica.com/health/2026/10/rfk-jr-proposes-fda-look-the-other-way-on-unproven-peptides-report-says/) - *Ars Technica - All content* (2026-10-16)
 
 ## AI/Models/RL
 
 - [How Itaú is building generative AI for its entire customer base](https://openai.com/index/itau-generative-ai) - *OpenAI News* (2026-10-16)
 - [Grounding AI agents in biological reality: Building blocks for autonomous wet labs](https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs/) - *The latest research from Google* (2026-10-16)
 - [Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline](https://huggingface.co/blog/nvidia/scaling-indic-pretraining) - *Hugging Face - Blog* (2026-10-16)
-- [Stack Overflow for Agents triples signups with ChatGPT plugin](https://openai.com/index/stack-overflow-chatgpt-plugin) - *OpenAI News* (2026-10-16)
 - [Benefit Street Partners answers questions faster with Codex](https://openai.com/index/benefit-street-partners) - *OpenAI News* (2026-10-16)
+- [Stack Overflow for Agents triples signups with ChatGPT plugin](https://openai.com/index/stack-overflow-chatgpt-plugin) - *OpenAI News* (2026-10-16)
 - [Welcome Beam: a 501B open model you can own, customize, and scale](https://huggingface.co/blog/reflection-beam) - *Hugging Face - Blog* (2026-10-16)
 - [Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint](https://huggingface.co/blog/ibm-granite/granite-switch-4-1) - *Hugging Face - Blog* (2026-10-15)
 - [Bringing GPT-Rosalind to academic research labs](https://openai.com/index/introducing-the-rosalind-academic-plan) - *OpenAI News* (2026-10-15)
@@ -96,11 +96,11 @@ Automated tech news updates. Last updated: 2026-10-17 12:00:11 UTC
 
 ## Technical Program Management (TPM)
 
+- [AWS Will Run Its European Sovereign Cloud Without the Global Backbone for Several Hours](https://www.infoq.com/news/2026/10/aws-sovereign-cloud-exercise/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-18)
 - [Reverse Engineer Anything Project Brings AI Agents to Binary Analysis](https://www.infoq.com/news/2026/10/reverse-engineer-anything/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-17)
 - [Amazon Acquires DuckLabs and Integrates DuckDB in Amazon Aurora PostgreSQL](https://www.infoq.com/news/2026/10/amazon-acquires-ducklabs/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-17)
 - [Google EnvHarness Enables Self-Evolving Agents to Learn in Dynamics Environments](https://www.infoq.com/news/2026/10/envharness-self-evolving-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-16)
 - [Zod Brings In-Process Schema Compilation and a 9x Cut in Memory Footprint](https://www.infoq.com/news/2026/10/zod-schema-compliation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-16)
-- [Uber Automates Dependency Analysis Across Its Service Mesh](https://www.infoq.com/news/2026/10/uber-automated-dependency/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-16)
 - [The Pulse: new trend of building “internal vibe-coding apps” at tech companies](https://blog.pragmaticengineer.com/the-pulse-new-trend-of-building-internal-vibe-coding-apps-at-tech-companies/) - *The Pragmatic Engineer* (2026-10-15)
 - [7 Rules for Agile Teamwork Without Slowing Everyone Down](https://www.mountaingoatsoftware.com/agile/rules-for-agile-teamwork) - *Mike Cohn's Blog - Succeeding With Agile* (2026-10-13)
 - [The Pulse: Firebase’s global outage & poor response](https://blog.pragmaticengineer.com/the-pulse-firebases-global-outage-poor-response/) - *The Pragmatic Engineer* (2026-10-08)
