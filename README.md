@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-10-24 12:28:40 UTC
+Automated tech news updates. Last updated: 2026-10-25 12:59:39 UTC
 
 ## Software Architecture
 
@@ -33,11 +33,11 @@ Automated tech news updates. Last updated: 2026-10-24 12:28:40 UTC
 
 ## Security
 
+- [OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication](https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html) - *The Hacker News* (2026-10-25)
 - [Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software](https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html) - *The Hacker News* (2026-10-24)
 - [Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline](https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html) - *The Hacker News* (2026-10-24)
 - [Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads](https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html) - *The Hacker News* (2026-10-24)
 - [Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet](https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html) - *The Hacker News* (2026-10-24)
-- [CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud](https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html) - *The Hacker News* (2026-10-24)
 - [Friday Squid Blogging: Increasing Squid Populations](https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-increasing-squid-populations.html) - *Schneier on Security* (2026-10-23)
 - [Compromised TLS Certificates](https://www.schneier.com/blog/archives/2026/10/compromised-tls-certificates.html) - *Schneier on Security* (2026-10-23)
 - [New Serious PHP Vulnerabilities Released and Patched](https://www.schneier.com/blog/archives/2026/10/new-serious-php-vulnerabilities-released-and-patched.html) - *Schneier on Security* (2026-10-22)
@@ -46,13 +46,13 @@ Automated tech news updates. Last updated: 2026-10-24 12:28:40 UTC
 
 ## Databases/Storage
 
-- [Cornelia Biacsics: Contributions for week 41 & 42](https://postgr.es/p/9zR) - *Planet PostgreSQL* (2026-10-24)
-- [Christophe Pettus: All Your GUCs in a Row: recursive_worktable_factor](https://postgr.es/p/9zP) - *Planet PostgreSQL* (2026-10-24)
-- [Henrietta Dombrovskaya: pg_acm at PGConf.EU](https://postgr.es/p/9zO) - *Planet PostgreSQL* (2026-10-23)
+- [Vadim Yatsenko: Speech at PGDay Israel 2026：Durability, Consistency, and Performance](https://postgr.es/p/9zW) - *Planet PostgreSQL* (2026-10-25)
+- [Vadim Yatsenko: DataMax: A Dedicated WAL Log-Store Node for Near-Synchronous Durability](https://postgr.es/p/9zY) - *Planet PostgreSQL* (2026-10-25)
+- [Vadim Yatsenko: Commit Sequence Number (CSN) MVCC: Lock-Free Snapshot Acquisition](https://postgr.es/p/9zX) - *Planet PostgreSQL* (2026-10-25)
+- [Christophe Pettus: All Your GUCs in a Row: remove_temp_files_after_crash](https://postgr.es/p/9zU) - *Planet PostgreSQL* (2026-10-25)
+- [Gabriele Bartolini: CNPG Recipe 28 - Generated and rotating PostgreSQL user passwords in CloudNativePG 1.31](https://postgr.es/p/9zS) - *Planet PostgreSQL* (2026-10-24)
 - [Code with Cosmos: Build a Production-Ready AI App in Four Episodes](https://devblogs.microsoft.com/cosmosdb/code-with-cosmos/) - *Azure Cosmos DB Blog* (2026-10-23)
 - [From Local Development to CI Workflows with the Azure Cosmos DB Emulator](https://devblogs.microsoft.com/cosmosdb/from-local-development-to-ci-workflows-with-the-azure-cosmos-db-emulator/) - *Azure Cosmos DB Blog* (2026-10-23)
-- [Ahsan Hadi: Zero Downtime Rolling Major PostgreSQL Upgrades on a Distributed PostgreSQL Cluster](https://postgr.es/p/9zN) - *Planet PostgreSQL* (2026-10-23)
-- [Karen Jex: Tuning Postgres for Analytics - PGConf.EU](https://postgr.es/p/9zJ) - *Planet PostgreSQL* (2026-10-23)
 - [Troubleshooting Data Mismatches with tablediff on Amazon RDS for SQL Server](https://aws.amazon.com/blogs/database/troubleshooting-data-mismatches-with-tablediff-on-amazon-rds-for-sql-server/) - *AWS Database Blog* (2026-10-22)
 - [Announcing GA of Safe Key Rotation in Azure Cosmos DB](https://devblogs.microsoft.com/cosmosdb/announcing-public-preview-of-safe-key-rotation-in-azure-cosmos-db/) - *Azure Cosmos DB Blog* (2026-10-21)
 - [How U.S. Bank migrated 119 TB from Oracle Exadata to Amazon RDS for Oracle](https://aws.amazon.com/blogs/database/how-u-s-bank-migrated-119-tb-from-oracle-exadata-to-amazon-rds-for-oracle/) - *AWS Database Blog* (2026-10-20)
@@ -67,11 +67,11 @@ Automated tech news updates. Last updated: 2026-10-24 12:28:40 UTC
 
 ## Computing
 
+- [A 1,000-mile cloud on Mars may reveal physics never seen in nature](https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/) - *Ars Technica - All content* (2026-10-24)
+- [Ice sheet expansion may have started 2,000 years ago, but we canceled that](https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/) - *Ars Technica - All content* (2026-10-24)
 - [NASA updates lander plans for Moon landings, finally solves long-festering Orion issue](https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/) - *Ars Technica - All content* (2026-10-23)
 - [Hegseth warns prediction market bets warp military judgment, endanger troops](https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk/) - *Ars Technica - All content* (2026-10-23)
 - [Updated Google privacy policy says your Gmail might be used for advertising](https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/) - *Ars Technica - All content* (2026-10-23)
-- [Inside the Pentagon, the pressure is on to find a home for a new spaceport](https://arstechnica.com/space/2026/10/senior-commander-says-space-force-needs-new-spaceport-by-2030/) - *Ars Technica - All content* (2026-10-23)
-- [Spotify ramps up policy enforcement on family plans](https://arstechnica.com/gadgets/2026/10/spotify-ramps-up-policy-enforcement-on-family-plans/) - *Ars Technica - All content* (2026-10-23)
 
 ## AI/Models/RL
 
@@ -96,11 +96,11 @@ Automated tech news updates. Last updated: 2026-10-24 12:28:40 UTC
 
 ## Technical Program Management (TPM)
 
+- [PingCAP Breach Exposes Customer Records and Source Code](https://www.infoq.com/news/2026/10/pingcap-cloud-data-breach/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-25)
+- [Google Optimizes Agent Development Kit's 200K-line Python Codebase Overnight with Gemini 4 Argon](https://www.infoq.com/news/2026/10/google-argon-optimizes-adk/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-24)
 - [Google’s Data Agent Kit Hits GA, Splitting Agent Guardrails Between Skills and IAM](https://www.infoq.com/news/2026/10/data-agent-kit-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-24)
 - [Cloudflare Reclaims 100 TB of RAM by Optimizing Consistent Hashing](https://www.infoq.com/news/2026/10/cloudflare-hashing-optimization/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-24)
 - [CSIRO Uses Serverless Architecture to Query 100x More Genomic Variants on AWS](https://www.infoq.com/news/2026/10/csiro-serverless-genomic-variant/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-23)
-- [AWS Introduces Lambda Web Functions for Node.js Applications](https://www.infoq.com/news/2026/10/aws-lambda-web-functions/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-23)
-- [Article: Multi-Cloud FinOps: An Engineering Framework for Cross-Cloud Cost Optimization](https://www.infoq.com/articles/multi-cloud-finops-cost-optimization/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-23)
 - [The Pulse: Anthropic builds its own source control system](https://blog.pragmaticengineer.com/the-pulse-anthropic-builds-its-own-source-control-system/) - *The Pragmatic Engineer* (2026-10-22)
 - [The Pulse: new trend of building “internal vibe-coding apps” at tech companies](https://blog.pragmaticengineer.com/the-pulse-new-trend-of-building-internal-vibe-coding-apps-at-tech-companies/) - *The Pragmatic Engineer* (2026-10-15)
 - [7 Rules for Agile Teamwork Without Slowing Everyone Down](https://www.mountaingoatsoftware.com/agile/rules-for-agile-teamwork) - *Mike Cohn's Blog - Succeeding With Agile* (2026-10-13)
