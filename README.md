@@ -1,14 +1,14 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-10-25 12:59:39 UTC
+Automated tech news updates. Last updated: 2026-10-26 14:53:55 UTC
 
 ## Software Architecture
 
+- [Article: The Evolution of Agentic Harnesses: From Chains to Graph to Code](https://www.infoq.com/articles/agentic-ai-architecture-harness-evolution/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-10-26)
 - [CSIRO Uses Serverless Architecture to Query 100x More Genomic Variants on AWS](https://www.infoq.com/news/2026/10/csiro-serverless-genomic-variant/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-10-23)
 - [Article: Multi-Cloud FinOps: An Engineering Framework for Cross-Cloud Cost Optimization](https://www.infoq.com/articles/multi-cloud-finops-cost-optimization/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-10-23)
 - [Presentation: Move Fast, Don’t Break Trust: Shipping Constantly with Humans and Beyond](https://www.infoq.com/presentations/monzo-microservices-devex/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-10-23)
 - [Presentation: Actors for Agents: Patterns for Production AI](https://www.infoq.com/presentations/actors-for-production-ai-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-10-22)
-- [Article: AI Changes the Data Interface, Not the Query Engine](https://www.infoq.com/articles/ai-changes-data-interface/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Architecture) - *InfoQ - Architecture* (2026-10-22)
 
 ## Cloud Computing
 
@@ -20,11 +20,11 @@ Automated tech news updates. Last updated: 2026-10-25 12:59:39 UTC
 
 ## Kubernetes
 
+- [Isolation. Security. Scale.](https://www.cncf.io/blog/2026/10/26/isolation-security-scale/) - *Blog – Cloud Native Computing Foundation* (2026-10-26)
 - [Multi-tenant GPU Kubernetes on simulated hardware with Kamaji and HAMi](https://www.cncf.io/blog/2026/10/23/multi-tenant-gpu-kubernetes-on-simulated-hardware-with-kamaji-and-hami/) - *Blog – Cloud Native Computing Foundation* (2026-10-23)
 - [Filtering and reducing AI agent telemetry with the OpenTelemetry Collector](https://www.cncf.io/blog/2026/10/22/filtering-and-reducing-ai-agent-telemetry-with-the-opentelemetry-collector/) - *Blog – Cloud Native Computing Foundation* (2026-10-22)
 - [Before you evaluate an AI SRE, give your existing agent context](https://www.cncf.io/blog/2026/10/21/before-you-evaluate-an-ai-sre-give-your-existing-agent-context/) - *Blog – Cloud Native Computing Foundation* (2026-10-21)
 - [How AI workloads are reshaping Kubernetes autoscaling](https://www.cncf.io/blog/2026/10/19/how-ai-workloads-are-reshaping-kubernetes-autoscaling/) - *Blog – Cloud Native Computing Foundation* (2026-10-19)
-- [Deploying, maintaining, and migrating production n8n on EKS](https://www.cncf.io/blog/2026/10/16/deploying-maintaining-and-migrating-production-n8n-on-eks/) - *Blog – Cloud Native Computing Foundation* (2026-10-16)
 - [Why Is My Kubernetes Job Still Pending? Tracing Kueue Admission with Headlamp](https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/) - *Kubernetes Blog* (2026-10-14)
 - [The Shift to cgroup v2 in Kubernetes: What You Need to Know](https://kubernetes.io/blog/2026/10/06/kubernetes-cgroups-v2-shift/) - *Kubernetes Blog* (2026-10-06)
 - [Scaling Kubernetes Workloads with Node Swap](https://kubernetes.io/blog/2026/10/05/scaling-kubernetes-workloads-with-node-swap/) - *Kubernetes Blog* (2026-10-05)
@@ -33,24 +33,24 @@ Automated tech news updates. Last updated: 2026-10-25 12:59:39 UTC
 
 ## Security
 
-- [OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication](https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html) - *The Hacker News* (2026-10-25)
-- [Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software](https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html) - *The Hacker News* (2026-10-24)
-- [Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline](https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html) - *The Hacker News* (2026-10-24)
-- [Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads](https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html) - *The Hacker News* (2026-10-24)
-- [Researchers Push Over 2 Million Updates to Remotely Disable Popcorn Time Updater That Could Fuel a Botnet](https://thehackernews.com/2026/10/researchers-push-over-2-million-updates.html) - *The Hacker News* (2026-10-24)
+- [⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More](https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html) - *The Hacker News* (2026-10-26)
+- [Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes](https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html) - *The Hacker News* (2026-10-26)
+- [Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses](https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html) - *The Hacker News* (2026-10-26)
+- [Bias in Qwen3-Coder Model](https://www.schneier.com/blog/archives/2026/10/bias-in-qwen3-coder-model.html) - *Schneier on Security* (2026-10-26)
+- [uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts](https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html) - *The Hacker News* (2026-10-26)
+- [Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations](https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html) - *The Hacker News* (2026-10-26)
 - [Friday Squid Blogging: Increasing Squid Populations](https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-increasing-squid-populations.html) - *Schneier on Security* (2026-10-23)
 - [Compromised TLS Certificates](https://www.schneier.com/blog/archives/2026/10/compromised-tls-certificates.html) - *Schneier on Security* (2026-10-23)
 - [New Serious PHP Vulnerabilities Released and Patched](https://www.schneier.com/blog/archives/2026/10/new-serious-php-vulnerabilities-released-and-patched.html) - *Schneier on Security* (2026-10-22)
 - [Widespread PHP Flaw May Cause Many Site Outages Today](https://krebsonsecurity.com/2026/10/widespread-php-flaw-may-cause-many-site-outages-today/) - *Krebs on Security* (2026-10-21)
-- [Workshop on Economics and Information Security (WEIS) Archive](https://www.schneier.com/blog/archives/2026/10/workshop-on-economics-and-information-security-weis-archive.html) - *Schneier on Security* (2026-10-21)
 
 ## Databases/Storage
 
+- [Karen Jex: Fostering Inclusivity with the PostgreSQL Europe Diversity Committee](https://postgr.es/p/9A8) - *Planet PostgreSQL* (2026-10-26)
+- [semab tariq: Your backups are green. That does not mean you can restore.](https://postgr.es/p/9A7) - *Planet PostgreSQL* (2026-10-26)
 - [Vadim Yatsenko: Speech at PGDay Israel 2026：Durability, Consistency, and Performance](https://postgr.es/p/9zW) - *Planet PostgreSQL* (2026-10-25)
 - [Vadim Yatsenko: DataMax: A Dedicated WAL Log-Store Node for Near-Synchronous Durability](https://postgr.es/p/9zY) - *Planet PostgreSQL* (2026-10-25)
 - [Vadim Yatsenko: Commit Sequence Number (CSN) MVCC: Lock-Free Snapshot Acquisition](https://postgr.es/p/9zX) - *Planet PostgreSQL* (2026-10-25)
-- [Christophe Pettus: All Your GUCs in a Row: remove_temp_files_after_crash](https://postgr.es/p/9zU) - *Planet PostgreSQL* (2026-10-25)
-- [Gabriele Bartolini: CNPG Recipe 28 - Generated and rotating PostgreSQL user passwords in CloudNativePG 1.31](https://postgr.es/p/9zS) - *Planet PostgreSQL* (2026-10-24)
 - [Code with Cosmos: Build a Production-Ready AI App in Four Episodes](https://devblogs.microsoft.com/cosmosdb/code-with-cosmos/) - *Azure Cosmos DB Blog* (2026-10-23)
 - [From Local Development to CI Workflows with the Azure Cosmos DB Emulator](https://devblogs.microsoft.com/cosmosdb/from-local-development-to-ci-workflows-with-the-azure-cosmos-db-emulator/) - *Azure Cosmos DB Blog* (2026-10-23)
 - [Troubleshooting Data Mismatches with tablediff on Amazon RDS for SQL Server](https://aws.amazon.com/blogs/database/troubleshooting-data-mismatches-with-tablediff-on-amazon-rds-for-sql-server/) - *AWS Database Blog* (2026-10-22)
@@ -67,14 +67,15 @@ Automated tech news updates. Last updated: 2026-10-25 12:59:39 UTC
 
 ## Computing
 
+- [From impulse purchase to pocket studio: The M-Vave FM-1](https://arstechnica.com/gadgets/2026/10/from-impulse-purchase-to-pocket-studio-the-m-vave-fm-1/) - *Ars Technica - All content* (2026-10-26)
 - [A 1,000-mile cloud on Mars may reveal physics never seen in nature](https://arstechnica.com/science/2026/10/a-1000-mile-cloud-on-mars-may-reveal-physics-never-seen-in-nature/) - *Ars Technica - All content* (2026-10-24)
 - [Ice sheet expansion may have started 2,000 years ago, but we canceled that](https://arstechnica.com/science/2026/10/ice-sheet-expansion-may-have-started-2000-years-go-but-we-canceled-that/) - *Ars Technica - All content* (2026-10-24)
 - [NASA updates lander plans for Moon landings, finally solves long-festering Orion issue](https://arstechnica.com/space/2026/10/nasa-updates-lander-plans-for-moon-landings-finally-solves-long-festering-orion-issue/) - *Ars Technica - All content* (2026-10-23)
 - [Hegseth warns prediction market bets warp military judgment, endanger troops](https://arstechnica.com/tech-policy/2026/10/pentagon-memo-on-prediction-markets-says-insider-bets-put-troops-lives-at-risk/) - *Ars Technica - All content* (2026-10-23)
-- [Updated Google privacy policy says your Gmail might be used for advertising](https://arstechnica.com/gadgets/2026/10/updated-google-privacy-policy-says-your-gmail-might-be-used-for-advertising/) - *Ars Technica - All content* (2026-10-23)
 
 ## AI/Models/RL
 
+- [How Fanatics and OpenAI streamline the fan experience](https://openai.com/index/fanatics-streamline-fan-experience) - *OpenAI News* (2026-10-26)
 - [Bringing foundational models to the front lines of TB screening](https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening/) - *The latest research from Google* (2026-10-23)
 - [Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)](https://openai.com/index/scaling-storage-one-billion-users-part-two) - *OpenAI News* (2026-10-23)
 - [LitPivot: Developing research ideas through dynamic contextualization within the literature landscape](https://huggingface.co/blog/allenai/litpivot) - *Hugging Face - Blog* (2026-10-23)
@@ -84,7 +85,6 @@ Automated tech news updates. Last updated: 2026-10-25 12:59:39 UTC
 - [Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox](https://huggingface.co/blog/microsoft/thinkingbox-training) - *Hugging Face - Blog* (2026-10-22)
 - [Build more responsive apps with the Decisions API](https://openai.com/index/decisions-api) - *OpenAI News* (2026-10-22)
 - [Beyond tree cover: mapping the world’s forest types](https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/) - *Google DeepMind News* (2026-10-22)
-- [Ensemble forecasting with IBM Granite time-series models](https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1) - *Hugging Face - Blog* (2026-10-22)
 
 ## AI Infra
 
@@ -96,11 +96,11 @@ Automated tech news updates. Last updated: 2026-10-25 12:59:39 UTC
 
 ## Technical Program Management (TPM)
 
-- [PingCAP Breach Exposes Customer Records and Source Code](https://www.infoq.com/news/2026/10/pingcap-cloud-data-breach/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-25)
-- [Google Optimizes Agent Development Kit's 200K-line Python Codebase Overnight with Gemini 4 Argon](https://www.infoq.com/news/2026/10/google-argon-optimizes-adk/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-24)
-- [Google’s Data Agent Kit Hits GA, Splitting Agent Guardrails Between Skills and IAM](https://www.infoq.com/news/2026/10/data-agent-kit-ga/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-24)
-- [Cloudflare Reclaims 100 TB of RAM by Optimizing Consistent Hashing](https://www.infoq.com/news/2026/10/cloudflare-hashing-optimization/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-24)
-- [CSIRO Uses Serverless Architecture to Query 100x More Genomic Variants on AWS](https://www.infoq.com/news/2026/10/csiro-serverless-genomic-variant/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-23)
+- [Java News Roundup: JDK 28 Schedule, Oracle CPUs, eMudhra Certs, Apache POI, WildFly, Azul, BellSoft](https://www.infoq.com/news/2026/10/java-news-roundup-oct19-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-26)
+- [Readyon Builds Four Layer Tenant Isolation for Multi Tenant Amazon EKS](https://www.infoq.com/news/2026/10/readyon-four-layer-isolation/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-26)
+- [Cloudflare’s Auto Router Rates Each Request for Stakes, from the Most Recent Turns](https://www.infoq.com/news/2026/10/cloudflare-auto-router/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-26)
+- [MCP C# SDK 2.0 Makes HTTP Stateless by Default and Adds Multi Round-Trip Requests](https://www.infoq.com/news/2026/10/MCP-CSharp-SDK-Stateless/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-26)
+- [PHP Patches Two Critical RCE Flaws That Were Already Under Attack](https://www.infoq.com/news/2026/10/php-critical-rce-patches/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-25)
 - [The Pulse: Anthropic builds its own source control system](https://blog.pragmaticengineer.com/the-pulse-anthropic-builds-its-own-source-control-system/) - *The Pragmatic Engineer* (2026-10-22)
 - [The Pulse: new trend of building “internal vibe-coding apps” at tech companies](https://blog.pragmaticengineer.com/the-pulse-new-trend-of-building-internal-vibe-coding-apps-at-tech-companies/) - *The Pragmatic Engineer* (2026-10-15)
 - [7 Rules for Agile Teamwork Without Slowing Everyone Down](https://www.mountaingoatsoftware.com/agile/rules-for-agile-teamwork) - *Mike Cohn's Blog - Succeeding With Agile* (2026-10-13)
@@ -130,11 +130,11 @@ Automated tech news updates. Last updated: 2026-10-25 12:59:39 UTC
 
 ## Agentic AI & Workflows
 
+- [The five components of building a "company harness"](https://www.langchain.com/blog/components-building-company-harness) - *LangChain Blog* (2026-10-25)
 - [Context Engineering with Deep Agents: How To Remember Without Keeping Everything In Context](https://www.langchain.com/blog/context-engineering-deep-agents-remember) - *LangChain Blog* (2026-10-24)
 - [Context Engineering (Agent Memory) for AI Agents Starts with Retrieval](https://www.langchain.com/blog/context-engineering-starts-with-retrieval) - *LangChain Blog* (2026-10-23)
 - [LangSmith LLM Gateway: Runtime Controls for Agents](https://www.langchain.com/blog/langsmith-llm-gateway-runtime-controls-for-production-agents) - *LangChain Blog* (2026-10-22)
 - [How Numan Built an Eval-First AI Health Coach with LangGraph and LangSmith](https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith) - *LangChain Blog* (2026-10-19)
-- [October 2026 LangChain Newsletter: Everything we shipped at Interrupt NYC & London](https://www.langchain.com/blog/october-2026-langchain-newsletter) - *LangChain Blog* (2026-10-15)
 - [Unlocking the 3rd Dimension for Generative AI (Part 1)](https://medium.com/llamaindex-blog/unlocking-the-3rd-dimension-for-generative-ai-part-1-f13a21e63a6f?source=rss----d7683ed5043e---4) - *LlamaIndex Blog - Medium* (2024-03-04)
 - [Querying a network of knowledge with llama-index-networks](https://medium.com/llamaindex-blog/querying-a-network-of-knowledge-with-llama-index-networks-d784b4c3006f?source=rss----d7683ed5043e---4) - *LlamaIndex Blog - Medium* (2024-02-27)
 - [LlamaIndex Newsletter 2024–02–27](https://medium.com/llamaindex-blog/llamaindex-newsletter-2024-02-27-4b9102a0f824?source=rss----d7683ed5043e---4) - *LlamaIndex Blog - Medium* (2024-02-27)
@@ -143,7 +143,7 @@ Automated tech news updates. Last updated: 2026-10-25 12:59:39 UTC
 
 ## Platform Engineering & DevEx
 
-- [Agent-first IDP: how big tech and the clouds are preparing platforms for agents](https://platformengineering.org/blog/agent-first-idp-how-big-tech-and-the-clouds-are-preparing-platforms-for-agents) - *Platform Engineering Blog* (2026-10-16)
+- [Agent-first IDP: how big tech and the clouds are preparing platforms for agents](https://platformengineering.org/blog/agent-first-idp-how-big-tech-and-the-clouds-are-preparing-platforms-for-agents) - *Platform Engineering Blog* (2026-10-26)
 - [10 platform engineering books worth your time in 2026](https://platformengineering.org/blog/10-platform-engineering-books-worth-your-time-in-2026) - *Platform Engineering Blog* (2026-10-14)
 - [If your team is happy, are you doing a good job?](https://charity.wtf/p/if-your-team-is-happy-are-you-doing) - *charity.wtf* (2026-10-08)
 - [How to justify investment in a platform](https://platformengineering.org/blog/how-to-justify-investment-in-a-platform) - *Platform Engineering Blog* (2026-09-30)
