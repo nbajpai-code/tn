@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-10-31 14:21:08 UTC
+Automated tech news updates. Last updated: 2026-11-01 14:47:01 UTC
 
 ## Software Architecture
 
@@ -33,12 +33,12 @@ Automated tech news updates. Last updated: 2026-10-31 14:21:08 UTC
 
 ## Security
 
+- [CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key](https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html) - *The Hacker News* (2026-11-01)
+- [Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script](https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html) - *The Hacker News* (2026-11-01)
+- [FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist](https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html) - *The Hacker News* (2026-11-01)
+- [NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection](https://thehackernews.com/2026/11/netamloader-malware-targets-government.html) - *The Hacker News* (2026-11-01)
 - [Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data](https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html) - *The Hacker News* (2026-10-31)
-- [Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access](https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html) - *The Hacker News* (2026-10-31)
-- [A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats](https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html) - *The Hacker News* (2026-10-31)
-- [Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%](https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html) - *The Hacker News* (2026-10-31)
 - [Friday Squid Blogging: Bigfin Squid Off California Coast](https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-bigfin-squid-off-california-coast.html) - *Schneier on Security* (2026-10-30)
-- [Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide](https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html) - *The Hacker News* (2026-10-30)
 - [Bloatware in Aftermarket Auto Parts](https://www.schneier.com/blog/archives/2026/10/bloatware-in-aftermarket-auto-parts.html) - *Schneier on Security* (2026-10-30)
 - [Studying Fraudulent North Korean IT Workers](https://www.schneier.com/blog/archives/2026/10/studying-fraudulent-north-korean-it-workers.html) - *Schneier on Security* (2026-10-28)
 - [Hiding Capabilities in AI Models](https://www.schneier.com/blog/archives/2026/10/hiding-capabilities-in-ai-models.html) - *Schneier on Security* (2026-10-27)
@@ -46,11 +46,11 @@ Automated tech news updates. Last updated: 2026-10-31 14:21:08 UTC
 
 ## Databases/Storage
 
+- [Christophe Pettus: All Your GUCs in a Row: row_security](https://postgr.es/p/9AL) - *Planet PostgreSQL* (2026-11-01)
+- [Vadim Yatsenko: Splitting the Read-Only Transaction: Replica Reads Inside an Open Transaction](https://postgr.es/p/9AK) - *Planet PostgreSQL* (2026-11-01)
+- [Radim Marek: Getting rid of a 4 TB table in PostgreSQL](https://postgr.es/p/9AI) - *Planet PostgreSQL* (2026-10-31)
 - [Igor Suhorukov: pg_vexec one month on: ahead of ClickHouse on Parquet, close behind on MergeTree](https://postgr.es/p/9AF) - *Planet PostgreSQL* (2026-10-30)
 - [Shaun Thomas: Burnt TOAST](https://postgr.es/p/9AD) - *Planet PostgreSQL* (2026-10-30)
-- [Robert Haas: Postgres 19 is late, and it's AI's fault](https://postgr.es/p/9AC) - *Planet PostgreSQL* (2026-10-30)
-- [Regina Obe: PostGIS 3.7.0](https://postgr.es/p/9AE) - *Planet PostgreSQL* (2026-10-30)
-- [Munaf Khatri: Supabase is one part of your HIPAA compliance](https://postgr.es/p/9AA) - *Planet PostgreSQL* (2026-10-29)
 - [Agentic CI/CD with Azure Cosmos DB: Isolated Environments for a Swarm of AI Agents](https://devblogs.microsoft.com/cosmosdb/agentic-ci-cd-with-azure-cosmos-db-isolated-environments-for-a-swarm-of-ai-agents/) - *Azure Cosmos DB Blog* (2026-10-28)
 - [Inspecting Local Data with Azure Cosmos DB Shell](https://devblogs.microsoft.com/cosmosdb/inspecting-local-data-with-azure-cosmos-db-shell/) - *Azure Cosmos DB Blog* (2026-10-27)
 - [The New York Times cut Oracle migration time from 18 to 5 months](https://aws.amazon.com/blogs/database/the-new-york-times-cut-oracle-migration-time-from-18-to-5-months/) - *AWS Database Blog* (2026-10-26)
@@ -96,12 +96,12 @@ Automated tech news updates. Last updated: 2026-10-31 14:21:08 UTC
 
 ## Technical Program Management (TPM)
 
+- [AWS Capacity Largely Sold Out Through 2027, With On Demand Headroom Reserved](https://www.infoq.com/news/2026/11/aws-capacity-sold-out/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-11-01)
+- [File Mover Express: AWS Releases Open-Source Tool for S3 File Transfers](https://www.infoq.com/news/2026/11/aws-s3-file-transfer/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-11-01)
+- [Cloudflare’s Post-Quantum GeoKey Manager Enters Closed Beta Without Attribute-Based Encryption](https://www.infoq.com/news/2026/10/cf-pq-geokey-manager/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-31)
+- [OpenBSD 8.0 Brings Expanded Hardware Support, Security Enhancements, and Virtualization Improvements](https://www.infoq.com/news/2026/10/openbsd-8-released/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-31)
 - [Spring News Roundup: First Release Candidates of Boot, Framework, Data, Security, Modulith, AI](https://www.infoq.com/news/2026/10/spring-news-roundup-oct19-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-31)
-- [Kubernetes Confidential Containers Get Fortanix Attestation and Key Management](https://www.infoq.com/news/2026/10/k8s-confidential-containers/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-31)
-- [LocalStack for Azure Enters Public Preview with Security Settings Stored but Not Enforced](https://www.infoq.com/news/2026/10/localstack-azure-preview/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-31)
-- [Google Discloses PageBreak AI Security Agent That Found 500+ XSS Bugs](https://www.infoq.com/news/2026/10/google-pagebreak-security-agent/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-31)
 - [The Pulse: Time to rethink software security because of AI?](https://blog.pragmaticengineer.com/the-pulse-time-to-rethink-software-security-because-of-ai/) - *The Pragmatic Engineer* (2026-10-30)
-- [DoorDash Cuts Grocery Reorder Latency from 16 to 2 Seconds with AI Agents](https://www.infoq.com/news/2026/10/doordash-ai-grocery-reorder/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-10-30)
 - [The Pulse: Anthropic builds its own source control system](https://blog.pragmaticengineer.com/the-pulse-anthropic-builds-its-own-source-control-system/) - *The Pragmatic Engineer* (2026-10-22)
 - [The Pulse: new trend of building “internal vibe-coding apps” at tech companies](https://blog.pragmaticengineer.com/the-pulse-new-trend-of-building-internal-vibe-coding-apps-at-tech-companies/) - *The Pragmatic Engineer* (2026-10-15)
 - [7 Rules for Agile Teamwork Without Slowing Everyone Down](https://www.mountaingoatsoftware.com/agile/rules-for-agile-teamwork) - *Mike Cohn's Blog - Succeeding With Agile* (2026-10-13)
