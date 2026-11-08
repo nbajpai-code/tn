@@ -1,6 +1,6 @@
 # Tech News Aggregator
 
-Automated tech news updates. Last updated: 2026-11-07 14:43:08 UTC
+Automated tech news updates. Last updated: 2026-11-08 14:48:46 UTC
 
 ## Software Architecture
 
@@ -20,11 +20,11 @@ Automated tech news updates. Last updated: 2026-11-07 14:43:08 UTC
 
 ## Kubernetes
 
+- [Lima v2.3: Native on Windows, VMnet on Linux, and menu TUI](https://www.cncf.io/blog/2026/11/08/lima-v2-3-native-on-windows-vmnet-on-linux-and-menu-tui/) - *Blog – Cloud Native Computing Foundation* (2026-11-08)
 - [We organized Sustainability Month. Here’s what we learned. 🌱](https://www.cncf.io/blog/2026/11/07/we-organized-sustainability-month-heres-what-we-learned-%f0%9f%8c%b1/) - *Blog – Cloud Native Computing Foundation* (2026-11-07)
 - [Faster LLM inference startup: What you need to know](https://www.cncf.io/blog/2026/11/06/faster-llm-inference-startup-what-you-need-to-know/) - *Blog – Cloud Native Computing Foundation* (2026-11-06)
 - [kpt v1.0.0 is released](https://www.cncf.io/blog/2026/11/05/kpt-v1-0-0-is-released/) - *Blog – Cloud Native Computing Foundation* (2026-11-05)
 - [OpenKruise Agents v0.6.0: Leaping ahead in agent Sandbox security and automation](https://www.cncf.io/blog/2026/11/03/openkruise-agents-v0-6-0-leaping-ahead-in-agent-sandbox-security-and-automation/) - *Blog – Cloud Native Computing Foundation* (2026-11-03)
-- [The Linkerd Story: The People Behind The Service Mesh — A new documentary premieres at KubeCon + CloudNativeCon North America 2026](https://www.cncf.io/blog/2026/11/02/the-linkerd-story-the-people-behind-the-service-mesh-a-new-documentary-premieres-at-kubecon-cloudnativecon-north-america-2026/) - *Blog – Cloud Native Computing Foundation* (2026-11-02)
 - [From Working Group to SIG Architecture: spotlight on AI Conformance](https://kubernetes.io/blog/2026/10/29/sig-arch-ai-conformance-2026/) - *Kubernetes Blog* (2026-10-29)
 - [Announcing the Workload Conformance Working Group](https://kubernetes.io/blog/2026/10/27/announcing-workload-conformance-wg/) - *Kubernetes Blog* (2026-10-27)
 - [Why Is My Kubernetes Job Still Pending? Tracing Kueue Admission with Headlamp](https://kubernetes.io/blog/2026/10/14/tracing-kueue-admission-with-headlamp/) - *Kubernetes Blog* (2026-10-14)
@@ -46,15 +46,15 @@ Automated tech news updates. Last updated: 2026-11-07 14:43:08 UTC
 
 ## Databases/Storage
 
+- [Vadim Yatsenko: The Server-First Reader Pool: Exact Connection Reuse and Hot-Path Performance](https://postgr.es/p/9Bi) - *Planet PostgreSQL* (2026-11-08)
+- [Hollis Varden: Thirteen small measurements on PostgreSQL 18](https://postgr.es/p/9Bh) - *Planet PostgreSQL* (2026-11-08)
+- [Dave Stokes: Is PostgreSQL Really Winning Part 2: The Evidence Beyond the Rankings](https://postgr.es/p/9Be) - *Planet PostgreSQL* (2026-11-07)
 - [Christophe Pettus: All Your GUCs in a Row: scram_iterations](https://postgr.es/p/9Bc) - *Planet PostgreSQL* (2026-11-07)
 - [Chris Travers: PostgreSQL, NUMA, and the Cloud](https://postgr.es/p/9Bb) - *Planet PostgreSQL* (2026-11-06)
-- [Jimmy Angelakos: PGConf.EU 2026 MEGAPOST: a busy week in Valencia](https://postgr.es/p/9B7) - *Planet PostgreSQL* (2026-11-05)
 - [Introducing bulk put items for Amazon DynamoDB: Load data from Amazon S3 into existing tables at scale](https://aws.amazon.com/blogs/database/introducing-bulk-put-items-for-amazon-dynamodb-load-data-from-amazon-s3-into-existing-tables-at-scale/) - *AWS Database Blog* (2026-11-05)
-- [Ahsan Hadi: Zero Downtime In-Place Major PostgreSQL Upgrades on a Distributed PostgreSQL Cluster](https://postgr.es/p/9B4) - *Planet PostgreSQL* (2026-11-05)
 - [Why Actionable Banking Is the Critical Stepping Stone to Full Autonomy](https://www.mongodb.com/company/blog/innovation/why-actionable-banking-is-critical-stepping-stone-full-autonomy) - *MongoDB | Blog* (2026-11-05)
 - [Building an Agentic Warehouse Management System—Part 3: Tools, Decisions, and Actions](https://www.mongodb.com/company/blog/technical/building-an-agentic-warehouse-management-system-part-3-tools-decisions-actions) - *MongoDB | Blog* (2026-11-05)
 - [Introducing the MongoDB Vercel AI SDK Integration: Persistent Memory for AI Applications](https://www.mongodb.com/company/blog/product-release-announcements/introducing-mongodb-vercel-ai-sdk-integration-persistent-memory-applications) - *MongoDB | Blog* (2026-11-05)
-- [SHRIDHAR KHANAL: PostgreSQL Minor Version Upgrade on RHEL 9: A Step-by-Step Guide with Rollback](https://postgr.es/p/9B3) - *Planet PostgreSQL* (2026-11-05)
 - [Introducing the MongoDB Google ADK Integration: Durable Memory for Agent State](https://www.mongodb.com/company/blog/product-release-announcements/introducing-mongodb-google-adk-integration-durable-memory-agent-state) - *MongoDB | Blog* (2026-11-04)
 
 ## Networking
@@ -67,11 +67,11 @@ Automated tech news updates. Last updated: 2026-11-07 14:43:08 UTC
 
 ## Computing
 
+- [Physicists listened to electrical noise to crack a superconductor mystery](https://arstechnica.com/science/2026/11/physicists-listened-to-electrical-noise-to-crack-a-superconductor-mystery/) - *Ars Technica - All content* (2026-11-08)
 - [The Bantu expansion changed Africa. Scientists are still tracing how.](https://arstechnica.com/science/2026/11/the-migration-that-transformed-africas-languages-genes-and-cultures/) - *Ars Technica - All content* (2026-11-07)
 - [British soldier ignored order to pull his SIM card, then got blackmailed](https://arstechnica.com/security/2026/11/british-soldier-ignored-order-to-pull-his-sim-card-then-got-blackmailed/) - *Ars Technica - All content* (2026-11-07)
 - [Doctors pull knife from man's eye that went through his brain—and he's fine now](https://arstechnica.com/health/2026/11/man-unexpectedly-recovers-from-a-knife-wound-through-his-eye-and-brain/) - *Ars Technica - All content* (2026-11-06)
 - [Ships loiter near subsea cables amid Iran's warnings to Trump](https://arstechnica.com/gadgets/2026/11/ships-loiter-near-subsea-cables-amid-irans-warnings-to-trump/) - *Ars Technica - All content* (2026-11-06)
-- [Re-releases of Wing Commander, Ultima titles hit Steam and GOG](https://arstechnica.com/gaming/2026/11/ea-producer-tells-the-inside-story-behind-new-wing-commander-remasters/) - *Ars Technica - All content* (2026-11-06)
 
 ## AI/Models/RL
 
@@ -96,11 +96,11 @@ Automated tech news updates. Last updated: 2026-11-07 14:43:08 UTC
 
 ## Technical Program Management (TPM)
 
+- [Entire's Git Forge Rethinks Git Collaboration for Coding Agents](https://www.infoq.com/news/2026/11/entire-git-forge-coding-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-11-08)
+- [Google Cloud Adds Self-Managed VMware Cloud Foundation on Bare Metal](https://www.infoq.com/news/2026/11/google-cloud-self-managed-vmware/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-11-08)
+- [Cloudflare Scales D1 Control Plane to Millions of Databases](https://www.infoq.com/news/2026/11/cloudflare-d1-control-plane/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-11-08)
 - [How Grab Improved Mobile App Stability by Safely Handling Surge in AI-Generated Code Changes](https://www.infoq.com/news/2026/11/grab-ai-generated-code-safety/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-11-07)
 - [Open Source pg_vectorsearch Brings More Scalable Vector Search to PostgreSQL](https://www.infoq.com/news/2026/11/postgresql-vector-search/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-11-07)
-- [Varlock Releases Bumpy: A File-Based Versioning Alternative to Changesets](https://www.infoq.com/news/2026/11/bumpy-changesets-alternative/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-11-07)
-- [Yelp Combines Native and Server-Driven UI for Its AI Assistant](https://www.infoq.com/news/2026/11/yelp-assistant-hybrid-ui/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-11-06)
-- [TypeScript 7.1 Beta: Restores the Compiler API and Makes Vue and Svelte First-Class](https://www.infoq.com/news/2026/11/typescript-7-1-beta/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=Development) - *InfoQ - Development* (2026-11-06)
 - [The Pulse: Time to rethink software security because of AI?](https://blog.pragmaticengineer.com/the-pulse-time-to-rethink-software-security-because-of-ai/) - *The Pragmatic Engineer* (2026-10-30)
 - [The Pulse: Anthropic builds its own source control system](https://blog.pragmaticengineer.com/the-pulse-anthropic-builds-its-own-source-control-system/) - *The Pragmatic Engineer* (2026-10-22)
 - [The Pulse: new trend of building “internal vibe-coding apps” at tech companies](https://blog.pragmaticengineer.com/the-pulse-new-trend-of-building-internal-vibe-coding-apps-at-tech-companies/) - *The Pragmatic Engineer* (2026-10-15)
